@@ -1,0 +1,42 @@
+{
+    "NLP+NS": {
+        "display_name": "Night Strike (October 3, 2023)",
+        "full_name": "night-strike",
+        "file_name": "supercombo-night-strike.thneed",
+        "download_uri": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-night-strike.thneed",
+        "index": "0",
+        "environment": "release"
+    },
+    "NLP+FV": {
+        "display_name": "Farmville (November 7, 2023)",
+        "full_name": "farmville",
+        "file_name": "supercombo-farmville.thneed",
+        "download_uri": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-farmville.thneed",
+        "index": "1",
+        "environment": "release"
+    },
+    "NLP+BD": {
+        "display_name": "Blue Diamond (November 18, 2023)",
+        "full_name": "blue-diamond",
+        "file_name": "supercombo-blue-diamond.thneed",
+        "download_uri": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-blue-diamond.thneed",
+        "index": "2",
+        "environment": "release"
+    },
+    "NLP+BDv2": {
+        "display_name": "Blue Diamond v2 (December 11, 2023)",
+        "full_name": "blue-diamond-v2",
+        "file_name": "supercombo-blue-diamond-v2.thneed",
+        "download_uri": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-blue-diamond-v2.thneed",
+        "index": "3",
+        "environment": "release"
+    },
+    "NLP+ND": {
+        "display_name": "New Delhi (December 21, 2023)",
+        "full_name": "new-delhi",
+        "file_name": "supercombo-new-delhi.thneed",
+        "download_uri": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-new-delhi.thneed",
+        "index": "4",
+        "environment": "development"
+    }
+}
