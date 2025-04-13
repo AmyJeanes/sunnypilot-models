@@ -1,0 +1,755 @@
+{
+  "NLP+NS": {
+    "display_name": "Night Strike (October 03, 2023)",
+    "full_name": "night-strike",
+    "file_name": "supercombo-night-strike.thneed",
+    "ref": "dd8a904c5be309c55598799f969ea869f8d8c93a",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-night-strike.thneed",
+      "sha256": "1a90f10d5c748fdcc4999ddddcd53485922aad03b2fcfd8707d9c989fddb3e00"
+    },
+    "full_name_nav": "gen1",
+    "file_name_nav": "navmodel_q_gen1.dlc",
+    "download_uri_nav": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/navmodel_q_gen1.dlc",
+      "sha256": "c808717d073a0bb347f9ba929953c0b2b792ce9997f343f7e44a0b2b0e139132"
+    },
+    "full_name_metadata": "gen1",
+    "file_name_metadata": "supercombo_metadata_gen1.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo_metadata_gen1.pkl",
+      "sha256": "1924d0918e1cd5914598be67077aa99413eb346291b6b617fb83c222ea8991b8"
+    },
+    "index": "0",
+    "environment": "release",
+    "runner": 0,
+    "generation": "0",
+    "minimum_selector_version": "1"
+  },
+  "NLP+FV": {
+    "display_name": "Farmville (November 07, 2023)",
+    "full_name": "farmville",
+    "ref": "b91ecda3503288dd7df8e1bca286383d0d700176",
+    "file_name": "supercombo-farmville.thneed",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-farmville.thneed",
+      "sha256": "5675d07d2fcbc1c1e8871fb1de89ba21bdb283c6355fe7d2bbf6a0f4a9094f51"
+    },
+    "full_name_nav": "gen1",
+    "file_name_nav": "navmodel_q_gen1.dlc",
+    "download_uri_nav": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/navmodel_q_gen1.dlc",
+      "sha256": "c808717d073a0bb347f9ba929953c0b2b792ce9997f343f7e44a0b2b0e139132"
+    },
+    "full_name_metadata": "gen1",
+    "file_name_metadata": "supercombo_metadata_gen1.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo_metadata_gen1.pkl",
+      "sha256": "1924d0918e1cd5914598be67077aa99413eb346291b6b617fb83c222ea8991b8"
+    },
+    "index": "1",
+    "environment": "release",
+    "runner": 0,
+    "generation": "1",
+    "minimum_selector_version": "1"
+  },
+  "NLP+BD": {
+    "display_name": "Blue Diamond (November 18, 2023)",
+    "full_name": "blue-diamond",
+    "file_name": "supercombo-blue-diamond.thneed",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-blue-diamond.thneed",
+      "sha256": "344154c216e3f6a8166cee74ecf7abdf471105e313c626c716ca02f35f75e081"
+    },
+    "full_name_nav": "gen1",
+    "file_name_nav": "navmodel_q_gen1.dlc",
+    "ref": "597529cd6c5f8b4d931c03947c008ee38391502b",
+    "download_uri_nav": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/navmodel_q_gen1.dlc",
+      "sha256": "c808717d073a0bb347f9ba929953c0b2b792ce9997f343f7e44a0b2b0e139132"
+    },
+    "full_name_metadata": "gen1",
+    "file_name_metadata": "supercombo_metadata_gen1.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo_metadata_gen1.pkl",
+      "sha256": "1924d0918e1cd5914598be67077aa99413eb346291b6b617fb83c222ea8991b8"
+    },
+    "index": "2",
+    "environment": "release",
+    "runner": 0,
+    "generation": "1",
+    "minimum_selector_version": "1"
+  },
+  "NLP+BDv2": {
+    "display_name": "Blue Diamond v2 (December 12, 2023)",
+    "full_name": "blue-diamond-v2",
+    "file_name": "supercombo-blue-diamond-v2.thneed",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-blue-diamond-v2.thneed",
+      "sha256": "b298caa4be035dbe25b9158f0ba3d0b59a99e6a695a11fccda98b69f5050f29f"
+    },
+    "full_name_nav": "gen1",
+    "file_name_nav": "navmodel_q_gen1.dlc",
+    "download_uri_nav": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/navmodel_q_gen1.dlc",
+      "sha256": "c808717d073a0bb347f9ba929953c0b2b792ce9997f343f7e44a0b2b0e139132"
+    },
+    "full_name_metadata": "gen1",
+    "file_name_metadata": "supercombo_metadata_gen1.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo_metadata_gen1.pkl",
+      "sha256": "1924d0918e1cd5914598be67077aa99413eb346291b6b617fb83c222ea8991b8"
+    },
+    "index": "3",
+    "environment": "release",
+    "runner": 0,
+    "generation": "1",
+    "minimum_selector_version": "1"
+  },
+  "NLP+ND": {
+    "display_name": "New Delhi (January 02, 2024)",
+    "full_name": "new-delhi",
+    "file_name": "supercombo-new-delhi.thneed",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-new-delhi.thneed",
+      "sha256": "02cb486f1ff6982e797c9a18c6eb37f798ab60c71cb633da9d2d1a8d070e09ec"
+    },
+    "full_name_nav": "gen2",
+    "file_name_nav": "navmodel_q_gen2.dlc",
+    "ref": "c24bdc150329b6a45d21a91d05957f4e695b8c5b",
+    "download_uri_nav": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/navmodel_q_gen2.dlc",
+      "sha256": "fa346ada6f8c6326a5ee5fcd27e45e3e710049358079413c6a4624b20c6e1e47"
+    },
+    "full_name_metadata": "gen1",
+    "file_name_metadata": "supercombo_metadata_gen1.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo_metadata_gen1.pkl",
+      "sha256": "1924d0918e1cd5914598be67077aa99413eb346291b6b617fb83c222ea8991b8"
+    },
+    "index": "4",
+    "environment": "release",
+    "runner": 0,
+    "generation": "1",
+    "minimum_selector_version": "2"
+  },
+  "LA": {
+    "display_name": "Los Angeles (January 22, 2024)",
+    "full_name": "los-angeles",
+    "file_name": "supercombo-los-angeles.thneed",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-los-angeles.thneed",
+      "sha256": "44fe8cb652f75e7ede77f5be298aed02c66a972c1310e1eb66f98e7d0f37a653"
+    },
+    "full_name_nav": "gen3",
+    "file_name_nav": "navmodel_q_gen3.dlc",
+    "ref": "215b346dc0b4db8d091f8ecd71d8df17e6d19bc2",
+    "download_uri_nav": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/navmodel_q_gen3.dlc",
+      "sha256": "89fda8380efa3e421fbcdb6bb204c36a4991f137ee01d47f3d0380895aa7c036"
+    },
+    "full_name_metadata": "gen2",
+    "file_name_metadata": "supercombo_metadata_gen2.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-los-angeles_metadata.pkl",
+      "sha256": "f78f6b1c779d08301f03639176cf833df2ec48a634cfdba4ed30349ef41bbd46"
+    },
+    "index": "5",
+    "environment": "release",
+    "runner": 0,
+    "generation": "2",
+    "minimum_selector_version": "3"
+  },
+  "LAv2": {
+    "display_name": "Los Angeles v2 (January 24, 2024)",
+    "full_name": "los-angeles-v2",
+    "file_name": "supercombo-los-angeles-v2.thneed",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-los-angeles-v2.thneed",
+      "sha256": "84b330625667766c95730f7ece95341cb794d36dcc130256f1123272c0958280"
+    },
+    "full_name_nav": "gen3",
+    "file_name_nav": "navmodel_q_gen3.dlc",
+    "ref": "f9d5fc7dd9b763356a1201d96c6953ed4562226e",
+    "download_uri_nav": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/navmodel_q_gen3.dlc",
+      "sha256": "89fda8380efa3e421fbcdb6bb204c36a4991f137ee01d47f3d0380895aa7c036"
+    },
+    "full_name_metadata": "gen3",
+    "file_name_metadata": "supercombo_metadata_gen3.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-los-angeles-v2_metadata.pkl",
+      "sha256": "45d370eb8f7ed618f6e5c2592e5c1e471a99f65eed08977621b8e474d9520421"
+    },
+    "index": "6",
+    "environment": "release",
+    "runner": 0,
+    "generation": "3",
+    "minimum_selector_version": "3"
+  },
+  "CH": {
+    "display_name": "Certified Herbalist (February 05, 2024)",
+    "full_name": "certified-herbalist",
+    "file_name": "supercombo-certified-herbalist.thneed",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-certified-herbalist.thneed",
+      "sha256": "d187f6502fed552d9dfb989367249d77db9c72fbf5d0f128eefc044099021488"
+    },
+    "full_name_nav": "gen3",
+    "file_name_nav": "navmodel_q_gen3.dlc",
+    "ref": "ff89f248d0b363b553c9c1ae116ad54b513b45e3",
+    "download_uri_nav": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/navmodel_q_gen3.dlc",
+      "sha256": "89fda8380efa3e421fbcdb6bb204c36a4991f137ee01d47f3d0380895aa7c036"
+    },
+    "full_name_metadata": "gen3",
+    "file_name_metadata": "supercombo_metadata_gen3.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-certified-herbalist_metadata.pkl",
+      "sha256": "45d370eb8f7ed618f6e5c2592e5c1e471a99f65eed08977621b8e474d9520421"
+    },
+    "index": "7",
+    "environment": "release",
+    "runner": 0,
+    "generation": "3",
+    "minimum_selector_version": "3"
+  },
+  "CHv2": {
+    "display_name": "Certified Herbalist v2 (February 19, 2024)",
+    "full_name": "certified-herbalist-v2",
+    "file_name": "supercombo-certified-herbalist-v2.thneed",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-certified-herbalist-v2.thneed",
+      "sha256": "7173b2d51a4794699f072802092a2acce45c6568796b21bfd2e796be31a3dc37"
+    },
+    "full_name_nav": "gen3",
+    "file_name_nav": "navmodel_q_gen3.dlc",
+    "ref": "a4d53d378d4331dc7780e5e60845ea1731c48341",
+    "download_uri_nav": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/navmodel_q_gen3.dlc",
+      "sha256": "89fda8380efa3e421fbcdb6bb204c36a4991f137ee01d47f3d0380895aa7c036"
+    },
+    "full_name_metadata": "gen3",
+    "file_name_metadata": "supercombo_metadata_gen3.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-certified-herbalist-v2_metadata.pkl",
+      "sha256": "45d370eb8f7ed618f6e5c2592e5c1e471a99f65eed08977621b8e474d9520421"
+    },
+    "index": "8",
+    "environment": "release",
+    "runner": 0,
+    "generation": "3",
+    "minimum_selector_version": "3"
+  },
+  "CHLR": {
+    "display_name": "Recertified Herbalist (March 01, 2024)",
+    "full_name": "recertified-herbalist",
+    "file_name": "supercombo-recertified-herbalist.thneed",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-recertified-herbalist.thneed",
+      "sha256": "e10bd777a82bb63713851882d32e376322821101da12677dd030867fe569765f"
+    },
+    "full_name_nav": "gen3",
+    "file_name_nav": "navmodel_q_gen3.dlc",
+    "ref": "063623602c9a3cefe70d2c661b40ef7a15f73d43",
+    "download_uri_nav": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/navmodel_q_gen3.dlc",
+      "sha256": "89fda8380efa3e421fbcdb6bb204c36a4991f137ee01d47f3d0380895aa7c036"
+    },
+    "full_name_metadata": "gen3",
+    "file_name_metadata": "supercombo_metadata_gen3.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-recertified-herbalist_metadata.pkl",
+      "sha256": "45d370eb8f7ed618f6e5c2592e5c1e471a99f65eed08977621b8e474d9520421"
+    },
+    "index": "9",
+    "environment": "release",
+    "runner": 0,
+    "generation": "3",
+    "minimum_selector_version": "3"
+  },
+  "DA": {
+    "display_name": "Duck Amigo (March 18, 2024)",
+    "full_name": "da",
+    "file_name": "supercombo-da.thneed",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-da.thneed",
+      "sha256": "9a16a57cea8579207f0bfaf33febf899d5e6a35a1217ad09d76192c5426f31de"
+    },
+    "full_name_nav": "gen3",
+    "file_name_nav": "navmodel_q_gen3.dlc",
+    "ref": "5f3960a3a7689903a4da5e80b7e70cf0056acad3",
+    "download_uri_nav": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/navmodel_q_gen3.dlc",
+      "sha256": "89fda8380efa3e421fbcdb6bb204c36a4991f137ee01d47f3d0380895aa7c036"
+    },
+    "full_name_metadata": "gen3",
+    "file_name_metadata": "supercombo_metadata_gen3.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-duck-amigo_metadata.pkl",
+      "sha256": "45d370eb8f7ed618f6e5c2592e5c1e471a99f65eed08977621b8e474d9520421"
+    },
+    "index": "10",
+    "environment": "release",
+    "runner": 0,
+    "generation": "3",
+    "minimum_selector_version": "3"
+  },
+  "WD40": {
+    "display_name": "WD40 (April 09, 2024)",
+    "full_name": "wd40",
+    "file_name": "supercombo-wd40.thneed",
+    "ref": "9691393bde34efb8be6fccef497d6d17758c209c",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-wd40.thneed",
+      "sha256": "a12dd34326f14335d215a4084399423d7caacd9deb5910f53d6d765a0bdf5b9f"
+    },
+    "full_name_metadata": "gen4",
+    "file_name_metadata": "supercombo_metadata_gen4.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-wd40_metadata.pkl",
+      "sha256": "eec86f6e3cabdf52b761970128ba2bb678e256149eaafaa44e5b7969845f59cb"
+    },
+    "index": "11",
+    "environment": "release",
+    "runner": 0,
+    "generation": "4",
+    "minimum_selector_version": "4"
+  },
+  "NDv2": {
+    "display_name": "North Dakota (April 29, 2024)",
+    "full_name": "north-dakota",
+    "ref": "375978d40b976bf9e82ab74f267846a56b7656a6",
+    "file_name": "supercombo-north-dakota.thneed",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-north-dakota.thneed",
+      "sha256": "f2714075d5ffad32255abcc0fa111e45f5f955f554f4ff572957670a4683f195"
+    },
+    "full_name_metadata": "gen4",
+    "file_name_metadata": "supercombo_metadata_gen4.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-north-dakota_metadata.pkl",
+      "sha256": "eec86f6e3cabdf52b761970128ba2bb678e256149eaafaa44e5b7969845f59cb"
+    },
+    "index": "12",
+    "environment": "release",
+    "runner": 0,
+    "generation": "4",
+    "minimum_selector_version": "4"
+  },
+  "NDv3": {
+    "display_name": "Notre Dame (July 01, 2024)",
+    "full_name": "notre-dame",
+    "file_name": "supercombo-notre-dame.thneed",
+    "ref": "e0c89a36da8e6a06ab85c4e74c44f70dd910e1fe",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-notre-dame.thneed",
+      "sha256": "f73a5fb977d4fe73a7e27082863d197d87f7642e29411e62082da375ddf39cfc"
+    },
+    "full_name_metadata": "gen5",
+    "file_name_metadata": "supercombo_metadata_gen5.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-notre-dame_metadata.pkl",
+      "sha256": "10f75d6353e6867db954d6ab3b801d9b2f60212c2786f0a959c03b05c9de23ba"
+    },
+    "index": "13",
+    "environment": "development",
+    "runner": 0,
+    "generation": "5",
+    "minimum_selector_version": "5"
+  },
+  "TR": {
+    "display_name": "Tomb Raider (September 23, 2024)",
+    "full_name": "tomb-raider",
+    "file_name": "supercombo-tomb-raider.thneed",
+    "ref": "e8bea2c78ffa92685ece511e9b554122aaf1a79d",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-tomb-raider.thneed",
+      "sha256": "a58daec1454a619a6178c4446b1bfd9db362a35cf7512f4808276ab754b153f9"
+    },
+    "full_name_metadata": "gen6",
+    "file_name_metadata": "supercombo_metadata_gen6.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-tomb-raider_metadata.pkl",
+      "sha256": "b00458087d06f2a9cafd920a05dff27ada04633880b652bb01a6da9128c4cc31"
+    },
+    "index": "14",
+    "environment": "development",
+    "runner": 0,
+    "generation": "6",
+    "minimum_selector_version": "6"
+  },
+  "GB": {
+    "display_name": "Game Boy (September 28, 2024)",
+    "full_name": "game-boy",
+    "file_name": "supercombo-game-boy.thneed",
+    "ref": "04a266eaebcf0787f28cd4a5453a1c064517748a",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-game-boy.thneed",
+      "sha256": "0005f869f2cfc1eaab2f4739c84867dc512c7be5d5f62a04404d235fd192c18f"
+    },
+    "full_name_metadata": "gen7",
+    "file_name_metadata": "supercombo_metadata_gen7.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-game-boy_metadata.pkl",
+      "sha256": "45067a2653730295ce91a8412065d82d39e025116ff656e51a515eda54cec305"
+    },
+    "index": "15",
+    "environment": "development",
+    "runner": 0,
+    "generation": "7",
+    "minimum_selector_version": "6"
+  },
+  "GAME-BOY-V3": {
+    "display_name": "Game Boy V3 (September 29, 2024)",
+    "full_name": "game-boy-v3",
+    "is_20hz": false,
+    "ref": "3b08501db379d4f718e7a76a249f1a0cf8f25db7",
+    "environment": "development",
+    "runner": 1,
+    "index": "16",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_game-boy-v3_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Game%20Boy%20V3%20%28September%2029%2C%202024%29-168/supercombo_game-boy-v3_tinygrad.pkl",
+      "sha256": "bc219dd0fecf6e8b8e0014064adb2a4bac626884e2352aacf0eb06b54984fa88"
+    },
+    "generation": "7",
+    "full_name_metadata": "gen7",
+    "file_name_metadata": "supercombo_game-boy-v3_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Game%20Boy%20V3%20%28September%2029%2C%202024%29-168/supercombo_game-boy-v3_metadata.pkl",
+      "sha256": "bed3c9ec9f85fa3a7a154bdf08dd4c5beb6496b25f05d0d915914785f7aa96b4"
+    }
+  },
+  "MLSIM-V0": {
+    "display_name": "MLSIM V0 (October 01, 2024)",
+    "full_name": "mlsim-v0",
+    "is_20hz": true,
+    "ref": "e442425c9d32774e50802cd5455313090060f4ad",
+    "environment": "development",
+    "runner": 1,
+    "index": "17",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_mlsim-v0_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-MLSIM%20V0%20%28October%2001%2C%202024%29-170/supercombo_mlsim-v0_tinygrad.pkl",
+      "sha256": "229d98c43ee2ffda5ae80d9fd9776c300a43b7369d3e8ff33fec1177549af31d"
+    },
+    "generation": "8",
+    "full_name_metadata": "gen8",
+    "file_name_metadata": "supercombo_mlsim-v0_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-MLSIM%20V0%20%28October%2001%2C%202024%29-170/supercombo_mlsim-v0_metadata.pkl",
+      "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
+    }
+  },
+  "MLSIM-V1": {
+    "display_name": "MLSIM V1 (October 02, 2024)",
+    "full_name": "mlsim-v1",
+    "is_20hz": true,
+    "ref": "2b486b15c6718d076ef40098998971a5874abd1b",
+    "environment": "development",
+    "runner": 1,
+    "index": "18",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_mlsim-v1_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-MLSIM%20V1%20%28October%2002%2C%202024%29-166/supercombo_mlsim-v1_tinygrad.pkl",
+      "sha256": "4d5725a9c53c44088cea79581a003180348c958465638078415fcfea436665b7"
+    },
+    "generation": "8",
+    "full_name_metadata": "gen8",
+    "file_name_metadata": "supercombo_mlsim-v1_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-MLSIM%20V1%20%28October%2002%2C%202024%29-166/supercombo_mlsim-v1_metadata.pkl",
+      "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
+    }
+  },
+  "MLSIM-V2": {
+    "display_name": "MLSIM V2 (October 07, 2024)",
+    "full_name": "mlsim-v2",
+    "is_20hz": true,
+    "ref": "2040f04c453fa10ce22ebd6099379c2fce4f02ff",
+    "environment": "development",
+    "runner": 1,
+    "index": "19",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_mlsim-v2_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-MLSIM%20V2%20%28October%2007%2C%202024%29-187/supercombo_mlsim-v2_tinygrad.pkl",
+      "sha256": "2f073aa24a88d1a8d9280aee882c119d35c6e701b8a76c2185fd240ed3e655d7"
+    },
+    "generation": "8",
+    "full_name_metadata": "gen8",
+    "file_name_metadata": "supercombo_mlsim-v2_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-MLSIM%20V2%20%28October%2007%2C%202024%29-187/supercombo_mlsim-v2_metadata.pkl",
+      "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
+    }
+  },
+  "MLSIM-V3": {
+    "display_name": "MLSIM V3 (October 09, 2024)",
+    "full_name": "mlsim-v3",
+    "is_20hz": true,
+    "ref": "682857f0cd1ab71be6af1f3e445637790e0a1ec9",
+    "environment": "development",
+    "runner": 1,
+    "index": "20",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_mlsim-v3_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-MLSIM%20V3%20%28October%2009%2C%202024%29-173/supercombo_mlsim-v3_tinygrad.pkl",
+      "sha256": "7caab23f3e7a21ffe9ada378ed42b82f1dbc209213af6e6476cda1195950570e"
+    },
+    "generation": "8",
+    "full_name_metadata": "gen8",
+    "file_name_metadata": "supercombo_mlsim-v3_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-MLSIM%20V3%20%28October%2009%2C%202024%29-173/supercombo_mlsim-v3_metadata.pkl",
+      "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
+    }
+  },
+  "MLSIM-V4": {
+    "display_name": "MLSIM V4 (October 17, 2024)",
+    "full_name": "mlsim-v4",
+    "is_20hz": true,
+    "ref": "34dde0bb36b528febee292891523e30e82835aac",
+    "environment": "development",
+    "runner": 1,
+    "index": "21",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_mlsim-v4_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-MLSIM%20V4%20%28October%2017%2C%202024%29-185/supercombo_mlsim-v4_tinygrad.pkl",
+      "sha256": "524f3d3f707f8817c05278b8da73d9a1c2bd155ba9e1b4e81e1fed9f3ba9ab1d"
+    },
+    "generation": "8",
+    "full_name_metadata": "gen8",
+    "file_name_metadata": "supercombo_mlsim-v4_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-MLSIM%20V4%20%28October%2017%2C%202024%29-185/supercombo_mlsim-v4_metadata.pkl",
+      "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
+    }
+  },
+  "DRAGON-RAIDER": {
+    "display_name": "Dragon Rider (November 09, 2024)",
+    "full_name": "dragon-raider",
+    "is_20hz": true,
+    "ref": "47bd0f0166db1268bfa5504d7b95f94264d15500",
+    "environment": "development",
+    "runner": 1,
+    "index": "22",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_dragon-raider_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Dragon%20Rider%20%28November%2009%2C%202024%29-174/supercombo_dragon-raider_tinygrad.pkl",
+      "sha256": "03e52c8ab9bbe6d0593441b8ab12fe9d19ff3272db31719df1e5fc578386c320"
+    },
+    "generation": "8",
+    "full_name_metadata": "gen8",
+    "file_name_metadata": "supercombo_dragon-raider_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Dragon%20Rider%20%28November%2009%2C%202024%29-174/supercombo_dragon-raider_metadata.pkl",
+      "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
+    }
+  },
+  "LAST-HORIZON": {
+    "display_name": "Last Horizon (November 18, 2024)",
+    "full_name": "last-horizon",
+    "is_20hz": true,
+    "ref": "e123ac3d32f47f35c1fc024f3dc09bff8ee14e94",
+    "environment": "development",
+    "runner": 1,
+    "index": "23",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_last-horizon_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Last%20Horizon%20%28November%2018%2C%202024%29-175/supercombo_last-horizon_tinygrad.pkl",
+      "sha256": "276c784c1e4afee37a36c63b336d58dbe12283f4103973249a54967ca51ed4f7"
+    },
+    "generation": "8",
+    "full_name_metadata": "gen8",
+    "file_name_metadata": "supercombo_last-horizon_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Last%20Horizon%20%28November%2018%2C%202024%29-175/supercombo_last-horizon_metadata.pkl",
+      "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
+    }
+  },
+  "LAST-HORIZON-V2": {
+    "display_name": "Last Horizon V2 (November 22, 2024)",
+    "full_name": "last-horizon-v2",
+    "is_20hz": true,
+    "ref": "fee1f29ce9615880d5aef6ccae5ae22dfef6025c",
+    "environment": "development",
+    "runner": 1,
+    "index": "24",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_last-horizon-v2_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Last%20Horizon%20V2%20%28November%2022%2C%202024%29-172/supercombo_last-horizon-v2_tinygrad.pkl",
+      "sha256": "98b0922f3589896f2a6052b954f62a5d8a461b62178c020b017776c238e5e92a"
+    },
+    "generation": "8",
+    "full_name_metadata": "gen8",
+    "file_name_metadata": "supercombo_last-horizon-v2_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Last%20Horizon%20V2%20%28November%2022%2C%202024%29-172/supercombo_last-horizon-v2_metadata.pkl",
+      "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
+    }
+  },
+  "ALABAMA": {
+    "display_name": "Alabama (November 25, 2024)",
+    "full_name": "alabama",
+    "is_20hz": true,
+    "ref": "81252f549c1ec85f11fc7364f77564d47ea28594",
+    "environment": "development",
+    "runner": 1,
+    "index": "25",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_alabama_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Alabama%20%28November%2025%2C%202024%29-176/supercombo_alabama_tinygrad.pkl",
+      "sha256": "c6e153e5605e726221c00cf1853906ceb4bfa3cba29b923ebe9bba9c057cb3a2"
+    },
+    "generation": "8",
+    "full_name_metadata": "gen8",
+    "file_name_metadata": "supercombo_alabama_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Alabama%20%28November%2025%2C%202024%29-176/supercombo_alabama_metadata.pkl",
+      "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
+    }
+  },
+  "PLAYSTATION": {
+    "display_name": "PlayStation (December 03, 2024)",
+    "full_name": "playstation",
+    "is_20hz": true,
+    "ref": "5160bee5437e58ab0ace59c6db1c6d7b416c4025",
+    "environment": "development",
+    "runner": 1,
+    "index": "26",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_playstation_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-PlayStation%20%28December%2003%2C%202024%29-164/supercombo_playstation_tinygrad.pkl",
+      "sha256": "4bada1c2951e7fa8c0db17ac1d09fac174802e5e348d295eb474963403f48b10"
+    },
+    "generation": "8",
+    "full_name_metadata": "gen8",
+    "file_name_metadata": "supercombo_playstation_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-PlayStation%20%28December%2003%2C%202024%29-164/supercombo_playstation_metadata.pkl",
+      "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
+    }
+  },
+  "POSTAL-SERVICE": {
+    "display_name": "Postal Service (December 09, 2024)",
+    "full_name": "postal-service",
+    "is_20hz": true,
+    "ref": "57fc4f79d16c132d526a66d603fd9100804569d1",
+    "environment": "development",
+    "runner": 1,
+    "index": "27",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_postal-service_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Postal%20Service%20%28December%2009%2C%202024%29-184/supercombo_postal-service_tinygrad.pkl",
+      "sha256": "e88b4a13edc698c1d08eb0a3d76dabbfdac2a486a58d7cc10911379a31e091fe"
+    },
+    "generation": "8",
+    "full_name_metadata": "gen8",
+    "file_name_metadata": "supercombo_postal-service_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Postal%20Service%20%28December%2009%2C%202024%29-184/supercombo_postal-service_metadata.pkl",
+      "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
+    }
+  },
+  "NULL-POINTER": {
+    "display_name": "Null Pointer (December 13, 2024)",
+    "full_name": "null-pointer",
+    "is_20hz": true,
+    "ref": "8743bc4fe231ebf8ee3273b6868d1f78c432ac73",
+    "environment": "development",
+    "runner": 1,
+    "index": "28",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_null-pointer_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Null%20Pointer%20%28December%2013%2C%202024%29-179/supercombo_null-pointer_tinygrad.pkl",
+      "sha256": "1aa6117e7302a13bb78bd7d6afca00e0bad30283f99c8177f3a55420086562ae"
+    },
+    "generation": "8",
+    "full_name_metadata": "gen8",
+    "file_name_metadata": "supercombo_null-pointer_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Null%20Pointer%20%28December%2013%2C%202024%29-179/supercombo_null-pointer_metadata.pkl",
+      "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
+    }
+  },
+  "NORTH-AMERICA": {
+    "display_name": "North America (December 16, 2024)",
+    "full_name": "north-america",
+    "is_20hz": true,
+    "ref": "5018cf75ffd64ff2f5f0e269a17e74517aedbc74",
+    "environment": "development",
+    "runner": 1,
+    "index": "29",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_north-america_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-North%20America%20%28December%2016%2C%202024%29-158/supercombo_north-america_tinygrad.pkl",
+      "sha256": "06103bd424b501f548ce79c7d4e4634b5cd7804b3e7bf0039eabef7606a94c71"
+    },
+    "generation": "9",
+    "full_name_metadata": "gen9",
+    "file_name_metadata": "supercombo_north-america_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-North%20America%20%28December%2016%2C%202024%29-158/supercombo_north-america_metadata.pkl",
+      "sha256": "9b5ae1e33960bacce8811ee644dcf700ee55c58779e251ce31470f2d0882b62d"
+    }
+  },
+  "NATIONAL-PUBLIC-RADIO": {
+    "display_name": "National Public Radio (December 18, 2024)",
+    "full_name": "national-public-radio",
+    "is_20hz": true,
+    "ref": "1a7c28444595dc399af432a35dc725231806fd21",
+    "environment": "development",
+    "runner": 1,
+    "index": "30",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_national-public-radio_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-National%20Public%20Radio%20%28December%2018%2C%202024%29-181/supercombo_national-public-radio_tinygrad.pkl",
+      "sha256": "0e801edf245d42722fa1cb81786190a6ae7d68e1d403107ba51fa0cbe4951f8e"
+    },
+    "generation": "9",
+    "full_name_metadata": "gen9",
+    "file_name_metadata": "supercombo_national-public-radio_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-National%20Public%20Radio%20%28December%2018%2C%202024%29-181/supercombo_national-public-radio_metadata.pkl",
+      "sha256": "9b5ae1e33960bacce8811ee644dcf700ee55c58779e251ce31470f2d0882b62d"
+    }
+  },
+  "NOT-TOO-SHABBY": {
+    "display_name": "Not Too Shabby (Jan 28, 2025)",
+    "full_name": "not-too-shabby",
+    "is_20hz": false,
+    "ref": "2eb3585daed760ef5f997cbf69c04a66b6084f89",
+    "environment": "development",
+    "runner": 1,
+    "index": "31",
+    "minimum_selector_version": "1",
+    "file_name": "supercombo_not-too-shabby_tinygrad.pkl",
+    "download_uri": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Not%20Too%20Shabby%20%28Jan%2028%2C%202025%29-169/supercombo_not-too-shabby_tinygrad.pkl",
+      "sha256": "498b705928d0cbf74bd834e14a267a2ac30327956de026cdf0043ecdccc57df5"
+    },
+    "generation": "10",
+    "full_name_metadata": "gen10",
+    "file_name_metadata": "supercombo_not-too-shabby_metadata.pkl",
+    "download_uri_metadata": {
+      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/recompilng/models/recompiled/model-Not%20Too%20Shabby%20%28Jan%2028%2C%202025%29-169/supercombo_not-too-shabby_metadata.pkl",
+      "sha256": "c6c1742c1b36995ebfb406536c2b130b8b6e7006f06ef30e205f09a7b1dba4b9"
+    }
+  }
+}
