@@ -729,27 +729,5 @@
       "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-National%20Public%20Radio%20%28December%2018%2C%202024%29-181/supercombo_national-public-radio_metadata.pkl",
       "sha256": "9b5ae1e33960bacce8811ee644dcf700ee55c58779e251ce31470f2d0882b62d"
     }
-  },
-  "NOT-TOO-SHABBY": {
-    "display_name": "Not Too Shabby (Jan 28, 2025)",
-    "full_name": "not-too-shabby",
-    "is_20hz": false,
-    "ref": "2eb3585daed760ef5f997cbf69c04a66b6084f89",
-    "environment": "development",
-    "runner": 1,
-    "index": "31",
-    "minimum_selector_version": "1",
-    "file_name": "supercombo_not-too-shabby_tinygrad.pkl",
-    "download_uri": {
-      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Not%20Too%20Shabby%20%28Jan%2028%2C%202025%29-169/supercombo_not-too-shabby_tinygrad.pkl",
-      "sha256": "498b705928d0cbf74bd834e14a267a2ac30327956de026cdf0043ecdccc57df5"
-    },
-    "generation": "10",
-    "full_name_metadata": "gen10",
-    "file_name_metadata": "supercombo_not-too-shabby_metadata.pkl",
-    "download_uri_metadata": {
-      "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Not%20Too%20Shabby%20%28Jan%2028%2C%202025%29-169/supercombo_not-too-shabby_metadata.pkl",
-      "sha256": "c6c1742c1b36995ebfb406536c2b130b8b6e7006f06ef30e205f09a7b1dba4b9"
-    }
   }
 }
