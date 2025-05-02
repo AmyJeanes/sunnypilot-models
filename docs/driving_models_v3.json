@@ -1039,6 +1039,54 @@
             }
           }
         ]
+      },
+      {
+        "display_name": "Filet o Fish (March 7, 2025)",
+        "full_name": "default",
+        "is_20hz": true,
+        "ref": "d807b5c476658dba7760d30949baa619074c4a4e",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 31,
+        "minimum_selector_version": "2",
+        "generation": "10",
+        "build_time": "2025-05-02T13:18:20Z",
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_default_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Filet%20o%20Fish%20(March%207,%202025)/driving_vision_default_tinygrad.pkl",
+                "sha256": "86a7766f20a594720fe1bc41f020fb3968429dc6c88d0d30ff62154b915e89bf"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_default_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Filet%20o%20Fish%20(March%207,%202025)/driving_vision_default_metadata.pkl",
+                "sha256": "9378177d95c001f0a754a8025b06931af4773dcbd0d6f7cdb10198d8a3633fbc"
+              }
+            }
+          },
+          {
+            "name": "policy",
+            "artifact": {
+              "file_name": "driving_policy_default_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Filet%20o%20Fish%20(March%207,%202025)/driving_policy_default_tinygrad.pkl",
+                "sha256": "6ead18bde6234bbf3ae94df67424fd7c34782cc96e6e5dccbe155d8f7f9fbf5c"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_default_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Filet%20o%20Fish%20(March%207,%202025)/driving_policy_default_metadata.pkl",
+                "sha256": "6ef65f96fb93a050fdd7649c22e4b0e197aa73bb6a26f0fd2f437f6a40905585"
+              }
+            }
+          }
+        ]
       }
     ]
   }
