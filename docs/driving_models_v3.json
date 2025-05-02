@@ -1070,7 +1070,7 @@
             }
           },
           {
-            "name": "policy",
+            "type": "policy",
             "artifact": {
               "file_name": "driving_policy_default_tinygrad.pkl",
               "download_uri": {
