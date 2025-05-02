@@ -1048,7 +1048,7 @@
         "environment": "development",
         "runner": "tinygrad",
         "index": 31,
-        "minimum_selector_version": "2",
+        "minimum_selector_version": "3",
         "generation": "10",
         "build_time": "2025-05-02T13:18:20Z",
         "models": [
