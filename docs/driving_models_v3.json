@@ -1041,8 +1041,8 @@
         ]
       },
       {
+        "short_name": "FoF",
         "display_name": "Filet o Fish (March 7, 2025)",
-        "full_name": "default",
         "is_20hz": true,
         "ref": "d807b5c476658dba7760d30949baa619074c4a4e",
         "environment": "development",
