@@ -1055,14 +1055,14 @@
           {
             "type": "vision",
             "artifact": {
-              "file_name": "driving_vision_default_tinygrad.pkl",
+              "file_name": "driving_vision_fof_tinygrad.pkl",
               "download_uri": {
                 "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Filet%20o%20Fish%20(March%207,%202025)/driving_vision_default_tinygrad.pkl",
                 "sha256": "86a7766f20a594720fe1bc41f020fb3968429dc6c88d0d30ff62154b915e89bf"
               }
             },
             "metadata": {
-              "file_name": "driving_vision_default_metadata.pkl",
+              "file_name": "driving_vision_fof_metadata.pkl",
               "download_uri": {
                 "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Filet%20o%20Fish%20(March%207,%202025)/driving_vision_default_metadata.pkl",
                 "sha256": "9378177d95c001f0a754a8025b06931af4773dcbd0d6f7cdb10198d8a3633fbc"
@@ -1072,17 +1072,401 @@
           {
             "type": "policy",
             "artifact": {
-              "file_name": "driving_policy_default_tinygrad.pkl",
+              "file_name": "driving_policy_fof_tinygrad.pkl",
               "download_uri": {
                 "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Filet%20o%20Fish%20(March%207,%202025)/driving_policy_default_tinygrad.pkl",
                 "sha256": "6ead18bde6234bbf3ae94df67424fd7c34782cc96e6e5dccbe155d8f7f9fbf5c"
               }
             },
             "metadata": {
-              "file_name": "driving_policy_default_metadata.pkl",
+              "file_name": "driving_policy_fof_metadata.pkl",
               "download_uri": {
                 "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Filet%20o%20Fish%20(March%207,%202025)/driving_policy_default_metadata.pkl",
                 "sha256": "6ef65f96fb93a050fdd7649c22e4b0e197aa73bb6a26f0fd2f437f6a40905585"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "short_name": "TR2",
+        "display_name": "Tomb Raider 2 (April 18, 2025)",
+        "is_20hz": true,
+        "ref": "2c162d9b75ae4e77bdf5bc3225e880d352ec0f5c",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 32,
+        "minimum_selector_version": "4",
+        "generation": "10",
+        "build_time": "2025-05-02T13:21:39Z",
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_tr2_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%202%20%28April%2018%2C%202025%29-192/driving_vision_default_tinygrad.pkl",
+                "sha256": "c08e515c0cc16e0d6f16d72478b5ed00b7716a57d68f896e6b7c25152b5eab41"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_tr2_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%202%20%28April%2018%2C%202025%29-192/driving_vision_default_metadata.pkl",
+                "sha256": "6cbd167c1c1d80a7b73687518d91292d7f2c2e63bae76af171ee6c7dea477261"
+              }
+            }
+          },
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_tr2_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%202%20%28April%2018%2C%202025%29-192/driving_policy_default_tinygrad.pkl",
+                "sha256": "fc96bbfe3fc63f1c0a5f4b2915a37135f5a07101edee66ff9bfae1f437966197"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_tr2_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%202%20%28April%2018%2C%202025%29-192/driving_policy_default_metadata.pkl",
+                "sha256": "be71379d45bd9944d4e0022895e57ece4e41e39ffe1ee76e4303fce9c8a004f5"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "short_name": "TR3",
+        "display_name": "Tomb Raider 3 (April 22, 2025)",
+        "is_20hz": true,
+        "ref": "8cefc00a6e67499eddf4fadb8eb4f1f491a50bd7",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 33,
+        "minimum_selector_version": "4",
+        "generation": "10",
+        "build_time": "2025-05-02T13:26:38Z",
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_tr3_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%203%20%28April%2022%2C%202025%29-193/driving_vision_default_tinygrad.pkl",
+                "sha256": "0a3555ae1f1a0fb6e91061692f32bb0ba7302adcb0d30203b6f3d8debd7e2c19"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_tr3_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%203%20%28April%2022%2C%202025%29-193/driving_vision_default_metadata.pkl",
+                "sha256": "6cbd167c1c1d80a7b73687518d91292d7f2c2e63bae76af171ee6c7dea477261"
+              }
+            }
+          },
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_tr3_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%203%20%28April%2022%2C%202025%29-193/driving_policy_default_tinygrad.pkl",
+                "sha256": "02fd7fe12320fe6411179953752eec2c191232fc3aaabbd4b6979313ea93cead"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_tr3_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%203%20%28April%2022%2C%202025%29-193/driving_policy_default_metadata.pkl",
+                "sha256": "c4e73247b1b65a289c17f1cc8271f83699a0b551cccd555f7ba6c659a106dda5"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "short_name": "TR4",
+        "display_name": "Tomb Raider 4 (April 25, 2025)",
+        "is_20hz": true,
+        "ref": "756aebd39f378a6a1db2826b4044290b391cc03c",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 34,
+        "minimum_selector_version": "4",
+        "generation": "10",
+        "build_time": "2025-05-02T13:31:22Z",
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_tr4_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%204%20%28April%2025%2C%202025%29-194/driving_vision_default_tinygrad.pkl",
+                "sha256": "3f1985bf54ef45200c55c23ca7cc8e4dac68edee27ed9db7ca0312e5489ba733"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_tr4_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%204%20%28April%2025%2C%202025%29-194/driving_vision_default_metadata.pkl",
+                "sha256": "6cbd167c1c1d80a7b73687518d91292d7f2c2e63bae76af171ee6c7dea477261"
+              }
+            }
+          },
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_tr4_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%204%20%28April%2025%2C%202025%29-194/driving_policy_default_tinygrad.pkl",
+                "sha256": "78642ddada00ae18346509b630419c10af1014deefbeb4f20fdba5744113685a"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_tr4_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%204%20%28April%2025%2C%202025%29-194/driving_policy_default_metadata.pkl",
+                "sha256": "9cbe80be094e3c142437da8981c798c664429275a1c18b27f7629409e3f99bcb"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "short_name": "TR5",
+        "display_name": "Tomb Raider 5 (April 25, 2025)",
+        "is_20hz": true,
+        "ref": "e7cf508f500cbd6cd783554c37185d87765e848c",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 35,
+        "minimum_selector_version": "4",
+        "generation": "10",
+        "build_time": "2025-05-02T13:36:11Z",
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_tr5_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%205%20%28April%2025%2C%202025%29-195/driving_vision_default_tinygrad.pkl",
+                "sha256": "2ac0376b37bccc2f1076415c16e03a5e01c730b83a7e8eb2efc3abf7dfd92a8d"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_tr5_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%205%20%28April%2025%2C%202025%29-195/driving_vision_default_metadata.pkl",
+                "sha256": "6cbd167c1c1d80a7b73687518d91292d7f2c2e63bae76af171ee6c7dea477261"
+              }
+            }
+          },
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_tr5_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%205%20%28April%2025%2C%202025%29-195/driving_policy_default_tinygrad.pkl",
+                "sha256": "5688f1f3b3ae30f5ee52228026ec9519527f045a3d44ea00216112b6142e85b4"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_tr5_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%205%20%28April%2025%2C%202025%29-195/driving_policy_default_metadata.pkl",
+                "sha256": "9e2ba7740f1561dc133bae58de1f5c9166e3e891d2524ff3828c3b2a70f72b4f"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "short_name": "TR6",
+        "display_name": "Tomb Raider 6 (May 1, 2025)",
+        "is_20hz": true,
+        "ref": "9f1e462faabdc000b5c574b0e38818bcd6068e88",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 36,
+        "minimum_selector_version": "4",
+        "generation": "10",
+        "build_time": "2025-05-02T13:39:38Z",
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_tr6_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%206%20%28May%201%2C%202025%29-196/driving_vision_default_tinygrad.pkl",
+                "sha256": "884b6a40966d8a48004f29a12402d2f621db7032065501197e5decf1c02899ad"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_tr6_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%206%20%28May%201%2C%202025%29-196/driving_vision_default_metadata.pkl",
+                "sha256": "6cbd167c1c1d80a7b73687518d91292d7f2c2e63bae76af171ee6c7dea477261"
+              }
+            }
+          },
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_tr6_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%206%20%28May%201%2C%202025%29-196/driving_policy_default_tinygrad.pkl",
+                "sha256": "ba0ec1371c511d088fc390ffbd7637412a9c926e08be17334638d5e286ed3d68"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_tr6_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%206%20%28May%201%2C%202025%29-196/driving_policy_default_metadata.pkl",
+                "sha256": "ed8a040414f9d5a819b6270b340843943387f244eb9826d1b942d60e4452ca25"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "short_name": "TR7",
+        "display_name": "Tomb Raider 7 (May 8, 2025)",
+        "is_20hz": true,
+        "ref": "0fb4aafa35896e831bd58a636a9a1bb4a1442743",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 37,
+        "minimum_selector_version": "4",
+        "generation": "10",
+        "build_time": "2025-05-15T06:02:45Z",
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_tr7_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%207%20%28May%208%2C%202025%29-201/driving_vision_default_tinygrad.pkl",
+                "sha256": "cdf17d6150d3dfaf5835222a20d58a90b393ae817ce29fe5ff9eeaf05b58ae23"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_tr7_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%207%20%28May%208%2C%202025%29-201/driving_vision_default_metadata.pkl",
+                "sha256": "6cbd167c1c1d80a7b73687518d91292d7f2c2e63bae76af171ee6c7dea477261"
+              }
+            }
+          },
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_tr7_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%207%20%28May%208%2C%202025%29-201/driving_policy_default_tinygrad.pkl",
+                "sha256": "243eab66061c5abccef0a86c8d702ae695137d3413008f1d532e50ca45f93864"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_tr7_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Tomb%20Raider%207%20%28May%208%2C%202025%29-201/driving_policy_default_metadata.pkl",
+                "sha256": "b966eadc55529e449c684e0dc1c21daa4461c8a5c106ba57b7e4a6d8627c2906"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "short_name": "DTR",
+        "display_name": "Down to Ride (May 11, 2025)",
+        "is_20hz": true,
+        "ref": "1b667ec9a3019bd0af35f38afabc201fdde50812",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 38,
+        "minimum_selector_version": "4",
+        "generation": "10",
+        "build_time": "2025-05-15T06:03:39Z",
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_dtr_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Down%20to%20Ride%20%28May%2011%2C%202025%29-202/driving_vision_default_tinygrad.pkl",
+                "sha256": "60a55b015b0db844a699376f9fadc762206867aa179b7e4029a2366f0afe32d1"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_dtr_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Down%20to%20Ride%20%28May%2011%2C%202025%29-202/driving_vision_default_metadata.pkl",
+                "sha256": "6cbd167c1c1d80a7b73687518d91292d7f2c2e63bae76af171ee6c7dea477261"
+              }
+            }
+          },
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_dtr_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Down%20to%20Ride%20%28May%2011%2C%202025%29-202/driving_policy_default_tinygrad.pkl",
+                "sha256": "e0919f100c4d7af146aa028cef03c7a79505bb6ab81016fde846a24ff8ec8985"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_dtr_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-Down%20to%20Ride%20%28May%2011%2C%202025%29-202/driving_policy_default_metadata.pkl",
+                "sha256": "caaa7fe2232695dca4783b30f4efbd2870745f195dbaf8d696566102a45f1b69"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "short_name": "VFF",
+        "display_name": "VFF Driving (May 15, 2025)",
+        "is_20hz": true,
+        "ref": "820eb2517102e3c86e273ee5550e43d5acadb864",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 39,
+        "minimum_selector_version": "4",
+        "generation": "10",
+        "build_time": "2025-05-15T06:13:20Z",
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_vff_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-VFF%20Driving%20%28May%2015%2C%202025%29-203/driving_vision_default_tinygrad.pkl",
+                "sha256": "102271d15054044ab9bcdd9fa653a1ae34c1f9c3ee86a08d225eeb8d13bc092e"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_vff_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-VFF%20Driving%20%28May%2015%2C%202025%29-203/driving_vision_default_metadata.pkl",
+                "sha256": "9378177d95c001f0a754a8025b06931af4773dcbd0d6f7cdb10198d8a3633fbc"
+              }
+            }
+          },
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_vff_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-VFF%20Driving%20%28May%2015%2C%202025%29-203/driving_policy_default_tinygrad.pkl",
+                "sha256": "b312d024a7f1712d373f59d00b9cced35265c322f69d891f12dff30cf2dc54bc"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_vff_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-VFF%20Driving%20%28May%2015%2C%202025%29-203/driving_policy_default_metadata.pkl",
+                "sha256": "6eae389c740f0118ad11604a385130e9744b370b8aa54576f00eacebe0c21d48"
               }
             }
           }
