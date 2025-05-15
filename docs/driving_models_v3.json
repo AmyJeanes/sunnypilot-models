@@ -10,6 +10,7 @@
         "index": 0,
         "minimum_selector_version": "3",
         "generation": "0",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -50,6 +51,7 @@
         "index": 1,
         "minimum_selector_version": "3",
         "generation": "1",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -90,6 +92,7 @@
         "index": 2,
         "minimum_selector_version": "3",
         "generation": "1",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -130,6 +133,7 @@
         "index": 3,
         "minimum_selector_version": "3",
         "generation": "1",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -170,6 +174,7 @@
         "index": 4,
         "minimum_selector_version": "3",
         "generation": "1",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -210,6 +215,7 @@
         "index": 5,
         "minimum_selector_version": "3",
         "generation": "2",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -250,6 +256,7 @@
         "index": 6,
         "minimum_selector_version": "3",
         "generation": "3",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -290,6 +297,7 @@
         "index": 7,
         "minimum_selector_version": "3",
         "generation": "3",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -330,6 +338,7 @@
         "index": 8,
         "minimum_selector_version": "3",
         "generation": "3",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -370,6 +379,7 @@
         "index": 9,
         "minimum_selector_version": "3",
         "generation": "3",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -410,6 +420,7 @@
         "index": 10,
         "minimum_selector_version": "3",
         "generation": "3",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -450,6 +461,7 @@
         "index": 11,
         "minimum_selector_version": "3",
         "generation": "4",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -480,6 +492,7 @@
         "index": 12,
         "minimum_selector_version": "3",
         "generation": "4",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -510,6 +523,7 @@
         "index": 13,
         "minimum_selector_version": "3",
         "generation": "5",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -540,6 +554,7 @@
         "index": 14,
         "minimum_selector_version": "3",
         "generation": "6",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -570,6 +585,7 @@
         "index": 15,
         "minimum_selector_version": "3",
         "generation": "7",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -600,6 +616,7 @@
         "index": 16,
         "minimum_selector_version": "3",
         "generation": "7",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -630,6 +647,7 @@
         "index": 17,
         "minimum_selector_version": "3",
         "generation": "8",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -660,6 +678,7 @@
         "index": 18,
         "minimum_selector_version": "3",
         "generation": "8",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -690,6 +709,7 @@
         "index": 19,
         "minimum_selector_version": "3",
         "generation": "8",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -720,6 +740,7 @@
         "index": 20,
         "minimum_selector_version": "3",
         "generation": "8",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -750,6 +771,7 @@
         "index": 21,
         "minimum_selector_version": "3",
         "generation": "8",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -780,6 +802,7 @@
         "index": 22,
         "minimum_selector_version": "3",
         "generation": "8",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -810,6 +833,7 @@
         "index": 23,
         "minimum_selector_version": "3",
         "generation": "8",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -840,6 +864,7 @@
         "index": 24,
         "minimum_selector_version": "3",
         "generation": "8",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -870,6 +895,7 @@
         "index": 25,
         "minimum_selector_version": "3",
         "generation": "8",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -900,6 +926,7 @@
         "index": 26,
         "minimum_selector_version": "3",
         "generation": "8",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -930,6 +957,7 @@
         "index": 27,
         "minimum_selector_version": "3",
         "generation": "8",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -960,6 +988,7 @@
         "index": 28,
         "minimum_selector_version": "3",
         "generation": "8",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -990,6 +1019,7 @@
         "index": 29,
         "minimum_selector_version": "3",
         "generation": "9",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -1020,6 +1050,7 @@
         "index": 30,
         "minimum_selector_version": "3",
         "generation": "9",
+        "overrides": { "lat": ".2", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
