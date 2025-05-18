@@ -1129,7 +1129,7 @@
         "runner": "tinygrad",
         "index": 32,
         "minimum_selector_version": "4",
-        "generation": "10",
+        "generation": "11",
         "build_time": "2025-05-02T13:21:39Z",
         "overrides": { "lat": ".3", "long": ".3" },
         "models": [
@@ -1178,7 +1178,7 @@
         "runner": "tinygrad",
         "index": 33,
         "minimum_selector_version": "4",
-        "generation": "10",
+        "generation": "11",
         "build_time": "2025-05-02T13:26:38Z",
         "overrides": { "lat": ".3", "long": ".3" },
         "models": [
@@ -1227,7 +1227,7 @@
         "runner": "tinygrad",
         "index": 34,
         "minimum_selector_version": "4",
-        "generation": "10",
+        "generation": "11",
         "build_time": "2025-05-02T13:31:22Z",
         "overrides": { "lat": ".3", "long": ".3" },
         "models": [
@@ -1276,7 +1276,7 @@
         "runner": "tinygrad",
         "index": 35,
         "minimum_selector_version": "4",
-        "generation": "10",
+        "generation": "11",
         "build_time": "2025-05-02T13:36:11Z",
         "overrides": { "lat": ".3", "long": ".3" },
         "models": [
@@ -1325,7 +1325,7 @@
         "runner": "tinygrad",
         "index": 36,
         "minimum_selector_version": "4",
-        "generation": "10",
+        "generation": "11",
         "build_time": "2025-05-02T13:39:38Z",
         "overrides": { "lat": ".3", "long": ".3" },
         "models": [
@@ -1374,7 +1374,7 @@
         "runner": "tinygrad",
         "index": 37,
         "minimum_selector_version": "4",
-        "generation": "10",
+        "generation": "11",
         "build_time": "2025-05-15T06:02:45Z",
         "overrides": { "lat": ".1", "long": ".3" },
         "models": [
@@ -1423,7 +1423,7 @@
         "runner": "tinygrad",
         "index": 38,
         "minimum_selector_version": "4",
-        "generation": "10",
+        "generation": "11",
         "build_time": "2025-05-15T06:03:39Z",
         "overrides": { "lat": ".1", "long": ".3" },
         "models": [
@@ -1472,7 +1472,7 @@
         "runner": "tinygrad",
         "index": 39,
         "minimum_selector_version": "4",
-        "generation": "10",
+        "generation": "11",
         "build_time": "2025-05-16T22:20:52Z",
         "overrides": { "lat": ".3", "long": ".3" },
         "models": [
@@ -1570,7 +1570,7 @@
         "runner": "tinygrad",
         "index": 41,
         "minimum_selector_version": "4",
-        "generation": "10",
+        "generation": "11",
         "build_time": "2025-05-17T04:00:41Z",
         "overrides": { "lat": ".1", "long": ".3" },
         "models": [
