@@ -1609,6 +1609,55 @@
             }
           }
         ]
+      },
+      {
+        "short_name": "secret-good-openpilot-big",
+        "display_name": "Secret Good Openpilot Big (May 21, 2025)",
+        "is_20hz": true,
+        "ref": "1f4b98ed7d63971507dff94e5ac20223ee15e067",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 42,
+        "minimum_selector_version": "5",
+        "generation": "11",
+        "build_time": "2025-05-21T12:27:02Z",
+        "overrides": { "lat": ".1", "long": ".3" },
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_sgo-big-model_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-SGO%20Big%20EGPU%20%28May%2021%2C%202025%29-209/driving_vision_sgo-big-model_tinygrad.pkl",
+                "sha256": "361600d0258009a53e29735d13abde1a20a7b98744856e50ac7d46d7005dbea4"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_sgo-big-model_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-SGO%20Big%20EGPU%20%28May%2021%2C%202025%29-209/driving_vision_sgo-big-model_metadata.pkl",
+                "sha256": "19c0d59be6337362f3dffe40a3310203bd3fdc5fb02a1fd75cc5581f516a775e"
+              }
+            }
+          },
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_sgo-big-model_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-SGO%20Big%20EGPU%20%28May%2021%2C%202025%29-209/driving_policy_sgo-big-model_tinygrad.pkl",
+                "sha256": "13cf1be5784752aa5e3bde092eb3a377283c1c0c8e711e2d62f0a987a9eca514"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_sgo-big-model_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled/model-SGO%20Big%20EGPU%20%28May%2021%2C%202025%29-209/driving_policy_sgo-big-model_metadata.pkl",
+                "sha256": "ecb2567a0b0d02742bc426d93860e95bdcf865bfda8cf6677e6e90a060f91477"
+              }
+            }
+          }
+        ]
       }
     ]
   }
