@@ -1254,7 +1254,7 @@
               "file_name": "driving_policy_tr4_tinygrad.pkl",
               "download_uri": {
                 "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Tomb%20Raider%204%20%28April%2024%2C%202025%29-292/driving_policy_tr4_tinygrad.pkl",
-                "sha256": "78642ddada00ae18346509b630419c10af1014deefbeb4f20fdba5744113685a"
+                "sha256": "978bd4f722f586c0744c7d89f61c17b58ef0e6641d612a265967cce979132cd6"
               }
             },
             "metadata": {
@@ -1548,7 +1548,7 @@
               "file_name": "driving_policy_vd_tinygrad.pkl",
               "download_uri": {
                 "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-VFF%20Driving%20%28May%2014%2C%202025%29-274/driving_policy_vd_tinygrad.pkl",
-                "sha256": "b312d024a7f1712d373f59d00b9cced35265c322f69d891f12dff30cf2dc54bc"
+                "sha256": "07209f38ee4656d42c80ca22c3af8cb7ba18edfde03af6f98414381c34278d88"
               }
             },
             "metadata": {
