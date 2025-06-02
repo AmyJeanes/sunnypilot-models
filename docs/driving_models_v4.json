@@ -8,7 +8,7 @@
         "environment": "release",
         "runner": "snpe",
         "index": 0,
-        "minimum_selector_version": "5",
+        "minimum_selector_version": "6",
         "generation": "0",
         "overrides": { "lat": ".0", "long": ".0" },
         "models": [
@@ -49,7 +49,7 @@
         "environment": "release",
         "runner": "snpe",
         "index": 1,
-        "minimum_selector_version": "5",
+        "minimum_selector_version": "6",
         "generation": "1",
         "overrides": { "lat": ".0", "long": ".0" },
         "models": [
@@ -90,7 +90,7 @@
         "environment": "release",
         "runner": "snpe",
         "index": 2,
-        "minimum_selector_version": "5",
+        "minimum_selector_version": "6",
         "generation": "1",
         "overrides": { "lat": ".0", "long": ".0" },
         "models": [
@@ -131,7 +131,7 @@
         "environment": "release",
         "runner": "snpe",
         "index": 3,
-        "minimum_selector_version": "5",
+        "minimum_selector_version": "6",
         "generation": "1",
         "overrides": { "lat": ".0", "long": ".0" },
         "models": [
@@ -172,7 +172,7 @@
         "environment": "release",
         "runner": "snpe",
         "index": 4,
-        "minimum_selector_version": "5",
+        "minimum_selector_version": "6",
         "generation": "1",
         "overrides": { "lat": ".0", "long": ".0" },
         "models": [
