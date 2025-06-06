@@ -1707,6 +1707,55 @@
             }
           }
         ]
+      },
+      {
+        "short_name": "VFoFv2",
+        "display_name": "Vegetarian Filet o Fish v2 (June 05, 2025)",
+        "is_20hz": true,
+        "ref": "5367a81dc02cbcb584efadf0bd372a7897e70415",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 44,
+        "minimum_selector_version": "5",
+        "generation": "10",
+        "build_time": "2025-06-06T01:06:24Z",
+        "overrides": { "lat": ".0", "long": ".0" },
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_vfofv2_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Vegetarian%20Filet%20o%20Fish%20v2%20%28June%2005%2C%202025%29-298/driving_vision_vfofv2_tinygrad.pkl",
+                "sha256": "068ecd3614b8cefacd979449215fcf3196c0d82c03b9b681ddf8c6cd31c763a2"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_vfofv2_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Vegetarian%20Filet%20o%20Fish%20v2%20%28June%2005%2C%202025%29-298/driving_vision_vfofv2_metadata.pkl",
+                "sha256": "7aa3f93ec13cc655827f93541266c63e53a88ec834c076dd177e904c6b5e8ded"
+              }
+            }
+          },
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_vfofv2_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Vegetarian%20Filet%20o%20Fish%20v2%20%28June%2005%2C%202025%29-298/driving_policy_vfofv2_tinygrad.pkl",
+                "sha256": "22f3840cdc86728a4e45b15a15c3aafa69e79ab658e2d47e179f2a53f3e00030"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_vfofv2_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Vegetarian%20Filet%20o%20Fish%20v2%20%28June%2005%2C%202025%29-298/driving_policy_vfofv2_metadata.pkl",
+                "sha256": "13071425f1012c11526d88beae81a87b365ef5e294b4004a0aeabdb2328fd138"
+              }
+            }
+          }
+        ]
       }
     ]
   }
