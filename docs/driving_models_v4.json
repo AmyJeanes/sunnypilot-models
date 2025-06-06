@@ -1716,7 +1716,7 @@
         "environment": "development",
         "runner": "tinygrad",
         "index": 44,
-        "minimum_selector_version": "5",
+        "minimum_selector_version": "6",
         "generation": "10",
         "build_time": "2025-06-06T01:06:24Z",
         "overrides": { "lat": ".0", "long": ".0" },
