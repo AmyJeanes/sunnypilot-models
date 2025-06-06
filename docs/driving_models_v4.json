@@ -1712,13 +1712,13 @@
         "short_name": "VFoFv2",
         "display_name": "Vegetarian Filet o Fish v2 (June 05, 2025)",
         "is_20hz": true,
-        "ref": "5367a81dc02cbcb584efadf0bd372a7897e70415",
+        "ref": "077f52414a73a96b6d3c84f6341072c0f3b1f1ae",
         "environment": "development",
         "runner": "tinygrad",
         "index": 44,
-        "minimum_selector_version": "6",
+        "minimum_selector_version": "5",
         "generation": "10",
-        "build_time": "2025-06-06T01:06:24Z",
+        "build_time": "2025-06-06T03:27:57Z",
         "overrides": { "lat": ".0", "long": ".0" },
         "models": [
           {
@@ -1727,14 +1727,14 @@
               "file_name": "driving_vision_vfofv2_tinygrad.pkl",
               "download_uri": {
                 "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Vegetarian%20Filet%20o%20Fish%20v2%20%28June%2005%2C%202025%29-298/driving_vision_vfofv2_tinygrad.pkl",
-                "sha256": "068ecd3614b8cefacd979449215fcf3196c0d82c03b9b681ddf8c6cd31c763a2"
+                "sha256": "6c6d46075ce92bc35f235418a2b556df53d0854b10d6577697f789da4bdb55be"
               }
             },
             "metadata": {
               "file_name": "driving_vision_vfofv2_metadata.pkl",
               "download_uri": {
                 "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Vegetarian%20Filet%20o%20Fish%20v2%20%28June%2005%2C%202025%29-298/driving_vision_vfofv2_metadata.pkl",
-                "sha256": "7aa3f93ec13cc655827f93541266c63e53a88ec834c076dd177e904c6b5e8ded"
+                "sha256": "a64bc2ebbebc16d7b336671aef2aad5d25b9abf65ae7ca0291639d08d09965ba"
               }
             }
           },
@@ -1744,7 +1744,7 @@
               "file_name": "driving_policy_vfofv2_tinygrad.pkl",
               "download_uri": {
                 "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Vegetarian%20Filet%20o%20Fish%20v2%20%28June%2005%2C%202025%29-298/driving_policy_vfofv2_tinygrad.pkl",
-                "sha256": "22f3840cdc86728a4e45b15a15c3aafa69e79ab658e2d47e179f2a53f3e00030"
+                "sha256": "53bd87933c344e8c36633960d0cd5144180ba130497d712f9de6f3ec65097b11"
               }
             },
             "metadata": {
