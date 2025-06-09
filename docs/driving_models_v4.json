@@ -1773,17 +1773,17 @@
           {
             "type": "vision",
             "artifact": {
-              "file_name": "driving_vision_kd_tinygrad.pkl",
+              "file_name": "driving_vision_fof_tinygrad.pkl",
               "download_uri": {
-                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-301/driving_vision_kd_tinygrad.pkl",
-                "sha256": "ff236874474165692fb8be0713e200d153ebac6e2fe7a1d415990eea9881f21f"
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-286/driving_vision_fof_tinygrad.pkl",
+                "sha256": "e6e8afc98c016c64ebd417592a4d4cf5b84f6413dd2dcbfb3a1527cc97e2e6fa"
               }
             },
             "metadata": {
-              "file_name": "driving_vision_kd_metadata.pkl",
+              "file_name": "driving_vision_fof_metadata.pkl",
               "download_uri": {
-                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-301/driving_vision_kd_metadata.pkl",
-                "sha256": "7aa3f93ec13cc655827f93541266c63e53a88ec834c076dd177e904c6b5e8ded"
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-286/driving_vision_fof_metadata.pkl",
+                "sha256": "9378177d95c001f0a754a8025b06931af4773dcbd0d6f7cdb10198d8a3633fbc"
               }
             }
           },
