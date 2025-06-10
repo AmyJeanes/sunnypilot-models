@@ -1793,14 +1793,14 @@
               "file_name": "driving_policy_kd_tinygrad.pkl",
               "download_uri": {
                 "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-301/driving_policy_kd_tinygrad.pkl",
-                "sha256": "cd1e695f77acaf90a964fa0359b36c08569caf464269d85be0ae8f80407028b0"
+                "sha256": "ca124c01adaecffe662a49158e7ca7682dbcc790c9c2967b938e6ee54b4b0d7e"
               }
             },
             "metadata": {
               "file_name": "driving_policy_kd_metadata.pkl",
               "download_uri": {
                 "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-301/driving_policy_kd_metadata.pkl",
-                "sha256": "ebbf3a9ebf811fbb4fdf88c91ac9642ce8324a74f70624c65e7ca28b0fa02db3"
+                "sha256": "5754d59ca934e68c2ddc3110781324c356a155b48be8e4252fd01502928c445a"
               }
             }
           }
