@@ -1854,6 +1854,55 @@
             }
           }
         ]
+      },
+      {
+        "short_name": "Kerrygoldv2",
+        "display_name": "Organic Kerrygold (June 17, 2025)",
+        "is_20hz": true,
+        "ref": "4d102a6307894bfdb7d72737445e4cccb1d78d41",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 47,
+        "minimum_selector_version": "6",
+        "generation": "10",
+        "build_time": "2025-06-18T14:39:28Z",
+        "overrides": { "lat": ".0", "long": ".0" },
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_kerrygol_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Kerrygold%20v2%20%28June%2017%2C%202025%29-304/driving_vision_kerrygol_tinygrad.pkl",
+                "sha256": "39d0035d94c03e6736111272705f6419896490fbaf9463fa9db0b6aae2f0f0d8"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_kerrygol_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Kerrygold%20v2%20%28June%2017%2C%202025%29-304/driving_vision_kerrygol_metadata.pkl",
+                "sha256": "7aa3f93ec13cc655827f93541266c63e53a88ec834c076dd177e904c6b5e8ded"
+              }
+            }
+          },
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_kerrygol_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Kerrygold%20v2%20%28June%2017%2C%202025%29-304/driving_policy_kerrygol_tinygrad.pkl",
+                "sha256": "f6b839328af34f5e5ffd57f8dbc126183c3cc632ef04161839a3257946417ba4"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_kerrygol_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Kerrygold%20v2%20%28June%2017%2C%202025%29-304/driving_policy_kerrygol_metadata.pkl",
+                "sha256": "38771678223ff4bee3da6b386148e9456803257ce49c65583daf1c88a69c7f6a"
+              }
+            }
+          }
+        ]
       }
     ]
   }
