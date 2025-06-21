@@ -1912,7 +1912,7 @@
         "environment": "development",
         "runner": "tinygrad",
         "index": 48,
-        "minimum_selector_version": "7",
+        "minimum_selector_version": "6",
         "generation": "10",
         "build_time": "2025-06-21T20:30:45Z",
         "overrides": { "lat": ".0", "long": ".0" },
