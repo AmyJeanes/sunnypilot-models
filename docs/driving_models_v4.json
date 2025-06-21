@@ -1903,6 +1903,55 @@
             }
           }
         ]
+      },
+      {
+        "short_name": "LD",
+        "display_name": "Liquid Crystal Driving (June 21, 2025)",
+        "is_20hz": true,
+        "ref": "b55af0de7fecdb4af073c01b77b04b8306a4e92d",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 48,
+        "minimum_selector_version": "6",
+        "generation": "10",
+        "build_time": "2025-06-21T20:30:45Z",
+        "overrides": { "lat": ".0", "long": ".0" },
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_ld_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-LC%20Driving%20%28June%2021%2C%202025%29-306/driving_vision_ld_tinygrad.pkl",
+                "sha256": "6115507549bf692ea439b8b24648993d00d4b34408aaad274564be8ba9377379"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_ld_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-LC%20Driving%20%28June%2021%2C%202025%29-306/driving_vision_ld_metadata.pkl",
+                "sha256": "cfa876ccc22d81512bbecba2a91e430828c853feada4599cda8f3fb5d1ba3e9c"
+              }
+            }
+          },
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_ld_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-LC%20Driving%20%28June%2021%2C%202025%29-306/driving_policy_ld_tinygrad.pkl",
+                "sha256": "15b94c2edc2baf648701b3280ddd5eec9b869d1fcb4dd34dac92f45de7fffed3"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_ld_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-LC%20Driving%20%28June%2021%2C%202025%29-306/driving_policy_ld_metadata.pkl",
+                "sha256": "65a97081f7aedcebf3a2e083d316631863253d44ab854c8c0938300845c05ef2"
+              }
+            }
+          }
+        ]
       }
     ]
   }
