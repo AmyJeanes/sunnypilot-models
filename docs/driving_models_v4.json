@@ -2010,7 +2010,7 @@
         "environment": "development",
         "runner": "tinygrad",
         "index": 50,
-        "minimum_selector_version": "7",
+        "minimum_selector_version": "6",
         "generation": "11",
         "build_time": "2025-06-26T23:49:40Z",
         "overrides": { "lat": ".1", "long": ".3" },
