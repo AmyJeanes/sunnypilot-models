@@ -2001,6 +2001,55 @@
             }
           }
         ]
+      },
+      {
+        "short_name": "VMCM",
+        "display_name": "Vibe Model [Custom Model]",
+        "is_20hz": true,
+        "ref": "e9ab42d8839a2f1c8ad94b5e18266ad8a1753f3c",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 50,
+        "minimum_selector_version": "7",
+        "generation": "11",
+        "build_time": "2025-06-26T23:49:40Z",
+        "overrides": { "lat": ".1", "long": ".3" },
+        "models": [
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_vmcm_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Vibe%20Model%20%5BCustom%20Model%5D-313/driving_vision_vmcm_tinygrad.pkl",
+                "sha256": "f59e5f96766c099613aaaa25958e55f3d0ee49b94127171070f4c178f2e70242"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_vmcm_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Vibe%20Model%20%5BCustom%20Model%5D-313/driving_vision_vmcm_metadata.pkl",
+                "sha256": "cb3a3815f3454f4b743fe7975393ae8c98b0834dd5f4439c33dd47d00f43435f"
+              }
+            }
+          },
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_vmcm_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Vibe%20Model%20%5BCustom%20Model%5D-313/driving_policy_vmcm_tinygrad.pkl",
+                "sha256": "a791c282c31abc661033a11747e010ab398d097f60c82e99f1376e6f17aa6345"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_vmcm_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Vibe%20Model%20%5BCustom%20Model%5D-313/driving_policy_vmcm_metadata.pkl",
+                "sha256": "caaa7fe2232695dca4783b30f4efbd2870745f195dbaf8d696566102a45f1b69"
+              }
+            }
+          }
+        ]
       }
     ]
   }
