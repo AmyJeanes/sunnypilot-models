@@ -2050,6 +2050,55 @@
             }
           }
         ]
+      },
+      {
+        "short_name": "STR",
+        "display_name": "SGO [Tomb Raider] (June 27, 2025)",
+        "is_20hz": true,
+        "ref": "eceeaabcebcf58716ae4a018930793d89c96777b",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 51,
+        "minimum_selector_version": "6",
+        "generation": "11",
+        "build_time": "2025-06-28T06:46:39Z",
+        "overrides": { "lat": ".1", "long": ".3" },
+        "models": [
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_str_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-SGO%20%5BTomb%20Raider%5D%20%28June%2027%2C%202025%29-315/driving_policy_str_tinygrad.pkl",
+                "sha256": "aaabb87e62377a46e39a6088ff861d935a3551c1d1054da995c338201d99540d"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_str_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-SGO%20%5BTomb%20Raider%5D%20%28June%2027%2C%202025%29-315/driving_policy_str_metadata.pkl",
+                "sha256": "55cef49b910f22163f95dab47525ebaaddc9e1cd51f2d8a82f781fdfd9a3d69f"
+              }
+            }
+          },
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_str_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-SGO%20%5BTomb%20Raider%5D%20%28June%2027%2C%202025%29-315/driving_vision_str_tinygrad.pkl",
+                "sha256": "472e6c10cf7f024f1bdeaf5071d908d46f2c965fcd8c974963c3138a6813a815"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_str_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-SGO%20%5BTomb%20Raider%5D%20%28June%2027%2C%202025%29-315/driving_vision_str_metadata.pkl",
+                "sha256": "4ac79339651fe5d1e1cfe4c9ff51402d87ab37746bfad41cc3f714cef4d845e4"
+              }
+            }
+          }
+        ]
       }
     ]
   }
