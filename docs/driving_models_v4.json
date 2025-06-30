@@ -2052,8 +2052,8 @@
         ]
       },
       {
-        "short_name": "STR",
-        "display_name": "SGO [Tomb Raider] (June 27, 2025)",
+        "short_name": "TR13",
+        "display_name": "Tomb Raider 13 (June 27, 2025)",
         "is_20hz": true,
         "ref": "eceeaabcebcf58716ae4a018930793d89c96777b",
         "environment": "development",
