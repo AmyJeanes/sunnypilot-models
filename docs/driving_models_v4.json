@@ -10,7 +10,7 @@
         "index": 0,
         "minimum_selector_version": "6",
         "generation": "0",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -51,7 +51,7 @@
         "index": 1,
         "minimum_selector_version": "6",
         "generation": "1",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -92,7 +92,7 @@
         "index": 2,
         "minimum_selector_version": "6",
         "generation": "1",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -133,7 +133,7 @@
         "index": 3,
         "minimum_selector_version": "6",
         "generation": "1",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -174,7 +174,7 @@
         "index": 4,
         "minimum_selector_version": "6",
         "generation": "1",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -215,7 +215,7 @@
         "index": 5,
         "minimum_selector_version": "5",
         "generation": "2",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -256,7 +256,7 @@
         "index": 6,
         "minimum_selector_version": "5",
         "generation": "3",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -297,7 +297,7 @@
         "index": 7,
         "minimum_selector_version": "5",
         "generation": "3",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -338,7 +338,7 @@
         "index": 8,
         "minimum_selector_version": "5",
         "generation": "3",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -379,7 +379,7 @@
         "index": 9,
         "minimum_selector_version": "5",
         "generation": "3",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -420,7 +420,7 @@
         "index": 10,
         "minimum_selector_version": "5",
         "generation": "3",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -461,7 +461,7 @@
         "index": 11,
         "minimum_selector_version": "5",
         "generation": "4",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -492,7 +492,7 @@
         "index": 12,
         "minimum_selector_version": "5",
         "generation": "4",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -523,7 +523,7 @@
         "index": 13,
         "minimum_selector_version": "5",
         "generation": "5",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "Legacy Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -554,7 +554,7 @@
         "index": 14,
         "minimum_selector_version": "5",
         "generation": "6",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -585,7 +585,7 @@
         "index": 15,
         "minimum_selector_version": "5",
         "generation": "7",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -616,7 +616,7 @@
         "index": 16,
         "minimum_selector_version": "5",
         "generation": "7",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -647,7 +647,7 @@
         "index": 17,
         "minimum_selector_version": "5",
         "generation": "8",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -678,7 +678,7 @@
         "index": 18,
         "minimum_selector_version": "5",
         "generation": "8",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -709,7 +709,7 @@
         "index": 19,
         "minimum_selector_version": "5",
         "generation": "8",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -740,7 +740,7 @@
         "index": 20,
         "minimum_selector_version": "5",
         "generation": "8",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -771,7 +771,7 @@
         "index": 21,
         "minimum_selector_version": "5",
         "generation": "8",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -802,7 +802,7 @@
         "index": 22,
         "minimum_selector_version": "5",
         "generation": "8",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -833,7 +833,7 @@
         "index": 23,
         "minimum_selector_version": "5",
         "generation": "8",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -864,7 +864,7 @@
         "index": 24,
         "minimum_selector_version": "5",
         "generation": "8",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -895,7 +895,7 @@
         "index": 25,
         "minimum_selector_version": "5",
         "generation": "8",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -926,7 +926,7 @@
         "index": 26,
         "minimum_selector_version": "5",
         "generation": "8",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -957,7 +957,7 @@
         "index": 27,
         "minimum_selector_version": "5",
         "generation": "8",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -988,7 +988,7 @@
         "index": 28,
         "minimum_selector_version": "5",
         "generation": "8",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -1019,7 +1019,7 @@
         "index": 29,
         "minimum_selector_version": "5",
         "generation": "9",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -1050,7 +1050,7 @@
         "index": 30,
         "minimum_selector_version": "5",
         "generation": "9",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "supercombo",
@@ -1082,7 +1082,7 @@
         "minimum_selector_version": "5",
         "generation": "10",
         "build_time": "2025-05-25T20:09:52Z",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "FoF series models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "vision",
@@ -1131,7 +1131,7 @@
         "minimum_selector_version": "5",
         "generation": "11",
         "build_time": "2025-05-25T19:49:50Z",
-        "overrides": { "lat": ".3", "long": ".3" },
+        "overrides": { "custom": "TR Models", "lat": ".3", "long": ".3" },
         "models": [
           {
             "type": "vision",
@@ -1180,7 +1180,7 @@
         "minimum_selector_version": "5",
         "generation": "11",
         "build_time": "2025-05-25T19:59:46Z",
-        "overrides": { "lat": ".3", "long": ".3" },
+        "overrides": { "custom": "TR Models", "lat": ".3", "long": ".3" },
         "models": [
           {
             "type": "vision",
@@ -1229,7 +1229,7 @@
         "minimum_selector_version": "5",
         "generation": "11",
         "build_time": "2025-05-25T20:20:58Z",
-        "overrides": { "lat": ".3", "long": ".3" },
+        "overrides": { "custom": "TR Models", "lat": ".3", "long": ".3" },
         "models": [
           {
             "type": "vision",
@@ -1278,7 +1278,7 @@
         "minimum_selector_version": "5",
         "generation": "11",
         "build_time": "2025-05-25T20:20:27Z",
-        "overrides": { "lat": ".3", "long": ".3" },
+        "overrides": { "custom": "TR Models", "lat": ".3", "long": ".3" },
         "models": [
           {
             "type": "vision",
@@ -1327,7 +1327,7 @@
         "minimum_selector_version": "5",
         "generation": "11",
         "build_time": "2025-05-25T20:04:49Z",
-        "overrides": { "lat": ".3", "long": ".3" },
+        "overrides": { "custom": "TR Models", "lat": ".3", "long": ".3" },
         "models": [
           {
             "type": "vision",
@@ -1376,7 +1376,7 @@
         "minimum_selector_version": "5",
         "generation": "11",
         "build_time": "2025-05-25T19:39:59Z",
-        "overrides": { "lat": ".1", "long": ".3" },
+        "overrides": { "custom": "TR Models", "lat": ".1", "long": ".3" },
         "models": [
           {
             "type": "vision",
@@ -1425,7 +1425,7 @@
         "minimum_selector_version": "5",
         "generation": "11",
         "build_time": "2025-05-25T19:48:30Z",
-        "overrides": { "lat": ".1", "long": ".3" },
+        "overrides": { "custom": "DTR Models", "lat": ".1", "long": ".3" },
         "models": [
           {
             "type": "vision",
@@ -1474,7 +1474,7 @@
         "minimum_selector_version": "5",
         "generation": "11",
         "build_time": "2025-05-25T19:06:11Z",
-        "overrides": { "lat": ".2", "long": ".3" },
+        "overrides": { "custom": "Custom Merge Models", "lat": ".2", "long": ".3" },
         "models": [
           {
             "type": "vision",
@@ -1523,7 +1523,7 @@
         "minimum_selector_version": "5",
         "generation": "10",
         "build_time": "2025-05-25T19:05:38Z",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "FoF series models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "vision",
@@ -1572,7 +1572,7 @@
         "minimum_selector_version": "5",
         "generation": "11",
         "build_time": "2025-05-25T19:59:29Z",
-        "overrides": { "lat": ".1", "long": ".3" },
+        "overrides": { "custom": "SGO Models", "lat": ".1", "long": ".3" },
         "models": [
           {
             "type": "vision",
@@ -1621,7 +1621,7 @@
         "minimum_selector_version": "5",
         "generation": "10",
         "build_time": "2025-05-29T17:51:14Z",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "FoF series models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "vision",
@@ -1670,7 +1670,7 @@
         "minimum_selector_version": "5",
         "generation": "11",
         "build_time": "2025-05-31T04:49:24Z",
-        "overrides": { "lat": ".1", "long": ".3" },
+        "overrides": { "custom": "DTR Models", "lat": ".1", "long": ".3" },
         "models": [
           {
             "type": "vision",
@@ -1719,7 +1719,7 @@
         "minimum_selector_version": "5",
         "generation": "10",
         "build_time": "2025-06-06T03:27:57Z",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "FoF series models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "vision",
@@ -1768,7 +1768,7 @@
         "minimum_selector_version": "5",
         "generation": "10",
         "build_time": "2025-06-09T00:06:51Z",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "FoF series models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "vision",
@@ -1817,7 +1817,7 @@
         "minimum_selector_version": "6",
         "generation": "11",
         "build_time": "2025-06-17T14:00:56Z",
-        "overrides": { "lat": ".1", "long": ".3" },
+        "overrides": { "custom": "TR Models", "lat": ".1", "long": ".3" },
         "models": [
           {
             "type": "vision",
@@ -1866,7 +1866,7 @@
         "minimum_selector_version": "6",
         "generation": "10",
         "build_time": "2025-06-18T14:39:28Z",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "FoF series models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "vision",
@@ -1915,7 +1915,7 @@
         "minimum_selector_version": "6",
         "generation": "10",
         "build_time": "2025-06-21T20:30:45Z",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "FoF series models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "vision",
@@ -1964,7 +1964,7 @@
         "minimum_selector_version": "6",
         "generation": "10",
         "build_time": "2025-06-25T00:06:16Z",
-        "overrides": { "lat": ".0", "long": ".0" },
+        "overrides": { "custom": "FoF series models", "lat": ".0", "long": ".0" },
         "models": [
           {
             "type": "vision",
@@ -2013,7 +2013,7 @@
         "minimum_selector_version": "6",
         "generation": "11",
         "build_time": "2025-06-26T23:49:40Z",
-        "overrides": { "lat": ".1", "long": ".3" },
+        "overrides": { "custom": "Custom Merge Models", "lat": ".1", "long": ".3" },
         "models": [
           {
             "type": "vision",
@@ -2062,7 +2062,7 @@
         "minimum_selector_version": "6",
         "generation": "11",
         "build_time": "2025-06-28T06:46:39Z",
-        "overrides": { "lat": ".1", "long": ".3" },
+        "overrides": { "custom": "TR Models", "lat": ".1", "long": ".3" },
         "models": [
           {
             "type": "policy",
@@ -2111,7 +2111,7 @@
         "minimum_selector_version": "6",
         "generation": "11",
         "build_time": "2025-06-28T19:22:29Z",
-        "overrides": { "lat": ".1", "long": ".3" },
+        "overrides": { "custom": "TR Models", "lat": ".1", "long": ".3" },
         "models": [
           {
             "type": "policy",
@@ -2160,7 +2160,7 @@
         "minimum_selector_version": "6",
         "generation": "11",
         "build_time": "2025-06-30T22:08:03Z",
-        "overrides": { "lat": ".1", "long": ".3" },
+        "overrides": { "custom": "TR Models", "lat": ".1", "long": ".3" },
         "models": [
           {
             "type": "policy",
@@ -2209,7 +2209,7 @@
         "minimum_selector_version": "6",
         "generation": "11",
         "build_time": "2025-07-04T05:19:57Z",
-        "overrides": { "lat": ".1", "long": ".3" },
+        "overrides": { "custom": "TR Models", "lat": ".1", "long": ".3" },
         "models": [
           {
             "type": "policy",
@@ -2258,7 +2258,7 @@
         "minimum_selector_version": "6",
         "generation": "11",
         "build_time": "2025-07-08T00:25:14Z",
-        "overrides": { "lat": ".1", "long": ".3" },
+        "overrides": { "custom": "DTR Models", "lat": ".1", "long": ".3" },
         "models": [
           {
             "type": "policy",
@@ -2307,7 +2307,7 @@
         "minimum_selector_version": "7",
         "generation": "12",
         "build_time": "2025-07-08T03:49:05Z",
-        "overrides": { "lat": ".1", "long": ".3" },
+        "overrides": { "custom": "Simple Plan Models", "lat": ".1", "long": ".3" },
         "models": [
           {
             "type": "policy",
@@ -2340,6 +2340,55 @@
               "download_uri": {
                 "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-323/driving_vision_spd_metadata.pkl",
                 "sha256": "046025a8a34d2eb9be88d7961f46038e10d19c96a57bbd9ae430f82deddee8ff"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "short_name": "DtRv5",
+        "display_name": "Down to Ride v5 (July 08, 2025)",
+        "is_20hz": true,
+        "ref": "5b405920ec9511e146432de08171d6f93295248b",
+        "environment": "development",
+        "runner": "tinygrad",
+        "index": 57,
+        "minimum_selector_version": "6",
+        "generation": "11",
+        "build_time": "2025-07-08T20:38:38Z",
+        "overrides": { "custom": "DTR Models", "lat": ".1", "long": ".3" },
+        "models": [
+          {
+            "type": "policy",
+            "artifact": {
+              "file_name": "driving_policy_dtrv5_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Down%20to%20Ride%20v5%20%28July%2008%2C%202025%29-324/driving_policy_dtrv5_tinygrad.pkl",
+                "sha256": "363a457af432396ac2dbe2aa9ff2bb49c6c20c81c835ec6ce6a2a573318cfb86"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_policy_dtrv5_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Down%20to%20Ride%20v5%20%28July%2008%2C%202025%29-324/driving_policy_dtrv5_metadata.pkl",
+                "sha256": "a06d2431e0534df80266493f590bdba283d75dacc4ec1e25513eaca3b6108dc8"
+              }
+            }
+          },
+          {
+            "type": "vision",
+            "artifact": {
+              "file_name": "driving_vision_dtrv5_tinygrad.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Down%20to%20Ride%20v5%20%28July%2008%2C%202025%29-324/driving_vision_dtrv5_tinygrad.pkl",
+                "sha256": "b7323637476627d2b1f45bd691befc2f7386748552b142d14d524ecdad44940d"
+              }
+            },
+            "metadata": {
+              "file_name": "driving_vision_dtrv5_metadata.pkl",
+              "download_uri": {
+                "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/recompiled2/model-Down%20to%20Ride%20v5%20%28July%2008%2C%202025%29-324/driving_vision_dtrv5_metadata.pkl",
+                "sha256": "4ac79339651fe5d1e1cfe4c9ff51402d87ab37746bfad41cc3f714cef4d845e4"
               }
             }
           }
