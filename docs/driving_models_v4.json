@@ -1660,7 +1660,7 @@
         ]
       },
       {
-        "short_name": "DTRMv3",
+        "short_name": "DTRv3",
         "display_name": "Down To Ride Model (May 30, 2025)",
         "is_20hz": true,
         "ref": "9f1294540cdc93c3c5f1a011e78da429418fd7a7",
@@ -2346,7 +2346,7 @@
         ]
       },
       {
-        "short_name": "DtRv5",
+        "short_name": "DTRv5",
         "display_name": "Down to Ride (July 08, 2025)",
         "is_20hz": true,
         "ref": "5b405920ec9511e146432de08171d6f93295248b",
