@@ -2319,8 +2319,8 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 56,
-      "minimum_selector_version": "1",
-      "generation": "11",
+      "minimum_selector_version": "2",
+      "generation": "12",
       "build_time": "2025-07-11T03:28:56Z",
       "overrides": { "folder": "Simple Plan Models", "lat": ".1", "long": ".3" },
       "models": [
