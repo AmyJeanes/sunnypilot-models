@@ -2506,6 +2506,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "ST",
+      "display_name": "Secret TR (July 03, 2025)",
+      "is_20hz": true,
+      "ref": "06860c9b764962c69a6c8b1756462a0fea96f1ad",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 60,
+      "minimum_selector_version": "1",
+      "generation": "11",
+      "build_time": "2025-07-14T17:51:55Z",
+      "overrides": { "folder": "SGO TR", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_st_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Secret%20TR%20%28July%2003%2C%202025%29-393/driving_policy_st_tinygrad.pkl",
+              "sha256": "1b1f3a8b5e448589da9395b46b75f1e5878f8578046df8eba1c8ff19986f8d61"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_st_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Secret%20TR%20%28July%2003%2C%202025%29-393/driving_policy_st_metadata.pkl",
+              "sha256": "4deffd2d573978fd7ee5825fe0f3812821c4fb9b1cef45c02746e18e644d9973"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_st_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Secret%20TR%20%28July%2003%2C%202025%29-393/driving_vision_st_tinygrad.pkl",
+              "sha256": "41d688052ff8a68272475055a835a4ef1f0972d0e561c3217d19461ed1085d87"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_st_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Secret%20TR%20%28July%2003%2C%202025%29-393/driving_vision_st_metadata.pkl",
+              "sha256": "4ac79339651fe5d1e1cfe4c9ff51402d87ab37746bfad41cc3f714cef4d845e4"
+            }
+          }
+        }
+      ]
     }
   ]
 }
