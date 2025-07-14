@@ -2500,7 +2500,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 60,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "13",
       "build_time": "2025-07-14T22:53:57Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
