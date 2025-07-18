@@ -2589,6 +2589,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "TR16",
+      "display_name": "Tomb Raider 16 (July 18, 2025)",
+      "is_20hz": true,
+      "ref": "f838c7880486edcae35b518d017e7d4a8b882221",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 62,
+      "minimum_selector_version": "7",
+      "generation": "11",
+      "build_time": "2025-07-18T23:50:31Z",
+      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_tr16_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled3/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-399/driving_policy_tr16_tinygrad.pkl",
+              "sha256": "a7e0c2ab2bc2162e3ba51cac7aca545f17c05f4223415457d567a0510d341e81"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_tr16_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled3/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-399/driving_policy_tr16_metadata.pkl",
+              "sha256": "d510d21db21c0b2151829901a2a09a155b0f647c394518afe3214f1d9fd3f2f2"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_tr16_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled3/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-399/driving_vision_tr16_tinygrad.pkl",
+              "sha256": "46b2a9496886a1f67c6653a4a3bff8b3eabb66dabe6cd514d527fe33062b2d89"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_tr16_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled3/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-399/driving_vision_tr16_metadata.pkl",
+              "sha256": "cd99e14e46b5dfa60a2b539d74371052ecb4cb5a9907a5b22a8e12b179b1f539"
+            }
+          }
+        }
+      ]
     }
   ]
 }
