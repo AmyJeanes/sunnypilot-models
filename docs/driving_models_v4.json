@@ -2540,6 +2540,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "LTR1",
+      "display_name": "Le Tomb Raider 14h (July 17, 2025)",
+      "is_20hz": true,
+      "ref": "29b3791dbb8f756aee9118fc946bd1ed8588a936",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 61,
+      "minimum_selector_version": "7",
+      "generation": "11",
+      "build_time": "2025-07-18T01:42:59Z",
+      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_ltr1_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled3/model-Le%20Tomb%20Raider%2014h%20%28July%2017%2C%202025%29-398/driving_policy_ltr1_tinygrad.pkl",
+              "sha256": "52e5d5818d7334960724bf9524c3e0ff5ec7f39c944bbfc1b9b27b5ce2b79134"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_ltr1_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled3/model-Le%20Tomb%20Raider%2014h%20%28July%2017%2C%202025%29-398/driving_policy_ltr1_metadata.pkl",
+              "sha256": "a91e15f2ec99f986a1c33a76de093c8cf1e39c4ac5b7b8c24f291087ad7e0c42"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_ltr1_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled3/model-Le%20Tomb%20Raider%2014h%20%28July%2017%2C%202025%29-398/driving_vision_ltr1_tinygrad.pkl",
+              "sha256": "0f7c45b1f630f6c8004f01f6a0b8fed5aef29e50f1ca4d6a0c05321e76914952"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_ltr1_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled3/model-Le%20Tomb%20Raider%2014h%20%28July%2017%2C%202025%29-398/driving_vision_ltr1_metadata.pkl",
+              "sha256": "cd99e14e46b5dfa60a2b539d74371052ecb4cb5a9907a5b22a8e12b179b1f539"
+            }
+          }
+        }
+      ]
     }
   ]
 }
