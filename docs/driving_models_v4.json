@@ -1416,7 +1416,7 @@
     },
     {
       "short_name": "DTR",
-      "display_name": "Down to Ride (Revision: May 10, 2025)",
+      "display_name": "Down to Ride (May 10, 2025)",
       "is_20hz": true,
       "ref": "1b667ec9a3019bd0af35f38afabc201fdde50812",
       "environment": "development",
@@ -1661,7 +1661,7 @@
     },
     {
       "short_name": "DTRv3",
-      "display_name": "Down To Ride (Revision: May 30, 2025)",
+      "display_name": "Down To Ride v3 (May 30, 2025)",
       "is_20hz": true,
       "ref": "9f1294540cdc93c3c5f1a011e78da429418fd7a7",
       "environment": "development",
@@ -2249,7 +2249,7 @@
     },
     {
       "short_name": "DTRv4",
-      "display_name": "Down to Ride (Revision: July 07, 2025)",
+      "display_name": "Down to Ride v4 (July 07, 2025)",
       "is_20hz": true,
       "ref": "f920cbafec6794e7a5bf9222c575fb5652510746",
       "environment": "development",
@@ -2347,7 +2347,7 @@
     },
     {
       "short_name": "DTRv5",
-      "display_name": "Down to Ride (Revision: July 08, 2025)",
+      "display_name": "Down to Ride v5 (July 08, 2025)",
       "is_20hz": true,
       "ref": "5b405920ec9511e146432de08171d6f93295248b",
       "environment": "development",
