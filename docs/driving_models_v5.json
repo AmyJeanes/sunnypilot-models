@@ -2751,6 +2751,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "SLMV1",
+      "display_name": "Space Lab Model v1 (July 24, 2025)",
+      "is_20hz": true,
+      "ref": "148a43b0a74d5fa883ec0499b461ab51a070ba56",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 65,
+      "minimum_selector_version": "1",
+      "generation": "11",
+      "build_time": "2025-07-24T22:46:33Z",
+      "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_slmv1_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Space%20Lab%20Model%20v1%20%28July%2024%2C%202025%29-548/driving_policy_slmv1_tinygrad.pkl",
+              "sha256": "f4917f657ff08661630eb781998df07a319782f2a4ee9477b9d00035fee37d71"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_slmv1_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Space%20Lab%20Model%20v1%20%28July%2024%2C%202025%29-548/driving_policy_slmv1_metadata.pkl",
+              "sha256": "e401267e9713c25289cb3d8e8d7ef2ccf1dec81b0b33c63cdeabeb726e5f0bc4"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_slmv1_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Space%20Lab%20Model%20v1%20%28July%2024%2C%202025%29-548/driving_vision_slmv1_tinygrad.pkl",
+              "sha256": "84bf38dc65c59a6f679256b93cd12193a0cd99a2a30b6694625573c2ff40fa82"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_slmv1_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Space%20Lab%20Model%20v1%20%28July%2024%2C%202025%29-548/driving_vision_slmv1_metadata.pkl",
+              "sha256": "08bf5d9a05096d0271065089a4ec2cf66d02dcc584b74a25d7c371b24d99aa6d"
+            }
+          }
+        }
+      ]
     }
   ]
 }
