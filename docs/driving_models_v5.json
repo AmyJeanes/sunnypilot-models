@@ -2861,7 +2861,7 @@
       "minimum_selector_version": "1",
       "generation": "11",
       "build_time": "2025-07-26T23:24:54Z",
-      "overrides": { "folder": "Simple Plan Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
