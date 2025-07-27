@@ -51,7 +51,7 @@ def get_generation_and_selector(short_name, bundles):
     latest = max(candidates, key=lambda b: b.get("index", 0))
     return latest["generation"], latest["minimum_selector_version"]
   # Fallback
-  return "11", "7"
+  return "11", "1"
 
 def main():
   parser = argparse.ArgumentParser(description="Update driving_models JSON with new recompiled models")
