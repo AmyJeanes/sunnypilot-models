@@ -2460,7 +2460,7 @@
     },
     {
       "short_name": "TR15V2",
-      "display_name": "Tomb Raider 15 rev-2 (July 11, 2025)",
+      "display_name": "Tomb Raider 15 v2 (July 11, 2025)",
       "is_20hz": true,
       "ref": "ed38ca8cc998f0a2b47cde29da11b782e4551e8b",
       "environment": "development",
