@@ -53,6 +53,20 @@ def get_generation_and_selector(short_name, bundles):
   # Fallback
   return "11", "8"
 
+def extract_date_from_display_name(display_name):
+  date = re.search(r'\(([^)]+)\)', display_name)
+  if not date:
+    return ""
+  return date.group(1)
+
+def parse_date(date_str):
+  # Try to parse "Month Day, Year" to a sortable tuple (year, month, day)
+  import datetime
+  try:
+    return datetime.datetime.strptime(date_str, "%B %d, %Y")
+  except Exception:
+    return datetime.datetime.min
+
 def main():
   parser = argparse.ArgumentParser(description="Update driving_models JSON with new recompiled models")
   parser.add_argument("--json-path", required=True, help="Path to driving_models_vX.json")
@@ -62,6 +76,7 @@ def main():
   parser.add_argument("--long", required=False, type=str, default=".3", help="long smooth (decimal, e.g. 0.3)")
   parser.add_argument("--generation", required=False, type=str, default=None, help="Model generation")
   parser.add_argument("--version", required=False, type=str, default=None, help="Minimum selector version")
+  parser.add_argument("--sort-by-date", required=False, action="store_true", help="Sort bundles by date in display_name")
   args = parser.parse_args()
   recompiled_dir_name = os.path.basename(os.path.normpath(args.recompiled_dir))
 
@@ -115,6 +130,15 @@ def main():
     bundle["is_20hz"] = meta.get("is_20hz", bundle["is_20hz"])
     bundle["build_time"] = meta.get("build_time", bundle.get("build_time"))
     print(f"Updated bundle for ref: {ref}")
+
+  if args.sort_by_date:
+    def bundle_sort_key(b):
+      date_str = extract_date_from_display_name(b.get("display_name", ""))
+      return parse_date(date_str)
+    driving_models_json["bundles"].sort(key=bundle_sort_key)
+    # After sorting, arrange indexes from 0
+    for idx, b in enumerate(driving_models_json["bundles"], 0):
+      b["index"] = idx
 
   with open(args.json_path, "w", encoding="utf-8") as f:
     json_text = json.dumps(driving_models_json, indent=2)
