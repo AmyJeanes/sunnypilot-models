@@ -83,7 +83,12 @@ def main():
       index = max([b.get("index", 0) for b in driving_models_json["bundles"] if isinstance(b.get("index", 0), int)], default=0) + 1
       fallback_generation, fallback_version = get_generation_and_selector(short_name, driving_models_json["bundles"])
       generation = args.generation if args.generation is not None else fallback_generation
-      version = args.version if args.version is not None else fallback_version
+
+      version = args.version
+      if not version and (meta_version := meta.get("minimum_selector_version", -1)) != -1:
+          version = str(meta_version)
+      version = version or fallback_version
+
       filtered_models = [
         m for m in meta["models"]
         if "big" not in m["artifact"]["file_name"].lower()
