@@ -51,7 +51,7 @@ def get_generation_and_selector(short_name, bundles):
     latest = max(candidates, key=lambda b: b.get("index", 0))
     return latest["generation"], latest["minimum_selector_version"]
   # Fallback
-  return "11", "1"
+  return "11", "8"
 
 def main():
   parser = argparse.ArgumentParser(description="Update driving_models JSON with new recompiled models")
@@ -114,6 +114,7 @@ def main():
     bundle = ref_to_bundle[ref]
     bundle["short_name"] = bundle["short_name"].upper()
     update_bundle_models(bundle, meta["models"], folder, recompiled_dir_name)
+    bundle["minimum_selector_version"] = version if args.version is not None else bundle["minimum_selector_version"]
     bundle["display_name"] = meta.get("display_name", bundle["display_name"])
     bundle["is_20hz"] = meta.get("is_20hz", bundle["is_20hz"])
     bundle["build_time"] = meta.get("build_time", bundle.get("build_time"))
