@@ -879,20 +879,20 @@
           "artifact": {
             "file_name": "supercombo_lhv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Last%20Horizon%20V2%20%28November%2022%2C%202024%29-505/supercombo_lhv2_tinygrad.pkl",
-              "sha256": "0c46eef6bae4bcad9b02ad3bd9b5b7662b4c3fc39bc019a89be4bff54739ff85"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Last%20Horizon%20V2%20%28November%2022%2C%202024%29-78/supercombo_lhv2_tinygrad.pkl",
+              "sha256": "4122a60aea0146388e74207fe68e90253fc058421dd6de190d14c68c73fce33b"
             }
           },
           "metadata": {
             "file_name": "supercombo_lhv2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Last%20Horizon%20V2%20%28November%2022%2C%202024%29-505/supercombo_lhv2_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Last%20Horizon%20V2%20%28November%2022%2C%202024%29-78/supercombo_lhv2_metadata.pkl",
               "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
             }
           }
         }
       ],
-      "build_time": "2025-07-23T21:18:24Z"
+      "build_time": "2025-07-29T15:19:45Z"
     },
     {
       "short_name": "ALABAMA",
