@@ -76,6 +76,7 @@ def main():
   parser.add_argument("--long", required=False, type=str, default=".3", help="long smooth (decimal, e.g. 0.3)")
   parser.add_argument("--generation", required=False, type=str, default=None, help="Model generation")
   parser.add_argument("--version", required=False, type=str, default=None, help="Minimum selector version")
+  parser.add_argument("--set-min-version", required=False, type=str, default=None, help="Set minimum selector version for all tinygrad models")
   parser.add_argument("--sort-by-date", required=False, action="store_true", help="Sort bundles by date in display_name")
   args = parser.parse_args()
   recompiled_dir_name = os.path.basename(os.path.normpath(args.recompiled_dir))
@@ -83,7 +84,7 @@ def main():
   with open(args.json_path, "r", encoding="utf-8") as f:
     driving_models_json = json.load(f)
 
-  ref_to_bundle = {b["ref"]: b for b in driving_models_json["bundles"]}
+  ref_to_bundle = {bundle["ref"]: bundle for bundle in driving_models_json["bundles"]}
 
   for meta_path in find_metadata_files(args.recompiled_dir):
     with open(meta_path, "r", encoding="utf-8") as f:
@@ -95,7 +96,7 @@ def main():
     if ref not in ref_to_bundle:
       print(f"Adding new bundle for ref: {ref}")
       folder_key = args.model_folder or f"{short_name.split()[0].upper()} Models"
-      index = max([b.get("index", 0) for b in driving_models_json["bundles"] if isinstance(b.get("index", 0), int)], default=0) + 1
+      index = max([bundle.get("index", 0) for bundle in driving_models_json["bundles"] if isinstance(bundle.get("index", 0), int)], default=0) + 1
       fallback_generation, fallback_version = get_generation_and_selector(short_name, driving_models_json["bundles"])
       generation = args.generation if args.generation is not None else fallback_generation
       version = args.version if args.version is not None else fallback_version
@@ -125,20 +126,24 @@ def main():
     bundle = ref_to_bundle[ref]
     bundle["short_name"] = bundle["short_name"].upper()
     update_bundle_models(bundle, meta["models"], folder, recompiled_dir_name)
-    bundle["minimum_selector_version"] = version if args.version is not None else bundle["minimum_selector_version"]
     bundle["display_name"] = meta.get("display_name", bundle["display_name"])
     bundle["is_20hz"] = meta.get("is_20hz", bundle["is_20hz"])
     bundle["build_time"] = meta.get("build_time", bundle.get("build_time"))
     print(f"Updated bundle for ref: {ref}")
 
+  if args.set_min_version is not None:
+    for bundle in driving_models_json["bundles"]:
+      if bundle.get("runner") == "tinygrad":
+        bundle["minimum_selector_version"] = args.set_min_version
+
   if args.sort_by_date:
-    def bundle_sort_key(b):
-      date_str = extract_date_from_display_name(b.get("display_name", ""))
+    def bundle_sort_key(bundle):
+      date_str = extract_date_from_display_name(bundle.get("display_name", ""))
       return parse_date(date_str)
     driving_models_json["bundles"].sort(key=bundle_sort_key)
     # After sorting, arrange indexes from 0
-    for idx, b in enumerate(driving_models_json["bundles"], 0):
-      b["index"] = idx
+    for idx, bundle in enumerate(driving_models_json["bundles"], 0):
+      bundle["index"] = idx
 
   with open(args.json_path, "w", encoding="utf-8") as f:
     json_text = json.dumps(driving_models_json, indent=2)
