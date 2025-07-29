@@ -609,7 +609,7 @@
     {
       "short_name": "GBV3",
       "display_name": "Game Boy V3 (September 29, 2024)",
-      "is_20hz": false,
+      "is_20hz": true,
       "ref": "3b08501db379d4f718e7a76a249f1a0cf8f25db7",
       "environment": "development",
       "runner": "tinygrad",
@@ -623,20 +623,20 @@
           "artifact": {
             "file_name": "supercombo_gbv3_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Game%20Boy%20V3%20%28September%2029%2C%202024%29-497/supercombo_gbv3_tinygrad.pkl",
-              "sha256": "4a27f5651086f44314f413688f952695bf6ff574df5a44c84aa6ffb60afa1d92"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Game%20Boy%20V3%20%28September%2029%2C%202024%29-78/supercombo_gbv3_tinygrad.pkl",
+              "sha256": "8991ffa07a603eab5b263bc85bf3d69823dbdd15e1f94a5dd2619abd53d418cb"
             }
           },
           "metadata": {
             "file_name": "supercombo_gbv3_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Game%20Boy%20V3%20%28September%2029%2C%202024%29-497/supercombo_gbv3_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Game%20Boy%20V3%20%28September%2029%2C%202024%29-78/supercombo_gbv3_metadata.pkl",
               "sha256": "bed3c9ec9f85fa3a7a154bdf08dd4c5beb6496b25f05d0d915914785f7aa96b4"
             }
           }
         }
       ],
-      "build_time": "2025-07-23T20:36:29Z"
+      "build_time": "2025-07-29T15:01:30Z"
     },
     {
       "short_name": "MLSIM-V0",
