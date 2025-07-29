@@ -1039,20 +1039,20 @@
           "artifact": {
             "file_name": "supercombo_na_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-North%20America%20%28December%2016%2C%202024%29-510/supercombo_na_tinygrad.pkl",
-              "sha256": "4bbfa0fd5e7d952804a75fa7e2231e50a51689df9bd0989806897aecd8c56768"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-North%20America%20%28December%2016%2C%202024%29-78/supercombo_na_tinygrad.pkl",
+              "sha256": "e34dca22b1c1af98e8b6b37e5903c723b3b790544c582e743dc12c8c8c7c5494"
             }
           },
           "metadata": {
             "file_name": "supercombo_na_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-North%20America%20%28December%2016%2C%202024%29-510/supercombo_na_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-North%20America%20%28December%2016%2C%202024%29-78/supercombo_na_metadata.pkl",
               "sha256": "9b5ae1e33960bacce8811ee644dcf700ee55c58779e251ce31470f2d0882b62d"
             }
           }
         }
       ],
-      "build_time": "2025-07-23T21:44:27Z"
+      "build_time": "2025-07-29T15:22:26Z"
     },
     {
       "short_name": "NATIONAL-PUBLIC-RADIO",
