@@ -195,6 +195,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "TR1",
+      "display_name": "test rev1 (July 21, 2025)",
+      "is_20hz": true,
+      "ref": "355d9c77a6094ea8e17c0ece0f2a4fda36a71b05",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 4,
+      "minimum_selector_version": "8",
+      "generation": "11",
+      "build_time": "2025-07-29T23:41:36Z",
+      "overrides": { "folder": "TR1 Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_tr1_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled9/model-test%20rev1%20%28July%2021%2C%202025%29-63/driving_vision_tr1_tinygrad.pkl",
+              "sha256": "2c42c220fb82cae181e480a8d2870e99ab29381d84e0cc6704c46f0db9082876"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_tr1_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled9/model-test%20rev1%20%28July%2021%2C%202025%29-63/driving_vision_tr1_metadata.pkl",
+              "sha256": "cd99e14e46b5dfa60a2b539d74371052ecb4cb5a9907a5b22a8e12b179b1f539"
+            }
+          }
+        },
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_tr1_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled9/model-test%20rev1%20%28July%2021%2C%202025%29-63/driving_policy_tr1_tinygrad.pkl",
+              "sha256": "3a9bbf61a98ed7bc1633c5ff933d103a611c92a00ce1a337d67dd499025b2bc4"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_tr1_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled9/model-test%20rev1%20%28July%2021%2C%202025%29-63/driving_policy_tr1_metadata.pkl",
+              "sha256": "b887afb5a424012b315f29f66a550e3f01a336a1536c211eb843b7dcf5c55b25"
+            }
+          }
+        }
+      ]
     }
   ]
 }
