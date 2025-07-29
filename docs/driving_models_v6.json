@@ -1007,20 +1007,20 @@
           "artifact": {
             "file_name": "supercombo_np_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Null%20Pointer%20%28December%2013%2C%202024%29-509/supercombo_np_tinygrad.pkl",
-              "sha256": "455a06da71d6c7cb62e7ff05366580056769bd811f02bf1ca9ec09a1d4d1f761"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Null%20Pointer%20%28December%2013%2C%202024%29-78/supercombo_np_tinygrad.pkl",
+              "sha256": "53603e2e9866a08562ffe35685cd8237d8aaabb2313b1cc5c41842890334b2b5"
             }
           },
           "metadata": {
             "file_name": "supercombo_np_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Null%20Pointer%20%28December%2013%2C%202024%29-509/supercombo_np_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Null%20Pointer%20%28December%2013%2C%202024%29-78/supercombo_np_metadata.pkl",
               "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
             }
           }
         }
       ],
-      "build_time": "2025-07-23T21:39:24Z"
+      "build_time": "2025-07-29T15:45:56Z"
     },
     {
       "short_name": "NORTH-AMERICA",
