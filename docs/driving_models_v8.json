@@ -10,7 +10,7 @@
       "index": 0,
       "minimum_selector_version": "1",
       "generation": "11",
-      "build_time": "2025-07-23T23:59:12Z",
+      "build_time": "2025-07-28T23:58:34Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -18,14 +18,14 @@
           "artifact": {
             "file_name": "driving_policy_tr13_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Tomb%20Raider%2013%20%28June%2027%2C%202025%29-532/driving_policy_tr13_tinygrad.pkl",
-              "sha256": "8484ce6e6acccb369bd90435a20edda21d59878c40d350333a8c020f3e515eb5"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled6/model-Tomb%20Raider%2013%20%28June%2027%2C%202025%29-63/driving_policy_tr13_tinygrad.pkl",
+              "sha256": "184c295bf9bc0cd40b4ab886fdf201951ee9ebc7163452ae2663b8b4b39413dd"
             }
           },
           "metadata": {
             "file_name": "driving_policy_tr13_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Tomb%20Raider%2013%20%28June%2027%2C%202025%29-532/driving_policy_tr13_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled6/model-Tomb%20Raider%2013%20%28June%2027%2C%202025%29-63/driving_policy_tr13_metadata.pkl",
               "sha256": "55cef49b910f22163f95dab47525ebaaddc9e1cd51f2d8a82f781fdfd9a3d69f"
             }
           }
@@ -35,14 +35,14 @@
           "artifact": {
             "file_name": "driving_vision_tr13_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Tomb%20Raider%2013%20%28June%2027%2C%202025%29-532/driving_vision_tr13_tinygrad.pkl",
-              "sha256": "da0a409ce9f17d07913ee9e78ed81f2fa909a5400ec9b785cdbbed27f8dfe068"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled6/model-Tomb%20Raider%2013%20%28June%2027%2C%202025%29-63/driving_vision_tr13_tinygrad.pkl",
+              "sha256": "bace6ca5182303fcbe8adca3ab9068c98981c2830c56422c492e5da765e10d47"
             }
           },
           "metadata": {
             "file_name": "driving_vision_tr13_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Tomb%20Raider%2013%20%28June%2027%2C%202025%29-532/driving_vision_tr13_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled6/model-Tomb%20Raider%2013%20%28June%2027%2C%202025%29-63/driving_vision_tr13_metadata.pkl",
               "sha256": "4ac79339651fe5d1e1cfe4c9ff51402d87ab37746bfad41cc3f714cef4d845e4"
             }
           }
@@ -59,7 +59,7 @@
       "index": 1,
       "minimum_selector_version": "1",
       "generation": "11",
-      "build_time": "2025-07-24T01:28:07Z",
+      "build_time": "2025-07-28T23:58:58Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -67,14 +67,14 @@
           "artifact": {
             "file_name": "driving_policy_tr16_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-543/driving_policy_tr16_tinygrad.pkl",
-              "sha256": "832380729d041eed7b3cc91d6a5ca00bb828ec1d08651eedb9e89b5762a6a3a8"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled6/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-63/driving_policy_tr16_tinygrad.pkl",
+              "sha256": "5caa4e70a7b27614a9b482c3167e7549c9593f382831a5184955a6063f2777cf"
             }
           },
           "metadata": {
             "file_name": "driving_policy_tr16_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-543/driving_policy_tr16_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled6/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-63/driving_policy_tr16_metadata.pkl",
               "sha256": "d510d21db21c0b2151829901a2a09a155b0f647c394518afe3214f1d9fd3f2f2"
             }
           }
@@ -84,14 +84,14 @@
           "artifact": {
             "file_name": "driving_vision_tr16_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-543/driving_vision_tr16_tinygrad.pkl",
-              "sha256": "aec9e690ea1762ddc7565d1153d83e1ba18d7b3fc47d72d19c39bca5e6cd772d"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled6/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-63/driving_vision_tr16_tinygrad.pkl",
+              "sha256": "5ee6999496c1e337e7c84523b544fee21e029a2987945f9616c793ad0c3907f9"
             }
           },
           "metadata": {
             "file_name": "driving_vision_tr16_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-543/driving_vision_tr16_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled6/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-63/driving_vision_tr16_metadata.pkl",
               "sha256": "cd99e14e46b5dfa60a2b539d74371052ecb4cb5a9907a5b22a8e12b179b1f539"
             }
           }
