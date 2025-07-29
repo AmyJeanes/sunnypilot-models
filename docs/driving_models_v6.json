@@ -2174,7 +2174,7 @@
       "index": 53,
       "minimum_selector_version": "8",
       "generation": "11",
-      "build_time": "2025-07-24T00:23:32Z",
+      "build_time": "2025-07-29T16:43:41Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2182,14 +2182,14 @@
           "artifact": {
             "file_name": "driving_policy_ctr_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Cookiemonster%20Tomb%20Raider%20%28July%2002%2C%202025%29-535/driving_policy_ctr_tinygrad.pkl",
-              "sha256": "eb7b079906d42ad75eea2d1cb423caa1a156ec79a7fa23dab4d0ecd77cae5cef"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Cookiemonster%20Tomb%20Raider%20%28July%2002%2C%202025%29-78/driving_policy_ctr_tinygrad.pkl",
+              "sha256": "359d9db7d5f83658428a71c7e2d59047103dad9c2743f1650582fe8b4fb4cfcf"
             }
           },
           "metadata": {
             "file_name": "driving_policy_ctr_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Cookiemonster%20Tomb%20Raider%20%28July%2002%2C%202025%29-535/driving_policy_ctr_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Cookiemonster%20Tomb%20Raider%20%28July%2002%2C%202025%29-78/driving_policy_ctr_metadata.pkl",
               "sha256": "4deffd2d573978fd7ee5825fe0f3812821c4fb9b1cef45c02746e18e644d9973"
             }
           }
@@ -2199,14 +2199,14 @@
           "artifact": {
             "file_name": "driving_vision_ctr_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Cookiemonster%20Tomb%20Raider%20%28July%2002%2C%202025%29-535/driving_vision_ctr_tinygrad.pkl",
-              "sha256": "cfe26a161d38f0664664f1c322fa8ef1fac8d992b7a99f3629fc12413951b2da"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Cookiemonster%20Tomb%20Raider%20%28July%2002%2C%202025%29-78/driving_vision_ctr_tinygrad.pkl",
+              "sha256": "597673fa712d16ba8aa09dc99ba96c384c8b01085e10db14b2af77ef0bbe46b9"
             }
           },
           "metadata": {
             "file_name": "driving_vision_ctr_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Cookiemonster%20Tomb%20Raider%20%28July%2002%2C%202025%29-535/driving_vision_ctr_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Cookiemonster%20Tomb%20Raider%20%28July%2002%2C%202025%29-78/driving_vision_ctr_metadata.pkl",
               "sha256": "4ac79339651fe5d1e1cfe4c9ff51402d87ab37746bfad41cc3f714cef4d845e4"
             }
           }
