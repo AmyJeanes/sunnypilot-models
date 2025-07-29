@@ -1439,7 +1439,7 @@
       "index": 38,
       "minimum_selector_version": "8",
       "generation": "11",
-      "build_time": "2025-07-23T22:29:06Z",
+      "build_time": "2025-07-29T16:55:44Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1447,14 +1447,14 @@
           "artifact": {
             "file_name": "driving_vision_tr7_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-518/driving_vision_tr7_tinygrad.pkl",
-              "sha256": "1e2f2511427b38a5b148bbf3dde54abaf0c4d84ac57ed7f7e8e38d0a705a5071"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-78/driving_vision_tr7_tinygrad.pkl",
+              "sha256": "1e0b0ce37036d7d40b0ab5ee255dba2b56a339bc3847730dd0b9388d6d2a91ab"
             }
           },
           "metadata": {
             "file_name": "driving_vision_tr7_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-518/driving_vision_tr7_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-78/driving_vision_tr7_metadata.pkl",
               "sha256": "6cbd167c1c1d80a7b73687518d91292d7f2c2e63bae76af171ee6c7dea477261"
             }
           }
@@ -1464,14 +1464,14 @@
           "artifact": {
             "file_name": "driving_policy_tr7_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-518/driving_policy_tr7_tinygrad.pkl",
-              "sha256": "b1b96322dc9d46800ad4510060d72cf03f9d784a6558f16fc2988f733f996e13"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-78/driving_policy_tr7_tinygrad.pkl",
+              "sha256": "af2ce53b2321b1fd96221158ecbef7589aca1741e717ea70a8b23a99431e5543"
             }
           },
           "metadata": {
             "file_name": "driving_policy_tr7_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-518/driving_policy_tr7_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-78/driving_policy_tr7_metadata.pkl",
               "sha256": "b966eadc55529e449c684e0dc1c21daa4461c8a5c106ba57b7e4a6d8627c2906"
             }
           }
