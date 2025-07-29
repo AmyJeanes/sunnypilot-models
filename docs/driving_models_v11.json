@@ -108,7 +108,7 @@
       "index": 2,
       "minimum_selector_version": "10",
       "generation": "11",
-      "build_time": "2025-07-29T16:58:07Z",
+      "build_time": "2025-07-29T23:22:55Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -116,14 +116,14 @@
           "artifact": {
             "file_name": "driving_policy_vmcm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Vibe%20Model%20%5BCustom%20Model%5D%20%28July%2023%2C%202025%29-78/driving_policy_vmcm_tinygrad.pkl",
-              "sha256": "0d4585e93efc41cab89925918fb3759821e9efb774942bf4eb119d22b6a344b2"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled9/model-Vibe%20Model%20%5BCustom%20Model%5D%20%28July%2023%2C%202025%29-83/driving_policy_vmcm_tinygrad.pkl",
+              "sha256": "ed4ace572e488ab456ea22c8e9b54bb1dfdb45a56697665b7a5b8369c19be0b6"
             }
           },
           "metadata": {
             "file_name": "driving_policy_vmcm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Vibe%20Model%20%5BCustom%20Model%5D%20%28July%2023%2C%202025%29-78/driving_policy_vmcm_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled9/model-Vibe%20Model%20%5BCustom%20Model%5D%20%28July%2023%2C%202025%29-83/driving_policy_vmcm_metadata.pkl",
               "sha256": "2894a56ed087a28b6c65b14b749e39e3d272251bc2923f9f3cca2140d4b1b4c3"
             }
           }
@@ -133,14 +133,14 @@
           "artifact": {
             "file_name": "driving_vision_vmcm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Vibe%20Model%20%5BCustom%20Model%5D%20%28July%2023%2C%202025%29-78/driving_vision_vmcm_tinygrad.pkl",
-              "sha256": "e3bb8ceeb0356dae720f5f3ff8cff692be89016bad39bde44ed4aa24b09b0218"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled9/model-Vibe%20Model%20%5BCustom%20Model%5D%20%28July%2023%2C%202025%29-83/driving_vision_vmcm_tinygrad.pkl",
+              "sha256": "cd06341e006838eb45d2ec1ace715245293b7a373d54c5adff1af9f36ebeefa0"
             }
           },
           "metadata": {
             "file_name": "driving_vision_vmcm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Vibe%20Model%20%5BCustom%20Model%5D%20%28July%2023%2C%202025%29-78/driving_vision_vmcm_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled9/model-Vibe%20Model%20%5BCustom%20Model%5D%20%28July%2023%2C%202025%29-83/driving_vision_vmcm_metadata.pkl",
               "sha256": "d4961bc5e060cb7a1fa5f906a38525a01b46d5f07cfd587a67d0e779fb9f12c9"
             }
           }
