@@ -7,10 +7,10 @@
       "ref": "f838c7880486edcae35b518d017e7d4a8b882221",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 61,
-      "minimum_selector_version": "8",
+      "index": 0,
+      "minimum_selector_version": "10",
       "generation": "11",
-      "build_time": "2025-07-29T14:29:23Z",
+      "build_time": "2025-07-29T23:23:15Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -18,14 +18,14 @@
           "artifact": {
             "file_name": "driving_policy_tr16_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-78/driving_policy_tr16_tinygrad.pkl",
-              "sha256": "ce78acca902119e6676cb7a512bb8f7c9ac576e968512e1057f8f0691fe50419"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled9/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-83/driving_policy_tr16_tinygrad.pkl",
+              "sha256": "b0bf4aa4353d57d323b3b43066d08b2360183f493ee43068012fd9d1093787cc"
             }
           },
           "metadata": {
             "file_name": "driving_policy_tr16_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-78/driving_policy_tr16_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled9/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-83/driving_policy_tr16_metadata.pkl",
               "sha256": "d510d21db21c0b2151829901a2a09a155b0f647c394518afe3214f1d9fd3f2f2"
             }
           }
@@ -35,14 +35,14 @@
           "artifact": {
             "file_name": "driving_vision_tr16_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-78/driving_vision_tr16_tinygrad.pkl",
-              "sha256": "a31b14b6214cf73f4ed40ae3647f857d9f6faba7baa0f521d40c0c3e25533349"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled9/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-83/driving_vision_tr16_tinygrad.pkl",
+              "sha256": "07ecf902bd79a2ff2374e1fba7c6f5d96111dddc878751eeb2922c44d71579fa"
             }
           },
           "metadata": {
             "file_name": "driving_vision_tr16_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-78/driving_vision_tr16_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled9/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-83/driving_vision_tr16_metadata.pkl",
               "sha256": "cd99e14e46b5dfa60a2b539d74371052ecb4cb5a9907a5b22a8e12b179b1f539"
             }
           }
@@ -56,8 +56,8 @@
       "ref": "e4b6a2736580dc427473bcf8a6e3b08eb352edd4",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 62,
-      "minimum_selector_version": "8",
+      "index": 1,
+      "minimum_selector_version": "10",
       "generation": "11",
       "build_time": "2025-07-29T14:55:21Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
@@ -105,8 +105,8 @@
       "ref": "96c277642454fb844728ce26b8b91320decf90eb",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 63,
-      "minimum_selector_version": "8",
+      "index": 2,
+      "minimum_selector_version": "10",
       "generation": "11",
       "build_time": "2025-07-29T16:58:07Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
@@ -154,8 +154,8 @@
       "ref": "7cc9697dfdbed9e93451f895735ce93e866806ef",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 64,
-      "minimum_selector_version": "8",
+      "index": 3,
+      "minimum_selector_version": "10",
       "generation": "11",
       "build_time": "2025-07-29T16:08:08Z",
       "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
