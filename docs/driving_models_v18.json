@@ -1,0 +1,151 @@
+{
+  "bundles": [
+    {
+      "short_name": "TR13",
+      "display_name": "Tomb Raider 13 (June 27, 2025)",
+      "is_20hz": true,
+      "ref": "eceeaabcebcf58716ae4a018930793d89c96777b",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 0,
+      "minimum_selector_version": "8",
+      "generation": "11",
+      "build_time": "2025-07-29T04:59:40Z",
+      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_tr13_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled14/recompiled14/driving_policy_tr13_tinygrad.pkl",
+              "sha256": "74a266b89cb1c0238292cdb21231c5ee93ca11296f23df4ee8a56873fe14bb2a"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_tr13_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled14/recompiled14/driving_policy_tr13_metadata.pkl",
+              "sha256": "55cef49b910f22163f95dab47525ebaaddc9e1cd51f2d8a82f781fdfd9a3d69f"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_tr13_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled14/recompiled14/driving_vision_tr13_tinygrad.pkl",
+              "sha256": "d451fe3bd4c1627a61724dd909282eb8a57ecfde5c3ddd40dd7f094d8351e177"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_tr13_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled14/recompiled14/driving_vision_tr13_metadata.pkl",
+              "sha256": "4ac79339651fe5d1e1cfe4c9ff51402d87ab37746bfad41cc3f714cef4d845e4"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TR16",
+      "display_name": "Tomb Raider 16 (July 18, 2025)",
+      "is_20hz": true,
+      "ref": "f838c7880486edcae35b518d017e7d4a8b882221",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 1,
+      "minimum_selector_version": "8",
+      "generation": "11",
+      "build_time": "2025-07-29T04:59:59Z",
+      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_tr16_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled14/recompiled14/driving_policy_tr16_tinygrad.pkl",
+              "sha256": "465b0535f761280ed9dd2a9429412a43cc79a2da7b224dadc1fb319844014b19"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_tr16_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled14/recompiled14/driving_policy_tr16_metadata.pkl",
+              "sha256": "d510d21db21c0b2151829901a2a09a155b0f647c394518afe3214f1d9fd3f2f2"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_tr16_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled14/recompiled14/driving_vision_tr16_tinygrad.pkl",
+              "sha256": "ba26b412e347332225636338bd43991c8ffb71dd6ebcd9f3cd481229661c7fa0"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_tr16_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled14/recompiled14/driving_vision_tr16_metadata.pkl",
+              "sha256": "cd99e14e46b5dfa60a2b539d74371052ecb4cb5a9907a5b22a8e12b179b1f539"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TR16V2",
+      "display_name": "Tomb Raider 16v2 (July 21, 2025)",
+      "is_20hz": true,
+      "ref": "e4b6a2736580dc427473bcf8a6e3b08eb352edd4",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 2,
+      "minimum_selector_version": "8",
+      "generation": "11",
+      "build_time": "2025-07-29T05:00:38Z",
+      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_tr16v2_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled14/recompiled14/driving_policy_tr16v2_tinygrad.pkl",
+              "sha256": "d77a94f7c3c60674133d6bea087f1aaee2dfaeda3f78623cca7ed587bb6c0245"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_tr16v2_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled14/recompiled14/driving_policy_tr16v2_metadata.pkl",
+              "sha256": "b887afb5a424012b315f29f66a550e3f01a336a1536c211eb843b7dcf5c55b25"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_tr16v2_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled14/recompiled14/driving_vision_tr16v2_tinygrad.pkl",
+              "sha256": "252c7c06a028908b369783c9f2dfb58570ab197b4122c4139fc56b0c132891d7"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_tr16v2_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled14/recompiled14/driving_vision_tr16v2_metadata.pkl",
+              "sha256": "cd99e14e46b5dfa60a2b539d74371052ecb4cb5a9907a5b22a8e12b179b1f539"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
