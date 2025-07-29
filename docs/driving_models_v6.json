@@ -943,20 +943,20 @@
           "artifact": {
             "file_name": "supercombo_playstat_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-PlayStation%20%28December%2002%2C%202024%29-507/supercombo_playstat_tinygrad.pkl",
-              "sha256": "f04d2baf20adfa1c1b678159e9df060c368c154a98c9de0b12a34e0e12a17297"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-PlayStation%20%28December%2002%2C%202024%29-78/supercombo_playstat_tinygrad.pkl",
+              "sha256": "f07d40d996d55cafecc54a2216ea100e4d7ccad1a0713e9d2b6e7c0635ecd2aa"
             }
           },
           "metadata": {
             "file_name": "supercombo_playstat_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-PlayStation%20%28December%2002%2C%202024%29-507/supercombo_playstat_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-PlayStation%20%28December%2002%2C%202024%29-78/supercombo_playstat_metadata.pkl",
               "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
             }
           }
         }
       ],
-      "build_time": "2025-07-23T21:29:13Z"
+      "build_time": "2025-07-29T16:24:21Z"
     },
     {
       "short_name": "POSTAL-SERVICE",
