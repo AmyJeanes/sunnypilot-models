@@ -133,8 +133,7 @@ def main():
 
   if args.set_min_version is not None:
     for bundle in driving_models_json["bundles"]:
-      if bundle.get("runner") == "tinygrad":
-        bundle["minimum_selector_version"] = args.set_min_version
+      bundle["minimum_selector_version"] = args.set_min_version
 
   if args.sort_by_date:
     def bundle_sort_key(bundle):
