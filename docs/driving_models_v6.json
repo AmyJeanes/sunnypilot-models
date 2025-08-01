@@ -8,7 +8,7 @@
       "environment": "release",
       "runner": "snpe",
       "index": 0,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "0",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -49,7 +49,7 @@
       "environment": "release",
       "runner": "snpe",
       "index": 1,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "1",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -90,7 +90,7 @@
       "environment": "release",
       "runner": "snpe",
       "index": 2,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "1",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -131,7 +131,7 @@
       "environment": "release",
       "runner": "snpe",
       "index": 3,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "1",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -172,7 +172,7 @@
       "environment": "release",
       "runner": "snpe",
       "index": 4,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "1",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -213,7 +213,7 @@
       "environment": "release",
       "runner": "snpe",
       "index": 5,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "2",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -254,7 +254,7 @@
       "environment": "release",
       "runner": "snpe",
       "index": 6,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "3",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -295,7 +295,7 @@
       "environment": "release",
       "runner": "snpe",
       "index": 7,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "3",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -336,7 +336,7 @@
       "environment": "release",
       "runner": "snpe",
       "index": 8,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "3",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -377,7 +377,7 @@
       "environment": "release",
       "runner": "snpe",
       "index": 9,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "3",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -418,7 +418,7 @@
       "environment": "release",
       "runner": "snpe",
       "index": 10,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "3",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -459,7 +459,7 @@
       "environment": "release",
       "runner": "snpe",
       "index": 11,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "4",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -490,7 +490,7 @@
       "environment": "release",
       "runner": "snpe",
       "index": 12,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "4",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -521,7 +521,7 @@
       "environment": "development",
       "runner": "snpe",
       "index": 13,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "5",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -552,7 +552,7 @@
       "environment": "development",
       "runner": "snpe",
       "index": 14,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "6",
       "overrides": { "folder": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -583,7 +583,7 @@
       "environment": "development",
       "runner": "snpe",
       "index": 15,
-      "minimum_selector_version": "6",
+      "minimum_selector_version": "8",
       "generation": "7",
       "overrides": { "folder": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
