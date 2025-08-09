@@ -78,11 +78,15 @@ def main():
   parser.add_argument("--version", required=False, type=str, default=None, help="Minimum selector version")
   parser.add_argument("--set-min-version", required=False, type=str, default=None, help="Set minimum selector version for all tinygrad models")
   parser.add_argument("--sort-by-date", required=False, action="store_true", help="Sort bundles by date in display_name")
+  parser.add_argument("--tinygrad-ref", required=False, type=str, default=None, help="Set tinygrad_ref top-level key in json")
   args = parser.parse_args()
   recompiled_dir_name = os.path.basename(os.path.normpath(args.recompiled_dir))
 
   with open(args.json_path, "r", encoding="utf-8") as f:
     driving_models_json = json.load(f)
+
+  if args.tinygrad_ref is not None:
+    driving_models_json["tinygrad_ref"] = args.tinygrad_ref
 
   ref_to_bundle = {bundle["ref"]: bundle for bundle in driving_models_json["bundles"]}
 
