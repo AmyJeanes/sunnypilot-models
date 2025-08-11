@@ -2997,6 +2997,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "UVM",
+      "display_name": "UV Model (August 11, 2025)",
+      "is_20hz": true,
+      "ref": "df93b1a89d805a15e3c506a3fb6f9f9795fed858",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 70,
+      "minimum_selector_version": "8",
+      "generation": "11",
+      "build_time": "2025-08-11T18:15:29Z",
+      "overrides": { "folder": "UV Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_uvm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-UV%20Model%20%28August%2011%2C%202025%29-67/driving_vision_uvm_tinygrad.pkl",
+              "sha256": "e615f4ed706df2d2a5aced3afa3cafe2244f85c74f00bc2670a9709a03a17417"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_uvm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-UV%20Model%20%28August%2011%2C%202025%29-67/driving_vision_uvm_metadata.pkl",
+              "sha256": "5b95bc9029861fe640d55b383f633b3645e596a6cbbd9e2fcbea5ce6059a1fa8"
+            }
+          }
+        },
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_uvm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-UV%20Model%20%28August%2011%2C%202025%29-67/driving_policy_uvm_tinygrad.pkl",
+              "sha256": "188861fd3e61c0756bfbcea439ca0d830036f8266e59c2bac844334c315a7bfa"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_uvm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-UV%20Model%20%28August%2011%2C%202025%29-67/driving_policy_uvm_metadata.pkl",
+              "sha256": "49f6346e9caf090da4d96cc4b239deff033c0d31f937791e7240588a8091f32f"
+            }
+          }
+        }
+      ]
     }
   ]
 }
