@@ -3056,7 +3056,7 @@
       "runner": "tinygrad",
       "index": 71,
       "minimum_selector_version": "8",
-      "generation": "11",
+      "generation": "12",
       "build_time": "2025-08-12T22:28:54Z",
       "overrides": { "folder": "DTR Models", "lat": ".1", "long": ".3" },
       "models": [
