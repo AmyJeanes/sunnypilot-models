@@ -1587,7 +1587,7 @@
       "index": 41,
       "minimum_selector_version": "9",
       "generation": "11",
-      "build_time": "2025-07-29T15:39:53Z",
+      "build_time": "2025-08-12T22:14:10Z",
       "overrides": { "folder": "SGO Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1595,14 +1595,14 @@
           "artifact": {
             "file_name": "driving_vision_sgo_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-78/driving_vision_sgo_tinygrad.pkl",
-              "sha256": "eb4e3a4c27b94ffb635479b2c10fdfad704e7d3b6eadfd097ecd3da582230a5a"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-95/driving_vision_sgo_tinygrad.pkl",
+              "sha256": "3b157ad3fb5121dd0e7c6303e114f609db2b06cd1886dde18c675c94bf81b3be"
             }
           },
           "metadata": {
             "file_name": "driving_vision_sgo_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-78/driving_vision_sgo_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-95/driving_vision_sgo_metadata.pkl",
               "sha256": "6cbd167c1c1d80a7b73687518d91292d7f2c2e63bae76af171ee6c7dea477261"
             }
           }
@@ -1612,14 +1612,14 @@
           "artifact": {
             "file_name": "driving_policy_sgo_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-78/driving_policy_sgo_tinygrad.pkl",
-              "sha256": "6f76396b74ee86e97d989f4885de4362e8158b3eca7b3b94a6a7681ccbee1ab7"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-95/driving_policy_sgo_tinygrad.pkl",
+              "sha256": "2b4183bdda1686d934099e5033102f814d3c6f63f1c736e2711aa2d8cf5560ff"
             }
           },
           "metadata": {
             "file_name": "driving_policy_sgo_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-78/driving_policy_sgo_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-95/driving_policy_sgo_metadata.pkl",
               "sha256": "f2e3c6ca9b26f4e47c81e615431b335223be3a64de834f82943e513cf03472e8"
             }
           }
