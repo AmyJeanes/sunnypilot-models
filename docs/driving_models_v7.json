@@ -1930,7 +1930,7 @@
       "index": 48,
       "minimum_selector_version": "9",
       "generation": "10",
-      "build_time": "2025-07-29T17:11:10Z",
+      "build_time": "2025-08-12T21:26:26Z",
       "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -1938,14 +1938,14 @@
           "artifact": {
             "file_name": "driving_vision_lcd_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-78/driving_vision_lcd_tinygrad.pkl",
-              "sha256": "6d72bc4eab185d6f90686f3a59f2e5131147c76ee9f0d7d30f37635c9a2dc692"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-95/driving_vision_lcd_tinygrad.pkl",
+              "sha256": "79321eeb6909351fd9bbe71a48672f00e5165dd0264853fa2ae9b28465faeddf"
             }
           },
           "metadata": {
             "file_name": "driving_vision_lcd_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-78/driving_vision_lcd_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-95/driving_vision_lcd_metadata.pkl",
               "sha256": "cfa876ccc22d81512bbecba2a91e430828c853feada4599cda8f3fb5d1ba3e9c"
             }
           }
@@ -1955,14 +1955,14 @@
           "artifact": {
             "file_name": "driving_policy_lcd_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-78/driving_policy_lcd_tinygrad.pkl",
-              "sha256": "30c91565e7cfefc06d9096628e2ff47ff32aa1d63d62ae78d1f856c7d1ae0d30"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-95/driving_policy_lcd_tinygrad.pkl",
+              "sha256": "4d36ab58a42a8eff25695a8cc0d9e058d5888fc2065f12e25956c6804bf72e9f"
             }
           },
           "metadata": {
             "file_name": "driving_policy_lcd_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-78/driving_policy_lcd_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-95/driving_policy_lcd_metadata.pkl",
               "sha256": "65a97081f7aedcebf3a2e083d316631863253d44ab854c8c0938300845c05ef2"
             }
           }
