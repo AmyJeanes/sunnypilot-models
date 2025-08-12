@@ -1072,20 +1072,20 @@
           "artifact": {
             "file_name": "supercombo_npr_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-National%20Public%20Radio%20%28December%2018%2C%202024%29-78/supercombo_npr_tinygrad.pkl",
-              "sha256": "20df5b4053b1f28263382a419074944fcc5a61df2765ad04eda90438254dce41"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-National%20Public%20Radio%20%28December%2018%2C%202024%29-95/supercombo_npr_tinygrad.pkl",
+              "sha256": "89f4d3fd98e3f775cf8eb7e23317a1afca29c9ef57d65e13d02883df7c8dbf18"
             }
           },
           "metadata": {
             "file_name": "supercombo_npr_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-National%20Public%20Radio%20%28December%2018%2C%202024%29-78/supercombo_npr_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-National%20Public%20Radio%20%28December%2018%2C%202024%29-95/supercombo_npr_metadata.pkl",
               "sha256": "9b5ae1e33960bacce8811ee644dcf700ee55c58779e251ce31470f2d0882b62d"
             }
           }
         }
       ],
-      "build_time": "2025-07-29T16:00:35Z"
+      "build_time": "2025-08-12T20:30:33Z"
     },
     {
       "short_name": "FOF",
