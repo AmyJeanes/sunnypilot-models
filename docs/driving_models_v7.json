@@ -816,20 +816,20 @@
           "artifact": {
             "file_name": "supercombo_dr_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Dragon%20Rider%20%28November%2009%2C%202024%29-78/supercombo_dr_tinygrad.pkl",
-              "sha256": "6eb29d19641e3c50a1c016e7b632b31b657996a998fa09fda8da803f3390e112"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Dragon%20Rider%20%28November%2009%2C%202024%29-95/supercombo_dr_tinygrad.pkl",
+              "sha256": "d54387ec5a5cb25be9e77b485e379e3439079c757216f7abdd62e05330f0e080"
             }
           },
           "metadata": {
             "file_name": "supercombo_dr_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-Dragon%20Rider%20%28November%2009%2C%202024%29-78/supercombo_dr_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Dragon%20Rider%20%28November%2009%2C%202024%29-95/supercombo_dr_metadata.pkl",
               "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
             }
           }
         }
       ],
-      "build_time": "2025-07-29T14:35:48Z"
+      "build_time": "2025-08-12T20:42:36Z"
     },
     {
       "short_name": "LAST-HORIZON",
