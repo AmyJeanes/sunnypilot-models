@@ -656,20 +656,20 @@
           "artifact": {
             "file_name": "supercombo_mlsimv0_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-MLSIM%20V0%20%28October%2001%2C%202024%29-78/supercombo_mlsimv0_tinygrad.pkl",
-              "sha256": "54343c569afc7e9867cddd76c414a0bd43b47d4b39f06e56e68e52fe2c1e02fe"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-MLSIM%20V0%20%28October%2001%2C%202024%29-95/supercombo_mlsimv0_tinygrad.pkl",
+              "sha256": "6c1132853aa66e1bff20b906418d83c16c0abc2d746e10a48c607f54f8c2d784"
             }
           },
           "metadata": {
             "file_name": "supercombo_mlsimv0_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-MLSIM%20V0%20%28October%2001%2C%202024%29-78/supercombo_mlsimv0_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-MLSIM%20V0%20%28October%2001%2C%202024%29-95/supercombo_mlsimv0_metadata.pkl",
               "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
             }
           }
         }
       ],
-      "build_time": "2025-07-29T15:14:33Z"
+      "build_time": "2025-08-12T22:07:00Z"
     },
     {
       "short_name": "MLSIM-V1",
