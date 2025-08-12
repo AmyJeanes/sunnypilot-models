@@ -1538,7 +1538,7 @@
       "index": 40,
       "minimum_selector_version": "9",
       "generation": "10",
-      "build_time": "2025-07-29T16:13:37Z",
+      "build_time": "2025-08-12T21:20:51Z",
       "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -1546,14 +1546,14 @@
           "artifact": {
             "file_name": "driving_vision_vffd_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-VFF%20Driving%20%28May%2014%2C%202025%29-78/driving_vision_vffd_tinygrad.pkl",
-              "sha256": "edd5935f6d50b07bdf88721dfa6db661d428f6a2baf294a3976ac9218f05aeb7"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-VFF%20Driving%20%28May%2014%2C%202025%29-95/driving_vision_vffd_tinygrad.pkl",
+              "sha256": "11b675cf880d0f35c4158ff9c8fe9f5e5bb2f9fd97e25bb1746b4a335f245a1b"
             }
           },
           "metadata": {
             "file_name": "driving_vision_vffd_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-VFF%20Driving%20%28May%2014%2C%202025%29-78/driving_vision_vffd_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-VFF%20Driving%20%28May%2014%2C%202025%29-95/driving_vision_vffd_metadata.pkl",
               "sha256": "9378177d95c001f0a754a8025b06931af4773dcbd0d6f7cdb10198d8a3633fbc"
             }
           }
@@ -1563,14 +1563,14 @@
           "artifact": {
             "file_name": "driving_policy_vffd_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-VFF%20Driving%20%28May%2014%2C%202025%29-78/driving_policy_vffd_tinygrad.pkl",
-              "sha256": "6e2468c543a35a1dbb387668e49fdfa091777412b54950579df0eeeccbdc498a"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-VFF%20Driving%20%28May%2014%2C%202025%29-95/driving_policy_vffd_tinygrad.pkl",
+              "sha256": "c161c270ac8421a6c54028adfb959cc5e0625bf462a4dab3f03e7e41a080768b"
             }
           },
           "metadata": {
             "file_name": "driving_policy_vffd_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai3/-/raw/main/models/recompiled2/model-VFF%20Driving%20%28May%2014%2C%202025%29-78/driving_policy_vffd_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-VFF%20Driving%20%28May%2014%2C%202025%29-95/driving_policy_vffd_metadata.pkl",
               "sha256": "6eae389c740f0118ad11604a385130e9744b370b8aa54576f00eacebe0c21d48"
             }
           }
