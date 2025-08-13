@@ -2958,7 +2958,7 @@
       "runner": "tinygrad",
       "index": 69,
       "minimum_selector_version": "9",
-      "generation": "11",
+      "generation": "12",
       "build_time": "2025-08-12T21:12:06Z",
       "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
       "models": [
