@@ -3098,7 +3098,7 @@
     },
     {
       "short_name": "UVDTRM",
-      "display_name": "UV DTR Model (August 13, 2025)",
+      "display_name": "UV + DTR Model (August 13, 2025)",
       "is_20hz": true,
       "ref": "079d0461604632719e73dc5b6a5eb9897c624da2",
       "environment": "development",
@@ -3107,7 +3107,7 @@
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-13T16:07:52Z",
-      "overrides": { "folder": "UV DTR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "UV Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
