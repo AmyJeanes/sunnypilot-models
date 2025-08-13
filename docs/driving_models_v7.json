@@ -2910,7 +2910,7 @@
       "index": 68,
       "minimum_selector_version": "9",
       "generation": "11",
-      "build_time": "2025-08-03T03:13:12Z",
+      "build_time": "2025-08-12T22:01:05Z",
       "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2918,14 +2918,14 @@
           "artifact": {
             "file_name": "driving_vision_sl3_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Space%20Lab%203%20%28August%2002%2C%202025%29-64/driving_vision_sl3_tinygrad.pkl",
-              "sha256": "ef3ff826fe0976afb179d76593900bc1c16a9109eb4a20cf3a39937b9e403dfe"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20%28August%2002%2C%202025%29-95/driving_vision_sl3_tinygrad.pkl",
+              "sha256": "808c9959d356ea513936301a19b10dca32b488a0da9d6b3c43731cab641b44c8"
             }
           },
           "metadata": {
             "file_name": "driving_vision_sl3_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Space%20Lab%203%20%28August%2002%2C%202025%29-64/driving_vision_sl3_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20%28August%2002%2C%202025%29-95/driving_vision_sl3_metadata.pkl",
               "sha256": "08bf5d9a05096d0271065089a4ec2cf66d02dcc584b74a25d7c371b24d99aa6d"
             }
           }
@@ -2935,14 +2935,14 @@
           "artifact": {
             "file_name": "driving_policy_sl3_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Space%20Lab%203%20%28August%2002%2C%202025%29-64/driving_policy_sl3_tinygrad.pkl",
-              "sha256": "a29a5258f63fd69e339cd9040531620ef4e2d6b0956ea5a1d03fd111715b0331"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20%28August%2002%2C%202025%29-95/driving_policy_sl3_tinygrad.pkl",
+              "sha256": "a2214f637247d286c8e227002420ba80b994c1c00a67021e0e2aff4ccfd35803"
             }
           },
           "metadata": {
             "file_name": "driving_policy_sl3_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled4/model-Space%20Lab%203%20%28August%2002%2C%202025%29-64/driving_policy_sl3_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20%28August%2002%2C%202025%29-95/driving_policy_sl3_metadata.pkl",
               "sha256": "f6e41d26539906e664946a3f8e2168e5012fe25e3d6186dc7504ce9865493883"
             }
           }
