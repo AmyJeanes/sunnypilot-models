@@ -3098,7 +3098,7 @@
     },
     {
       "short_name": "UVDTRM",
-      "display_name": "UV + DTR Model (August 13, 2025)",
+      "display_name": "UV DTR Model (August 13, 2025)",
       "is_20hz": true,
       "ref": "079d0461604632719e73dc5b6a5eb9897c624da2",
       "environment": "development",
@@ -3140,6 +3140,55 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-UV%20DTR%20Model%20%28August%2013%2C%202025%29-72/driving_vision_uvdtrm_metadata.pkl",
               "sha256": "5b95bc9029861fe640d55b383f633b3645e596a6cbbd9e2fcbea5ce6059a1fa8"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "FPCM",
+      "display_name": "Falling Phoenix [Custom Merge] (August 14, 2025)",
+      "is_20hz": true,
+      "ref": "277c7c6e9bd847bcec2187bd2ba2fd07877b5012",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 73,
+      "minimum_selector_version": "10",
+      "generation": "12",
+      "build_time": "2025-08-15T03:01:40Z",
+      "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_fpcm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Falling%20Phoenix%20%5BCustom%20Merge%5D%20%28August%2014%2C%202025%29-73/driving_vision_fpcm_tinygrad.pkl",
+              "sha256": "c9d9c431b4b32e1b245e5146e1322f04be63ecb1d4332da1044b6b5ba2d2b4c4"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_fpcm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Falling%20Phoenix%20%5BCustom%20Merge%5D%20%28August%2014%2C%202025%29-73/driving_vision_fpcm_metadata.pkl",
+              "sha256": "08bf5d9a05096d0271065089a4ec2cf66d02dcc584b74a25d7c371b24d99aa6d"
+            }
+          }
+        },
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_fpcm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Falling%20Phoenix%20%5BCustom%20Merge%5D%20%28August%2014%2C%202025%29-73/driving_policy_fpcm_tinygrad.pkl",
+              "sha256": "1625f4eeb806bdbe3d9f1d20990128d00e02b7d75868370121bc244de5f9bed9"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_fpcm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Falling%20Phoenix%20%5BCustom%20Merge%5D%20%28August%2014%2C%202025%29-73/driving_policy_fpcm_metadata.pkl",
+              "sha256": "86bc49524d842d4a958d968f66cffa353f99dc905f2af827166851962d85668e"
             }
           }
         }
