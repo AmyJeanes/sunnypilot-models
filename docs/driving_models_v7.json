@@ -3098,7 +3098,7 @@
     },
     {
       "short_name": "UVDTRM",
-      "display_name": "UV + DTR Model (August 13, 2025)",
+      "display_name": "UV DTR Model (August 13, 2025)",
       "is_20hz": true,
       "ref": "079d0461604632719e73dc5b6a5eb9897c624da2",
       "environment": "development",
@@ -3189,6 +3189,55 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Falling%20Phoenix%20%5BCustom%20Merge%5D%20%28August%2014%2C%202025%29-73/driving_policy_fpcm_metadata.pkl",
               "sha256": "86bc49524d842d4a958d968f66cffa353f99dc905f2af827166851962d85668e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "SPM",
+      "display_name": "Simple Plan Model (August 15, 2025)",
+      "is_20hz": true,
+      "ref": "ec60233b3cc20b24437e192ad1cc3da459100d2b",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 74,
+      "minimum_selector_version": "9",
+      "generation": "12",
+      "build_time": "2025-08-15T18:55:48Z",
+      "overrides": { "folder": "Simple Plan Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_spm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Simple%20Plan%20Model%20%28August%2015%2C%202025%29-74/driving_policy_spm_tinygrad.pkl",
+              "sha256": "63c7defeefd258ceb5fac315c12675e0f3acd27950fc26e1fec9d8560b48fe98"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_spm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Simple%20Plan%20Model%20%28August%2015%2C%202025%29-74/driving_policy_spm_metadata.pkl",
+              "sha256": "215b3bf9799a81bc901b93679076d99533bd3a2863f987c4645e1f80e72efc2b"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_spm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Simple%20Plan%20Model%20%28August%2015%2C%202025%29-74/driving_vision_spm_tinygrad.pkl",
+              "sha256": "1e2a1d1d429e2edd1e840f5ca2293560d784f057a7097136e3fb7e4863942730"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_spm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Simple%20Plan%20Model%20%28August%2015%2C%202025%29-74/driving_vision_spm_metadata.pkl",
+              "sha256": "12e97872de2f39aacb1172ffbda9c4aba840854080d4849d96ac5b1b7eb43295"
             }
           }
         }
