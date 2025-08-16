@@ -3196,7 +3196,7 @@
     },
     {
       "short_name": "SPM",
-      "display_name": "Simple Plan Model (August 15, 2025)",
+      "display_name": "Steam Powered Model (August 15, 2025)",
       "is_20hz": true,
       "ref": "ec60233b3cc20b24437e192ad1cc3da459100d2b",
       "environment": "development",
