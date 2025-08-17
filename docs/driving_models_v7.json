@@ -1627,62 +1627,13 @@
       ]
     },
     {
-      "short_name": "VFOFV1",
-      "display_name": "Vegetarian Filet o Fish (May 29, 2025)",
-      "is_20hz": true,
-      "ref": "a3e0c2a9853de7790de186176b4bf2971aefda99",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 42,
-      "minimum_selector_version": "9",
-      "generation": "10",
-      "build_time": "2025-08-12T22:23:26Z",
-      "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "vision",
-          "artifact": {
-            "file_name": "driving_vision_vfof_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vegetarian%20Filet%20o%20Fish%20%28May%2029%2C%202025%29-95/driving_vision_vfof_tinygrad.pkl",
-              "sha256": "95693025a7d2a90cd809f58b897d1140b35cfb7dbc1d3e30185139c0b8a368ca"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_vision_vfof_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vegetarian%20Filet%20o%20Fish%20%28May%2029%2C%202025%29-95/driving_vision_vfof_metadata.pkl",
-              "sha256": "a64bc2ebbebc16d7b336671aef2aad5d25b9abf65ae7ca0291639d08d09965ba"
-            }
-          }
-        },
-        {
-          "type": "policy",
-          "artifact": {
-            "file_name": "driving_policy_vfof_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vegetarian%20Filet%20o%20Fish%20%28May%2029%2C%202025%29-95/driving_policy_vfof_tinygrad.pkl",
-              "sha256": "b7f19e100e358e5a877209247d124b3abacd1c1dfc7568d3a576ae35aad8969e"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_policy_vfof_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vegetarian%20Filet%20o%20Fish%20%28May%2029%2C%202025%29-95/driving_policy_vfof_metadata.pkl",
-              "sha256": "7f0101b9d67657eabdb03e07c935c5c08dbeb22261b735f29d679562f89c5b25"
-            }
-          }
-        }
-      ]
-    },
-    {
       "short_name": "DTRV3",
       "display_name": "Down To Ride v3 (May 30, 2025)",
       "is_20hz": true,
       "ref": "9f1294540cdc93c3c5f1a011e78da429418fd7a7",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 43,
+      "index": 42,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:39:13Z",
@@ -1725,62 +1676,13 @@
       ]
     },
     {
-      "short_name": "VFOFV2",
-      "display_name": "Vegetarian Filet o Fish v2 (June 05, 2025)",
-      "is_20hz": true,
-      "ref": "077f52414a73a96b6d3c84f6341072c0f3b1f1ae",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 44,
-      "minimum_selector_version": "9",
-      "generation": "10",
-      "build_time": "2025-08-12T21:43:32Z",
-      "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "vision",
-          "artifact": {
-            "file_name": "driving_vision_vfofv2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vegetarian%20Filet%20o%20Fish%20v2%20%28June%2005%2C%202025%29-95/driving_vision_vfofv2_tinygrad.pkl",
-              "sha256": "cbd7679967596c75700967438aa82b91389fea0d54fbe27fb0f1b48c0b985a4e"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_vision_vfofv2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vegetarian%20Filet%20o%20Fish%20v2%20%28June%2005%2C%202025%29-95/driving_vision_vfofv2_metadata.pkl",
-              "sha256": "a64bc2ebbebc16d7b336671aef2aad5d25b9abf65ae7ca0291639d08d09965ba"
-            }
-          }
-        },
-        {
-          "type": "policy",
-          "artifact": {
-            "file_name": "driving_policy_vfofv2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vegetarian%20Filet%20o%20Fish%20v2%20%28June%2005%2C%202025%29-95/driving_policy_vfofv2_tinygrad.pkl",
-              "sha256": "f68e4153e7c17681ce9acda2a844bb099a8d5bc440fc6ee2cfc67e2421d32dd1"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_policy_vfofv2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vegetarian%20Filet%20o%20Fish%20v2%20%28June%2005%2C%202025%29-95/driving_policy_vfofv2_metadata.pkl",
-              "sha256": "13071425f1012c11526d88beae81a87b365ef5e294b4004a0aeabdb2328fd138"
-            }
-          }
-        }
-      ]
-    },
-    {
       "short_name": "KD",
       "display_name": "Kerrygold Driving (June 08, 2025)",
       "is_20hz": true,
       "ref": "dc7a92ea630e4f6053082fc25eca83938927b91e",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 45,
+      "index": 43,
       "minimum_selector_version": "9",
       "generation": "10",
       "build_time": "2025-08-12T21:53:07Z",
@@ -1829,7 +1731,7 @@
       "ref": "bf5d8c2dd6bad80734ab298990e675f7005b3664",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 46,
+      "index": 44,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:10:27Z",
@@ -1878,7 +1780,7 @@
       "ref": "4d102a6307894bfdb7d72737445e4cccb1d78d41",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 47,
+      "index": 45,
       "minimum_selector_version": "9",
       "generation": "10",
       "build_time": "2025-08-12T21:29:07Z",
@@ -1927,7 +1829,7 @@
       "ref": "b55af0de7fecdb4af073c01b77b04b8306a4e92d",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 48,
+      "index": 46,
       "minimum_selector_version": "9",
       "generation": "10",
       "build_time": "2025-08-12T21:26:26Z",
@@ -1970,13 +1872,13 @@
       ]
     },
     {
-      "short_name": "VFOFV3",
-      "display_name": "Vegetarian Filet o Fish v3 (June 21, 2025)",
+      "short_name": "VFOF",
+      "display_name": "Vegetarian Filet o Fish (June 21, 2025)",
       "is_20hz": true,
       "ref": "c790d3f58ad32cf15f384e6018d942b2348f0c5b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 49,
+      "index": 47,
       "minimum_selector_version": "9",
       "generation": "10",
       "build_time": "2025-08-12T20:51:25Z",
@@ -2025,7 +1927,7 @@
       "ref": "eceeaabcebcf58716ae4a018930793d89c96777b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 50,
+      "index": 48,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:37:04Z",
@@ -2074,7 +1976,7 @@
       "ref": "d54a5888cf6165b30e4bdda514ab9057473cd7f8",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 51,
+      "index": 49,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:06:11Z",
@@ -2123,7 +2025,7 @@
       "ref": "194cdbcebf2d47011d2edbf39a4ae492aa1aa338",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 52,
+      "index": 50,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T20:50:22Z",
@@ -2172,7 +2074,7 @@
       "ref": "d77fffa658b8f955eab6c482a8beee52afb5b57c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 53,
+      "index": 51,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:14:42Z",
@@ -2221,7 +2123,7 @@
       "ref": "f920cbafec6794e7a5bf9222c575fb5652510746",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 54,
+      "index": 52,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T21:52:48Z",
@@ -2270,7 +2172,7 @@
       "ref": "f523f104eafc49dccb447aea4f7c3f666ef5626c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 55,
+      "index": 53,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-12T22:54:24Z",
@@ -2319,7 +2221,7 @@
       "ref": "5b405920ec9511e146432de08171d6f93295248b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 56,
+      "index": 54,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T20:49:11Z",
@@ -2363,61 +2265,12 @@
     },
     {
       "short_name": "TR15",
-      "display_name": "Tomb Raider 15 (July 09, 2025)",
-      "is_20hz": true,
-      "ref": "bf0b103ac1928e91c79dee9f71a501b9ec55f7d4",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 57,
-      "minimum_selector_version": "9",
-      "generation": "11",
-      "build_time": "2025-08-12T21:06:36Z",
-      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
-      "models": [
-        {
-          "type": "policy",
-          "artifact": {
-            "file_name": "driving_policy_tr15_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Tomb%20Raider%2015%20%28July%2009%2C%202025%29-95/driving_policy_tr15_tinygrad.pkl",
-              "sha256": "479356db9631ae7cb7922a735510a148b278ff1774b75b564bfad55c1e6f779e"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_policy_tr15_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Tomb%20Raider%2015%20%28July%2009%2C%202025%29-95/driving_policy_tr15_metadata.pkl",
-              "sha256": "7b52eaadf9bd4603bca387bb4c807ad9b2fe2a9ddae9b0ec4fe272c8a6f17ace"
-            }
-          }
-        },
-        {
-          "type": "vision",
-          "artifact": {
-            "file_name": "driving_vision_tr15_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Tomb%20Raider%2015%20%28July%2009%2C%202025%29-95/driving_vision_tr15_tinygrad.pkl",
-              "sha256": "cfd4d2c7c1531d62fab86cdcd01ad9201cb43f5c5a039c22f73f59fee6a77ab2"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_vision_tr15_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Tomb%20Raider%2015%20%28July%2009%2C%202025%29-95/driving_vision_tr15_metadata.pkl",
-              "sha256": "4ac79339651fe5d1e1cfe4c9ff51402d87ab37746bfad41cc3f714cef4d845e4"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "short_name": "TR15V2",
-      "display_name": "Tomb Raider 15 v2 (July 11, 2025)",
+      "display_name": "Tomb Raider 15 (July 11, 2025)",
       "is_20hz": true,
       "ref": "ed38ca8cc998f0a2b47cde29da11b782e4551e8b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 58,
+      "index": 55,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:45:14Z",
@@ -2466,7 +2319,7 @@
       "ref": "c2fa07b82c2e09964e4b6dccb3e4465a2e4ad138",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 59,
+      "index": 56,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:26:10Z",
@@ -2509,13 +2362,13 @@
       ]
     },
     {
-      "short_name": "LTR1",
+      "short_name": "LTR14H",
       "display_name": "Le Tomb Raider 14h (July 17, 2025)",
       "is_20hz": true,
       "ref": "29b3791dbb8f756aee9118fc946bd1ed8588a936",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 60,
+      "index": 57,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T21:34:59Z",
@@ -2559,61 +2412,12 @@
     },
     {
       "short_name": "TR16",
-      "display_name": "Tomb Raider 16 (July 18, 2025)",
-      "is_20hz": true,
-      "ref": "f838c7880486edcae35b518d017e7d4a8b882221",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 61,
-      "minimum_selector_version": "9",
-      "generation": "11",
-      "build_time": "2025-08-12T21:56:02Z",
-      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
-      "models": [
-        {
-          "type": "policy",
-          "artifact": {
-            "file_name": "driving_policy_tr16_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-95/driving_policy_tr16_tinygrad.pkl",
-              "sha256": "97dc3c18a5b9a7812848ddb3af18d573e859aa8400d4dc76f75be4e7aa0aa8b8"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_policy_tr16_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-95/driving_policy_tr16_metadata.pkl",
-              "sha256": "d510d21db21c0b2151829901a2a09a155b0f647c394518afe3214f1d9fd3f2f2"
-            }
-          }
-        },
-        {
-          "type": "vision",
-          "artifact": {
-            "file_name": "driving_vision_tr16_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-95/driving_vision_tr16_tinygrad.pkl",
-              "sha256": "5e5e9ac744ca7f0acb5df97d18f164c6d422666df3cf203392c0e8de7ff37afb"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_vision_tr16_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Tomb%20Raider%2016%20%28July%2018%2C%202025%29-95/driving_vision_tr16_metadata.pkl",
-              "sha256": "cd99e14e46b5dfa60a2b539d74371052ecb4cb5a9907a5b22a8e12b179b1f539"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "short_name": "TR16V2",
-      "display_name": "Tomb Raider 16v2 (July 21, 2025)",
+      "display_name": "Tomb Raider 16 (July 21, 2025)",
       "is_20hz": true,
       "ref": "e4b6a2736580dc427473bcf8a6e3b08eb352edd4",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 62,
+      "index": 58,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:33:15Z",
@@ -2657,12 +2461,12 @@
     },
     {
       "short_name": "VMCM",
-      "display_name": "Vibe Model [Custom Model] (July 23, 2025)",
+      "display_name": "Vibe Model (July 23, 2025)",
       "is_20hz": true,
       "ref": "96c277642454fb844728ce26b8b91320decf90eb",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 63,
+      "index": 59,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:57:38Z",
@@ -2673,14 +2477,14 @@
           "artifact": {
             "file_name": "driving_policy_vmcm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vibe%20Model%20%5BCustom%20Model%5D%20%28July%2023%2C%202025%29-95/driving_policy_vmcm_tinygrad.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vibe%20Model%20%28July%2023%2C%202025%29-95/driving_policy_vmcm_tinygrad.pkl",
               "sha256": "1b821a8268536826dc35c7c952026c54dd07b11b224fa9c158097acd3df4522c"
             }
           },
           "metadata": {
             "file_name": "driving_policy_vmcm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vibe%20Model%20%5BCustom%20Model%5D%20%28July%2023%2C%202025%29-95/driving_policy_vmcm_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vibe%20Model%20%28July%2023%2C%202025%29-95/driving_policy_vmcm_metadata.pkl",
               "sha256": "2894a56ed087a28b6c65b14b749e39e3d272251bc2923f9f3cca2140d4b1b4c3"
             }
           }
@@ -2690,14 +2494,14 @@
           "artifact": {
             "file_name": "driving_vision_vmcm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vibe%20Model%20%5BCustom%20Model%5D%20%28July%2023%2C%202025%29-95/driving_vision_vmcm_tinygrad.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vibe%20Model%20%28July%2023%2C%202025%29-95/driving_vision_vmcm_tinygrad.pkl",
               "sha256": "4ae461fff5d051236ade934c08ac33ec383ad50da2c9d29bbaca8d931a2e1cf4"
             }
           },
           "metadata": {
             "file_name": "driving_vision_vmcm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vibe%20Model%20%5BCustom%20Model%5D%20%28July%2023%2C%202025%29-95/driving_vision_vmcm_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vibe%20Model%20%28July%2023%2C%202025%29-95/driving_vision_vmcm_metadata.pkl",
               "sha256": "d4961bc5e060cb7a1fa5f906a38525a01b46d5f07cfd587a67d0e779fb9f12c9"
             }
           }
@@ -2708,59 +2512,10 @@
       "short_name": "SLM",
       "display_name": "Space Lab Model (July 24, 2025)",
       "is_20hz": true,
-      "ref": "7cc9697dfdbed9e93451f895735ce93e866806ef",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 64,
-      "minimum_selector_version": "9",
-      "generation": "11",
-      "build_time": "2025-08-12T21:44:23Z",
-      "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
-      "models": [
-        {
-          "type": "policy",
-          "artifact": {
-            "file_name": "driving_policy_slm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%20Model%20%28July%2024%2C%202025%29-95/driving_policy_slm_tinygrad.pkl",
-              "sha256": "43633f0102a1a98d9ff0f871c94c107b54225bcc8ca9de71424358b2629f5a2d"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_policy_slm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%20Model%20%28July%2024%2C%202025%29-95/driving_policy_slm_metadata.pkl",
-              "sha256": "626b8d9a962512b1193313256c4a53e752015a64c923aec76da78027d4029421"
-            }
-          }
-        },
-        {
-          "type": "vision",
-          "artifact": {
-            "file_name": "driving_vision_slm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%20Model%20%28July%2024%2C%202025%29-95/driving_vision_slm_tinygrad.pkl",
-              "sha256": "6f2811e3d5419211d5e2e353e7526ad121c005f27e8f40a35bcc3d264b487f73"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_vision_slm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%20Model%20%28July%2024%2C%202025%29-95/driving_vision_slm_metadata.pkl",
-              "sha256": "7057a7b498cfb29777cef3a5a44b3864c9e92c9c235b2101b89b278865f5ecac"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "short_name": "SLMV1",
-      "display_name": "Space Lab Model v1 (July 24, 2025)",
-      "is_20hz": true,
       "ref": "148a43b0a74d5fa883ec0499b461ab51a070ba56",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 65,
+      "index": 60,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:01:45Z",
@@ -2804,61 +2559,12 @@
     },
     {
       "short_name": "SL2",
-      "display_name": "Space Lab 2 (July 25, 2025)",
-      "is_20hz": true,
-      "ref": "c75675bbfa9da547eb41170ad735562355414205",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 66,
-      "minimum_selector_version": "9",
-      "generation": "11",
-      "build_time": "2025-08-12T21:38:52Z",
-      "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
-      "models": [
-        {
-          "type": "policy",
-          "artifact": {
-            "file_name": "driving_policy_sl2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%202%20%28July%2025%2C%202025%29-95/driving_policy_sl2_tinygrad.pkl",
-              "sha256": "6ba63efd6c1304d724234c9bc08873df385ac694389bbd2c4d6e849dd981d955"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_policy_sl2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%202%20%28July%2025%2C%202025%29-95/driving_policy_sl2_metadata.pkl",
-              "sha256": "3359988eb19995bc9829cea78dfb8fcfdc507d1e64ebb1bfc14413ccbbde3ad3"
-            }
-          }
-        },
-        {
-          "type": "vision",
-          "artifact": {
-            "file_name": "driving_vision_sl2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%202%20%28July%2025%2C%202025%29-95/driving_vision_sl2_tinygrad.pkl",
-              "sha256": "f964c861332a4a9b24d36505a84849dedcd9346bb63d200ad1b573ccf35c3092"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_vision_sl2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%202%20%28July%2025%2C%202025%29-95/driving_vision_sl2_metadata.pkl",
-              "sha256": "08bf5d9a05096d0271065089a4ec2cf66d02dcc584b74a25d7c371b24d99aa6d"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "short_name": "SL2V2",
-      "display_name": "Space Lab 2 v2 (July 26, 2025)",
+      "display_name": "Space Lab 2 (July 26, 2025)",
       "is_20hz": true,
       "ref": "d3a0378ae601f61307a53d1173c251ee36c56317",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 67,
+      "index": 61,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T21:36:15Z",
@@ -2902,61 +2608,12 @@
     },
     {
       "short_name": "SL3",
-      "display_name": "Space Lab 3 (August 02, 2025)",
-      "is_20hz": true,
-      "ref": "8cfb67cc81e8921fe888456de8816e03d71301d7",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 68,
-      "minimum_selector_version": "9",
-      "generation": "11",
-      "build_time": "2025-08-12T22:01:05Z",
-      "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
-      "models": [
-        {
-          "type": "vision",
-          "artifact": {
-            "file_name": "driving_vision_sl3_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20%28August%2002%2C%202025%29-95/driving_vision_sl3_tinygrad.pkl",
-              "sha256": "808c9959d356ea513936301a19b10dca32b488a0da9d6b3c43731cab641b44c8"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_vision_sl3_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20%28August%2002%2C%202025%29-95/driving_vision_sl3_metadata.pkl",
-              "sha256": "08bf5d9a05096d0271065089a4ec2cf66d02dcc584b74a25d7c371b24d99aa6d"
-            }
-          }
-        },
-        {
-          "type": "policy",
-          "artifact": {
-            "file_name": "driving_policy_sl3_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20%28August%2002%2C%202025%29-95/driving_policy_sl3_tinygrad.pkl",
-              "sha256": "a2214f637247d286c8e227002420ba80b994c1c00a67021e0e2aff4ccfd35803"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_policy_sl3_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20%28August%2002%2C%202025%29-95/driving_policy_sl3_metadata.pkl",
-              "sha256": "f6e41d26539906e664946a3f8e2168e5012fe25e3d6186dc7504ce9865493883"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "short_name": "SL3V2",
-      "display_name": "Space Lab 3 v2 (August 08, 2025)",
+      "display_name": "Space Lab 3 (August 08, 2025)",
       "is_20hz": true,
       "ref": "659898d553eb68c981036811e1b92f6557d4e494",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 69,
+      "index": 62,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-12T21:12:06Z",
@@ -2967,14 +2624,14 @@
           "artifact": {
             "file_name": "driving_vision_sl3v2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20v2%20%28August%2008%2C%202025%29-95/driving_vision_sl3v2_tinygrad.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20%28August%2008%2C%202025%29-95/driving_vision_sl3v2_tinygrad.pkl",
               "sha256": "630399513321b4b4414fda2c7b957b93898c2770869259e690d4abe27d51463d"
             }
           },
           "metadata": {
             "file_name": "driving_vision_sl3v2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20v2%20%28August%2008%2C%202025%29-95/driving_vision_sl3v2_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20%28August%2008%2C%202025%29-95/driving_vision_sl3v2_metadata.pkl",
               "sha256": "08bf5d9a05096d0271065089a4ec2cf66d02dcc584b74a25d7c371b24d99aa6d"
             }
           }
@@ -2984,14 +2641,14 @@
           "artifact": {
             "file_name": "driving_policy_sl3v2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20v2%20%28August%2008%2C%202025%29-95/driving_policy_sl3v2_tinygrad.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20%28August%2008%2C%202025%29-95/driving_policy_sl3v2_tinygrad.pkl",
               "sha256": "ee8a02e1cdb2efc9dafa746c12b520ce53cc62643527ff9a58d2fb0b72341cde"
             }
           },
           "metadata": {
             "file_name": "driving_policy_sl3v2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20v2%20%28August%2008%2C%202025%29-95/driving_policy_sl3v2_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Space%20Lab%203%20%28August%2008%2C%202025%29-95/driving_policy_sl3v2_metadata.pkl",
               "sha256": "2ca2b53a138a1ca92ca6611144bf1a12f1a201145e672cc4d0731e47f360d3a9"
             }
           }
@@ -3005,7 +2662,7 @@
       "ref": "df93b1a89d805a15e3c506a3fb6f9f9795fed858",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 70,
+      "index": 63,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:45:14Z",
@@ -3054,7 +2711,7 @@
       "ref": "a6cf39c07a67dbc346af03010093fe4788c402d0",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 71,
+      "index": 64,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-13T01:13:25Z",
@@ -3103,7 +2760,7 @@
       "ref": "079d0461604632719e73dc5b6a5eb9897c624da2",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 72,
+      "index": 65,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-13T16:07:52Z",
@@ -3147,12 +2804,12 @@
     },
     {
       "short_name": "FPCM",
-      "display_name": "Falling Phoenix [Custom Merge] (August 14, 2025)",
+      "display_name": "Falling Phoenix (August 14, 2025)",
       "is_20hz": true,
       "ref": "277c7c6e9bd847bcec2187bd2ba2fd07877b5012",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 73,
+      "index": 66,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-15T03:01:40Z",
@@ -3195,62 +2852,13 @@
       ]
     },
     {
-      "short_name": "SPM",
-      "display_name": "Steam Powered Model (August 15, 2025)",
-      "is_20hz": true,
-      "ref": "ec60233b3cc20b24437e192ad1cc3da459100d2b",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 74,
-      "minimum_selector_version": "9",
-      "generation": "12",
-      "build_time": "2025-08-15T18:55:48Z",
-      "overrides": { "folder": "Simple Plan Models", "lat": ".1", "long": ".3" },
-      "models": [
-        {
-          "type": "policy",
-          "artifact": {
-            "file_name": "driving_policy_spm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20%28August%2015%2C%202025%29-74/driving_policy_spm_tinygrad.pkl",
-              "sha256": "63c7defeefd258ceb5fac315c12675e0f3acd27950fc26e1fec9d8560b48fe98"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_policy_spm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20%28August%2015%2C%202025%29-74/driving_policy_spm_metadata.pkl",
-              "sha256": "215b3bf9799a81bc901b93679076d99533bd3a2863f987c4645e1f80e72efc2b"
-            }
-          }
-        },
-        {
-          "type": "vision",
-          "artifact": {
-            "file_name": "driving_vision_spm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20%28August%2015%2C%202025%29-74/driving_vision_spm_tinygrad.pkl",
-              "sha256": "1e2a1d1d429e2edd1e840f5ca2293560d784f057a7097136e3fb7e4863942730"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_vision_spm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20%28August%2015%2C%202025%29-74/driving_vision_spm_metadata.pkl",
-              "sha256": "12e97872de2f39aacb1172ffbda9c4aba840854080d4849d96ac5b1b7eb43295"
-            }
-          }
-        }
-      ]
-    },
-    {
       "short_name": "KV",
       "display_name": "Kumars Vibe (August 16, 2025)",
       "is_20hz": true,
       "ref": "ee5008cc03e84585a683a7387d414d5c34a336fa",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 75,
+      "index": 67,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-17T01:05:44Z",
@@ -3299,7 +2907,7 @@
       "ref": "2144e42f65c6eb82fbcd75902fb3f5bd78769187",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 76,
+      "index": 68,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-16T16:20:21Z",
@@ -3342,13 +2950,13 @@
       ]
     },
     {
-      "short_name": "SPMN",
-      "display_name": "Steam Powered Model New (August 16, 2025)",
+      "short_name": "SPM",
+      "display_name": "Steam Powered Model (August 16, 2025)",
       "is_20hz": true,
       "ref": "f1b8f510b2c554191ca15cebe35f2c5b304cf23c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 77,
+      "index": 69,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-16T16:42:16Z",
@@ -3359,14 +2967,14 @@
           "artifact": {
             "file_name": "driving_policy_spmn_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20New%20%28August%2016%2C%202025%29-76/driving_policy_spmn_tinygrad.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-76/driving_policy_spmn_tinygrad.pkl",
               "sha256": "c3a789562f82b8614a2918387ac1589201db8449dc33cdf9a2b0bb20eda02dbf"
             }
           },
           "metadata": {
             "file_name": "driving_policy_spmn_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20New%20%28August%2016%2C%202025%29-76/driving_policy_spmn_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-76/driving_policy_spmn_metadata.pkl",
               "sha256": "8e6707775e2aec3570f282a04a87a6124c1e9e02ac822b23e5c8e4463b03f1f8"
             }
           }
@@ -3376,14 +2984,14 @@
           "artifact": {
             "file_name": "driving_vision_spmn_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20New%20%28August%2016%2C%202025%29-76/driving_vision_spmn_tinygrad.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-76/driving_vision_spmn_tinygrad.pkl",
               "sha256": "d3e44e34b6b54bfb29538140178d08923947d2d86a57630c518f7b77a2b26e73"
             }
           },
           "metadata": {
             "file_name": "driving_vision_spmn_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20New%20%28August%2016%2C%202025%29-76/driving_vision_spmn_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-76/driving_vision_spmn_metadata.pkl",
               "sha256": "12e97872de2f39aacb1172ffbda9c4aba840854080d4849d96ac5b1b7eb43295"
             }
           }
@@ -3397,7 +3005,7 @@
       "ref": "39c4ca798a1a79211939e915009b2e63c52b06be",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 78,
+      "index": 70,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-16T17:34:00Z",
