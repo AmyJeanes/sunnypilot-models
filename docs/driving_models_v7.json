@@ -2460,62 +2460,13 @@
       ]
     },
     {
-      "short_name": "VMCM",
-      "display_name": "Vibe Model (July 23, 2025)",
-      "is_20hz": true,
-      "ref": "96c277642454fb844728ce26b8b91320decf90eb",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 59,
-      "minimum_selector_version": "9",
-      "generation": "11",
-      "build_time": "2025-08-12T22:57:38Z",
-      "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
-      "models": [
-        {
-          "type": "policy",
-          "artifact": {
-            "file_name": "driving_policy_vmcm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vibe%20Model%20%28July%2023%2C%202025%29-95/driving_policy_vmcm_tinygrad.pkl",
-              "sha256": "1b821a8268536826dc35c7c952026c54dd07b11b224fa9c158097acd3df4522c"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_policy_vmcm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vibe%20Model%20%28July%2023%2C%202025%29-95/driving_policy_vmcm_metadata.pkl",
-              "sha256": "2894a56ed087a28b6c65b14b749e39e3d272251bc2923f9f3cca2140d4b1b4c3"
-            }
-          }
-        },
-        {
-          "type": "vision",
-          "artifact": {
-            "file_name": "driving_vision_vmcm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vibe%20Model%20%28July%2023%2C%202025%29-95/driving_vision_vmcm_tinygrad.pkl",
-              "sha256": "4ae461fff5d051236ade934c08ac33ec383ad50da2c9d29bbaca8d931a2e1cf4"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_vision_vmcm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Vibe%20Model%20%28July%2023%2C%202025%29-95/driving_vision_vmcm_metadata.pkl",
-              "sha256": "d4961bc5e060cb7a1fa5f906a38525a01b46d5f07cfd587a67d0e779fb9f12c9"
-            }
-          }
-        }
-      ]
-    },
-    {
       "short_name": "SLM",
       "display_name": "Space Lab Model (July 24, 2025)",
       "is_20hz": true,
       "ref": "148a43b0a74d5fa883ec0499b461ab51a070ba56",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 60,
+      "index": 59,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:01:45Z",
@@ -2564,7 +2515,7 @@
       "ref": "d3a0378ae601f61307a53d1173c251ee36c56317",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 61,
+      "index": 60,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T21:36:15Z",
@@ -2613,7 +2564,7 @@
       "ref": "659898d553eb68c981036811e1b92f6557d4e494",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 62,
+      "index": 61,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-12T21:12:06Z",
@@ -2662,7 +2613,7 @@
       "ref": "df93b1a89d805a15e3c506a3fb6f9f9795fed858",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 63,
+      "index": 62,
       "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:45:14Z",
@@ -2711,7 +2662,7 @@
       "ref": "a6cf39c07a67dbc346af03010093fe4788c402d0",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 64,
+      "index": 63,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-13T01:13:25Z",
@@ -2760,7 +2711,7 @@
       "ref": "079d0461604632719e73dc5b6a5eb9897c624da2",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 65,
+      "index": 64,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-13T16:07:52Z",
@@ -2809,7 +2760,7 @@
       "ref": "277c7c6e9bd847bcec2187bd2ba2fd07877b5012",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 66,
+      "index": 65,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-15T03:01:40Z",
@@ -2858,7 +2809,7 @@
       "ref": "ee5008cc03e84585a683a7387d414d5c34a336fa",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 67,
+      "index": 66,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-17T01:05:44Z",
@@ -2907,7 +2858,7 @@
       "ref": "2144e42f65c6eb82fbcd75902fb3f5bd78769187",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 68,
+      "index": 67,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-16T16:20:21Z",
@@ -2956,7 +2907,7 @@
       "ref": "f1b8f510b2c554191ca15cebe35f2c5b304cf23c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 69,
+      "index": 68,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-16T16:42:16Z",
@@ -3005,7 +2956,7 @@
       "ref": "39c4ca798a1a79211939e915009b2e63c52b06be",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 70,
+      "index": 69,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-16T17:34:00Z",
@@ -3054,7 +3005,7 @@
       "ref": "c3add4f5210d41399216e99df385fb8793bc4519",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 71,
+      "index": 70,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-18T00:13:49Z",
@@ -3103,7 +3054,7 @@
       "ref": "f4621932ee4b4a9e49cb616604cfd90b32222809",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 72,
+      "index": 71,
       "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-18T15:37:01Z",
