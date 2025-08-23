@@ -3055,7 +3055,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 71,
-      "minimum_selector_version": "9",
+      "minimum_selector_version": "10",
       "generation": "11",
       "build_time": "2025-08-23T00:05:06Z",
       "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
