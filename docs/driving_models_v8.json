@@ -964,7 +964,7 @@
     {
       "short_name": "NTS",
       "display_name": "Not Too Shabby (January 28, 2025)",
-      "is_20hz": false,
+      "is_20hz": true,
       "ref": "2eb3585daed760ef5f997cbf69c04a66b6084f89",
       "environment": "development",
       "runner": "tinygrad",
@@ -2948,6 +2948,55 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20Model%20v2%20%28August%2017%2C%202025%29-79/driving_vision_gmv2_metadata.pkl",
               "sha256": "08bf5d9a05096d0271065089a4ec2cf66d02dcc584b74a25d7c371b24d99aa6d"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "FM",
+      "display_name": "Firehose Model (August 31, 2025)",
+      "is_20hz": true,
+      "ref": "b74f5189a74446015c0cf78a4a9f0134a347ae3b",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 71,
+      "minimum_selector_version": "10",
+      "generation": "12",
+      "build_time": "2025-08-31T20:55:07Z",
+      "overrides": { "folder": "Firehose Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_fm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled8/model-Firehose%20Model%20%28August%2031%2C%202025%29-84/driving_policy_fm_tinygrad.pkl",
+              "sha256": "4fbe496caa2d502696b8ee4134b0c7f5cd3374e5f5bbd645157c9059ea471b39"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_fm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled8/model-Firehose%20Model%20%28August%2031%2C%202025%29-84/driving_policy_fm_metadata.pkl",
+              "sha256": "67bd32fd22ddb6de84fcafded4211141abf518e31b6d3a7fd24839ef5f3b6490"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_fm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled8/model-Firehose%20Model%20%28August%2031%2C%202025%29-84/driving_vision_fm_tinygrad.pkl",
+              "sha256": "e88b7abaee6358c5ba82aa4dfae4f525287baaae1133f88dbeb775c19ad0f58d"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_fm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled8/model-Firehose%20Model%20%28August%2031%2C%202025%29-84/driving_vision_fm_metadata.pkl",
+              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
         }
