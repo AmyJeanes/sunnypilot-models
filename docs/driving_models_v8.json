@@ -964,7 +964,7 @@
     {
       "short_name": "NTS",
       "display_name": "Not Too Shabby (January 28, 2025)",
-      "is_20hz": false,
+      "is_20hz": true,
       "ref": "2eb3585daed760ef5f997cbf69c04a66b6084f89",
       "environment": "development",
       "runner": "tinygrad",
