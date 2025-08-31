@@ -10,7 +10,7 @@
       "runner": "tinygrad",
       "index": 0,
       "minimum_selector_version": "10",
-      "generation": "1",
+      "generation": "9",
       "build_time": "2025-08-25T03:22:55Z",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -42,7 +42,7 @@
       "runner": "tinygrad",
       "index": 1,
       "minimum_selector_version": "10",
-      "generation": "0",
+      "generation": "9",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -74,7 +74,7 @@
       "runner": "tinygrad",
       "index": 2,
       "minimum_selector_version": "10",
-      "generation": "1",
+      "generation": "9",
       "build_time": "2025-08-25T03:30:30Z",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -106,7 +106,7 @@
       "runner": "tinygrad",
       "index": 3,
       "minimum_selector_version": "10",
-      "generation": "1",
+      "generation": "9",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -138,7 +138,7 @@
       "runner": "tinygrad",
       "index": 4,
       "minimum_selector_version": "10",
-      "generation": "1",
+      "generation": "9",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -170,7 +170,7 @@
       "runner": "tinygrad",
       "index": 5,
       "minimum_selector_version": "10",
-      "generation": "1",
+      "generation": "9",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -202,7 +202,7 @@
       "runner": "tinygrad",
       "index": 6,
       "minimum_selector_version": "10",
-      "generation": "1",
+      "generation": "9",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -234,7 +234,7 @@
       "runner": "tinygrad",
       "index": 7,
       "minimum_selector_version": "10",
-      "generation": "3",
+      "generation": "9",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -266,7 +266,7 @@
       "runner": "tinygrad",
       "index": 8,
       "minimum_selector_version": "10",
-      "generation": "3",
+      "generation": "9",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -298,7 +298,7 @@
       "runner": "tinygrad",
       "index": 9,
       "minimum_selector_version": "10",
-      "generation": "3",
+      "generation": "9",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -330,7 +330,7 @@
       "runner": "tinygrad",
       "index": 10,
       "minimum_selector_version": "10",
-      "generation": "4",
+      "generation": "9",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -362,7 +362,7 @@
       "runner": "tinygrad",
       "index": 11,
       "minimum_selector_version": "10",
-      "generation": "4",
+      "generation": "9",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -394,7 +394,7 @@
       "runner": "tinygrad",
       "index": 12,
       "minimum_selector_version": "10",
-      "generation": "5",
+      "generation": "9",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -426,7 +426,7 @@
       "runner": "tinygrad",
       "index": 13,
       "minimum_selector_version": "10",
-      "generation": "6",
+      "generation": "9",
       "overrides": { "folder": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -458,7 +458,7 @@
       "runner": "tinygrad",
       "index": 14,
       "minimum_selector_version": "10",
-      "generation": "7",
+      "generation": "9",
       "overrides": { "folder": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -490,7 +490,7 @@
       "runner": "tinygrad",
       "index": 15,
       "minimum_selector_version": "10",
-      "generation": "7",
+      "generation": "9",
       "overrides": { "folder": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -964,7 +964,7 @@
     {
       "short_name": "NTS",
       "display_name": "Not Too Shabby (January 28, 2025)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "2eb3585daed760ef5f997cbf69c04a66b6084f89",
       "environment": "development",
       "runner": "tinygrad",
