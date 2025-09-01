@@ -10,7 +10,7 @@
       "runner": "tinygrad",
       "index": 0,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "build_time": "2025-08-25T03:22:55Z",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -42,7 +42,7 @@
       "runner": "tinygrad",
       "index": 1,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -74,7 +74,7 @@
       "runner": "tinygrad",
       "index": 2,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "build_time": "2025-08-25T03:30:30Z",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -106,7 +106,7 @@
       "runner": "tinygrad",
       "index": 3,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -138,7 +138,7 @@
       "runner": "tinygrad",
       "index": 4,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -170,7 +170,7 @@
       "runner": "tinygrad",
       "index": 5,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -202,7 +202,7 @@
       "runner": "tinygrad",
       "index": 6,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -234,7 +234,7 @@
       "runner": "tinygrad",
       "index": 7,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -266,7 +266,7 @@
       "runner": "tinygrad",
       "index": 8,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -298,7 +298,7 @@
       "runner": "tinygrad",
       "index": 9,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -330,7 +330,7 @@
       "runner": "tinygrad",
       "index": 10,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -362,7 +362,7 @@
       "runner": "tinygrad",
       "index": 11,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -394,7 +394,7 @@
       "runner": "tinygrad",
       "index": 12,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -426,7 +426,7 @@
       "runner": "tinygrad",
       "index": 13,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "overrides": { "folder": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -458,7 +458,7 @@
       "runner": "tinygrad",
       "index": 14,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "overrides": { "folder": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -970,7 +970,7 @@
       "runner": "tinygrad",
       "index": 30,
       "minimum_selector_version": "10",
-      "generation": "9",
+      "generation": "8",
       "build_time": "2025-08-28T13:04:18Z",
       "overrides": { "folder": "NTS Model", "lat": ".0", "long": ".0" },
       "models": [
