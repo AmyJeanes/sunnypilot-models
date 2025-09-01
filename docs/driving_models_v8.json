@@ -68,7 +68,7 @@
     {
       "short_name": "NLP",
       "display_name": "New Lemon Pie (November 02, 2023)",
-      "is_20hz": false,
+      "is_20hz": true,
       "ref": "91751770a895895b9bfe233e0384e93bd23e8058",
       "environment": "development",
       "runner": "tinygrad",
@@ -100,7 +100,7 @@
     {
       "short_name": "NLP+FV",
       "display_name": "Farmville (November 07, 2023)",
-      "is_20hz": false,
+      "is_20hz": true,
       "ref": "b91ecda3503288dd7df8e1bca286383d0d700176",
       "environment": "development",
       "runner": "tinygrad",
@@ -324,7 +324,7 @@
     {
       "short_name": "WD40",
       "display_name": "WD40 (April 09, 2024)",
-      "is_20hz": false,
+      "is_20hz": true,
       "ref": "9691393bde34efb8be6fccef497d6d17758c209c",
       "environment": "development",
       "runner": "tinygrad",
@@ -388,7 +388,7 @@
     {
       "short_name": "NDV3",
       "display_name": "Notre Dame (July 01, 2024)",
-      "is_20hz": false,
+      "is_20hz": true,
       "ref": "e0c89a36da8e6a06ab85c4e74c44f70dd910e1fe",
       "environment": "development",
       "runner": "tinygrad",
