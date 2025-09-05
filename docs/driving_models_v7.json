@@ -3193,6 +3193,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "FBW",
+      "display_name": "Fly By Wire (September 04, 2025)",
+      "is_20hz": true,
+      "ref": "c4488e3411285f6fc3d008bca885e05731fd75c2",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 74,
+      "minimum_selector_version": "10",
+      "generation": "12",
+      "build_time": "2025-09-05T12:35:52Z",
+      "overrides": { "folder": "FBW Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_fbw_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-86/driving_policy_fbw_tinygrad.pkl",
+              "sha256": "bb572165af24cb02728558ee1b36ef2eae7018c36de3ef9787c770dbbe0e55b9"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_fbw_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-86/driving_policy_fbw_metadata.pkl",
+              "sha256": "6d2e6bb4b9cba023f38d2e5ff9dbec5302a0463907f05f601569a1dc5e46094f"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_fbw_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-86/driving_vision_fbw_tinygrad.pkl",
+              "sha256": "55345fe2cb9119234615d71d6f76c76a8755ca54063e1c15a7207ac6f08ade0c"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_fbw_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-86/driving_vision_fbw_metadata.pkl",
+              "sha256": "17679e8f8374e47b84d580f92a56052a29cc889c97915fbb429852a7474bde6c"
+            }
+          }
+        }
+      ]
     }
   ]
 }
