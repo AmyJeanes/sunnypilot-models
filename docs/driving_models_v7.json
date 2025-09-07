@@ -3242,6 +3242,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "NM",
+      "display_name": "Nevada Model (September 07, 2025)",
+      "is_20hz": true,
+      "ref": "3193eac5e385aa010694a8ac192ff38ffe000193",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 75,
+      "minimum_selector_version": "10",
+      "generation": "12",
+      "build_time": "2025-09-07T22:35:29Z",
+      "overrides": { "folder": "Nevada Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_nm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Nevada%20Model%20%28September%2007%2C%202025%29-87/driving_policy_nm_tinygrad.pkl",
+              "sha256": "c6008730e70c4d6817b09e726b857066164e2b4eaf4d1e8f9b56f88f5ea95391"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_nm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Nevada%20Model%20%28September%2007%2C%202025%29-87/driving_policy_nm_metadata.pkl",
+              "sha256": "281d0ad7fe5d3ad1391498ebb4915ca77e38a3d41144f92a117f4d8a4b6ee3b2"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_nm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Nevada%20Model%20%28September%2007%2C%202025%29-87/driving_vision_nm_tinygrad.pkl",
+              "sha256": "933d908ea33408a4e5d955b6099ed1d3947a3ec5dd69eba9284c2674f534c885"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_nm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Nevada%20Model%20%28September%2007%2C%202025%29-87/driving_vision_nm_metadata.pkl",
+              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
+            }
+          }
+        }
+      ]
     }
   ]
 }
