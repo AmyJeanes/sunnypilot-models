@@ -3342,8 +3342,8 @@
       ]
     },
     {
-      "short_name": "G6",
-      "display_name": "gWM 6 (September 20, 2025)",
+      "short_name": "GWMV6",
+      "display_name": "gWM v6 (September 20, 2025)",
       "is_20hz": true,
       "ref": "91a1cea814f76d605d5b15de9634a3c8f79df509",
       "environment": "development",
