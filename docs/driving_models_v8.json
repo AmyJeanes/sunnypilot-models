@@ -68,7 +68,7 @@
     {
       "short_name": "NLP",
       "display_name": "New Lemon Pie (November 02, 2023)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "91751770a895895b9bfe233e0384e93bd23e8058",
       "environment": "development",
       "runner": "tinygrad",
@@ -100,7 +100,7 @@
     {
       "short_name": "NLP+FV",
       "display_name": "Farmville (November 07, 2023)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "b91ecda3503288dd7df8e1bca286383d0d700176",
       "environment": "development",
       "runner": "tinygrad",
@@ -324,7 +324,7 @@
     {
       "short_name": "WD40",
       "display_name": "WD40 (April 09, 2024)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "9691393bde34efb8be6fccef497d6d17758c209c",
       "environment": "development",
       "runner": "tinygrad",
@@ -388,7 +388,7 @@
     {
       "short_name": "NDV3",
       "display_name": "Notre Dame (July 01, 2024)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "e0c89a36da8e6a06ab85c4e74c44f70dd910e1fe",
       "environment": "development",
       "runner": "tinygrad",
@@ -489,8 +489,8 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 15,
-      "minimum_selector_version": "10",
-      "generation": "9",
+      "minimum_selector_version": "9",
+      "generation": "7",
       "overrides": { "folder": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -521,7 +521,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 16,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "8",
       "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -553,7 +553,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 17,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "8",
       "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -585,7 +585,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 18,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "8",
       "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -617,7 +617,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 19,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "8",
       "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -649,7 +649,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 20,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "8",
       "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -681,7 +681,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 21,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "8",
       "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -713,7 +713,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 22,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "8",
       "overrides": { "folder": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -745,7 +745,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 23,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "8",
       "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -777,7 +777,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 24,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "8",
       "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -809,7 +809,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 25,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "8",
       "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -841,7 +841,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 26,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "8",
       "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -873,7 +873,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 27,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "8",
       "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -905,7 +905,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 28,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "9",
       "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -937,7 +937,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 29,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "9",
       "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -969,10 +969,10 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 30,
-      "minimum_selector_version": "10",
-      "generation": "8",
+      "minimum_selector_version": "9",
+      "generation": "12",
       "build_time": "2025-08-28T13:04:18Z",
-      "overrides": { "folder": "NTS Model", "lat": ".0", "long": ".0" },
+      "overrides": { "folder": "NTS Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "supercombo",
@@ -1001,7 +1001,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 31,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "10",
       "build_time": "2025-08-12T21:19:49Z",
       "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
@@ -1050,7 +1050,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 32,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T21:15:18Z",
       "overrides": { "folder": "TR Models", "lat": ".3", "long": ".3" },
@@ -1099,7 +1099,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 33,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T20:43:17Z",
       "overrides": { "folder": "TR Models", "lat": ".3", "long": ".3" },
@@ -1148,7 +1148,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 34,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T21:46:43Z",
       "overrides": { "folder": "TR Models", "lat": ".3", "long": ".3" },
@@ -1197,7 +1197,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 35,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T21:11:43Z",
       "overrides": { "folder": "TR Models", "lat": ".3", "long": ".3" },
@@ -1246,7 +1246,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 36,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T21:02:39Z",
       "overrides": { "folder": "TR Models", "lat": ".3", "long": ".3" },
@@ -1295,7 +1295,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 37,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T21:04:08Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".2", "long": ".3" },
@@ -1344,7 +1344,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 38,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:17:40Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
@@ -1393,7 +1393,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 39,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T20:39:41Z",
       "overrides": { "folder": "DTR Models", "lat": ".1", "long": ".3" },
@@ -1442,7 +1442,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 40,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "10",
       "build_time": "2025-08-12T21:20:51Z",
       "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
@@ -1491,7 +1491,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 41,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:14:10Z",
       "overrides": { "folder": "SGO Models", "lat": ".1", "long": ".3" },
@@ -1540,7 +1540,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 42,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:39:13Z",
       "overrides": { "folder": "DTR Models", "lat": ".1", "long": ".3" },
@@ -1589,7 +1589,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 43,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "10",
       "build_time": "2025-08-12T21:53:07Z",
       "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
@@ -1638,7 +1638,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 44,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:10:27Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
@@ -1687,7 +1687,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 45,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "10",
       "build_time": "2025-08-12T21:29:07Z",
       "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
@@ -1736,7 +1736,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 46,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "10",
       "build_time": "2025-08-12T21:26:26Z",
       "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
@@ -1785,7 +1785,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 47,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "10",
       "build_time": "2025-08-12T20:51:25Z",
       "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
@@ -1834,7 +1834,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 48,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:37:04Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
@@ -1883,7 +1883,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 49,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:06:11Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
@@ -1932,7 +1932,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 50,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T20:50:22Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
@@ -1981,7 +1981,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 51,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:14:42Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
@@ -2030,7 +2030,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 52,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T21:52:48Z",
       "overrides": { "folder": "DTR Models", "lat": ".1", "long": ".3" },
@@ -2079,7 +2079,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 53,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-12T22:54:24Z",
       "overrides": { "folder": "Simple Plan Models", "lat": ".1", "long": ".3" },
@@ -2128,7 +2128,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 54,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T20:49:11Z",
       "overrides": { "folder": "DTR Models", "lat": ".1", "long": ".3" },
@@ -2177,7 +2177,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 55,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:45:14Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
@@ -2226,7 +2226,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 56,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:26:10Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
@@ -2275,7 +2275,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 57,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T21:34:59Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
@@ -2324,7 +2324,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 58,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:33:15Z",
       "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
@@ -2373,7 +2373,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 59,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:01:45Z",
       "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
@@ -2422,7 +2422,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 60,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T21:36:15Z",
       "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
@@ -2471,7 +2471,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 61,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-12T21:12:06Z",
       "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
@@ -2520,7 +2520,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 62,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "11",
       "build_time": "2025-08-12T22:45:14Z",
       "overrides": { "folder": "UV Models", "lat": ".1", "long": ".3" },
@@ -2569,7 +2569,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 63,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-13T01:13:25Z",
       "overrides": { "folder": "DTR Models", "lat": ".1", "long": ".3" },
@@ -2618,7 +2618,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 64,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-13T16:07:52Z",
       "overrides": { "folder": "UV Models", "lat": ".1", "long": ".3" },
@@ -2667,7 +2667,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 65,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-15T03:01:40Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
@@ -2716,7 +2716,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 66,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-17T01:05:44Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
@@ -2765,7 +2765,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 67,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-16T16:20:21Z",
       "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
@@ -2814,7 +2814,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 68,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-16T16:42:16Z",
       "overrides": { "folder": "Simple Plan Models", "lat": ".1", "long": ".3" },
@@ -2863,7 +2863,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 69,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-16T17:34:00Z",
       "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
@@ -2912,7 +2912,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 70,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "9",
       "generation": "12",
       "build_time": "2025-08-18T00:13:49Z",
       "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
@@ -2954,13 +2954,62 @@
       ]
     },
     {
+      "short_name": "GMV3",
+      "display_name": "gWM Model v3 (August 22, 2025)",
+      "is_20hz": true,
+      "ref": "93b26a91a62b69b809162ad2bf65e36be2158dc1",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 71,
+      "minimum_selector_version": "9",
+      "generation": "12",
+      "build_time": "2025-08-23T00:05:06Z",
+      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_gmv3_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-81/driving_policy_gmv3_tinygrad.pkl",
+              "sha256": "e7a866f33ec20878e271ffe76cc10bb9199019347f1adc810de125f6332e854f"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_gmv3_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-81/driving_policy_gmv3_metadata.pkl",
+              "sha256": "d26318ecc10141586147cc64390f0b2676a53fbec0b07dd094d02a8ae74af589"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_gmv3_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-81/driving_vision_gmv3_tinygrad.pkl",
+              "sha256": "6f466dd730a37e224213d870f8606bfbbc7216c142460f172446692ace52dc82"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_gmv3_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-81/driving_vision_gmv3_metadata.pkl",
+              "sha256": "12e97872de2f39aacb1172ffbda9c4aba840854080d4849d96ac5b1b7eb43295"
+            }
+          }
+        }
+      ]
+    },
+    {
       "short_name": "FM",
       "display_name": "Firehose Model (August 31, 2025)",
       "is_20hz": true,
       "ref": "b74f5189a74446015c0cf78a4a9f0134a347ae3b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 71,
+      "index": 72,
       "minimum_selector_version": "10",
       "generation": "12",
       "build_time": "2025-08-31T20:55:07Z",
@@ -2996,6 +3045,251 @@
             "file_name": "driving_vision_fm_metadata.pkl",
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled8/model-Firehose%20Model%20%28August%2031%2C%202025%29-84/driving_vision_fm_metadata.pkl",
+              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "GWMV4",
+      "display_name": "gWM v4 (September 04, 2025)",
+      "is_20hz": true,
+      "ref": "9aa772366b91e17e13eca8293a91975d3aac29fe",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 73,
+      "minimum_selector_version": "10",
+      "generation": "12",
+      "build_time": "2025-09-05T02:25:37Z",
+      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_gwmv4_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20v4%20%28September%2004%2C%202025%29-85/driving_vision_gwmv4_tinygrad.pkl",
+              "sha256": "07f2b6700f540849aa98648f6ba0d1f00a77933d2e3966c52ac9d1ac8719d57a"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_gwmv4_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20v4%20%28September%2004%2C%202025%29-85/driving_vision_gwmv4_metadata.pkl",
+              "sha256": "12e97872de2f39aacb1172ffbda9c4aba840854080d4849d96ac5b1b7eb43295"
+            }
+          }
+        },
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_gwmv4_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20v4%20%28September%2004%2C%202025%29-85/driving_policy_gwmv4_tinygrad.pkl",
+              "sha256": "3c996b2a95ecceaf04e72f5b1894789e96d3c65cf5aa5cd8812275e1d1a29f8a"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_gwmv4_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20v4%20%28September%2004%2C%202025%29-85/driving_policy_gwmv4_metadata.pkl",
+              "sha256": "fcabd849761bab61ce1fd890fb65cab52e3edd457b37cabae019d35ebb891905"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "FBW",
+      "display_name": "Fly By Wire (September 04, 2025)",
+      "is_20hz": true,
+      "ref": "c4488e3411285f6fc3d008bca885e05731fd75c2",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 74,
+      "minimum_selector_version": "10",
+      "generation": "12",
+      "build_time": "2025-09-05T12:35:52Z",
+      "overrides": { "folder": "FBW Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_fbw_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-86/driving_policy_fbw_tinygrad.pkl",
+              "sha256": "bb572165af24cb02728558ee1b36ef2eae7018c36de3ef9787c770dbbe0e55b9"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_fbw_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-86/driving_policy_fbw_metadata.pkl",
+              "sha256": "6d2e6bb4b9cba023f38d2e5ff9dbec5302a0463907f05f601569a1dc5e46094f"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_fbw_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-86/driving_vision_fbw_tinygrad.pkl",
+              "sha256": "55345fe2cb9119234615d71d6f76c76a8755ca54063e1c15a7207ac6f08ade0c"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_fbw_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-86/driving_vision_fbw_metadata.pkl",
+              "sha256": "17679e8f8374e47b84d580f92a56052a29cc889c97915fbb429852a7474bde6c"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "NM",
+      "display_name": "Nevada Model (September 07, 2025)",
+      "is_20hz": true,
+      "ref": "3193eac5e385aa010694a8ac192ff38ffe000193",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 75,
+      "minimum_selector_version": "10",
+      "generation": "12",
+      "build_time": "2025-09-07T22:35:29Z",
+      "overrides": { "folder": "Nevada Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_nm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Nevada%20Model%20%28September%2007%2C%202025%29-87/driving_policy_nm_tinygrad.pkl",
+              "sha256": "c6008730e70c4d6817b09e726b857066164e2b4eaf4d1e8f9b56f88f5ea95391"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_nm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Nevada%20Model%20%28September%2007%2C%202025%29-87/driving_policy_nm_metadata.pkl",
+              "sha256": "281d0ad7fe5d3ad1391498ebb4915ca77e38a3d41144f92a117f4d8a4b6ee3b2"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_nm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Nevada%20Model%20%28September%2007%2C%202025%29-87/driving_vision_nm_tinygrad.pkl",
+              "sha256": "933d908ea33408a4e5d955b6099ed1d3947a3ec5dd69eba9284c2674f534c885"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_nm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Nevada%20Model%20%28September%2007%2C%202025%29-87/driving_vision_nm_metadata.pkl",
+              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "GWMV5",
+      "display_name": "gWM v5 (September 09, 2025)",
+      "is_20hz": true,
+      "ref": "e3ee440f7d5ac12c50db6381e292a55a69b745a7",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 76,
+      "minimum_selector_version": "10",
+      "generation": "12",
+      "build_time": "2025-09-09T21:07:56Z",
+      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_gwmv5_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20v5%20%28September%2009%2C%202025%29-88/driving_policy_gwmv5_tinygrad.pkl",
+              "sha256": "d45b4bb32d81d51c352edff7c8cab8e62162e8b877b4ea3487f351774fcbb8e5"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_gwmv5_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20v5%20%28September%2009%2C%202025%29-88/driving_policy_gwmv5_metadata.pkl",
+              "sha256": "70f1e31801cfb40d7192d5ea5f2f7209cd5a309e9b06cdf408223d402144343c"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_gwmv5_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20v5%20%28September%2009%2C%202025%29-88/driving_vision_gwmv5_tinygrad.pkl",
+              "sha256": "991c987d3d4ef7573a57311ee5c9a2e4494b1514891014df9d7bdf80f3960512"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_gwmv5_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20v5%20%28September%2009%2C%202025%29-88/driving_vision_gwmv5_metadata.pkl",
+              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "GWMV6",
+      "display_name": "gWM v6 (September 20, 2025)",
+      "is_20hz": true,
+      "ref": "91a1cea814f76d605d5b15de9634a3c8f79df509",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 77,
+      "minimum_selector_version": "10",
+      "generation": "12",
+      "build_time": "2025-09-20T21:59:34Z",
+      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_g6_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%206%20%28September%2020%2C%202025%29-89/driving_policy_g6_tinygrad.pkl",
+              "sha256": "b59d53e228f330321e066e9ad01b701a1277d71f853551e5e1717f47ba2c2d1c"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_g6_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%206%20%28September%2020%2C%202025%29-89/driving_policy_g6_metadata.pkl",
+              "sha256": "6d275bb87069b79f3ef48abc4f1d2bbcafa79627c2752bfb483c44c6dc6c00a8"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_g6_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%206%20%28September%2020%2C%202025%29-89/driving_vision_g6_tinygrad.pkl",
+              "sha256": "92ded55677266439ec795338ca362e578afb076fb06bdb5fb191dbae12dd9672"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_g6_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%206%20%28September%2020%2C%202025%29-89/driving_vision_g6_metadata.pkl",
               "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
