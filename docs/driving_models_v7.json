@@ -3490,7 +3490,7 @@
     },
     {
       "short_name": "TCP",
-      "display_name": "The Cool People (October 03, 2025)",
+      "display_name": "The Cool People's Model (October 03, 2025)",
       "is_20hz": true,
       "ref": "5306f07d05a4f84a632ce908ec5ce34993e73693",
       "environment": "development",
@@ -3499,7 +3499,7 @@
       "minimum_selector_version": "10",
       "generation": "12",
       "build_time": "2025-10-04T00:09:24Z",
-      "overrides": { "folder": "CP Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "TCP Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
