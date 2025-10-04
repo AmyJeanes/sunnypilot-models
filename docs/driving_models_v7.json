@@ -3487,6 +3487,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "TCP",
+      "display_name": "The Cool People (October 03, 2025)",
+      "is_20hz": true,
+      "ref": "5306f07d05a4f84a632ce908ec5ce34993e73693",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 80,
+      "minimum_selector_version": "10",
+      "generation": "12",
+      "build_time": "2025-10-04T00:09:24Z",
+      "overrides": { "folder": "CP Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_tcp_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-The%20Cool%20People%20%28October%2003%2C%202025%29-92/driving_policy_tcp_tinygrad.pkl",
+              "sha256": "4cbf918aece196f5038945b9a886583629898eb2f9f9c5ca5a5cb3ce9162dbc7"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_tcp_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-The%20Cool%20People%20%28October%2003%2C%202025%29-92/driving_policy_tcp_metadata.pkl",
+              "sha256": "324e3e1f83b0fe7158f75083e3aa9b630d0bf03f1a14b261e1cbc14dbcedc805"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_tcp_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-The%20Cool%20People%20%28October%2003%2C%202025%29-92/driving_vision_tcp_tinygrad.pkl",
+              "sha256": "b30ffd3b559d60cce33454386c0fec453434d576cc9d3412df9c7520fa9763fc"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_tcp_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-The%20Cool%20People%20%28October%2003%2C%202025%29-92/driving_vision_tcp_metadata.pkl",
+              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
+            }
+          }
+        }
+      ]
     }
   ]
 }
