@@ -3637,7 +3637,7 @@
     },
     {
       "short_name": "NID",
-      "display_name": "Nuggets in Digon (October 09, 2025)",
+      "display_name": "Nuggets in Dijon (October 09, 2025)",
       "is_20hz": true,
       "ref": "13e79e9fad60c19e751e4f9ab0538d39f1bb54dd",
       "environment": "development",
@@ -3646,7 +3646,7 @@
       "minimum_selector_version": "10",
       "generation": "12",
       "build_time": "2025-10-09T20:23:52Z",
-      "overrides": { "folder": "NIJ Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "NID Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
