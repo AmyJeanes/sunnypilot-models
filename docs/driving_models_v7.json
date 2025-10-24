@@ -3830,6 +3830,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "CGWM",
+      "display_name": "Cool GWM  (October 24, 2025)",
+      "is_20hz": true,
+      "ref": "94dd3bd9107cd413ed2418f9e6c0cf805a9ca495",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 87,
+      "minimum_selector_version": "10",
+      "generation": "12",
+      "build_time": "2025-10-24T19:03:50Z",
+      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_cgwm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Cool%20GWM%20%20%28October%2024%2C%202025%29-100/driving_policy_cgwm_tinygrad.pkl",
+              "sha256": "611f4a22442ec4df7108ddfca07b57f0efe10cae9eb97552910c7ace4193a972"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_cgwm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Cool%20GWM%20%20%28October%2024%2C%202025%29-100/driving_policy_cgwm_metadata.pkl",
+              "sha256": "501b5f23ff302a7dbb510a1c01466391975705288697cb077166cb548b1b39ec"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_cgwm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Cool%20GWM%20%20%28October%2024%2C%202025%29-100/driving_vision_cgwm_tinygrad.pkl",
+              "sha256": "db965b28d760af0cca6fdff733596805cde7f959b15ff541446223abb523b96e"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_cgwm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Cool%20GWM%20%20%28October%2024%2C%202025%29-100/driving_vision_cgwm_metadata.pkl",
+              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
+            }
+          }
+        }
+      ]
     }
   ]
 }
