@@ -3686,7 +3686,7 @@
     },
     {
       "short_name": "TCPMV2",
-      "display_name": "The Cool People\u2019s Model v2 (October 09, 2025)",
+      "display_name": "The Cool People's Model v2 (October 09, 2025)",
       "is_20hz": true,
       "ref": "19084132cd3956413a0fdfcdc18971a55df5e0ff",
       "environment": "development",
@@ -3735,7 +3735,7 @@
     },
     {
       "short_name": "TCPMV3",
-      "display_name": "The Cool People\u2019s Model v3 (October 10, 2025)",
+      "display_name": "The Cool People's Model v3 (October 10, 2025)",
       "is_20hz": true,
       "ref": "5eb912c025a2207c7d428deee74ded49e5905527",
       "environment": "development",
