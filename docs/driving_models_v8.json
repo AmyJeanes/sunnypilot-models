@@ -3879,6 +3879,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "STM",
+      "display_name": "ST Model (November 03, 2025)",
+      "is_20hz": true,
+      "ref": "a7e76e82aeb4713f7c2a514579a248bf58ee62d1",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 88,
+      "minimum_selector_version": "10",
+      "generation": "12",
+      "build_time": "2025-11-04T14:33:47Z",
+      "overrides": { "folder": "ST Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_stm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled8/model-ST%20Model%20%28November%2003%2C%202025%29-103/driving_policy_stm_tinygrad.pkl",
+              "sha256": "1732b193359aa657ca2bf23fba9c1ee58501d4445b1fe1cc660e3266ee2c5321"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_stm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled8/model-ST%20Model%20%28November%2003%2C%202025%29-103/driving_policy_stm_metadata.pkl",
+              "sha256": "161a06afcf4a9e5c6a211d95431f8e1f2ec1f22bd3a6c02a9d9e81c2edfadb67"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_stm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled8/model-ST%20Model%20%28November%2003%2C%202025%29-103/driving_vision_stm_tinygrad.pkl",
+              "sha256": "333bf5f2b1a4f494fe5f6cadd2e8855cac59178513ca35ba232f9b6a30a165ea"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_stm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled8/model-ST%20Model%20%28November%2003%2C%202025%29-103/driving_vision_stm_metadata.pkl",
+              "sha256": "71bee07a3e709139067659be864856a48708624ba54f5bb98fdda4a2f8b2fcf6"
+            }
+          }
+        }
+      ]
     }
   ]
 }
