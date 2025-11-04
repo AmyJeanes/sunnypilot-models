@@ -11,7 +11,7 @@ def find_metadata_files(root):
       yield os.path.join(dirpath, "metadata.json")
 
 def make_model_url(recompiled_dir, folder, file_name):
-  base = f"https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/{recompiled_dir}/"
+  base = f"https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/{recompiled_dir}/"
   safe_folder = urllib.parse.quote(folder)
   safe_file = urllib.parse.quote(file_name)
   return f"{base}{safe_folder}/{safe_file}"
