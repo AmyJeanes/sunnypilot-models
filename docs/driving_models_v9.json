@@ -784,20 +784,20 @@
           "artifact": {
             "file_name": "supercombo_mlsimv4_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-MLSIM%20V4%20%28October%2017%2C%202024%29-95/supercombo_mlsimv4_tinygrad.pkl",
-              "sha256": "2872dbae44d3638adec6be6157f2af1754a65d21ed84950de159577ed0634814"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-MLSIM%20V4%20%28October%2017%2C%202024%29-97/supercombo_mlsimv4_tinygrad.pkl",
+              "sha256": "bb5bf98cfca2bc31a2ecf5e62c6049f34db5a05e0807f144d021b34642c10d3f"
             }
           },
           "metadata": {
             "file_name": "supercombo_mlsimv4_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-MLSIM%20V4%20%28October%2017%2C%202024%29-95/supercombo_mlsimv4_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-MLSIM%20V4%20%28October%2017%2C%202024%29-97/supercombo_mlsimv4_metadata.pkl",
               "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
             }
           }
         }
       ],
-      "build_time": "2025-08-12T22:51:11Z"
+      "build_time": "2025-11-10T21:13:26Z"
     },
     {
       "short_name": "DRAGON-RAIDER",
