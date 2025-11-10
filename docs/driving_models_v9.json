@@ -976,20 +976,20 @@
           "artifact": {
             "file_name": "supercombo_ps_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Postal%20Service%20%28December%2009%2C%202024%29-95/supercombo_ps_tinygrad.pkl",
-              "sha256": "e760e67ea352468e1dcbb63dea27db8deda3c49117c84bc6656f853bb646b547"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Postal%20Service%20%28December%2009%2C%202024%29-97/supercombo_ps_tinygrad.pkl",
+              "sha256": "e274b90001db08d559371a6808eed68840522830e22633c24dec027b77d3136d"
             }
           },
           "metadata": {
             "file_name": "supercombo_ps_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Postal%20Service%20%28December%2009%2C%202024%29-95/supercombo_ps_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Postal%20Service%20%28December%2009%2C%202024%29-97/supercombo_ps_metadata.pkl",
               "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
             }
           }
         }
       ],
-      "build_time": "2025-08-12T20:30:37Z"
+      "build_time": "2025-11-10T15:56:05Z"
     },
     {
       "short_name": "NULL-POINTER",
