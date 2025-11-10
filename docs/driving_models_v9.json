@@ -912,20 +912,20 @@
           "artifact": {
             "file_name": "supercombo_alabama_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Alabama%20%28November%2025%2C%202024%29-95/supercombo_alabama_tinygrad.pkl",
-              "sha256": "5b486c68b5fe31722978767370b650e5b984fcf0f8b3b5e18cd9ae0842efe242"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Alabama%20%28November%2025%2C%202024%29-97/supercombo_alabama_tinygrad.pkl",
+              "sha256": "e3f350d5f4e6c94bd178b90b5f22cef39cda64585e6dc10e2296c2e0eb15c13c"
             }
           },
           "metadata": {
             "file_name": "supercombo_alabama_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Alabama%20%28November%2025%2C%202024%29-95/supercombo_alabama_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Alabama%20%28November%2025%2C%202024%29-97/supercombo_alabama_metadata.pkl",
               "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
             }
           }
         }
       ],
-      "build_time": "2025-08-12T20:57:52Z"
+      "build_time": "2025-11-10T21:33:22Z"
     },
     {
       "short_name": "PLAYSTATION",
