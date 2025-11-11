@@ -3057,7 +3057,7 @@
       "index": 71,
       "minimum_selector_version": "11",
       "generation": "12",
-      "build_time": "2025-08-23T00:05:06Z",
+      "build_time": "2025-11-10T21:59:21Z",
       "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -3065,14 +3065,14 @@
           "artifact": {
             "file_name": "driving_policy_gmv3_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-81/driving_policy_gmv3_tinygrad.pkl",
-              "sha256": "e7a866f33ec20878e271ffe76cc10bb9199019347f1adc810de125f6332e854f"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-97/driving_policy_gmv3_tinygrad.pkl",
+              "sha256": "a64360ae63620e6f2d320fd6aa150cd1b28ea2cc836c68ca2ad7f0d764355738"
             }
           },
           "metadata": {
             "file_name": "driving_policy_gmv3_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-81/driving_policy_gmv3_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-97/driving_policy_gmv3_metadata.pkl",
               "sha256": "d26318ecc10141586147cc64390f0b2676a53fbec0b07dd094d02a8ae74af589"
             }
           }
@@ -3082,14 +3082,14 @@
           "artifact": {
             "file_name": "driving_vision_gmv3_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-81/driving_vision_gmv3_tinygrad.pkl",
-              "sha256": "6f466dd730a37e224213d870f8606bfbbc7216c142460f172446692ace52dc82"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-97/driving_vision_gmv3_tinygrad.pkl",
+              "sha256": "4fdb27da273fc841b27d965f4ddbbe2b851bc7754817fc38afbe72192c70109f"
             }
           },
           "metadata": {
             "file_name": "driving_vision_gmv3_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-81/driving_vision_gmv3_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-97/driving_vision_gmv3_metadata.pkl",
               "sha256": "12e97872de2f39aacb1172ffbda9c4aba840854080d4849d96ac5b1b7eb43295"
             }
           }
