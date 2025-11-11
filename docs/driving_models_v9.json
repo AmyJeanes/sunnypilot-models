@@ -1489,7 +1489,7 @@
       "index": 39,
       "minimum_selector_version": "11",
       "generation": "11",
-      "build_time": "2025-08-12T20:39:41Z",
+      "build_time": "2025-11-10T16:46:10Z",
       "overrides": { "folder": "DTR Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1497,14 +1497,14 @@
           "artifact": {
             "file_name": "driving_vision_dtr_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Down%20to%20Ride%20%28May%2010%2C%202025%29-95/driving_vision_dtr_tinygrad.pkl",
-              "sha256": "5c5e3037c43119a3ab8acc8b2622fed1d4aa3daf4acb70ab2df6f6ca47452ab1"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Down%20to%20Ride%20%28May%2010%2C%202025%29-97/driving_vision_dtr_tinygrad.pkl",
+              "sha256": "fb85485fd46ddad5545595064c0ce067f068dfcfac26b0441185378311d3b821"
             }
           },
           "metadata": {
             "file_name": "driving_vision_dtr_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Down%20to%20Ride%20%28May%2010%2C%202025%29-95/driving_vision_dtr_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Down%20to%20Ride%20%28May%2010%2C%202025%29-97/driving_vision_dtr_metadata.pkl",
               "sha256": "6cbd167c1c1d80a7b73687518d91292d7f2c2e63bae76af171ee6c7dea477261"
             }
           }
@@ -1514,14 +1514,14 @@
           "artifact": {
             "file_name": "driving_policy_dtr_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Down%20to%20Ride%20%28May%2010%2C%202025%29-95/driving_policy_dtr_tinygrad.pkl",
-              "sha256": "24161d4c38432a464c7863d0657ed655a6b776a49d6afb2f2fa36344c97b6c24"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Down%20to%20Ride%20%28May%2010%2C%202025%29-97/driving_policy_dtr_tinygrad.pkl",
+              "sha256": "4b2306ee5be5cbf1b48913fa291def98f9fcbc2aa7e6b174055e7cad83bc459c"
             }
           },
           "metadata": {
             "file_name": "driving_policy_dtr_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Down%20to%20Ride%20%28May%2010%2C%202025%29-95/driving_policy_dtr_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Down%20to%20Ride%20%28May%2010%2C%202025%29-97/driving_policy_dtr_metadata.pkl",
               "sha256": "caaa7fe2232695dca4783b30f4efbd2870745f195dbaf8d696566102a45f1b69"
             }
           }
