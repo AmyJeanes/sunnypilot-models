@@ -2910,22 +2910,22 @@
       "index": 68,
       "minimum_selector_version": "11",
       "generation": "12",
-      "build_time": "2025-08-16T16:42:16Z",
+      "build_time": "2025-11-10T17:24:36Z",
       "overrides": { "folder": "Simple Plan Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
           "artifact": {
-            "file_name": "driving_policy_spmn_tinygrad.pkl",
+            "file_name": "driving_policy_spm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-76/driving_policy_spmn_tinygrad.pkl",
-              "sha256": "c3a789562f82b8614a2918387ac1589201db8449dc33cdf9a2b0bb20eda02dbf"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-97/driving_policy_spm_tinygrad.pkl",
+              "sha256": "0a783d227ad2db2406be74afab3e09a21c2ee134611c8d98dfddc3796402513b"
             }
           },
           "metadata": {
-            "file_name": "driving_policy_spmn_metadata.pkl",
+            "file_name": "driving_policy_spm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-76/driving_policy_spmn_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-97/driving_policy_spm_metadata.pkl",
               "sha256": "8e6707775e2aec3570f282a04a87a6124c1e9e02ac822b23e5c8e4463b03f1f8"
             }
           }
@@ -2933,16 +2933,16 @@
         {
           "type": "vision",
           "artifact": {
-            "file_name": "driving_vision_spmn_tinygrad.pkl",
+            "file_name": "driving_vision_spm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-76/driving_vision_spmn_tinygrad.pkl",
-              "sha256": "d3e44e34b6b54bfb29538140178d08923947d2d86a57630c518f7b77a2b26e73"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-97/driving_vision_spm_tinygrad.pkl",
+              "sha256": "2ccef4e45bfa892b12e0f79c99ec0f463aeddf740389899f73485fafdd03d1a5"
             }
           },
           "metadata": {
-            "file_name": "driving_vision_spmn_metadata.pkl",
+            "file_name": "driving_vision_spm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai2/-/raw/main/models/recompiled7/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-76/driving_vision_spmn_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-97/driving_vision_spm_metadata.pkl",
               "sha256": "12e97872de2f39aacb1172ffbda9c4aba840854080d4849d96ac5b1b7eb43295"
             }
           }
