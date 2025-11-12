@@ -3879,6 +3879,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "STM",
+      "display_name": "ST Model (November 11, 2025)",
+      "is_20hz": true,
+      "ref": "f3a00b65239eabb0b0f8a471ddbac1230e0010f7",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 88,
+      "minimum_selector_version": "11",
+      "generation": "12",
+      "build_time": "2025-11-12T01:57:04Z",
+      "overrides": { "folder": "ST Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_stm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-ST%20Model%20%28November%2011%2C%202025%29-105/driving_vision_stm_tinygrad.pkl",
+              "sha256": "2b3c187e63dac7b7745bedee9ec4f6d2cb587e15a1d050ce13380edca42c7d27"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_stm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-ST%20Model%20%28November%2011%2C%202025%29-105/driving_vision_stm_metadata.pkl",
+              "sha256": "99188b5d9501600298ccb67501b847dc0de5887fe41241cfcdd0693205d4a05e"
+            }
+          }
+        },
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_stm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-ST%20Model%20%28November%2011%2C%202025%29-105/driving_policy_stm_tinygrad.pkl",
+              "sha256": "4509e6271c6b2deb036d3736bd20096caef49f4ca02327825009c356e406a5ac"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_stm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-ST%20Model%20%28November%2011%2C%202025%29-105/driving_policy_stm_metadata.pkl",
+              "sha256": "b97dd674fe55e10b9c2bfa908b8365f57726c7a2110998fe040e76c8ff2a802e"
+            }
+          }
+        }
+      ]
     }
   ]
 }
