@@ -4023,7 +4023,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 93,
-      "minimum_selector_version": "10",
+      "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-12-07T07:08:31Z",
       "overrides": { "folder": "WMI", "lat": ".1", "long": ".3" },
