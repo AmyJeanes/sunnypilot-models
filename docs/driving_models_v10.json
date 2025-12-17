@@ -445,7 +445,7 @@
       "index": 14,
       "minimum_selector_version": "12",
       "generation": "6",
-      "overrides": { "folder": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
+      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
         {
           "type": "supercombo",
@@ -476,7 +476,7 @@
       "index": 15,
       "minimum_selector_version": "12",
       "generation": "7",
-      "overrides": { "folder": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
+      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
         {
           "type": "supercombo",
@@ -507,7 +507,7 @@
       "index": 16,
       "minimum_selector_version": "12",
       "generation": "7",
-      "overrides": { "folder": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
+      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
         {
           "type": "supercombo",
@@ -731,7 +731,7 @@
       "index": 23,
       "minimum_selector_version": "12",
       "generation": "8",
-      "overrides": { "folder": "2024 Semi-MLSIM Models", "lat": ".0", "long": ".0" },
+      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
       "models": [
         {
           "type": "supercombo",
@@ -988,7 +988,7 @@
       "minimum_selector_version": "12",
       "generation": "10",
       "build_time": "2025-11-11T00:16:59Z",
-      "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
+      "overrides": { "folder": "Release Models", "lat": ".0", "long": ".0" },
       "models": [
         {
           "type": "vision",
@@ -1037,7 +1037,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T22:35:42Z",
-      "overrides": { "folder": "TR Models", "lat": ".3", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".3", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -1086,7 +1086,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T19:29:15Z",
-      "overrides": { "folder": "TR Models", "lat": ".3", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".3", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -1135,7 +1135,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T21:51:03Z",
-      "overrides": { "folder": "TR Models", "lat": ".3", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".3", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -1184,7 +1184,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T17:41:43Z",
-      "overrides": { "folder": "TR Models", "lat": ".3", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".3", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -1233,7 +1233,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T21:37:26Z",
-      "overrides": { "folder": "TR Models", "lat": ".3", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".3", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -1331,7 +1331,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T17:02:42Z",
-      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -1429,7 +1429,7 @@
       "minimum_selector_version": "12",
       "generation": "10",
       "build_time": "2025-11-10T21:17:39Z",
-      "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
           "type": "vision",
@@ -1576,7 +1576,7 @@
       "minimum_selector_version": "12",
       "generation": "10",
       "build_time": "2025-11-10T21:09:25Z",
-      "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
           "type": "vision",
@@ -1625,7 +1625,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T18:42:25Z",
-      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -1674,7 +1674,7 @@
       "minimum_selector_version": "12",
       "generation": "10",
       "build_time": "2025-11-10T22:31:38Z",
-      "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
           "type": "vision",
@@ -1723,7 +1723,7 @@
       "minimum_selector_version": "12",
       "generation": "10",
       "build_time": "2025-11-10T22:19:18Z",
-      "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
           "type": "vision",
@@ -1772,7 +1772,7 @@
       "minimum_selector_version": "12",
       "generation": "10",
       "build_time": "2025-11-10T19:25:03Z",
-      "overrides": { "folder": "FoF series models", "lat": ".0", "long": ".0" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
           "type": "vision",
@@ -1821,7 +1821,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T18:33:27Z",
-      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -1870,7 +1870,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T22:03:37Z",
-      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -1919,7 +1919,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T22:15:08Z",
-      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -1968,7 +1968,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T22:39:53Z",
-      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2164,7 +2164,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-11T00:04:17Z",
-      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2213,7 +2213,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T19:16:49Z",
-      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2262,7 +2262,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T21:46:53Z",
-      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2311,7 +2311,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T18:55:12Z",
-      "overrides": { "folder": "TR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2360,7 +2360,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-11T00:12:49Z",
-      "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2409,7 +2409,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T16:31:40Z",
-      "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -2458,7 +2458,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T17:54:10Z",
-      "overrides": { "folder": "Space Lab Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -2507,7 +2507,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T16:01:43Z",
-      "overrides": { "folder": "UV Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -2556,7 +2556,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T17:58:37Z",
-      "overrides": { "folder": "DTR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2605,7 +2605,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T21:55:16Z",
-      "overrides": { "folder": "UV Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2752,7 +2752,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T17:29:00Z",
-      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2801,7 +2801,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T17:24:36Z",
-      "overrides": { "folder": "Simple Plan Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2850,7 +2850,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T19:03:45Z",
-      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -2899,7 +2899,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T16:41:01Z",
-      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2948,7 +2948,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T21:59:21Z",
-      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2997,7 +2997,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T21:05:04Z",
-      "overrides": { "folder": "Firehose Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3046,7 +3046,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-11T00:21:01Z",
-      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -3095,7 +3095,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T19:20:56Z",
-      "overrides": { "folder": "FBW Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3144,7 +3144,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T22:48:10Z",
-      "overrides": { "folder": "Nevada Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3193,7 +3193,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T22:23:20Z",
-      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3242,7 +3242,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T18:37:56Z",
-      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3291,7 +3291,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T17:37:30Z",
-      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3340,7 +3340,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T22:27:27Z",
-      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3389,7 +3389,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T18:50:53Z",
-      "overrides": { "folder": "TCP Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3438,7 +3438,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T17:07:55Z",
-      "overrides": { "folder": "Nevada Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3487,7 +3487,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T18:59:30Z",
-      "overrides": { "folder": "Nevada Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3536,7 +3536,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T22:44:05Z",
-      "overrides": { "folder": "NID Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -3585,7 +3585,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T16:58:21Z",
-      "overrides": { "folder": "TCP Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -3634,7 +3634,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-11T00:08:34Z",
-      "overrides": { "folder": "TCP Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3683,7 +3683,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T16:35:55Z",
-      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3732,7 +3732,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T22:10:55Z",
-      "overrides": { "folder": "WM Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3781,7 +3781,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-12T01:57:04Z",
-      "overrides": { "folder": "ST Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -3977,7 +3977,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-12-03T20:21:50Z",
-      "overrides": { "folder": "Dark Souls Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -4026,7 +4026,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-12-07T07:08:31Z",
-      "overrides": { "folder": "WMI", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -4075,7 +4075,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-12-09T22:45:15Z",
-      "overrides": { "folder": "WMI Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -4114,7 +4114,7 @@
       ]
     },
     {
-      "short_name": "PLANPLUS",
+      "short_name": "Planplusv2",
       "display_name": "Planplus v2 (December 11, 2025)",
       "is_20hz": true,
       "ref": "50c78a9dd670a305ca898b96245cadbc2ecdc1a6",
@@ -4173,7 +4173,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-12-12T14:05:08Z",
-      "overrides": { "folder": "Dark Souls Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
