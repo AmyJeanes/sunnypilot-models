@@ -2066,7 +2066,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T19:12:29Z",
-      "overrides": { "folder": "Simple Plan Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
