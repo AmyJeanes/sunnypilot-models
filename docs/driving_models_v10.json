@@ -1380,7 +1380,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T16:46:10Z",
-      "overrides": { "folder": "DTR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -1478,7 +1478,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T17:46:46Z",
-      "overrides": { "folder": "SGO Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -1527,7 +1527,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T23:59:58Z",
-      "overrides": { "folder": "DTR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -2017,7 +2017,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T16:22:29Z",
-      "overrides": { "folder": "DTR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -2115,7 +2115,7 @@
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T19:08:09Z",
-      "overrides": { "folder": "DTR Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3830,7 +3830,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-13T02:16:49Z",
-      "overrides": { "folder": "Neurips Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -3879,7 +3879,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-13T03:59:20Z",
-      "overrides": { "folder": "Neurips Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "vision",
@@ -3928,7 +3928,7 @@
       "minimum_selector_version": "13",
       "generation": "12",
       "build_time": "2025-11-29T04:38:23Z",
-      "overrides": { "folder": "Planplus Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -4124,7 +4124,7 @@
       "minimum_selector_version": "13",
       "generation": "12",
       "build_time": "2025-12-12T01:06:22Z",
-      "overrides": { "folder": "Planplus Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
