@@ -4114,7 +4114,7 @@
       ]
     },
     {
-      "short_name": "Planplusv2",
+      "short_name": "PLANPLUSV2",
       "display_name": "Planplus v2 (December 11, 2025)",
       "is_20hz": true,
       "ref": "50c78a9dd670a305ca898b96245cadbc2ecdc1a6",
@@ -4205,6 +4205,55 @@
             "file_name": "driving_vision_dsmv2_metadata.pkl",
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Dark%20Souls%20Model%20v2%20%28December%2011%2C%202025%29-114/driving_vision_dsmv2_metadata.pkl",
+              "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "WMIV3",
+      "display_name": "WMI v3 (December 19, 2025)",
+      "is_20hz": true,
+      "ref": "734d4cef2c4417fe1347240c6eafe3cc3b87982b",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 97,
+      "minimum_selector_version": "12",
+      "generation": "12",
+      "build_time": "2025-12-20T03:55:48Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_wmiv3_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-WMI%20v3%20%28December%2019%2C%202025%29-115/driving_policy_wmiv3_tinygrad.pkl",
+              "sha256": "059ea48961bca1cde90de7cfd90b9f0b98478bba2cb67736a8a7d190bb9d8503"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_wmiv3_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-WMI%20v3%20%28December%2019%2C%202025%29-115/driving_policy_wmiv3_metadata.pkl",
+              "sha256": "eb1cf5b4e7fe04f565ad4b6a3dc902cb882c32836e69a1ec6dd3ea6548dac7f7"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_wmiv3_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-WMI%20v3%20%28December%2019%2C%202025%29-115/driving_vision_wmiv3_tinygrad.pkl",
+              "sha256": "56f06882f2b303faaec2d9bc501f6d7660ea2b6d32be2a682862dd83ead2e802"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_wmiv3_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-WMI%20v3%20%28December%2019%2C%202025%29-115/driving_vision_wmiv3_metadata.pkl",
               "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
             }
           }
