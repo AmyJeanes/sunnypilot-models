@@ -436,555 +436,13 @@
       ]
     },
     {
-      "short_name": "TR",
-      "display_name": "Tomb Raider (September 23, 2024)",
-      "is_20hz": false,
-      "ref": "e8bea2c78ffa92685ece511e9b554122aaf1a79d",
-      "environment": "development",
-      "runner": "snpe",
-      "index": 14,
-      "minimum_selector_version": "12",
-      "generation": "6",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo-tomb-raider.thneed",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-tomb-raider.thneed",
-              "sha256": "a58daec1454a619a6178c4446b1bfd9db362a35cf7512f4808276ab754b153f9"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_metadata_gen6.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-tomb-raider_metadata.pkl",
-              "sha256": "b00458087d06f2a9cafd920a05dff27ada04633880b652bb01a6da9128c4cc31"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "short_name": "GB",
-      "display_name": "Game Boy (September 28, 2024)",
-      "is_20hz": false,
-      "ref": "04a266eaebcf0787f28cd4a5453a1c064517748a",
-      "environment": "development",
-      "runner": "snpe",
-      "index": 15,
-      "minimum_selector_version": "12",
-      "generation": "7",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo-game-boy.thneed",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-game-boy.thneed",
-              "sha256": "0005f869f2cfc1eaab2f4739c84867dc512c7be5d5f62a04404d235fd192c18f"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_metadata_gen7.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-game-boy_metadata.pkl",
-              "sha256": "45067a2653730295ce91a8412065d82d39e025116ff656e51a515eda54cec305"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "short_name": "GBV3",
-      "display_name": "Game Boy V3 (September 29, 2024)",
-      "is_20hz": true,
-      "ref": "3b08501db379d4f718e7a76a249f1a0cf8f25db7",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 16,
-      "minimum_selector_version": "12",
-      "generation": "7",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_gbv3_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Game%20Boy%20V3%20%28September%2029%2C%202024%29-97/supercombo_gbv3_tinygrad.pkl",
-              "sha256": "850521c1ba86805f2395f1f8be719d8d4a7dd37b93b2c97fb28db1b3cb817b71"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_gbv3_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Game%20Boy%20V3%20%28September%2029%2C%202024%29-97/supercombo_gbv3_metadata.pkl",
-              "sha256": "bed3c9ec9f85fa3a7a154bdf08dd4c5beb6496b25f05d0d915914785f7aa96b4"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T21:42:26Z"
-    },
-    {
-      "short_name": "MLSIM-V0",
-      "display_name": "MLSIM V0 (October 01, 2024)",
-      "is_20hz": true,
-      "ref": "e442425c9d32774e50802cd5455313090060f4ad",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 17,
-      "minimum_selector_version": "12",
-      "generation": "8",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_mlsimv0_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-MLSIM%20V0%20%28October%2001%2C%202024%29-97/supercombo_mlsimv0_tinygrad.pkl",
-              "sha256": "4b38ea986263c4a95826c2c06a23fc56ae4e8e496fa5035432571e58e4241659"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_mlsimv0_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-MLSIM%20V0%20%28October%2001%2C%202024%29-97/supercombo_mlsimv0_metadata.pkl",
-              "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T18:24:36Z"
-    },
-    {
-      "short_name": "MLSIM-V1",
-      "display_name": "MLSIM V1 (October 02, 2024)",
-      "is_20hz": true,
-      "ref": "2b486b15c6718d076ef40098998971a5874abd1b",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 18,
-      "minimum_selector_version": "12",
-      "generation": "8",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_mlsimv1_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-MLSIM%20V1%20%28October%2002%2C%202024%29-97/supercombo_mlsimv1_tinygrad.pkl",
-              "sha256": "27440e6d6dacf8aacdee7e77bc8c8fe01508dffcb43cd51359392e17ef60205b"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_mlsimv1_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-MLSIM%20V1%20%28October%2002%2C%202024%29-97/supercombo_mlsimv1_metadata.pkl",
-              "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T21:21:38Z"
-    },
-    {
-      "short_name": "MLSIM-V2",
-      "display_name": "MLSIM V2 (October 07, 2024)",
-      "is_20hz": true,
-      "ref": "2040f04c453fa10ce22ebd6099379c2fce4f02ff",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 19,
-      "minimum_selector_version": "12",
-      "generation": "8",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_mlsimv2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-MLSIM%20V2%20%28October%2007%2C%202024%29-97/supercombo_mlsimv2_tinygrad.pkl",
-              "sha256": "9f3315481fb9e2d6204e2204f6d1ce231b46d185c7aa24dab0d23bccb962d407"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_mlsimv2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-MLSIM%20V2%20%28October%2007%2C%202024%29-97/supercombo_mlsimv2_metadata.pkl",
-              "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T18:46:31Z"
-    },
-    {
-      "short_name": "MLSIM-V3",
-      "display_name": "MLSIM V3 (October 09, 2024)",
-      "is_20hz": true,
-      "ref": "682857f0cd1ab71be6af1f3e445637790e0a1ec9",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 20,
-      "minimum_selector_version": "12",
-      "generation": "8",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_mlsimv3_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-MLSIM%20V3%20%28October%2009%2C%202024%29-97/supercombo_mlsimv3_tinygrad.pkl",
-              "sha256": "b7229434dd1ff7c65a4ae3577fc16a211fb4067bf355b749f202dbd974eed349"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_mlsimv3_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-MLSIM%20V3%20%28October%2009%2C%202024%29-97/supercombo_mlsimv3_metadata.pkl",
-              "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T16:54:13Z"
-    },
-    {
-      "short_name": "MLSIM-V4",
-      "display_name": "MLSIM V4 (October 17, 2024)",
-      "is_20hz": true,
-      "ref": "34dde0bb36b528febee292891523e30e82835aac",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 21,
-      "minimum_selector_version": "12",
-      "generation": "8",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_mlsimv4_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-MLSIM%20V4%20%28October%2017%2C%202024%29-97/supercombo_mlsimv4_tinygrad.pkl",
-              "sha256": "bb5bf98cfca2bc31a2ecf5e62c6049f34db5a05e0807f144d021b34642c10d3f"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_mlsimv4_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-MLSIM%20V4%20%28October%2017%2C%202024%29-97/supercombo_mlsimv4_metadata.pkl",
-              "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T21:13:26Z"
-    },
-    {
-      "short_name": "DRAGON-RAIDER",
-      "display_name": "Dragon Rider (November 09, 2024)",
-      "is_20hz": true,
-      "ref": "47bd0f0166db1268bfa5504d7b95f94264d15500",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 22,
-      "minimum_selector_version": "12",
-      "generation": "8",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_dr_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Dragon%20Rider%20%28November%2009%2C%202024%29-97/supercombo_dr_tinygrad.pkl",
-              "sha256": "41e42f41e8247af29bba14cd7cb2a477db4272005e5243c38c7d86e95140fa89"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_dr_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Dragon%20Rider%20%28November%2009%2C%202024%29-97/supercombo_dr_metadata.pkl",
-              "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T22:06:50Z"
-    },
-    {
-      "short_name": "LAST-HORIZON",
-      "display_name": "Last Horizon (November 18, 2024)",
-      "is_20hz": true,
-      "ref": "e123ac3d32f47f35c1fc024f3dc09bff8ee14e94",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 23,
-      "minimum_selector_version": "12",
-      "generation": "8",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_lh_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Last%20Horizon%20%28November%2018%2C%202024%29-97/supercombo_lh_tinygrad.pkl",
-              "sha256": "a096e4cffe46c1cc41818474ce34afaa427f92538c1385a9ce4d74388deaba05"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_lh_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Last%20Horizon%20%28November%2018%2C%202024%29-97/supercombo_lh_metadata.pkl",
-              "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T18:20:27Z"
-    },
-    {
-      "short_name": "LAST-HORIZON-V2",
-      "display_name": "Last Horizon V2 (November 22, 2024)",
-      "is_20hz": true,
-      "ref": "fee1f29ce9615880d5aef6ccae5ae22dfef6025c",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 24,
-      "minimum_selector_version": "12",
-      "generation": "8",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_lhv2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Last%20Horizon%20V2%20%28November%2022%2C%202024%29-97/supercombo_lhv2_tinygrad.pkl",
-              "sha256": "9108665504d29c364c26f7b06411c305d64cc13c74ba0add32eab53c523c3ecd"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_lhv2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Last%20Horizon%20V2%20%28November%2022%2C%202024%29-97/supercombo_lhv2_metadata.pkl",
-              "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T16:50:11Z"
-    },
-    {
-      "short_name": "ALABAMA",
-      "display_name": "Alabama (November 25, 2024)",
-      "is_20hz": true,
-      "ref": "81252f549c1ec85f11fc7364f77564d47ea28594",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 25,
-      "minimum_selector_version": "12",
-      "generation": "8",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_alabama_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Alabama%20%28November%2025%2C%202024%29-97/supercombo_alabama_tinygrad.pkl",
-              "sha256": "e3f350d5f4e6c94bd178b90b5f22cef39cda64585e6dc10e2296c2e0eb15c13c"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_alabama_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Alabama%20%28November%2025%2C%202024%29-97/supercombo_alabama_metadata.pkl",
-              "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T21:33:22Z"
-    },
-    {
-      "short_name": "PLAYSTATION",
-      "display_name": "PlayStation (December 02, 2024)",
-      "is_20hz": true,
-      "ref": "5160bee5437e58ab0ace59c6db1c6d7b416c4025",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 26,
-      "minimum_selector_version": "12",
-      "generation": "8",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_playstat_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-PlayStation%20%28December%2002%2C%202024%29-97/supercombo_playstat_tinygrad.pkl",
-              "sha256": "e06b5c5ef189003ba7100a71855f805eb31e62549ef71252bbea4a89d0f5f739"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_playstat_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-PlayStation%20%28December%2002%2C%202024%29-97/supercombo_playstat_metadata.pkl",
-              "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T16:26:40Z"
-    },
-    {
-      "short_name": "POSTAL-SERVICE",
-      "display_name": "Postal Service (December 09, 2024)",
-      "is_20hz": true,
-      "ref": "57fc4f79d16c132d526a66d603fd9100804569d1",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 27,
-      "minimum_selector_version": "12",
-      "generation": "8",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_ps_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Postal%20Service%20%28December%2009%2C%202024%29-97/supercombo_ps_tinygrad.pkl",
-              "sha256": "e274b90001db08d559371a6808eed68840522830e22633c24dec027b77d3136d"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_ps_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Postal%20Service%20%28December%2009%2C%202024%29-97/supercombo_ps_metadata.pkl",
-              "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T15:56:05Z"
-    },
-    {
-      "short_name": "NULL-POINTER",
-      "display_name": "Null Pointer (December 13, 2024)",
-      "is_20hz": true,
-      "ref": "8743bc4fe231ebf8ee3273b6868d1f78c432ac73",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 28,
-      "minimum_selector_version": "12",
-      "generation": "8",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_np_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Null%20Pointer%20%28December%2013%2C%202024%29-97/supercombo_np_tinygrad.pkl",
-              "sha256": "4614e31cffb9d23afdc74f72a461e2ff3bd290d7e02f2d4b1d2b49a20c4afa8c"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_np_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Null%20Pointer%20%28December%2013%2C%202024%29-97/supercombo_np_metadata.pkl",
-              "sha256": "8dd9cde8f33ff730487034e2127e908519577f9982aacdaa427ce26002960e61"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T21:29:23Z"
-    },
-    {
-      "short_name": "NORTH-AMERICA",
-      "display_name": "North America (December 16, 2024)",
-      "is_20hz": true,
-      "ref": "5018cf75ffd64ff2f5f0e269a17e74517aedbc74",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 29,
-      "minimum_selector_version": "12",
-      "generation": "9",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_na_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-North%20America%20%28December%2016%2C%202024%29-97/supercombo_na_tinygrad.pkl",
-              "sha256": "c4517e3d909d964f23f0eb8d6374400ec2c1938134faa3d9fa3275164fe003b3"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_na_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-North%20America%20%28December%2016%2C%202024%29-97/supercombo_na_metadata.pkl",
-              "sha256": "9b5ae1e33960bacce8811ee644dcf700ee55c58779e251ce31470f2d0882b62d"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T17:49:54Z"
-    },
-    {
-      "short_name": "NATIONAL-PUBLIC-RADIO",
-      "display_name": "National Public Radio (December 18, 2024)",
-      "is_20hz": true,
-      "ref": "1a7c28444595dc399af432a35dc725231806fd21",
-      "environment": "development",
-      "runner": "tinygrad",
-      "index": 30,
-      "minimum_selector_version": "12",
-      "generation": "9",
-      "overrides": { "folder": "2024 MLSIM Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo_npr_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-National%20Public%20Radio%20%28December%2018%2C%202024%29-97/supercombo_npr_tinygrad.pkl",
-              "sha256": "0ef54247c32845a4f521cd085feb4786af27cce15337bfe99235c7d846238ac7"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_npr_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-National%20Public%20Radio%20%28December%2018%2C%202024%29-97/supercombo_npr_metadata.pkl",
-              "sha256": "9b5ae1e33960bacce8811ee644dcf700ee55c58779e251ce31470f2d0882b62d"
-            }
-          }
-        }
-      ],
-      "build_time": "2025-11-10T21:25:28Z"
-    },
-    {
       "short_name": "FOF",
       "display_name": "Filet o Fish (March 07, 2025)",
       "is_20hz": true,
       "ref": "d807b5c476658dba7760d30949baa619074c4a4e",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 31,
+      "index": 14,
       "minimum_selector_version": "12",
       "generation": "10",
       "build_time": "2025-11-11T00:16:59Z",
@@ -1033,7 +491,7 @@
       "ref": "2c162d9b75ae4e77bdf5bc3225e880d352ec0f5c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 32,
+      "index": 15,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T22:35:42Z",
@@ -1082,7 +540,7 @@
       "ref": "8cefc00a6e67499eddf4fadb8eb4f1f491a50bd7",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 33,
+      "index": 16,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T19:29:15Z",
@@ -1131,7 +589,7 @@
       "ref": "756aebd39f378a6a1db2826b4044290b391cc03c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 34,
+      "index": 17,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T21:51:03Z",
@@ -1180,7 +638,7 @@
       "ref": "e7cf508f500cbd6cd783554c37185d87765e848c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 35,
+      "index": 18,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T17:41:43Z",
@@ -1229,7 +687,7 @@
       "ref": "9f1e462faabdc000b5c574b0e38818bcd6068e88",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 36,
+      "index": 19,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T21:37:26Z",
@@ -1278,7 +736,7 @@
       "ref": "d134fdd7d51ba84848866c0265e37508c38f9366",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 37,
+      "index": 20,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T17:33:16Z",
@@ -1327,7 +785,7 @@
       "ref": "0fb4aafa35896e831bd58a636a9a1bb4a1442743",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 38,
+      "index": 21,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T17:02:42Z",
@@ -1376,7 +834,7 @@
       "ref": "1b667ec9a3019bd0af35f38afabc201fdde50812",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 39,
+      "index": 22,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T16:46:10Z",
@@ -1425,7 +883,7 @@
       "ref": "820eb2517102e3c86e273ee5550e43d5acadb864",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 40,
+      "index": 23,
       "minimum_selector_version": "12",
       "generation": "10",
       "build_time": "2025-11-10T21:17:39Z",
@@ -1474,7 +932,7 @@
       "ref": "80a636e4952633886c65973d3323e58ec87ed320",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 41,
+      "index": 24,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T17:46:46Z",
@@ -1523,7 +981,7 @@
       "ref": "9f1294540cdc93c3c5f1a011e78da429418fd7a7",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 42,
+      "index": 25,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T23:59:58Z",
@@ -1572,7 +1030,7 @@
       "ref": "dc7a92ea630e4f6053082fc25eca83938927b91e",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 43,
+      "index": 26,
       "minimum_selector_version": "12",
       "generation": "10",
       "build_time": "2025-11-10T21:09:25Z",
@@ -1621,7 +1079,7 @@
       "ref": "bf5d8c2dd6bad80734ab298990e675f7005b3664",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 44,
+      "index": 27,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T18:42:25Z",
@@ -1670,7 +1128,7 @@
       "ref": "4d102a6307894bfdb7d72737445e4cccb1d78d41",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 45,
+      "index": 28,
       "minimum_selector_version": "12",
       "generation": "10",
       "build_time": "2025-11-10T22:31:38Z",
@@ -1719,7 +1177,7 @@
       "ref": "b55af0de7fecdb4af073c01b77b04b8306a4e92d",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 46,
+      "index": 29,
       "minimum_selector_version": "12",
       "generation": "10",
       "build_time": "2025-11-10T22:19:18Z",
@@ -1768,7 +1226,7 @@
       "ref": "c790d3f58ad32cf15f384e6018d942b2348f0c5b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 47,
+      "index": 30,
       "minimum_selector_version": "12",
       "generation": "10",
       "build_time": "2025-11-10T19:25:03Z",
@@ -1817,7 +1275,7 @@
       "ref": "eceeaabcebcf58716ae4a018930793d89c96777b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 48,
+      "index": 31,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T18:33:27Z",
@@ -1866,7 +1324,7 @@
       "ref": "d54a5888cf6165b30e4bdda514ab9057473cd7f8",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 49,
+      "index": 32,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T22:03:37Z",
@@ -1915,7 +1373,7 @@
       "ref": "194cdbcebf2d47011d2edbf39a4ae492aa1aa338",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 50,
+      "index": 33,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T22:15:08Z",
@@ -1964,7 +1422,7 @@
       "ref": "d77fffa658b8f955eab6c482a8beee52afb5b57c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 51,
+      "index": 34,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T22:39:53Z",
@@ -2013,7 +1471,7 @@
       "ref": "f920cbafec6794e7a5bf9222c575fb5652510746",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 52,
+      "index": 35,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T16:22:29Z",
@@ -2062,7 +1520,7 @@
       "ref": "f523f104eafc49dccb447aea4f7c3f666ef5626c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 53,
+      "index": 36,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T19:12:29Z",
@@ -2111,7 +1569,7 @@
       "ref": "5b405920ec9511e146432de08171d6f93295248b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 54,
+      "index": 37,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T19:08:09Z",
@@ -2160,7 +1618,7 @@
       "ref": "ed38ca8cc998f0a2b47cde29da11b782e4551e8b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 55,
+      "index": 38,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-11T00:04:17Z",
@@ -2209,7 +1667,7 @@
       "ref": "c2fa07b82c2e09964e4b6dccb3e4465a2e4ad138",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 56,
+      "index": 39,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T19:16:49Z",
@@ -2258,7 +1716,7 @@
       "ref": "29b3791dbb8f756aee9118fc946bd1ed8588a936",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 57,
+      "index": 40,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T21:46:53Z",
@@ -2307,7 +1765,7 @@
       "ref": "e4b6a2736580dc427473bcf8a6e3b08eb352edd4",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 58,
+      "index": 41,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T18:55:12Z",
@@ -2356,7 +1814,7 @@
       "ref": "148a43b0a74d5fa883ec0499b461ab51a070ba56",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 59,
+      "index": 42,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-11T00:12:49Z",
@@ -2405,7 +1863,7 @@
       "ref": "d3a0378ae601f61307a53d1173c251ee36c56317",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 60,
+      "index": 43,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T16:31:40Z",
@@ -2454,7 +1912,7 @@
       "ref": "659898d553eb68c981036811e1b92f6557d4e494",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 61,
+      "index": 44,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T17:54:10Z",
@@ -2503,7 +1961,7 @@
       "ref": "df93b1a89d805a15e3c506a3fb6f9f9795fed858",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 62,
+      "index": 45,
       "minimum_selector_version": "12",
       "generation": "11",
       "build_time": "2025-11-10T16:01:43Z",
@@ -2552,7 +2010,7 @@
       "ref": "a6cf39c07a67dbc346af03010093fe4788c402d0",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 63,
+      "index": 46,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T17:58:37Z",
@@ -2601,7 +2059,7 @@
       "ref": "079d0461604632719e73dc5b6a5eb9897c624da2",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 64,
+      "index": 47,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T21:55:16Z",
@@ -2650,7 +2108,7 @@
       "ref": "277c7c6e9bd847bcec2187bd2ba2fd07877b5012",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 65,
+      "index": 48,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T22:52:22Z",
@@ -2699,7 +2157,7 @@
       "ref": "ee5008cc03e84585a683a7387d414d5c34a336fa",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 66,
+      "index": 49,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T18:03:06Z",
@@ -2748,7 +2206,7 @@
       "ref": "2144e42f65c6eb82fbcd75902fb3f5bd78769187",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 67,
+      "index": 50,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T17:29:00Z",
@@ -2797,7 +2255,7 @@
       "ref": "f1b8f510b2c554191ca15cebe35f2c5b304cf23c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 68,
+      "index": 51,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T17:24:36Z",
@@ -2846,7 +2304,7 @@
       "ref": "39c4ca798a1a79211939e915009b2e63c52b06be",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 69,
+      "index": 52,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T19:03:45Z",
@@ -2895,7 +2353,7 @@
       "ref": "c3add4f5210d41399216e99df385fb8793bc4519",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 70,
+      "index": 53,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T16:41:01Z",
@@ -2944,7 +2402,7 @@
       "ref": "93b26a91a62b69b809162ad2bf65e36be2158dc1",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 71,
+      "index": 54,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T21:59:21Z",
@@ -2993,7 +2451,7 @@
       "ref": "b74f5189a74446015c0cf78a4a9f0134a347ae3b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 72,
+      "index": 55,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T21:05:04Z",
@@ -3042,7 +2500,7 @@
       "ref": "9aa772366b91e17e13eca8293a91975d3aac29fe",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 73,
+      "index": 56,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-11T00:21:01Z",
@@ -3091,7 +2549,7 @@
       "ref": "c4488e3411285f6fc3d008bca885e05731fd75c2",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 74,
+      "index": 57,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T19:20:56Z",
@@ -3140,7 +2598,7 @@
       "ref": "3193eac5e385aa010694a8ac192ff38ffe000193",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 75,
+      "index": 58,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T22:48:10Z",
@@ -3189,7 +2647,7 @@
       "ref": "e3ee440f7d5ac12c50db6381e292a55a69b745a7",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 76,
+      "index": 59,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T22:23:20Z",
@@ -3238,7 +2696,7 @@
       "ref": "91a1cea814f76d605d5b15de9634a3c8f79df509",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 77,
+      "index": 60,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T18:37:56Z",
@@ -3287,7 +2745,7 @@
       "ref": "a2ace1ed6b84d7c7a2dbf990c1b566f9a9df167f",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 78,
+      "index": 61,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T17:37:30Z",
@@ -3336,7 +2794,7 @@
       "ref": "96e7b310b164b55fb73abdd505b66fb36630718e",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 79,
+      "index": 62,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T22:27:27Z",
@@ -3385,7 +2843,7 @@
       "ref": "5306f07d05a4f84a632ce908ec5ce34993e73693",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 80,
+      "index": 63,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T18:50:53Z",
@@ -3434,7 +2892,7 @@
       "ref": "74d156ee827863aa02567228a4a48931e604a41c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 81,
+      "index": 64,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T17:07:55Z",
@@ -3483,7 +2941,7 @@
       "ref": "83b81b83cdf76a577946a1567f4644e1a018443c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 82,
+      "index": 65,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T18:59:30Z",
@@ -3532,7 +2990,7 @@
       "ref": "13e79e9fad60c19e751e4f9ab0538d39f1bb54dd",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 83,
+      "index": 66,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T22:44:05Z",
@@ -3581,7 +3039,7 @@
       "ref": "19084132cd3956413a0fdfcdc18971a55df5e0ff",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 84,
+      "index": 67,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T16:58:21Z",
@@ -3630,11 +3088,11 @@
       "ref": "5eb912c025a2207c7d428deee74ded49e5905527",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 85,
+      "index": 68,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-11T00:08:34Z",
-      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -3679,7 +3137,7 @@
       "ref": "f2413040a8560c0c17c18353a3c75124a2f09d17",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 86,
+      "index": 69,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T16:35:55Z",
@@ -3728,7 +3186,7 @@
       "ref": "94dd3bd9107cd413ed2418f9e6c0cf805a9ca495",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 87,
+      "index": 70,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T22:10:55Z",
@@ -3777,7 +3235,7 @@
       "ref": "f3a00b65239eabb0b0f8a471ddbac1230e0010f7",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 88,
+      "index": 71,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-12T01:57:04Z",
@@ -3826,7 +3284,7 @@
       "ref": "266b642180f0e9278e1db46ccf8c1a2a8dae4bb3",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 89,
+      "index": 72,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-13T02:16:49Z",
@@ -3875,7 +3333,7 @@
       "ref": "c00ebef3269415d80800d10d255479e4006bf152",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 90,
+      "index": 73,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-13T03:59:20Z",
@@ -3924,7 +3382,7 @@
       "ref": "671ac1084cedc82bca49f82bdd8c27f4d2506190",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 91,
+      "index": 74,
       "minimum_selector_version": "13",
       "generation": "12",
       "build_time": "2025-11-29T04:38:23Z",
@@ -3973,7 +3431,7 @@
       "ref": "ba783b9f913de089816598aa367a30499727a0ce",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 92,
+      "index": 75,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-12-03T20:21:50Z",
@@ -4022,7 +3480,7 @@
       "ref": "756f88111a7c2c5d424dc6bf71af1fdd137b9298",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 93,
+      "index": 76,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-12-07T07:08:31Z",
@@ -4071,7 +3529,7 @@
       "ref": "a5a798915751f91214a640278bbdcd4dd869beef",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 94,
+      "index": 77,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-12-09T22:45:15Z",
@@ -4120,7 +3578,7 @@
       "ref": "50c78a9dd670a305ca898b96245cadbc2ecdc1a6",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 95,
+      "index": 78,
       "minimum_selector_version": "13",
       "generation": "12",
       "build_time": "2025-12-12T01:06:22Z",
@@ -4169,7 +3627,7 @@
       "ref": "5ff0e48f90d662d8c9d5061adc63e90c198c9b81",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 96,
+      "index": 79,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-12-12T14:05:08Z",
@@ -4218,7 +3676,7 @@
       "ref": "734d4cef2c4417fe1347240c6eafe3cc3b87982b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 97,
+      "index": 80,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-12-20T03:55:48Z",
@@ -4267,7 +3725,7 @@
       "ref": "2d8e596a0208dafe4ed2d945b07d6a7d72f70fb8",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 98,
+      "index": 81,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-12-23T03:39:55Z",
