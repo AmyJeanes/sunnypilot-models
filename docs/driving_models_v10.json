@@ -2649,6 +2649,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "WMIV6",
+      "display_name": "WMI v6 (December 30, 2025)",
+      "is_20hz": true,
+      "ref": "54c6c5776a37dc56fde626314f53ec3316d88a48",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 57,
+      "minimum_selector_version": "12",
+      "generation": "12",
+      "build_time": "2025-12-30T19:05:55Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_wmiv6_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled10/model-WMI%20v6%20%28December%2030%2C%202025%29-119/driving_policy_wmiv6_tinygrad.pkl",
+              "sha256": "aebab13f83e8b12bb4bf98505948d9b85ff02c98ac01b21209f1b3c0ed652369"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_wmiv6_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled10/model-WMI%20v6%20%28December%2030%2C%202025%29-119/driving_policy_wmiv6_metadata.pkl",
+              "sha256": "51da0df8aa90ba0931cbbe82282b6b2099a2e64bf0f9cbb3c59ed3afc1647e99"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_wmiv6_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled10/model-WMI%20v6%20%28December%2030%2C%202025%29-119/driving_vision_wmiv6_tinygrad.pkl",
+              "sha256": "e2e2196d6f0aa677fcd7f52aaa13111e28f7afc68c140f92b8bf9469884bc045"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_wmiv6_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled10/model-WMI%20v6%20%28December%2030%2C%202025%29-119/driving_vision_wmiv6_metadata.pkl",
+              "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
+            }
+          }
+        }
+      ]
     }
   ]
 }
