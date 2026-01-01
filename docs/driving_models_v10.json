@@ -2698,6 +2698,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "MM",
+      "display_name": "Macrostiff Model (January 01, 2026)",
+      "is_20hz": true,
+      "ref": "d70b13931793bc0e4d8efd36128dd66f227a3f81",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 58,
+      "minimum_selector_version": "12",
+      "generation": "12",
+      "build_time": "2026-01-01T17:57:01Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_mm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled10/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-120/driving_policy_mm_tinygrad.pkl",
+              "sha256": "7b99102ec4661a54b871cf2c96357b3e913d058efb1983cc1d96c367d511700d"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_mm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled10/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-120/driving_policy_mm_metadata.pkl",
+              "sha256": "f300f1ce0206710bd842ac7f3dba7f82a5fb5d9ee397d7e4ca7a93d2ab5c1161"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_mm_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled10/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-120/driving_vision_mm_tinygrad.pkl",
+              "sha256": "17b3f368c3d8a63af85cad997f56bb0a5ba32ceaacce492c456878445a169810"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_mm_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled10/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-120/driving_vision_mm_metadata.pkl",
+              "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
+            }
+          }
+        }
+      ]
     }
   ]
 }
