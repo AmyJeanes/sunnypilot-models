@@ -1724,13 +1724,13 @@
       "display_name": "North Nevada Model (October 07, 2025)",
       "is_20hz": true,
       "ref": "74d156ee827863aa02567228a4a48931e604a41c",
-      "environment": "release",
+      "environment": "development",
       "runner": "tinygrad",
       "index": 38,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T17:07:55Z",
-      "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
@@ -1773,13 +1773,13 @@
       "display_name": "North Nevada Model V2 (October 08, 2025)",
       "is_20hz": true,
       "ref": "83b81b83cdf76a577946a1567f4644e1a018443c",
-      "environment": "development",
+      "environment": "release",
       "runner": "tinygrad",
       "index": 39,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2025-11-10T18:59:30Z",
-      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
