@@ -2906,7 +2906,7 @@
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2026-01-09T02:16:04Z",
-      "overrides": { "folder": "2026 World Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
       "models": [
         {
           "type": "policy",
