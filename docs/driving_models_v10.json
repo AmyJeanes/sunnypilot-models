@@ -3047,13 +3047,13 @@
       "display_name": "WMI V12 (January 13, 2026)",
       "is_20hz": true,
       "ref": "7e3fd7a63c5a09c3fabe108b1b62bba3cf684878",
-      "environment": "development",
+      "environment": "master",
       "runner": "tinygrad",
       "index": 65,
       "minimum_selector_version": "12",
       "generation": "12",
       "build_time": "2026-01-13T22:38:16Z",
-      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
       "models": [
         {
           "type": "policy",
