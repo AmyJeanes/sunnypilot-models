@@ -553,7 +553,7 @@
       "index": 14,
       "minimum_selector_version": "13",
       "generation": "10",
-      "build_time": "2025-11-10T19:25:03Z",
+      "build_time": "2026-02-09T15:02:35Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -561,14 +561,14 @@
           "artifact": {
             "file_name": "driving_vision_vfof_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-97/driving_vision_vfof_tinygrad.pkl",
-              "sha256": "47250d836dc6d9876360b1dbd3cf06844074f9835905ddb2ac760b455288c437"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-98/driving_vision_vfof_tinygrad.pkl",
+              "sha256": "cffeedd7c5f13b01ea190cb87daf013326a9bff629e47abc6f0269675dbf0583"
             }
           },
           "metadata": {
             "file_name": "driving_vision_vfof_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-97/driving_vision_vfof_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-98/driving_vision_vfof_metadata.pkl",
               "sha256": "cfa876ccc22d81512bbecba2a91e430828c853feada4599cda8f3fb5d1ba3e9c"
             }
           }
@@ -578,14 +578,14 @@
           "artifact": {
             "file_name": "driving_policy_vfof_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-97/driving_policy_vfof_tinygrad.pkl",
-              "sha256": "53364de1d44d3cebd53e219573358e6b0fa80e4fbb90c4a6bba82080f131a11e"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-98/driving_policy_vfof_tinygrad.pkl",
+              "sha256": "3bcd13e4937598ae6ea2a2d925ccff08b8bdf8880915f4a051ca7e535de65a60"
             }
           },
           "metadata": {
             "file_name": "driving_policy_vfof_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai4/-/raw/main/models/recompiled10/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-97/driving_policy_vfof_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-98/driving_policy_vfof_metadata.pkl",
               "sha256": "fd3a516bb2ac572c53b0d60693898b020e7df77f255028bf1ee1dca7c1bf73dc"
             }
           }
