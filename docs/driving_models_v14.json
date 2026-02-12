@@ -1778,7 +1778,7 @@
       "index": 39,
       "minimum_selector_version": "14",
       "generation": "12",
-      "build_time": "2026-02-09T14:32:01Z",
+      "build_time": "2026-02-12T21:18:16Z",
       "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1786,14 +1786,14 @@
           "artifact": {
             "file_name": "driving_policy_nnmv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-North%20Nevada%20Model%20V2%20%28October%2008%2C%202025%29-98/driving_policy_nnmv2_tinygrad.pkl",
-              "sha256": "d20d7378eeb3192a0fdab900d85843f93e9bec4e12dab4e31da562b375917ad8"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-North%20Nevada%20Model%20V2%20%28October%2008%2C%202025%29-101/driving_policy_nnmv2_tinygrad.pkl",
+              "sha256": "47546dc2f434f13251eec8cdf14412ba987a06dd8a1e05e10b6220ea92cd7e27"
             }
           },
           "metadata": {
             "file_name": "driving_policy_nnmv2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-North%20Nevada%20Model%20V2%20%28October%2008%2C%202025%29-98/driving_policy_nnmv2_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-North%20Nevada%20Model%20V2%20%28October%2008%2C%202025%29-101/driving_policy_nnmv2_metadata.pkl",
               "sha256": "aed596d1ea2024bfd320a8b73c2ae06cf876b9383103c40a0686dda5aa4f5947"
             }
           }
@@ -1803,14 +1803,14 @@
           "artifact": {
             "file_name": "driving_vision_nnmv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-North%20Nevada%20Model%20V2%20%28October%2008%2C%202025%29-98/driving_vision_nnmv2_tinygrad.pkl",
-              "sha256": "b7df897ab44e467099ee7a8edaa04b3b1364419428f3eabfc4e05bda5c6bc6c7"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-North%20Nevada%20Model%20V2%20%28October%2008%2C%202025%29-101/driving_vision_nnmv2_tinygrad.pkl",
+              "sha256": "e6950a427d39831fa761c951a4df4dca188402faf227d6a0b0baf21df95c3f5c"
             }
           },
           "metadata": {
             "file_name": "driving_vision_nnmv2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-North%20Nevada%20Model%20V2%20%28October%2008%2C%202025%29-98/driving_vision_nnmv2_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-North%20Nevada%20Model%20V2%20%28October%2008%2C%202025%29-101/driving_vision_nnmv2_metadata.pkl",
               "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
