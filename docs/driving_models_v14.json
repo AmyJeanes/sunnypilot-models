@@ -1876,7 +1876,7 @@
       "index": 41,
       "minimum_selector_version": "14",
       "generation": "12",
-      "build_time": "2026-02-09T14:51:40Z",
+      "build_time": "2026-02-12T22:07:18Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1884,14 +1884,14 @@
           "artifact": {
             "file_name": "driving_vision_tcpmv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-98/driving_vision_tcpmv2_tinygrad.pkl",
-              "sha256": "89ddf100332654635bc92a2edde7b076c63ae10b84f4069584c7ac2e22b83507"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-101/driving_vision_tcpmv2_tinygrad.pkl",
+              "sha256": "d689e13121f7bf22dcd6c6b43cb63d1e39118603a11a82c262f50425571c0c69"
             }
           },
           "metadata": {
             "file_name": "driving_vision_tcpmv2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-98/driving_vision_tcpmv2_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-101/driving_vision_tcpmv2_metadata.pkl",
               "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
@@ -1901,14 +1901,14 @@
           "artifact": {
             "file_name": "driving_policy_tcpmv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-98/driving_policy_tcpmv2_tinygrad.pkl",
-              "sha256": "6db55e888f7c0708dc6ce1888fcf297e3ca605d12b079bff0be346e59067cdb0"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-101/driving_policy_tcpmv2_tinygrad.pkl",
+              "sha256": "7885f39b1cce27220f71f187f29375b35e0e76107602aef2a166291f090244c6"
             }
           },
           "metadata": {
             "file_name": "driving_policy_tcpmv2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-98/driving_policy_tcpmv2_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-101/driving_policy_tcpmv2_metadata.pkl",
               "sha256": "324e3e1f83b0fe7158f75083e3aa9b630d0bf03f1a14b261e1cbc14dbcedc805"
             }
           }
