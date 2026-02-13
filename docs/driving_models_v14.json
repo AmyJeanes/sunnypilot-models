@@ -2562,7 +2562,7 @@
       "index": 55,
       "minimum_selector_version": "14",
       "generation": "12",
-      "build_time": "2026-02-09T15:46:16Z",
+      "build_time": "2026-02-12T21:58:42Z",
       "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
       "models": [
         {
@@ -2570,14 +2570,14 @@
           "artifact": {
             "file_name": "driving_policy_c210m_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-CD210%20Model%20%28January%2031%2C%202026%29-98/driving_policy_c210m_tinygrad.pkl",
-              "sha256": "c080bdba770a9ee7531cd551b2ab9f998ef4a755c1b1f7de0ce7b3cbd70f3e5f"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-CD210%20Model%20%28January%2031%2C%202026%29-101/driving_policy_c210m_tinygrad.pkl",
+              "sha256": "05c9ba53a525c54f047833c63cc5ad97f984abde0220e56e60907b61c9471bfc"
             }
           },
           "metadata": {
             "file_name": "driving_policy_c210m_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-CD210%20Model%20%28January%2031%2C%202026%29-98/driving_policy_c210m_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-CD210%20Model%20%28January%2031%2C%202026%29-101/driving_policy_c210m_metadata.pkl",
               "sha256": "15c8c1ad9073424ee1101b1f7170421140ed308ebaa7c917001130fb1760420b"
             }
           }
@@ -2587,14 +2587,14 @@
           "artifact": {
             "file_name": "driving_vision_c210m_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-CD210%20Model%20%28January%2031%2C%202026%29-98/driving_vision_c210m_tinygrad.pkl",
-              "sha256": "32bf4e77b48fe9a61e7391985e31fe695423fece592947b6d31ef80271cb61d7"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-CD210%20Model%20%28January%2031%2C%202026%29-101/driving_vision_c210m_tinygrad.pkl",
+              "sha256": "7e623bca3e691e6a26d8f93005d21c43b3a7dedb259ed79f177231d57f3903c4"
             }
           },
           "metadata": {
             "file_name": "driving_vision_c210m_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled12/model-CD210%20Model%20%28January%2031%2C%202026%29-98/driving_vision_c210m_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-CD210%20Model%20%28January%2031%2C%202026%29-101/driving_vision_c210m_metadata.pkl",
               "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
             }
           }
