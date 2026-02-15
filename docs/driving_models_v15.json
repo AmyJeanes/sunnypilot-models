@@ -2,75 +2,13 @@
   "tinygrad_ref": "3501a714785ff370cffb966a45d5f9cdf6c9ea7a",
   "bundles": [
     {
-      "short_name": "NLP+FV",
-      "display_name": "Farmville (November 07, 2023)",
-      "is_20hz": false,
-      "ref": "b91ecda3503288dd7df8e1bca286383d0d700176",
-      "environment": "release",
-      "runner": "snpe",
-      "index": 0,
-      "minimum_selector_version": "14",
-      "generation": "1",
-      "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo-farmville.thneed",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-farmville.thneed",
-              "sha256": "5675d07d2fcbc1c1e8871fb1de89ba21bdb283c6355fe7d2bbf6a0f4a9094f51"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_metadata_gen1.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo_metadata_gen1.pkl",
-              "sha256": "1924d0918e1cd5914598be67077aa99413eb346291b6b617fb83c222ea8991b8"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "short_name": "NLP+BDv2",
-      "display_name": "Blue Diamond v2 (December 12, 2023)",
-      "is_20hz": false,
-      "ref": "dd54ec9aa8f1991b70d8a012bd0d854462b2c0ff",
-      "environment": "release",
-      "runner": "snpe",
-      "index": 1,
-      "minimum_selector_version": "14",
-      "generation": "1",
-      "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
-      "models": [
-        {
-          "type": "supercombo",
-          "artifact": {
-            "file_name": "supercombo-blue-diamond-v2.thneed",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-blue-diamond-v2.thneed",
-              "sha256": "b298caa4be035dbe25b9158f0ba3d0b59a99e6a695a11fccda98b69f5050f29f"
-            }
-          },
-          "metadata": {
-            "file_name": "supercombo_metadata_gen1.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo_metadata_gen1.pkl",
-              "sha256": "1924d0918e1cd5914598be67077aa99413eb346291b6b617fb83c222ea8991b8"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "short_name": "CHv2",
+      "short_name": "CHV2",
       "display_name": "Certified Herbalist v2 (February 19, 2024)",
       "is_20hz": false,
       "ref": "a4d53d378d4331dc7780e5e60845ea1731c48341",
       "environment": "release",
-      "runner": "snpe",
-      "index": 2,
+      "runner": "tinygrad",
+      "index": 0,
       "minimum_selector_version": "14",
       "generation": "3",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
@@ -78,21 +16,22 @@
         {
           "type": "supercombo",
           "artifact": {
-            "file_name": "supercombo-certified-herbalist-v2.thneed",
+            "file_name": "supercombo_chv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-certified-herbalist-v2.thneed",
-              "sha256": "7173b2d51a4794699f072802092a2acce45c6568796b21bfd2e796be31a3dc37"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Certified%20Herbalist%20v2%20%28February%2019%2C%202024%29-578/supercombo_chv2_tinygrad.pkl",
+              "sha256": "fa3440e619c4a67277af1b5c60731b4cfd50efe7b6a8976af9521a9661c5d95a"
             }
           },
           "metadata": {
-            "file_name": "supercombo_metadata_gen3.pkl",
+            "file_name": "supercombo_chv2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-certified-herbalist-v2_metadata.pkl",
-              "sha256": "45d370eb8f7ed618f6e5c2592e5c1e471a99f65eed08977621b8e474d9520421"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Certified%20Herbalist%20v2%20%28February%2019%2C%202024%29-578/supercombo_chv2_metadata.pkl",
+              "sha256": "2152a3984f71d7d9acc876d7a3d219f7d676457dae8a2da93f7166b26201c22c"
             }
           }
         }
-      ]
+      ],
+      "build_time": "2026-02-15T20:57:35Z"
     },
     {
       "short_name": "CHLR",
@@ -100,8 +39,8 @@
       "is_20hz": false,
       "ref": "063623602c9a3cefe70d2c661b40ef7a15f73d43",
       "environment": "release",
-      "runner": "snpe",
-      "index": 3,
+      "runner": "tinygrad",
+      "index": 1,
       "minimum_selector_version": "14",
       "generation": "3",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
@@ -109,21 +48,22 @@
         {
           "type": "supercombo",
           "artifact": {
-            "file_name": "supercombo-recertified-herbalist.thneed",
+            "file_name": "supercombo_rh_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-recertified-herbalist.thneed",
-              "sha256": "e10bd777a82bb63713851882d32e376322821101da12677dd030867fe569765f"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-579/supercombo_rh_tinygrad.pkl",
+              "sha256": "edb4a758aec027788296264f5ac63100da89878db756f12f190fd5a4e04fa02b"
             }
           },
           "metadata": {
-            "file_name": "supercombo_metadata_gen3.pkl",
+            "file_name": "supercombo_rh_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-recertified-herbalist_metadata.pkl",
-              "sha256": "45d370eb8f7ed618f6e5c2592e5c1e471a99f65eed08977621b8e474d9520421"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-579/supercombo_rh_metadata.pkl",
+              "sha256": "2152a3984f71d7d9acc876d7a3d219f7d676457dae8a2da93f7166b26201c22c"
             }
           }
         }
-      ]
+      ],
+      "build_time": "2026-02-15T21:03:21Z"
     },
     {
       "short_name": "DA",
@@ -132,7 +72,7 @@
       "ref": "5f3960a3a7689903a4da5e80b7e70cf0056acad3",
       "environment": "release",
       "runner": "tinygrad",
-      "index": 4,
+      "index": 2,
       "minimum_selector_version": "14",
       "generation": "3",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
@@ -163,8 +103,8 @@
       "is_20hz": false,
       "ref": "9691393bde34efb8be6fccef497d6d17758c209c",
       "environment": "release",
-      "runner": "snpe",
-      "index": 5,
+      "runner": "tinygrad",
+      "index": 3,
       "minimum_selector_version": "14",
       "generation": "4",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
@@ -172,30 +112,31 @@
         {
           "type": "supercombo",
           "artifact": {
-            "file_name": "supercombo-wd40.thneed",
+            "file_name": "supercombo_wd40_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-wd40.thneed",
-              "sha256": "a12dd34326f14335d215a4084399423d7caacd9deb5910f53d6d765a0bdf5b9f"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-WD40%20%28April%2009%2C%202024%29-580/supercombo_wd40_tinygrad.pkl",
+              "sha256": "a163f5a2ae1ef391914847d140f9aace24df2965efd1293e62cf0c92c9c4a11a"
             }
           },
           "metadata": {
-            "file_name": "supercombo_metadata_gen4.pkl",
+            "file_name": "supercombo_wd40_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-wd40_metadata.pkl",
-              "sha256": "eec86f6e3cabdf52b761970128ba2bb678e256149eaafaa44e5b7969845f59cb"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-WD40%20%28April%2009%2C%202024%29-580/supercombo_wd40_metadata.pkl",
+              "sha256": "67e6b5b2e3ea6ce01687e98d2c8c1fb789af164549f0c61e980408c1ba6dc92f"
             }
           }
         }
-      ]
+      ],
+      "build_time": "2026-02-15T21:07:41Z"
     },
     {
-      "short_name": "NDv2",
-      "display_name": "North Dakota (April 29, 2024)",
+      "short_name": "NDV2",
+      "display_name": "North Dakota v2 (April 29, 2024)",
       "is_20hz": false,
       "ref": "375978d40b976bf9e82ab74f267846a56b7656a6",
       "environment": "release",
-      "runner": "snpe",
-      "index": 6,
+      "runner": "tinygrad",
+      "index": 4,
       "minimum_selector_version": "14",
       "generation": "4",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
@@ -203,30 +144,31 @@
         {
           "type": "supercombo",
           "artifact": {
-            "file_name": "supercombo-north-dakota.thneed",
+            "file_name": "supercombo_ndv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-north-dakota.thneed",
-              "sha256": "f2714075d5ffad32255abcc0fa111e45f5f955f554f4ff572957670a4683f195"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-North%20Dakota%20v2%20%28April%2029%2C%202024%29-581/supercombo_ndv2_tinygrad.pkl",
+              "sha256": "7258a6c2e54b083b5bca3014bfca405abc3a3218212490167c0c325c26c73bbf"
             }
           },
           "metadata": {
-            "file_name": "supercombo_metadata_gen4.pkl",
+            "file_name": "supercombo_ndv2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-north-dakota_metadata.pkl",
-              "sha256": "eec86f6e3cabdf52b761970128ba2bb678e256149eaafaa44e5b7969845f59cb"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-North%20Dakota%20v2%20%28April%2029%2C%202024%29-581/supercombo_ndv2_metadata.pkl",
+              "sha256": "67e6b5b2e3ea6ce01687e98d2c8c1fb789af164549f0c61e980408c1ba6dc92f"
             }
           }
         }
-      ]
+      ],
+      "build_time": "2026-02-15T21:11:57Z"
     },
     {
-      "short_name": "NDv3",
+      "short_name": "NDV3",
       "display_name": "Notre Dame (July 01, 2024)",
       "is_20hz": false,
       "ref": "e0c89a36da8e6a06ab85c4e74c44f70dd910e1fe",
       "environment": "development",
-      "runner": "snpe",
-      "index": 7,
+      "runner": "tinygrad",
+      "index": 5,
       "minimum_selector_version": "14",
       "generation": "5",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
@@ -234,21 +176,22 @@
         {
           "type": "supercombo",
           "artifact": {
-            "file_name": "supercombo-notre-dame.thneed",
+            "file_name": "supercombo_nd_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-notre-dame.thneed",
-              "sha256": "f73a5fb977d4fe73a7e27082863d197d87f7642e29411e62082da375ddf39cfc"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Notre%20Dame%20%28July%2001%2C%202024%29-582/supercombo_nd_tinygrad.pkl",
+              "sha256": "f511d1b210b478b5e0702f116928e4df7ec0a0d4b5db89ce5215d11880ee088a"
             }
           },
           "metadata": {
-            "file_name": "supercombo_metadata_gen5.pkl",
+            "file_name": "supercombo_nd_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai/-/raw/main/models/supercombo-notre-dame_metadata.pkl",
-              "sha256": "10f75d6353e6867db954d6ab3b801d9b2f60212c2786f0a959c03b05c9de23ba"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Notre%20Dame%20%28July%2001%2C%202024%29-582/supercombo_nd_metadata.pkl",
+              "sha256": "f86881d34d5b9c8080a51c7d76782f0037a379629edfd7caf6e5871c6f42f23a"
             }
           }
         }
-      ]
+      ],
+      "build_time": "2026-02-15T21:16:14Z"
     },
     {
       "short_name": "FOF",
@@ -257,7 +200,7 @@
       "ref": "d807b5c476658dba7760d30949baa619074c4a4e",
       "environment": "release",
       "runner": "tinygrad",
-      "index": 8,
+      "index": 6,
       "minimum_selector_version": "14",
       "generation": "10",
       "build_time": "2026-02-12T20:52:31Z",
@@ -306,7 +249,7 @@
       "ref": "d134fdd7d51ba84848866c0265e37508c38f9366",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 9,
+      "index": 7,
       "minimum_selector_version": "14",
       "generation": "11",
       "build_time": "2026-02-12T22:31:18Z",
@@ -355,7 +298,7 @@
       "ref": "0fb4aafa35896e831bd58a636a9a1bb4a1442743",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 10,
+      "index": 8,
       "minimum_selector_version": "14",
       "generation": "11",
       "build_time": "2026-02-12T22:54:27Z",
@@ -404,7 +347,7 @@
       "ref": "80a636e4952633886c65973d3323e58ec87ed320",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 11,
+      "index": 9,
       "minimum_selector_version": "14",
       "generation": "11",
       "build_time": "2026-02-12T20:43:09Z",
@@ -453,7 +396,7 @@
       "ref": "dc7a92ea630e4f6053082fc25eca83938927b91e",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 12,
+      "index": 10,
       "minimum_selector_version": "14",
       "generation": "10",
       "build_time": "2026-02-12T22:02:59Z",
@@ -502,7 +445,7 @@
       "ref": "b55af0de7fecdb4af073c01b77b04b8306a4e92d",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 13,
+      "index": 11,
       "minimum_selector_version": "14",
       "generation": "10",
       "build_time": "2026-02-12T19:29:22Z",
@@ -551,7 +494,7 @@
       "ref": "c790d3f58ad32cf15f384e6018d942b2348f0c5b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 14,
+      "index": 12,
       "minimum_selector_version": "14",
       "generation": "10",
       "build_time": "2026-02-12T19:25:07Z",
@@ -600,7 +543,7 @@
       "ref": "eceeaabcebcf58716ae4a018930793d89c96777b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 15,
+      "index": 13,
       "minimum_selector_version": "14",
       "generation": "11",
       "build_time": "2026-02-12T22:17:38Z",
@@ -649,7 +592,7 @@
       "ref": "d54a5888cf6165b30e4bdda514ab9057473cd7f8",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 16,
+      "index": 14,
       "minimum_selector_version": "14",
       "generation": "11",
       "build_time": "2026-02-12T20:04:33Z",
@@ -698,7 +641,7 @@
       "ref": "194cdbcebf2d47011d2edbf39a4ae492aa1aa338",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 17,
+      "index": 15,
       "minimum_selector_version": "14",
       "generation": "11",
       "build_time": "2026-02-12T22:22:00Z",
@@ -747,7 +690,7 @@
       "ref": "f523f104eafc49dccb447aea4f7c3f666ef5626c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 18,
+      "index": 16,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T21:26:53Z",
@@ -796,7 +739,7 @@
       "ref": "5b405920ec9511e146432de08171d6f93295248b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 19,
+      "index": 17,
       "minimum_selector_version": "14",
       "generation": "11",
       "build_time": "2026-02-12T21:05:26Z",
@@ -845,7 +788,7 @@
       "ref": "ed38ca8cc998f0a2b47cde29da11b782e4551e8b",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 20,
+      "index": 18,
       "minimum_selector_version": "14",
       "generation": "11",
       "build_time": "2026-02-12T20:30:17Z",
@@ -894,7 +837,7 @@
       "ref": "c2fa07b82c2e09964e4b6dccb3e4465a2e4ad138",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 21,
+      "index": 19,
       "minimum_selector_version": "14",
       "generation": "11",
       "build_time": "2026-02-12T22:50:08Z",
@@ -943,7 +886,7 @@
       "ref": "e4b6a2736580dc427473bcf8a6e3b08eb352edd4",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 22,
+      "index": 20,
       "minimum_selector_version": "14",
       "generation": "11",
       "build_time": "2026-02-12T21:14:04Z",
@@ -992,7 +935,7 @@
       "ref": "d3a0378ae601f61307a53d1173c251ee36c56317",
       "environment": "release",
       "runner": "tinygrad",
-      "index": 23,
+      "index": 21,
       "minimum_selector_version": "14",
       "generation": "11",
       "build_time": "2026-02-12T21:49:15Z",
@@ -1041,7 +984,7 @@
       "ref": "659898d553eb68c981036811e1b92f6557d4e494",
       "environment": "master",
       "runner": "tinygrad",
-      "index": 24,
+      "index": 22,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T20:38:53Z",
@@ -1090,7 +1033,7 @@
       "ref": "a6cf39c07a67dbc346af03010093fe4788c402d0",
       "environment": "master",
       "runner": "tinygrad",
-      "index": 25,
+      "index": 23,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T19:41:58Z",
@@ -1139,7 +1082,7 @@
       "ref": "079d0461604632719e73dc5b6a5eb9897c624da2",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 26,
+      "index": 24,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T21:22:34Z",
@@ -1188,7 +1131,7 @@
       "ref": "277c7c6e9bd847bcec2187bd2ba2fd07877b5012",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 27,
+      "index": 25,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T21:35:31Z",
@@ -1237,7 +1180,7 @@
       "ref": "ee5008cc03e84585a683a7387d414d5c34a336fa",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 28,
+      "index": 26,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T22:45:41Z",
@@ -1286,7 +1229,7 @@
       "ref": "f1b8f510b2c554191ca15cebe35f2c5b304cf23c",
       "environment": "master",
       "runner": "tinygrad",
-      "index": 29,
+      "index": 27,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T20:08:47Z",
@@ -1335,7 +1278,7 @@
       "ref": "93b26a91a62b69b809162ad2bf65e36be2158dc1",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 30,
+      "index": 28,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T21:09:40Z",
@@ -1384,7 +1327,7 @@
       "ref": "b74f5189a74446015c0cf78a4a9f0134a347ae3b",
       "environment": "master",
       "runner": "tinygrad",
-      "index": 31,
+      "index": 29,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T20:25:56Z",
@@ -1433,7 +1376,7 @@
       "ref": "c4488e3411285f6fc3d008bca885e05731fd75c2",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 32,
+      "index": 30,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T19:33:27Z",
@@ -1482,7 +1425,7 @@
       "ref": "3193eac5e385aa010694a8ac192ff38ffe000193",
       "environment": "master",
       "runner": "tinygrad",
-      "index": 33,
+      "index": 31,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T20:17:33Z",
@@ -1531,7 +1474,7 @@
       "ref": "e3ee440f7d5ac12c50db6381e292a55a69b745a7",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 34,
+      "index": 32,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T20:56:47Z",
@@ -1580,7 +1523,7 @@
       "ref": "91a1cea814f76d605d5b15de9634a3c8f79df509",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 35,
+      "index": 33,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T20:00:09Z",
@@ -1629,7 +1572,7 @@
       "ref": "96e7b310b164b55fb73abdd505b66fb36630718e",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 36,
+      "index": 34,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T20:21:45Z",
@@ -1678,7 +1621,7 @@
       "ref": "5306f07d05a4f84a632ce908ec5ce34993e73693",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 37,
+      "index": 35,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T22:35:35Z",
@@ -1727,7 +1670,7 @@
       "ref": "74d156ee827863aa02567228a4a48931e604a41c",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 38,
+      "index": 36,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T19:37:38Z",
@@ -1776,7 +1719,7 @@
       "ref": "83b81b83cdf76a577946a1567f4644e1a018443c",
       "environment": "release",
       "runner": "tinygrad",
-      "index": 39,
+      "index": 37,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T21:18:16Z",
@@ -1825,7 +1768,7 @@
       "ref": "13e79e9fad60c19e751e4f9ab0538d39f1bb54dd",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 40,
+      "index": 38,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T22:26:13Z",
@@ -1874,7 +1817,7 @@
       "ref": "19084132cd3956413a0fdfcdc18971a55df5e0ff",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 41,
+      "index": 39,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T22:07:18Z",
@@ -1923,7 +1866,7 @@
       "ref": "5eb912c025a2207c7d428deee74ded49e5905527",
       "environment": "release",
       "runner": "tinygrad",
-      "index": 42,
+      "index": 40,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T21:31:09Z",
@@ -1972,7 +1915,7 @@
       "ref": "f2413040a8560c0c17c18353a3c75124a2f09d17",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 43,
+      "index": 41,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T22:12:25Z",
@@ -2021,7 +1964,7 @@
       "ref": "94dd3bd9107cd413ed2418f9e6c0cf805a9ca495",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 44,
+      "index": 42,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T20:47:27Z",
@@ -2070,7 +2013,7 @@
       "ref": "266b642180f0e9278e1db46ccf8c1a2a8dae4bb3",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 45,
+      "index": 43,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T21:44:55Z",
@@ -2119,7 +2062,7 @@
       "ref": "c00ebef3269415d80800d10d255479e4006bf152",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 46,
+      "index": 44,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T21:40:38Z",
@@ -2168,7 +2111,7 @@
       "ref": "671ac1084cedc82bca49f82bdd8c27f4d2506190",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 47,
+      "index": 45,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T20:13:15Z",
@@ -2217,7 +2160,7 @@
       "ref": "ba783b9f913de089816598aa367a30499727a0ce",
       "environment": "master",
       "runner": "tinygrad",
-      "index": 48,
+      "index": 46,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T21:53:33Z",
@@ -2266,7 +2209,7 @@
       "ref": "50c78a9dd670a305ca898b96245cadbc2ecdc1a6",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 49,
+      "index": 47,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T19:46:25Z",
@@ -2315,7 +2258,7 @@
       "ref": "5ff0e48f90d662d8c9d5061adc63e90c198c9b81",
       "environment": "master",
       "runner": "tinygrad",
-      "index": 50,
+      "index": 48,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T21:01:04Z",
@@ -2364,7 +2307,7 @@
       "ref": "d70b13931793bc0e4d8efd36128dd66f227a3f81",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 51,
+      "index": 49,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T20:34:34Z",
@@ -2413,7 +2356,7 @@
       "ref": "8950897d7e4d2ba2426b2b31cf29f25e87a3d4ba",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 52,
+      "index": 50,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T22:59:34Z",
@@ -2462,7 +2405,7 @@
       "ref": "e4a4b4b1adf2d19fedab4d195faa382b061fa754",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 53,
+      "index": 51,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T19:50:45Z",
@@ -2511,7 +2454,7 @@
       "ref": "7e3fd7a63c5a09c3fabe108b1b62bba3cf684878",
       "environment": "master",
       "runner": "tinygrad",
-      "index": 54,
+      "index": 52,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T19:55:52Z",
@@ -2560,7 +2503,7 @@
       "ref": "55f66e2246359c6593605399a0199d94d13ad90d",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 55,
+      "index": 53,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T21:58:42Z",
@@ -2609,7 +2552,7 @@
       "ref": "d90758cfaecb2cf13d9098c6aade37e68d6034d2",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 56,
+      "index": 54,
       "minimum_selector_version": "14",
       "generation": "12",
       "build_time": "2026-02-12T22:40:29Z",
