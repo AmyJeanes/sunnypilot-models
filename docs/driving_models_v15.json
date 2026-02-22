@@ -9,7 +9,7 @@
       "environment": "release",
       "runner": "tinygrad",
       "index": 0,
-      "minimum_selector_version": "14",
+      "minimum_selector_version": "15",
       "generation": "3",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -41,7 +41,7 @@
       "environment": "release",
       "runner": "tinygrad",
       "index": 1,
-      "minimum_selector_version": "14",
+      "minimum_selector_version": "15",
       "generation": "3",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -73,7 +73,7 @@
       "environment": "release",
       "runner": "tinygrad",
       "index": 2,
-      "minimum_selector_version": "14",
+      "minimum_selector_version": "15",
       "generation": "3",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -105,7 +105,7 @@
       "environment": "release",
       "runner": "tinygrad",
       "index": 3,
-      "minimum_selector_version": "14",
+      "minimum_selector_version": "15",
       "generation": "4",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -137,7 +137,7 @@
       "environment": "release",
       "runner": "tinygrad",
       "index": 4,
-      "minimum_selector_version": "14",
+      "minimum_selector_version": "15",
       "generation": "4",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
@@ -169,7 +169,7 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 5,
-      "minimum_selector_version": "14",
+      "minimum_selector_version": "15",
       "generation": "5",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
       "models": [
