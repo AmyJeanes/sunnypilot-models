@@ -2742,6 +2742,72 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "OPMV4",
+      "display_name": "Off Policy Model v4 (February 27, 2026)",
+      "is_20hz": true,
+      "ref": "d8cbcf255e1a0fdb480ef1d5c8fcf32798ee4c97",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 57,
+      "minimum_selector_version": "14",
+      "generation": "12",
+      "build_time": "2026-02-28T03:43:38Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_opmv4_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Off%20Policy%20Model%20v4%20%28February%2027%2C%202026%29-134/driving_policy_opmv4_tinygrad.pkl",
+              "sha256": "3135c4fbf3c5e4be1a7a0b9105b0a3d918c1ac581291291d858493bfc8f1ed56"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_opmv4_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Off%20Policy%20Model%20v4%20%28February%2027%2C%202026%29-134/driving_policy_opmv4_metadata.pkl",
+              "sha256": "aa058063988752437f7279f008d43aebdb2c0f5169165b494331156ba01c17b5"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_opmv4_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Off%20Policy%20Model%20v4%20%28February%2027%2C%202026%29-134/driving_vision_opmv4_tinygrad.pkl",
+              "sha256": "2ff00009859e6cb6fe0797ef415fe47ebb2990e62af0e714f60346a4abd054b2"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_opmv4_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Off%20Policy%20Model%20v4%20%28February%2027%2C%202026%29-134/driving_vision_opmv4_metadata.pkl",
+              "sha256": "eca4f7e0f711c4b4cf10b90fd729692cabbfec17db589f1c0b151a15ded80065"
+            }
+          }
+        },
+        {
+          "type": "offPolicy",
+          "artifact": {
+            "file_name": "driving_off_policy_opmv4_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Off%20Policy%20Model%20v4%20%28February%2027%2C%202026%29-134/driving_off_policy_opmv4_tinygrad.pkl",
+              "sha256": "35cbbfeca05bf4be3f940a22cbc338c9d9e691222d4ff0d2690bb537506441d6"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_off_policy_opmv4_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Off%20Policy%20Model%20v4%20%28February%2027%2C%202026%29-134/driving_off_policy_opmv4_metadata.pkl",
+              "sha256": "82e7cb4a7ebf4cac0f988fdaa298dd4e59d3ec8ff8d6c72456fec905454eb909"
+            }
+          }
+        }
+      ]
     }
   ]
 }
