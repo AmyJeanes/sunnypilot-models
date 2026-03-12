@@ -4,7 +4,7 @@
     {
       "short_name": "LAV2",
       "display_name": "LAv2 (January 24, 2024)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "f9d5fc7dd9b763356a1201d96c6953ed4562226e",
       "environment": "development",
       "runner": "tinygrad",
