@@ -2906,6 +2906,55 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "6F71783A",
+      "display_name": "6f71783a8a8faa07ddaeef5bbb6809b4f4f44a15 (March 20, 2026)",
+      "is_20hz": true,
+      "ref": "6f71783a8a8faa07ddaeef5bbb6809b4f4f44a15",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 60,
+      "minimum_selector_version": "15",
+      "generation": "12",
+      "build_time": "2026-03-21T02:43:36Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "policy",
+          "artifact": {
+            "file_name": "driving_policy_6f71783a_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-6f71783a8a8faa07ddaeef5bbb6809b4f4f44a15%20%28March%2020%2C%202026%29-140/driving_policy_6f71783a_tinygrad.pkl",
+              "sha256": "1d3c42f6ee7f28341b27787fcaf60624185fc7fb7ab870d88122d73471a2deda"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_policy_6f71783a_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-6f71783a8a8faa07ddaeef5bbb6809b4f4f44a15%20%28March%2020%2C%202026%29-140/driving_policy_6f71783a_metadata.pkl",
+              "sha256": "f1fbba740aca73ae092578cc82787f91350031e5eaaf1552d94d4c468342a865"
+            }
+          }
+        },
+        {
+          "type": "vision",
+          "artifact": {
+            "file_name": "driving_vision_6f71783a_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-6f71783a8a8faa07ddaeef5bbb6809b4f4f44a15%20%28March%2020%2C%202026%29-140/driving_vision_6f71783a_tinygrad.pkl",
+              "sha256": "19db125ed2a135bffcc919337d51327c72889411e535d4270c04c92b69450d7f"
+            }
+          },
+          "metadata": {
+            "file_name": "driving_vision_6f71783a_metadata.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-6f71783a8a8faa07ddaeef5bbb6809b4f4f44a15%20%28March%2020%2C%202026%29-140/driving_vision_6f71783a_metadata.pkl",
+              "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
+            }
+          }
+        }
+      ]
     }
   ]
 }
