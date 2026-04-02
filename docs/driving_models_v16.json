@@ -3019,7 +3019,7 @@
       "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
       "models": [
         {
-          "type": "OnPolicy",
+          "type": "onPolicy",
           "artifact": {
             "file_name": "driving_on_policy_opm_tinygrad.pkl",
             "download_uri": {
