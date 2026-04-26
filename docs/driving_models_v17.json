@@ -3213,7 +3213,7 @@
       "index": 65,
       "minimum_selector_version": "15",
       "generation": "12",
-      "build_time": "2026-04-18T03:35:28Z",
+      "build_time": "2026-04-26T08:49:59Z",
       "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
       "models": [
         {
@@ -3221,14 +3221,14 @@
           "artifact": {
             "file_name": "driving_on_policy_opmv10_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled15/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-147/driving_on_policy_opmv10_tinygrad.pkl",
-              "sha256": "57df3c7f060c7b5f79e1fd7e0a8e4a57ea651a068f7ae90c6705f9f6a33afb89"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-102/driving_on_policy_opmv10_tinygrad.pkl",
+              "sha256": "533fd4012111566efd5ab2f3fc7a39685fe8294595d773c2b69590c8fc2c6b60"
             }
           },
           "metadata": {
             "file_name": "driving_on_policy_opmv10_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled15/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-147/driving_on_policy_opmv10_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-102/driving_on_policy_opmv10_metadata.pkl",
               "sha256": "7dbe5d30641d259d7a195c1cf0c9827f3f80f10b953e156a735bf257dfb4986e"
             }
           }
@@ -3238,14 +3238,14 @@
           "artifact": {
             "file_name": "driving_vision_opmv10_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled15/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-147/driving_vision_opmv10_tinygrad.pkl",
-              "sha256": "fd159b3468c24a22f990ecac79d3f18f5009a4a5f312a6fee42e180aeb6e2ccd"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-102/driving_vision_opmv10_tinygrad.pkl",
+              "sha256": "1a50ec89a435eb4e0674f0f75f192228caf831106a6e421ce8df6f0de8ed557b"
             }
           },
           "metadata": {
             "file_name": "driving_vision_opmv10_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled15/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-147/driving_vision_opmv10_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-102/driving_vision_opmv10_metadata.pkl",
               "sha256": "66b59bd6d7515901a8f3acc3eabcb351ed867e9b4f05a4ffbb2939d76653e6ca"
             }
           }
@@ -3255,14 +3255,14 @@
           "artifact": {
             "file_name": "driving_off_policy_opmv10_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled15/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-147/driving_off_policy_opmv10_tinygrad.pkl",
-              "sha256": "ceb9042e5317dd5afeaa9ea962dfdb001f1a1e69df2ce2197b5233e739190586"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-102/driving_off_policy_opmv10_tinygrad.pkl",
+              "sha256": "4307ec83152e3997c3abb240685f3faf23c11a8534503cebc25591eebaaa2b8e"
             }
           },
           "metadata": {
             "file_name": "driving_off_policy_opmv10_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled15/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-147/driving_off_policy_opmv10_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-102/driving_off_policy_opmv10_metadata.pkl",
               "sha256": "c200166ac1aa76f000a121c48d3aebce806267f394b793ed9d48753ca6d2ea43"
             }
           }
