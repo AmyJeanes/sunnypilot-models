@@ -100,7 +100,7 @@
     {
       "short_name": "DA",
       "display_name": "Duck Amigo (March 18, 2024)",
-      "is_20hz": false,
+      "is_20hz": true,
       "ref": "5f3960a3a7689903a4da5e80b7e70cf0056acad3",
       "environment": "release",
       "runner": "tinygrad",
@@ -114,20 +114,20 @@
           "artifact": {
             "file_name": "supercombo_da_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Duck%20Amigo%20%28March%2018%2C%202024%29-576/supercombo_da_tinygrad.pkl",
-              "sha256": "6d6e75ffb6f1ae149d9ed821f636f0c14fd66ab2588a3f576f446dd634698bd8"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Duck%20Amigo%20%28March%2018%2C%202024%29-102/supercombo_da_tinygrad.pkl",
+              "sha256": "6dfafe3c1b7409f09d92e6ab15ccc351f4189f6df8f906098363b7988da2f130"
             }
           },
           "metadata": {
             "file_name": "supercombo_da_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Duck%20Amigo%20%28March%2018%2C%202024%29-576/supercombo_da_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Duck%20Amigo%20%28March%2018%2C%202024%29-102/supercombo_da_metadata.pkl",
               "sha256": "2152a3984f71d7d9acc876d7a3d219f7d676457dae8a2da93f7166b26201c22c"
             }
           }
         }
       ],
-      "build_time": "2026-02-15T17:42:32Z"
+      "build_time": "2026-04-26T12:29:03Z"
     },
     {
       "short_name": "WD40",
