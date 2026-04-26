@@ -68,7 +68,7 @@
     {
       "short_name": "CHLR",
       "display_name": "Recertified Herbalist (March 01, 2024)",
-      "is_20hz": false,
+      "is_20hz": true,
       "ref": "063623602c9a3cefe70d2c661b40ef7a15f73d43",
       "environment": "release",
       "runner": "tinygrad",
@@ -82,20 +82,20 @@
           "artifact": {
             "file_name": "supercombo_rh_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-579/supercombo_rh_tinygrad.pkl",
-              "sha256": "edb4a758aec027788296264f5ac63100da89878db756f12f190fd5a4e04fa02b"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-102/supercombo_rh_tinygrad.pkl",
+              "sha256": "974b43e11797cc253096880ff408063b97e381b872b949a00f045f60df7d7345"
             }
           },
           "metadata": {
             "file_name": "supercombo_rh_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-579/supercombo_rh_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-102/supercombo_rh_metadata.pkl",
               "sha256": "2152a3984f71d7d9acc876d7a3d219f7d676457dae8a2da93f7166b26201c22c"
             }
           }
         }
       ],
-      "build_time": "2026-02-15T21:03:21Z"
+      "build_time": "2026-04-26T11:35:41Z"
     },
     {
       "short_name": "DA",
