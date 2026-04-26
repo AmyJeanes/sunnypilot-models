@@ -2917,22 +2917,22 @@
       "index": 60,
       "minimum_selector_version": "15",
       "generation": "12",
-      "build_time": "2026-03-21T02:43:36Z",
+      "build_time": "2026-04-26T12:12:04Z",
       "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
       "models": [
         {
           "type": "policy",
           "artifact": {
-            "file_name": "driving_policy_6f71783a_tinygrad.pkl",
+            "file_name": "driving_policy_pm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-6f71783a8a8faa07ddaeef5bbb6809b4f4f44a15%20%28March%2020%2C%202026%29-140/driving_policy_6f71783a_tinygrad.pkl",
-              "sha256": "1d3c42f6ee7f28341b27787fcaf60624185fc7fb7ab870d88122d73471a2deda"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Pop%20Model%20%28March%2020%2C%202026%29-102/driving_policy_pm_tinygrad.pkl",
+              "sha256": "33fb5d838082ad0445cf6564c9e928bd7882d63412f4ca8ce3ba77e71502b809"
             }
           },
           "metadata": {
-            "file_name": "driving_policy_6f71783a_metadata.pkl",
+            "file_name": "driving_policy_pm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-6f71783a8a8faa07ddaeef5bbb6809b4f4f44a15%20%28March%2020%2C%202026%29-140/driving_policy_6f71783a_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Pop%20Model%20%28March%2020%2C%202026%29-102/driving_policy_pm_metadata.pkl",
               "sha256": "f1fbba740aca73ae092578cc82787f91350031e5eaaf1552d94d4c468342a865"
             }
           }
@@ -2940,16 +2940,16 @@
         {
           "type": "vision",
           "artifact": {
-            "file_name": "driving_vision_6f71783a_tinygrad.pkl",
+            "file_name": "driving_vision_pm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-6f71783a8a8faa07ddaeef5bbb6809b4f4f44a15%20%28March%2020%2C%202026%29-140/driving_vision_6f71783a_tinygrad.pkl",
-              "sha256": "19db125ed2a135bffcc919337d51327c72889411e535d4270c04c92b69450d7f"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Pop%20Model%20%28March%2020%2C%202026%29-102/driving_vision_pm_tinygrad.pkl",
+              "sha256": "5f99b4658577cd38a664e5dec9b90ea890c378eb3f5d8cfec441a04e923d4741"
             }
           },
           "metadata": {
-            "file_name": "driving_vision_6f71783a_metadata.pkl",
+            "file_name": "driving_vision_pm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-6f71783a8a8faa07ddaeef5bbb6809b4f4f44a15%20%28March%2020%2C%202026%29-140/driving_vision_6f71783a_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Pop%20Model%20%28March%2020%2C%202026%29-102/driving_vision_pm_metadata.pkl",
               "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
             }
           }
