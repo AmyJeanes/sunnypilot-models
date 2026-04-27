@@ -50,20 +50,20 @@
           "artifact": {
             "file_name": "supercombo_chv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Certified%20Herbalist%20v2%20%28February%2019%2C%202024%29-102/supercombo_chv2_tinygrad.pkl",
-              "sha256": "87e61ee335e26d8af21b5679266fc080618c7c1031c14d657357998fcaf16392"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Certified%20Herbalist%20v2%20%28February%2019%2C%202024%29-103/supercombo_chv2_tinygrad.pkl",
+              "sha256": "ae45085f9fd4c801cc3e095b986671e611712fee07981a87dde5b3f6de09f02e"
             }
           },
           "metadata": {
             "file_name": "supercombo_chv2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Certified%20Herbalist%20v2%20%28February%2019%2C%202024%29-102/supercombo_chv2_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Certified%20Herbalist%20v2%20%28February%2019%2C%202024%29-103/supercombo_chv2_metadata.pkl",
               "sha256": "2152a3984f71d7d9acc876d7a3d219f7d676457dae8a2da93f7166b26201c22c"
             }
           }
         }
       ],
-      "build_time": "2026-04-26T07:04:46Z"
+      "build_time": "2026-04-27T05:48:33Z"
     },
     {
       "short_name": "CHLR",
