@@ -1215,7 +1215,7 @@
       "index": 27,
       "minimum_selector_version": "15",
       "generation": "12",
-      "build_time": "2026-04-26T15:33:40Z",
+      "build_time": "2026-04-27T08:36:24Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1223,14 +1223,14 @@
           "artifact": {
             "file_name": "driving_policy_kv_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Kumars%20Vibe%20%28August%2016%2C%202025%29-102/driving_policy_kv_tinygrad.pkl",
-              "sha256": "7e94156dd5d72e0deb06e188465575aeaef8ac685fe737bc9fde0812b60aa143"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Kumars%20Vibe%20%28August%2016%2C%202025%29-103/driving_policy_kv_tinygrad.pkl",
+              "sha256": "84aa05f009f1fe622a8c2fbadae59cc6b9e96640084c2275ea471d5c9a7a0c62"
             }
           },
           "metadata": {
             "file_name": "driving_policy_kv_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Kumars%20Vibe%20%28August%2016%2C%202025%29-102/driving_policy_kv_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Kumars%20Vibe%20%28August%2016%2C%202025%29-103/driving_policy_kv_metadata.pkl",
               "sha256": "9294e90ea796c9b7dfe86fe8035498989c91121f1535ba64121c483c65a153ae"
             }
           }
@@ -1240,14 +1240,14 @@
           "artifact": {
             "file_name": "driving_vision_kv_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Kumars%20Vibe%20%28August%2016%2C%202025%29-102/driving_vision_kv_tinygrad.pkl",
-              "sha256": "cc9649c1c0816277eebf470754a259910b956c0743d8a0753c410bccf7c20282"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Kumars%20Vibe%20%28August%2016%2C%202025%29-103/driving_vision_kv_tinygrad.pkl",
+              "sha256": "3459a8660f0d56f0bb7f5bc0551fa0fcb0705da55077518ad62cbda1b3e5c428"
             }
           },
           "metadata": {
             "file_name": "driving_vision_kv_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Kumars%20Vibe%20%28August%2016%2C%202025%29-102/driving_vision_kv_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Kumars%20Vibe%20%28August%2016%2C%202025%29-103/driving_vision_kv_metadata.pkl",
               "sha256": "08bf5d9a05096d0271065089a4ec2cf66d02dcc584b74a25d7c371b24d99aa6d"
             }
           }
