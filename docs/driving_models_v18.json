@@ -235,7 +235,7 @@
       "index": 7,
       "minimum_selector_version": "15",
       "generation": "10",
-      "build_time": "2026-04-26T09:33:39Z",
+      "build_time": "2026-04-27T04:16:12Z",
       "overrides": { "folder": "Release Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -243,14 +243,14 @@
           "artifact": {
             "file_name": "driving_vision_fof_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-102/driving_vision_fof_tinygrad.pkl",
-              "sha256": "132dd2aee5342ca52a24c1d8cd38ca30f1de52b4472191a8d43506f19a0aea53"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-103/driving_vision_fof_tinygrad.pkl",
+              "sha256": "503eb1b048b739246576459d82abf9fd6f68e6bf11d3b9b51efd6dd54e3475ef"
             }
           },
           "metadata": {
             "file_name": "driving_vision_fof_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-102/driving_vision_fof_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-103/driving_vision_fof_metadata.pkl",
               "sha256": "9378177d95c001f0a754a8025b06931af4773dcbd0d6f7cdb10198d8a3633fbc"
             }
           }
@@ -260,14 +260,14 @@
           "artifact": {
             "file_name": "driving_policy_fof_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-102/driving_policy_fof_tinygrad.pkl",
-              "sha256": "1100b66fdb2766ef895aa3464b76c7c70564e1d87c467833df1a308f92b5ec9c"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-103/driving_policy_fof_tinygrad.pkl",
+              "sha256": "69beec0de9befa95f388d60a893b1c89c4fcbb400b8ae6de3e8155a71b86e9fe"
             }
           },
           "metadata": {
             "file_name": "driving_policy_fof_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled16/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-102/driving_policy_fof_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-103/driving_policy_fof_metadata.pkl",
               "sha256": "6ef65f96fb93a050fdd7649c22e4b0e197aa73bb6a26f0fd2f437f6a40905585"
             }
           }
