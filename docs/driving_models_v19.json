@@ -2097,7 +2097,7 @@
       "index": 45,
       "minimum_selector_version": "15",
       "generation": "12",
-      "build_time": "2026-04-27T09:52:20Z",
+      "build_time": "2026-05-18T08:37:49Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2105,14 +2105,14 @@
           "artifact": {
             "file_name": "driving_vision_ndmv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-103/driving_vision_ndmv2_tinygrad.pkl",
-              "sha256": "5063ed15550f7e16ec3a545b362dd8631506f0752f5c8ec0fecc3e1a421584cc"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-104/driving_vision_ndmv2_tinygrad.pkl",
+              "sha256": "019129d933dcaa9dbc20b3572d87cea20341717d2bef39a0598d2c5f45ff9136"
             }
           },
           "metadata": {
             "file_name": "driving_vision_ndmv2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-103/driving_vision_ndmv2_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-104/driving_vision_ndmv2_metadata.pkl",
               "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
@@ -2122,14 +2122,14 @@
           "artifact": {
             "file_name": "driving_policy_ndmv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-103/driving_policy_ndmv2_tinygrad.pkl",
-              "sha256": "b30b4f10c88d32e473ede83cfa539431df975649231422e2f0f479de4b672f95"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-104/driving_policy_ndmv2_tinygrad.pkl",
+              "sha256": "85de907160153e0fcca92187ea6fcadf77dea746e825769048095b25f8a777c7"
             }
           },
           "metadata": {
             "file_name": "driving_policy_ndmv2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-103/driving_policy_ndmv2_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-104/driving_policy_ndmv2_metadata.pkl",
               "sha256": "97fd579505c1308ff8091f141a93d2471e7366e04054137db7d83ffca9b9503f"
             }
           }
