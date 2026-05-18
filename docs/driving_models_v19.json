@@ -1117,7 +1117,7 @@
       "index": 25,
       "minimum_selector_version": "15",
       "generation": "12",
-      "build_time": "2026-04-27T06:46:48Z",
+      "build_time": "2026-05-18T07:43:26Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1125,14 +1125,14 @@
           "artifact": {
             "file_name": "driving_policy_uvdtrm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-103/driving_policy_uvdtrm_tinygrad.pkl",
-              "sha256": "8ef4323697597a08b64194965bce316f02cc78514f2d7b7f62fe1b8b20aae049"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-104/driving_policy_uvdtrm_tinygrad.pkl",
+              "sha256": "b20e6f0ce6ba77593075f56eaec13284e07e4b49af6236de31e493fc9c24be01"
             }
           },
           "metadata": {
             "file_name": "driving_policy_uvdtrm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-103/driving_policy_uvdtrm_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-104/driving_policy_uvdtrm_metadata.pkl",
               "sha256": "3d5ba92e3ed1fac6d16abaefbedec943758bde9e67ce2722814772680d2c3ea0"
             }
           }
@@ -1142,14 +1142,14 @@
           "artifact": {
             "file_name": "driving_vision_uvdtrm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-103/driving_vision_uvdtrm_tinygrad.pkl",
-              "sha256": "012804b167c745ef53e99487ba71d1b3b7f51b6c8ca543554a417c40c9a64adb"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-104/driving_vision_uvdtrm_tinygrad.pkl",
+              "sha256": "91a37c8728c7af8bf996c719d9773420fafaad4723f3ea4779ed65ec13186f40"
             }
           },
           "metadata": {
             "file_name": "driving_vision_uvdtrm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-103/driving_vision_uvdtrm_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-104/driving_vision_uvdtrm_metadata.pkl",
               "sha256": "5b95bc9029861fe640d55b383f633b3645e596a6cbbd9e2fcbea5ce6059a1fa8"
             }
           }
