@@ -431,7 +431,7 @@
       "index": 11,
       "minimum_selector_version": "15",
       "generation": "10",
-      "build_time": "2026-04-27T10:20:42Z",
+      "build_time": "2026-05-18T08:50:05Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -439,14 +439,14 @@
           "artifact": {
             "file_name": "driving_vision_kd_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-103/driving_vision_kd_tinygrad.pkl",
-              "sha256": "46f928d868124ee85f92bedcf7d919cd0f49d987d9fd88ecf513817b01198669"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-104/driving_vision_kd_tinygrad.pkl",
+              "sha256": "eb440ec5c5b31eaffd538ba03dbeca5b5400e4191a4f00fb56266221b13a831b"
             }
           },
           "metadata": {
             "file_name": "driving_vision_kd_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-103/driving_vision_kd_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-104/driving_vision_kd_metadata.pkl",
               "sha256": "7aa3f93ec13cc655827f93541266c63e53a88ec834c076dd177e904c6b5e8ded"
             }
           }
@@ -456,14 +456,14 @@
           "artifact": {
             "file_name": "driving_policy_kd_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-103/driving_policy_kd_tinygrad.pkl",
-              "sha256": "e5421c1a13e5abc51739a2336869e2c18b150ddefc078c28aa440f22155c2853"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-104/driving_policy_kd_tinygrad.pkl",
+              "sha256": "75ecc7233c2ed92bd47e23101780d13fe00bdacaa7c8e60ad5eae05d3777474f"
             }
           },
           "metadata": {
             "file_name": "driving_policy_kd_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-103/driving_policy_kd_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-104/driving_policy_kd_metadata.pkl",
               "sha256": "ebbf3a9ebf811fbb4fdf88c91ac9642ce8324a74f70624c65e7ca28b0fa02db3"
             }
           }
