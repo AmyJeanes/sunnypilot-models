@@ -1656,7 +1656,7 @@
       "index": 36,
       "minimum_selector_version": "15",
       "generation": "12",
-      "build_time": "2026-04-27T05:55:48Z",
+      "build_time": "2026-05-18T12:19:04Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1664,14 +1664,14 @@
           "artifact": {
             "file_name": "driving_policy_tcpm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-The%20Cool%20Peoples%20Model%20%28October%2003%2C%202025%29-103/driving_policy_tcpm_tinygrad.pkl",
-              "sha256": "04addd140f4b48688a9cbabc8bf2ce79f71bd45ecd8475b78d2c706f93fb5587"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20%28October%2003%2C%202025%29-104/driving_policy_tcpm_tinygrad.pkl",
+              "sha256": "943256dca44fea63c866a3dd31dcd51704339bf1793c93e25392e6119cbec19a"
             }
           },
           "metadata": {
             "file_name": "driving_policy_tcpm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-The%20Cool%20Peoples%20Model%20%28October%2003%2C%202025%29-103/driving_policy_tcpm_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20%28October%2003%2C%202025%29-104/driving_policy_tcpm_metadata.pkl",
               "sha256": "324e3e1f83b0fe7158f75083e3aa9b630d0bf03f1a14b261e1cbc14dbcedc805"
             }
           }
@@ -1681,14 +1681,14 @@
           "artifact": {
             "file_name": "driving_vision_tcpm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-The%20Cool%20Peoples%20Model%20%28October%2003%2C%202025%29-103/driving_vision_tcpm_tinygrad.pkl",
-              "sha256": "7f849b7e6e19f487a0ceea517fa687491bb5a567b8fc77594cf98dffc7b4b66b"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20%28October%2003%2C%202025%29-104/driving_vision_tcpm_tinygrad.pkl",
+              "sha256": "125e66651e88ebe6c9f27d00c76fa5f0d47f7beec9d0cd6efa731a1b94228b54"
             }
           },
           "metadata": {
             "file_name": "driving_vision_tcpm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-The%20Cool%20Peoples%20Model%20%28October%2003%2C%202025%29-103/driving_vision_tcpm_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20%28October%2003%2C%202025%29-104/driving_vision_tcpm_metadata.pkl",
               "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
