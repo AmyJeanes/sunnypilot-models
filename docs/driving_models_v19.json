@@ -1803,7 +1803,7 @@
       "index": 39,
       "minimum_selector_version": "15",
       "generation": "12",
-      "build_time": "2026-04-27T08:50:27Z",
+      "build_time": "2026-05-18T06:40:49Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1811,14 +1811,14 @@
           "artifact": {
             "file_name": "driving_vision_nid_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-103/driving_vision_nid_tinygrad.pkl",
-              "sha256": "a3bfbec27b78f8fa3278695011b15b7c02c48241afa28b073b1c47e629d668cc"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-104/driving_vision_nid_tinygrad.pkl",
+              "sha256": "586392e5fb9e4f4821be2d00f70e3481c49393654e3ef14453508a7e63c7c928"
             }
           },
           "metadata": {
             "file_name": "driving_vision_nid_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-103/driving_vision_nid_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-104/driving_vision_nid_metadata.pkl",
               "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
@@ -1828,14 +1828,14 @@
           "artifact": {
             "file_name": "driving_policy_nid_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-103/driving_policy_nid_tinygrad.pkl",
-              "sha256": "762a405f93a907bf87c4d076b297afcbfbf340451bf938c76a1a1ed42aed74fa"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-104/driving_policy_nid_tinygrad.pkl",
+              "sha256": "b7622c4cb46e4eec0b708886de1b21187492967194f94c511f1da11288b336e5"
             }
           },
           "metadata": {
             "file_name": "driving_policy_nid_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled17/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-103/driving_policy_nid_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-104/driving_policy_nid_metadata.pkl",
               "sha256": "14bebf8e4c68d0a8c7a8c6876edcf31ace8e58a762573de4aeee430ae41777cf"
             }
           }
