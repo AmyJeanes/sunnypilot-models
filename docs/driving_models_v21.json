@@ -178,20 +178,20 @@
           "artifact": {
             "file_name": "supercombo_ndv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-North%20Dakota%20v2%20%28April%2029%2C%202024%29-104/supercombo_ndv2_tinygrad.pkl",
-              "sha256": "4aa239629ca093156a287f02d881b6bea7e28a25469566b824f858ecaaf5edfd"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled20/model-North%20Dakota%20v2%20%28April%2029%2C%202024%29-106/supercombo_ndv2_tinygrad.pkl",
+              "sha256": "074ce24a0ce9ef804072b9e03532dcdee73e95899e299046afc03a7eb5b8ce54"
             }
           },
           "metadata": {
             "file_name": "supercombo_ndv2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-North%20Dakota%20v2%20%28April%2029%2C%202024%29-104/supercombo_ndv2_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled20/model-North%20Dakota%20v2%20%28April%2029%2C%202024%29-106/supercombo_ndv2_metadata.pkl",
               "sha256": "67e6b5b2e3ea6ce01687e98d2c8c1fb789af164549f0c61e980408c1ba6dc92f"
             }
           }
         }
       ],
-      "build_time": "2026-05-18T07:37:19Z"
+      "build_time": "2026-05-20T06:33:12Z"
     },
     {
       "short_name": "NDV3",
