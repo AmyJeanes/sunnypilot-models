@@ -2244,7 +2244,7 @@
       "index": 48,
       "minimum_selector_version": "15",
       "generation": "12",
-      "build_time": "2026-05-18T10:26:23Z",
+      "build_time": "2026-05-22T02:19:32Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2252,14 +2252,14 @@
           "artifact": {
             "file_name": "driving_policy_planplus_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Planplus%20v2%20%28December%2011%2C%202025%29-104/driving_policy_planplus_tinygrad.pkl",
-              "sha256": "607113555b97e14d85f7cce5fd3db8f1cffa248f3ec9a2b2189297c7b193b464"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Planplus%20v2%20%28December%2011%2C%202025%29-109/driving_policy_planplus_tinygrad.pkl",
+              "sha256": "12c2cb8a3e4bde92237c11bd9586394a7c3706ce17d007941ca34e5aa629f22d"
             }
           },
           "metadata": {
             "file_name": "driving_policy_planplus_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Planplus%20v2%20%28December%2011%2C%202025%29-104/driving_policy_planplus_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Planplus%20v2%20%28December%2011%2C%202025%29-109/driving_policy_planplus_metadata.pkl",
               "sha256": "b98063969a89db08e719cf9bf4443441f40353b5b9d7d43f5a9ccca770e2cdc3"
             }
           }
@@ -2269,14 +2269,14 @@
           "artifact": {
             "file_name": "driving_vision_planplus_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Planplus%20v2%20%28December%2011%2C%202025%29-104/driving_vision_planplus_tinygrad.pkl",
-              "sha256": "d30cd23ad7c1afc3b0b1d239af9a81eb65efaeb1bb5b6ec02b8646d1ad5a4bc1"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Planplus%20v2%20%28December%2011%2C%202025%29-109/driving_vision_planplus_tinygrad.pkl",
+              "sha256": "0f203890d4ad00300b30e665f48354d2c0aa6df5c4456f02d0f3f969cf90cae3"
             }
           },
           "metadata": {
             "file_name": "driving_vision_planplus_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Planplus%20v2%20%28December%2011%2C%202025%29-104/driving_vision_planplus_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Planplus%20v2%20%28December%2011%2C%202025%29-109/driving_vision_planplus_metadata.pkl",
               "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
