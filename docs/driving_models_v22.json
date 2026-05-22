@@ -82,20 +82,20 @@
           "artifact": {
             "file_name": "supercombo_rh_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-104/supercombo_rh_tinygrad.pkl",
-              "sha256": "a1456f3ae5ae58655d2477f46749a124ac676ab3136859d95d5a918fc41057f1"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-109/supercombo_rh_tinygrad.pkl",
+              "sha256": "241e9cd8b6ef1ede2e0d7eddab7a776286135e568dd849f86fe64a040ea3886b"
             }
           },
           "metadata": {
             "file_name": "supercombo_rh_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-104/supercombo_rh_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-109/supercombo_rh_metadata.pkl",
               "sha256": "2152a3984f71d7d9acc876d7a3d219f7d676457dae8a2da93f7166b26201c22c"
             }
           }
         }
       ],
-      "build_time": "2026-05-18T08:00:42Z"
+      "build_time": "2026-05-22T04:00:20Z"
     },
     {
       "short_name": "DA",
