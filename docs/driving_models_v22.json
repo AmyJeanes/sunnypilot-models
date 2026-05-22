@@ -2195,7 +2195,7 @@
       "index": 47,
       "minimum_selector_version": "15",
       "generation": "12",
-      "build_time": "2026-05-18T09:02:15Z",
+      "build_time": "2026-05-22T08:25:42Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2203,14 +2203,14 @@
           "artifact": {
             "file_name": "driving_policy_dsm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Dark%20Souls%20Model%20%28December%2003%2C%202025%29-104/driving_policy_dsm_tinygrad.pkl",
-              "sha256": "f3d528a8813524cabbd051bfb3e1eac2ef0149856cb78dd746467126042554da"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Dark%20Souls%20Model%20%28December%2003%2C%202025%29-109/driving_policy_dsm_tinygrad.pkl",
+              "sha256": "06683fbb20e17ca116ea10f81bd4dc958b0a74f41df2b9ee7486013774496984"
             }
           },
           "metadata": {
             "file_name": "driving_policy_dsm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Dark%20Souls%20Model%20%28December%2003%2C%202025%29-104/driving_policy_dsm_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Dark%20Souls%20Model%20%28December%2003%2C%202025%29-109/driving_policy_dsm_metadata.pkl",
               "sha256": "3dea30b0275ebe66f361b76254264f6add80634b4ad7819e4406ff1f57bc29d9"
             }
           }
@@ -2220,14 +2220,14 @@
           "artifact": {
             "file_name": "driving_vision_dsm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Dark%20Souls%20Model%20%28December%2003%2C%202025%29-104/driving_vision_dsm_tinygrad.pkl",
-              "sha256": "290ef160782f85fa2ce720b709d49c0f91fa889505898a194f971ce0f415735d"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Dark%20Souls%20Model%20%28December%2003%2C%202025%29-109/driving_vision_dsm_tinygrad.pkl",
+              "sha256": "58a44f018b1ade5b72722f3078f5f0a0fca22144416f12812c8e8ed89b9ff0ad"
             }
           },
           "metadata": {
             "file_name": "driving_vision_dsm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-Dark%20Souls%20Model%20%28December%2003%2C%202025%29-104/driving_vision_dsm_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Dark%20Souls%20Model%20%28December%2003%2C%202025%29-109/driving_vision_dsm_metadata.pkl",
               "sha256": "58cba021537117dfb87b479356fd526c4bb54b46aa316e364f585129a191f5b2"
             }
           }
