@@ -11,7 +11,7 @@
       "index": 0,
       "minimum_selector_version": "15",
       "generation": "4",
-      "build_time": "2026-05-18T07:06:39Z",
+      "build_time": "2026-05-22T04:16:39Z",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".3" },
       "models": [
         {
@@ -19,14 +19,14 @@
           "artifact": {
             "file_name": "supercombo_lav2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-LAv2%20%28January%2024%2C%202024%29-104/supercombo_lav2_tinygrad.pkl",
-              "sha256": "ce9b3508aa680a19448c65e6cb70387354b3771857aea828c51beb246dc66b1f"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-LAv2%20%28January%2024%2C%202024%29-109/supercombo_lav2_tinygrad.pkl",
+              "sha256": "9d45d9ffe8b57c7d996878821eb86a0728920c6a6de765de5ace6279cbdf6bcf"
             }
           },
           "metadata": {
             "file_name": "supercombo_lav2_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled18/model-LAv2%20%28January%2024%2C%202024%29-104/supercombo_lav2_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-LAv2%20%28January%2024%2C%202024%29-109/supercombo_lav2_metadata.pkl",
               "sha256": "2152a3984f71d7d9acc876d7a3d219f7d676457dae8a2da93f7166b26201c22c"
             }
           }
