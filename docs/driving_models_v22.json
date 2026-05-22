@@ -627,7 +627,7 @@
       "index": 15,
       "minimum_selector_version": "15",
       "generation": "11",
-      "build_time": "2026-05-20T03:38:22Z",
+      "build_time": "2026-05-22T01:14:49Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -635,14 +635,14 @@
           "artifact": {
             "file_name": "driving_policy_atr_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled20/model-Aggressive%20TR%20%28June%2028%2C%202025%29-106/driving_policy_atr_tinygrad.pkl",
-              "sha256": "6a800ecff25e4f065b9ba8f165a04673ecca2d6bdeb3752281e9f96c04ff2c71"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Aggressive%20TR%20%28June%2028%2C%202025%29-109/driving_policy_atr_tinygrad.pkl",
+              "sha256": "8f25a20b8bfecd367f359b589d7941601df9e3e3081f8bc959fa7e00ec67e714"
             }
           },
           "metadata": {
             "file_name": "driving_policy_atr_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled20/model-Aggressive%20TR%20%28June%2028%2C%202025%29-106/driving_policy_atr_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Aggressive%20TR%20%28June%2028%2C%202025%29-109/driving_policy_atr_metadata.pkl",
               "sha256": "67ecdf1c8c34b986fcb45a2297397a26447972c9d22e593e0ae3df155c3e12a5"
             }
           }
@@ -652,14 +652,14 @@
           "artifact": {
             "file_name": "driving_vision_atr_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled20/model-Aggressive%20TR%20%28June%2028%2C%202025%29-106/driving_vision_atr_tinygrad.pkl",
-              "sha256": "bf861b53093788e685ec9a80cd78eeae05653237a9cb0e4aeb2059145273014a"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Aggressive%20TR%20%28June%2028%2C%202025%29-109/driving_vision_atr_tinygrad.pkl",
+              "sha256": "378e9ba0d0e4eecab117a4dd80e54f5f97ef41cf2faef01947ae0309c907f2a1"
             }
           },
           "metadata": {
             "file_name": "driving_vision_atr_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled20/model-Aggressive%20TR%20%28June%2028%2C%202025%29-106/driving_vision_atr_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-Aggressive%20TR%20%28June%2028%2C%202025%29-109/driving_vision_atr_metadata.pkl",
               "sha256": "4ac79339651fe5d1e1cfe4c9ff51402d87ab37746bfad41cc3f714cef4d845e4"
             }
           }
