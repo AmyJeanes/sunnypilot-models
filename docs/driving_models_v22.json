@@ -146,20 +146,20 @@
           "artifact": {
             "file_name": "supercombo_wd40_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled20/model-WD40%20%28April%2009%2C%202024%29-106/supercombo_wd40_tinygrad.pkl",
-              "sha256": "1530b47ce2ed5ccbbd5c5b968c62574ab75152163788f5c2f30dcfada638d9e0"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-WD40%20%28April%2009%2C%202024%29-109/supercombo_wd40_tinygrad.pkl",
+              "sha256": "f4c96108c486935f9b024ee1d44b4312ab21325ae7c27c8d452b93d5bb9d673b"
             }
           },
           "metadata": {
             "file_name": "supercombo_wd40_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai6/-/raw/main/models/recompiled20/model-WD40%20%28April%2009%2C%202024%29-106/supercombo_wd40_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled21/model-WD40%20%28April%2009%2C%202024%29-109/supercombo_wd40_metadata.pkl",
               "sha256": "67e6b5b2e3ea6ce01687e98d2c8c1fb789af164549f0c61e980408c1ba6dc92f"
             }
           }
         }
       ],
-      "build_time": "2026-05-20T09:58:24Z"
+      "build_time": "2026-05-22T02:59:56Z"
     },
     {
       "short_name": "NDV2",
