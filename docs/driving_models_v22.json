@@ -4,7 +4,7 @@
     {
       "short_name": "LAV2",
       "display_name": "LAv2 (January 24, 2024)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "f9d5fc7dd9b763356a1201d96c6953ed4562226e",
       "environment": "development",
       "runner": "tinygrad",
@@ -36,7 +36,7 @@
     {
       "short_name": "CHV2",
       "display_name": "Certified Herbalist v2 (February 19, 2024)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "a4d53d378d4331dc7780e5e60845ea1731c48341",
       "environment": "release",
       "runner": "tinygrad",
@@ -68,7 +68,7 @@
     {
       "short_name": "CHLR",
       "display_name": "Recertified Herbalist (March 01, 2024)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "063623602c9a3cefe70d2c661b40ef7a15f73d43",
       "environment": "release",
       "runner": "tinygrad",
@@ -100,7 +100,7 @@
     {
       "short_name": "DA",
       "display_name": "Duck Amigo (March 18, 2024)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "5f3960a3a7689903a4da5e80b7e70cf0056acad3",
       "environment": "release",
       "runner": "tinygrad",
@@ -132,7 +132,7 @@
     {
       "short_name": "WD40",
       "display_name": "WD40 (April 09, 2024)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "9691393bde34efb8be6fccef497d6d17758c209c",
       "environment": "release",
       "runner": "tinygrad",
@@ -164,7 +164,7 @@
     {
       "short_name": "NDV2",
       "display_name": "North Dakota v2 (April 29, 2024)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "375978d40b976bf9e82ab74f267846a56b7656a6",
       "environment": "release",
       "runner": "tinygrad",
@@ -196,7 +196,7 @@
     {
       "short_name": "NDV3",
       "display_name": "Notre Dame (July 01, 2024)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "e0c89a36da8e6a06ab85c4e74c44f70dd910e1fe",
       "environment": "development",
       "runner": "tinygrad",
