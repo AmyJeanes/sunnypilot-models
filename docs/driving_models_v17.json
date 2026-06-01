@@ -2342,22 +2342,22 @@
       "index": 50,
       "minimum_selector_version": "15",
       "generation": "12",
-      "build_time": "2026-02-12T20:34:34Z",
+      "build_time": "2026-06-01T15:19:53Z",
       "overrides": { "folder": "2026 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
           "artifact": {
-            "file_name": "driving_policy_mm_tinygrad.pkl",
+            "file_name": "driving_mm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-101/driving_policy_mm_tinygrad.pkl",
-              "sha256": "0460d74c5894e72cac1d12741f2a65ce2cb067b629cd9b5260e640cf442c9737"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-114/driving_mm_tinygrad.pkl",
+              "sha256": "5439eb7e9245c2216a864901be31a04acdf1391267e78aa07ca8892403f42058"
             }
           },
           "metadata": {
             "file_name": "driving_policy_mm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-101/driving_policy_mm_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-114/driving_policy_mm_metadata.pkl",
               "sha256": "f300f1ce0206710bd842ac7f3dba7f82a5fb5d9ee397d7e4ca7a93d2ab5c1161"
             }
           }
@@ -2365,16 +2365,16 @@
         {
           "type": "vision",
           "artifact": {
-            "file_name": "driving_vision_mm_tinygrad.pkl",
+            "file_name": "driving_mm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-101/driving_vision_mm_tinygrad.pkl",
-              "sha256": "2fbccca0d339855055218b94a14bd906546064d335fbcf07b710e8af0a22eebe"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-114/driving_mm_tinygrad.pkl",
+              "sha256": "5439eb7e9245c2216a864901be31a04acdf1391267e78aa07ca8892403f42058"
             }
           },
           "metadata": {
             "file_name": "driving_vision_mm_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-101/driving_vision_mm_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-114/driving_vision_mm_metadata.pkl",
               "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
             }
           }
