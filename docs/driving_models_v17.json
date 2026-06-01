@@ -208,22 +208,22 @@
         {
           "type": "supercombo",
           "artifact": {
-            "file_name": "supercombo_nd_tinygrad.pkl",
+            "file_name": "driving_nd_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Notre%20Dame%20%28July%2001%2C%202024%29-582/supercombo_nd_tinygrad.pkl",
-              "sha256": "f511d1b210b478b5e0702f116928e4df7ec0a0d4b5db89ce5215d11880ee088a"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Notre%20Dame%20%28July%2001%2C%202024%29-114/driving_nd_tinygrad.pkl",
+              "sha256": "8a025fffdfa6664132162f13f04b78c87c54f50c15b1706386075eb1fbfc88a2"
             }
           },
           "metadata": {
             "file_name": "supercombo_nd_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled15/model-Notre%20Dame%20%28July%2001%2C%202024%29-582/supercombo_nd_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Notre%20Dame%20%28July%2001%2C%202024%29-114/supercombo_nd_metadata.pkl",
               "sha256": "f86881d34d5b9c8080a51c7d76782f0037a379629edfd7caf6e5871c6f42f23a"
             }
           }
         }
       ],
-      "build_time": "2026-02-15T21:16:14Z"
+      "build_time": "2026-06-01T11:06:57Z"
     },
     {
       "short_name": "FOF",
