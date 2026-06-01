@@ -1411,22 +1411,22 @@
       "index": 31,
       "minimum_selector_version": "15",
       "generation": "12",
-      "build_time": "2026-02-12T19:33:27Z",
+      "build_time": "2026-06-01T08:14:28Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
           "artifact": {
-            "file_name": "driving_policy_fbw_tinygrad.pkl",
+            "file_name": "driving_fbw_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-101/driving_policy_fbw_tinygrad.pkl",
-              "sha256": "2572cf6f2746ed09f192d1e8b1e0fcd40767e793b5531cda0d0579bb93c7a3f7"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-114/driving_fbw_tinygrad.pkl",
+              "sha256": "5a52083a171f25138dfbb0cf3acccbf7162bb50f4d9437ad0c30e03d9a7eb19e"
             }
           },
           "metadata": {
             "file_name": "driving_policy_fbw_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-101/driving_policy_fbw_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-114/driving_policy_fbw_metadata.pkl",
               "sha256": "6d2e6bb4b9cba023f38d2e5ff9dbec5302a0463907f05f601569a1dc5e46094f"
             }
           }
@@ -1434,16 +1434,16 @@
         {
           "type": "vision",
           "artifact": {
-            "file_name": "driving_vision_fbw_tinygrad.pkl",
+            "file_name": "driving_fbw_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-101/driving_vision_fbw_tinygrad.pkl",
-              "sha256": "3958f28e2ed2cbe0d08666a2068beaf201cd9b7bbe9c2b0f3b7422ae093bd3d0"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-114/driving_fbw_tinygrad.pkl",
+              "sha256": "5a52083a171f25138dfbb0cf3acccbf7162bb50f4d9437ad0c30e03d9a7eb19e"
             }
           },
           "metadata": {
             "file_name": "driving_vision_fbw_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-101/driving_vision_fbw_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-114/driving_vision_fbw_metadata.pkl",
               "sha256": "17679e8f8374e47b84d580f92a56052a29cc889c97915fbb429852a7474bde6c"
             }
           }
