@@ -725,22 +725,22 @@
       "index": 17,
       "minimum_selector_version": "15",
       "generation": "12",
-      "build_time": "2026-02-12T21:26:53Z",
+      "build_time": "2026-06-01T07:41:37Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "policy",
           "artifact": {
-            "file_name": "driving_policy_spd_tinygrad.pkl",
+            "file_name": "driving_spd_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-101/driving_policy_spd_tinygrad.pkl",
-              "sha256": "778c66a15f6d09a64f47bc91f15010283aa20b211e2108f0bf699d4fa3a85a67"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-114/driving_spd_tinygrad.pkl",
+              "sha256": "e09e389d76a89e4a618a23a6fb92c1288224764b71b6d6a85189e31b3b012ca5"
             }
           },
           "metadata": {
             "file_name": "driving_policy_spd_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-101/driving_policy_spd_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-114/driving_policy_spd_metadata.pkl",
               "sha256": "9368c20af0f1ef130c4465af1f988036814f45e024bc5447a3f552ab108b485d"
             }
           }
@@ -748,16 +748,16 @@
         {
           "type": "vision",
           "artifact": {
-            "file_name": "driving_vision_spd_tinygrad.pkl",
+            "file_name": "driving_spd_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-101/driving_vision_spd_tinygrad.pkl",
-              "sha256": "fd8f08d311d54c575fea9b506b35f768ddd84274ad84b0693eefb3fe6603ca35"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-114/driving_spd_tinygrad.pkl",
+              "sha256": "e09e389d76a89e4a618a23a6fb92c1288224764b71b6d6a85189e31b3b012ca5"
             }
           },
           "metadata": {
             "file_name": "driving_vision_spd_metadata.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai5/-/raw/main/models/recompiled14/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-101/driving_vision_spd_metadata.pkl",
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai7/-/raw/main/models/recompiled1/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-114/driving_vision_spd_metadata.pkl",
               "sha256": "046025a8a34d2eb9be88d7961f46038e10d19c96a57bbd9ae430f82deddee8ff"
             }
           }
