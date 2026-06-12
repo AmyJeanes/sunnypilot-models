@@ -20,18 +20,19 @@ def update_bundle_models(bundle, meta_models, folder, recompiled_dir):
   filtered_meta_models = [
     m for m in meta_models
     if "big" not in m["artifact"]["file_name"].lower()
-    and "big" not in m["metadata"]["file_name"].lower()
+    and ("metadata" not in m or "big" not in m["metadata"]["file_name"].lower())
   ]
   for model in bundle.get("models", []):
     meta_model = next((m for m in filtered_meta_models if m["type"] == model["type"]), None)
     if not meta_model:
       continue
-    model["artifact"]["file_name"] = meta_model["artifact"]["file_name"]
-    model["artifact"]["download_uri"]["sha256"] = meta_model["artifact"]["download_uri"]["sha256"]
+    model["artifact"] = meta_model["artifact"]
     model["artifact"]["download_uri"]["url"] = make_model_url(recompiled_dir, folder, meta_model["artifact"]["file_name"])
-    model["metadata"]["file_name"] = meta_model["metadata"]["file_name"]
-    model["metadata"]["download_uri"]["sha256"] = meta_model["metadata"]["download_uri"]["sha256"]
-    model["metadata"]["download_uri"]["url"] = make_model_url(recompiled_dir, folder, meta_model["metadata"]["file_name"])
+
+    if "metadata" in meta_model and "metadata" in model:
+      model["metadata"]["file_name"] = meta_model["metadata"]["file_name"]
+      model["metadata"]["download_uri"]["sha256"] = meta_model["metadata"]["download_uri"]["sha256"]
+      model["metadata"]["download_uri"]["url"] = make_model_url(recompiled_dir, folder, meta_model["metadata"]["file_name"])
 
 def collapse_overrides(json_text):
   def replacer(m):
@@ -108,7 +109,7 @@ def main():
       filtered_models = [
         m for m in meta["models"]
         if "big" not in m["artifact"]["file_name"].lower()
-        and "big" not in m["metadata"]["file_name"].lower()
+        and ("metadata" not in m or "big" not in m["metadata"]["file_name"].lower())
       ]
       new_bundle = {
         "short_name": short_name,
