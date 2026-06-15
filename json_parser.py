@@ -93,7 +93,8 @@ def main():
 
   for meta_path in find_metadata_files(args.recompiled_dir):
     with open(meta_path, "r", encoding="utf-8") as f:
-      meta = json.load(f)
+      data = json.load(f)
+      meta = data["bundles"][0]
     ref = meta["ref"]
     folder = os.path.basename(os.path.dirname(meta_path))
     short_name = meta.get("short_name", folder).upper()
