@@ -3400,6 +3400,53 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "DT",
+      "display_name": "deep test (June 03, 2026)",
+      "is_20hz": true,
+      "ref": "f02d134f40f5e7be22b182af21b438915a47600e",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 68,
+      "minimum_selector_version": "15",
+      "generation": "12",
+      "build_time": "2026-06-20T09:59:23Z",
+      "overrides": { "folder": "Test", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_dt_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled1/model-deep%20test%20%28June%2003%2C%202026%29-176/driving_dt_tinygrad.pkl",
+              "sha256": "882c7ce850239901554b8e4fd6dc4838c476cddc90d664a8d65e42b468687778"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_dt_tinygrad.pkl.chunk01of05",
+                "sha256": "baace5b6eee21a1f9b25b0079dc956d17fe35570ade976f880602c2aa10293ed"
+              },
+              {
+                "file_name": "driving_dt_tinygrad.pkl.chunk02of05",
+                "sha256": "054f60f006b8c3391d207737fbf0c3502c5bafe59ab87d368d710f4653e3bc2c"
+              },
+              {
+                "file_name": "driving_dt_tinygrad.pkl.chunk03of05",
+                "sha256": "460828de09392bd46dd0050047addf798f7df9078856352da8e894b3bc373634"
+              },
+              {
+                "file_name": "driving_dt_tinygrad.pkl.chunk04of05",
+                "sha256": "1c97d1b97956262fe60e98b130fe16f6f0991ae0fcbc4817ea80dd17434abfd2"
+              },
+              {
+                "file_name": "driving_dt_tinygrad.pkl.chunk05of05",
+                "sha256": "3fc545cef48600e4875892b8f9343b0d92e8c24407602b9936b79f5ffe800aea"
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }
