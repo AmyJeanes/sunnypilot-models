@@ -3486,6 +3486,53 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "MT",
+      "display_name": "michael test (July 18, 2026)",
+      "is_20hz": true,
+      "ref": "37b38bf738edfb1daa6875255f581e5fc9b0a258",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 70,
+      "minimum_selector_version": "15",
+      "generation": "12",
+      "build_time": "2026-07-25T22:46:51Z",
+      "overrides": { "folder": "Test", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_mt_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled1/model-michael%20test%20%28July%2018%2C%202026%29-197/driving_mt_tinygrad.pkl",
+              "sha256": "f5dd239db93f0c9c7671a2564977515657908238062fe1a2cf31b51ca45c9ae2"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_mt_tinygrad.pkl.chunk01of05",
+                "sha256": "e81540b0fceac4a3588a4174e9265e9f845caebf5d4c59ed31e892c5f7156c4b"
+              },
+              {
+                "file_name": "driving_mt_tinygrad.pkl.chunk02of05",
+                "sha256": "7fc0cffdb7a9df460b8e0c49009346be5817cdeb176fb9e85082a46b0f88930a"
+              },
+              {
+                "file_name": "driving_mt_tinygrad.pkl.chunk03of05",
+                "sha256": "7c5b6462e806f67c6766db8ff7426c5b9a0e8fb688a89dca60256fefe74db2eb"
+              },
+              {
+                "file_name": "driving_mt_tinygrad.pkl.chunk04of05",
+                "sha256": "6c580685b596d91a4b7534cdb0b42fffbc8456387cd7f460fef31c00361272ea"
+              },
+              {
+                "file_name": "driving_mt_tinygrad.pkl.chunk05of05",
+                "sha256": "76faf8eeccdac9f122e477b885c07a086e96e056f31b6b18ae5b30dfde52d069"
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }
