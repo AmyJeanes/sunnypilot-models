@@ -3138,13 +3138,52 @@
       ]
     },
     {
+      "short_name": "O7T",
+      "display_name": "op 7 test (April 03, 2026)",
+      "is_20hz": true,
+      "ref": "6f46e6ea263d603d696de23e1177a68927c6ed3e",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 64,
+      "minimum_selector_version": "15",
+      "generation": "12",
+      "build_time": "2026-07-25T17:30:31Z",
+      "overrides": { "folder": "Test", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_o7t_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled1/model-op%207%20test%20%28April%2003%2C%202026%29-186/driving_o7t_tinygrad.pkl",
+              "sha256": "f8449df55607fccfaa5d128c01b77bd7392b783f716976b17cc159db44de2d15"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_o7t_tinygrad.pkl.chunk01of03",
+                "sha256": "da7c7f7106f64aa0d32e9f9477d8114192b071d03a25dac53d34df876ff21955"
+              },
+              {
+                "file_name": "driving_o7t_tinygrad.pkl.chunk02of03",
+                "sha256": "1271212119eec54804f00139a4c19c5ac059396ab0518788e531170608944a75"
+              },
+              {
+                "file_name": "driving_o7t_tinygrad.pkl.chunk03of03",
+                "sha256": "d94c7042b83e01485673a19294e4491729837e52f84ce20d6133d5fa7faa4ebe"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "short_name": "OPM8",
       "display_name": "OP Model 8 (April 07, 2026)",
       "is_20hz": true,
       "ref": "eae2a73e0ac600d7f0342fc4397568e0733fe6e2",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 64,
+      "index": 65,
       "minimum_selector_version": "15",
       "generation": "12",
       "build_time": "2026-06-01T16:19:08Z",
@@ -3210,7 +3249,7 @@
       "ref": "2671624103b9a37c53680dd9110d9a957f61d043",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 65,
+      "index": 66,
       "minimum_selector_version": "15",
       "generation": "12",
       "build_time": "2026-06-01T16:27:43Z",
@@ -3276,7 +3315,7 @@
       "ref": "bbde5ddb5a0ee35c98a962029355f9a95403a825",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 66,
+      "index": 67,
       "minimum_selector_version": "15",
       "generation": "12",
       "build_time": "2026-06-01T16:44:05Z",
@@ -3342,7 +3381,7 @@
       "ref": "7d4c295c27bc3f72727c49ec73b98e45745b588d",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 67,
+      "index": 68,
       "minimum_selector_version": "15",
       "generation": "12",
       "build_time": "2026-06-01T16:35:55Z",
@@ -3408,7 +3447,7 @@
       "ref": "f02d134f40f5e7be22b182af21b438915a47600e",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 68,
+      "index": 69,
       "minimum_selector_version": "15",
       "generation": "12",
       "build_time": "2026-06-20T09:59:23Z",
