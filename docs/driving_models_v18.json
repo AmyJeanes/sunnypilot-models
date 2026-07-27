@@ -3533,6 +3533,53 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "RH",
+      "display_name": "Rebellious Hope (July 27, 2026)",
+      "is_20hz": true,
+      "ref": "93f5aa469a72b7621aef7da7901c100e0113e4d9",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 71,
+      "minimum_selector_version": "15",
+      "generation": "12",
+      "build_time": "2026-07-27T23:07:15Z",
+      "overrides": { "folder": "Test", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_rh_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled1/model-Rebellious%20Hope%20%28July%2027%2C%202026%29-198/driving_rh_tinygrad.pkl",
+              "sha256": "b610a6ee75328c52911cfa1b4e75873ec0c5d2b1195a92c824ac1f6d12c033e7"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_rh_tinygrad.pkl.chunk01of05",
+                "sha256": "1733b70acbc1bf9d578bcf31bb45d4e220043b85116702a862bbeed4e657b96f"
+              },
+              {
+                "file_name": "driving_rh_tinygrad.pkl.chunk02of05",
+                "sha256": "5e64fdd8e223bf3d6da7330bc124252fcfe3aa12518c1d775aeba6d105c151ff"
+              },
+              {
+                "file_name": "driving_rh_tinygrad.pkl.chunk03of05",
+                "sha256": "fb82ec6adbd7504bbd3982d0cb3a527011f53c1ed808e762203122e9799b0668"
+              },
+              {
+                "file_name": "driving_rh_tinygrad.pkl.chunk04of05",
+                "sha256": "8bf9c264520c8a8f5503e6c16170264ffa49ee948d22c3625fa52b9dc3d6a460"
+              },
+              {
+                "file_name": "driving_rh_tinygrad.pkl.chunk05of05",
+                "sha256": "83558efb8dae30d47226ef7f40f36166007848fb614bcd03cff447691dbd02f3"
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }
