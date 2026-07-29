@@ -3147,7 +3147,7 @@
       "index": 64,
       "minimum_selector_version": "16",
       "generation": "12",
-      "build_time": "2026-06-01T16:19:08Z",
+      "build_time": "2026-07-29T04:59:32Z",
       "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
       "models": [
         {
