@@ -2538,7 +2538,7 @@
       "index": 54,
       "minimum_selector_version": "16",
       "generation": "12",
-      "build_time": "2026-06-01T16:02:50Z",
+      "build_time": "2026-07-28T20:00:02Z",
       "overrides": { "folder": "Release Models", "lat": ".0", "long": ".3" },
       "models": [
         {
