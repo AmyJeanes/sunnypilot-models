@@ -1068,7 +1068,7 @@
       "index": 24,
       "minimum_selector_version": "16",
       "generation": "12",
-      "build_time": "2026-06-01T14:46:40Z",
+      "build_time": "2026-07-28T19:36:57Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
