@@ -3213,7 +3213,7 @@
       "index": 65,
       "minimum_selector_version": "16",
       "generation": "12",
-      "build_time": "2026-06-01T16:27:43Z",
+      "build_time": "2026-07-29T03:51:27Z",
       "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
       "models": [
         {
