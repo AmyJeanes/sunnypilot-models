@@ -774,7 +774,7 @@
       "index": 18,
       "minimum_selector_version": "16",
       "generation": "11",
-      "build_time": "2026-06-01T12:46:23Z",
+      "build_time": "2026-07-28T19:13:02Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
