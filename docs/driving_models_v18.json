@@ -1999,7 +1999,7 @@
       "index": 43,
       "minimum_selector_version": "16",
       "generation": "12",
-      "build_time": "2026-06-01T08:38:46Z",
+      "build_time": "2026-07-28T21:13:05Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
