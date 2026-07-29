@@ -1558,7 +1558,7 @@
       "index": 34,
       "minimum_selector_version": "16",
       "generation": "12",
-      "build_time": "2026-06-01T15:11:27Z",
+      "build_time": "2026-07-28T17:03:55Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
