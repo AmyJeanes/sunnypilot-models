@@ -235,7 +235,7 @@
       "index": 7,
       "minimum_selector_version": "16",
       "generation": "10",
-      "build_time": "2026-06-01T10:50:52Z",
+      "build_time": "2026-07-28T17:15:25Z",
       "overrides": { "folder": "Release Models", "lat": ".0", "long": ".0" },
       "models": [
         {
