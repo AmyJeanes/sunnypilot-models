@@ -382,37 +382,6 @@
               "sha256": "9378177d95c001f0a754a8025b06931af4773dcbd0d6f7cdb10198d8a3633fbc"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_fof_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-115/driving_fof_tinygrad.pkl",
-              "sha256": "c43845ec991e6ef51d8a8e011e9ee84faec22888916a598c95f6fbf8da8f3d80"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_fof_tinygrad.pkl.chunk01of03",
-                "sha256": "7c7b3d13e53f3a00d540c541082fa7f790c4fe45e0b219deff6f6797cfa42a16"
-              },
-              {
-                "file_name": "driving_fof_tinygrad.pkl.chunk02of03",
-                "sha256": "2b691d26b3ca5111b1fb4d3d88a67d75e22cb4e9a0942cd64847e83d81164691"
-              },
-              {
-                "file_name": "driving_fof_tinygrad.pkl.chunk03of03",
-                "sha256": "47fffd20a30955b2e47151103593bed5696fc07684ba491d54397286fa8ecee4"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_policy_fof_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-114/driving_policy_fof_metadata.pkl",
-              "sha256": "6ef65f96fb93a050fdd7649c22e4b0e197aa73bb6a26f0fd2f437f6a40905585"
-            }
-          }
         }
       ]
     },
@@ -461,41 +430,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-SP%20Vikander%20Model%20%28May%2003%2C%202025%29-114/driving_vision_spvm_metadata.pkl",
               "sha256": "6cbd167c1c1d80a7b73687518d91292d7f2c2e63bae76af171ee6c7dea477261"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_spvm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-SP%20Vikander%20Model%20%28May%2003%2C%202025%29-115/driving_spvm_tinygrad.pkl",
-              "sha256": "b172dd414f3bfd0d2944fed1400f5e8aabe34050cc5941fd8b692e4155af08ff"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_spvm_tinygrad.pkl.chunk01of04",
-                "sha256": "1b3a43965f36f032eaacc854f4134e1f8b61a8601f87dc44bb3383c10fb9dd80"
-              },
-              {
-                "file_name": "driving_spvm_tinygrad.pkl.chunk02of04",
-                "sha256": "f60ae4d434da078360eae411b482304057321fd76e804648f0bb2e072f6ec29f"
-              },
-              {
-                "file_name": "driving_spvm_tinygrad.pkl.chunk03of04",
-                "sha256": "2ee72eb40fe398eac3714e8698e9f31cdb6af395b8f93ebd69110885d56ca0f6"
-              },
-              {
-                "file_name": "driving_spvm_tinygrad.pkl.chunk04of04",
-                "sha256": "e7d7550324f66f6b0fd74dce1743641e2bc4e8c501239a85a8f4e60e28461a56"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_policy_spvm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-SP%20Vikander%20Model%20%28May%2003%2C%202025%29-114/driving_policy_spvm_metadata.pkl",
-              "sha256": "78ecc6e41d1da5b822d2fb5d143bfdf936ee7e07d7a8f16d4d7670f4ad343fc4"
             }
           }
         }
@@ -548,41 +482,6 @@
               "sha256": "6cbd167c1c1d80a7b73687518d91292d7f2c2e63bae76af171ee6c7dea477261"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_tr7_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-115/driving_tr7_tinygrad.pkl",
-              "sha256": "ac6a898313bf157b73accda52298f46809b3bb5340b10bfe025cf112d8221c94"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_tr7_tinygrad.pkl.chunk01of04",
-                "sha256": "03c4000e00247ccb2dfe674338b27a7f0b04056158635d91bf898e15215954d2"
-              },
-              {
-                "file_name": "driving_tr7_tinygrad.pkl.chunk02of04",
-                "sha256": "2f747a8df23bc5b0aae600f602e06a30748d3ef265e0cab14bc45fe569924deb"
-              },
-              {
-                "file_name": "driving_tr7_tinygrad.pkl.chunk03of04",
-                "sha256": "2dff531c6515c05c9c9e105c1a614284b19717c1b30ecf1a869f6cb9f49b1a98"
-              },
-              {
-                "file_name": "driving_tr7_tinygrad.pkl.chunk04of04",
-                "sha256": "9846a2f368909646e6d1547f952040477349cf563385e5b78a3e0ef366e7b9d6"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_policy_tr7_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-114/driving_policy_tr7_metadata.pkl",
-              "sha256": "b966eadc55529e449c684e0dc1c21daa4461c8a5c106ba57b7e4a6d8627c2906"
-            }
-          }
         }
       ]
     },
@@ -633,41 +532,6 @@
               "sha256": "6cbd167c1c1d80a7b73687518d91292d7f2c2e63bae76af171ee6c7dea477261"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_sgo_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-115/driving_sgo_tinygrad.pkl",
-              "sha256": "c68293e47d19db00fec5324f730703484a1ca7aa017692e6764203e61420a819"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_sgo_tinygrad.pkl.chunk01of04",
-                "sha256": "7586c0ea16eaaf3677033fa8990f1e0da8604c810add7329420bbcb4e9f28f5f"
-              },
-              {
-                "file_name": "driving_sgo_tinygrad.pkl.chunk02of04",
-                "sha256": "fddf5eca1cbd1e3ee4d78dc086a9e223466057996f4fb464a783cc11a67d4683"
-              },
-              {
-                "file_name": "driving_sgo_tinygrad.pkl.chunk03of04",
-                "sha256": "cfe038de69c1b95e07cbad49f5901f751669dcd781c6fd90f5998bb95a9706e2"
-              },
-              {
-                "file_name": "driving_sgo_tinygrad.pkl.chunk04of04",
-                "sha256": "36b382e9697c2faffb5f64f77d195aa06a7155f7275d25353df9242677a1f344"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_policy_sgo_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-114/driving_policy_sgo_metadata.pkl",
-              "sha256": "f2e3c6ca9b26f4e47c81e615431b335223be3a64de834f82943e513cf03472e8"
-            }
-          }
         }
       ]
     },
@@ -712,37 +576,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-114/driving_vision_kd_metadata.pkl",
               "sha256": "7aa3f93ec13cc655827f93541266c63e53a88ec834c076dd177e904c6b5e8ded"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_kd_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-115/driving_kd_tinygrad.pkl",
-              "sha256": "7c6b64aa684c5701df8b290979f7d79d5c46d5600acf991abb2c7aee4b48602d"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_kd_tinygrad.pkl.chunk01of03",
-                "sha256": "d77c915f63022a825f032cf6e6ff0aa01bdbebc325583477585a3a9cffe36bf8"
-              },
-              {
-                "file_name": "driving_kd_tinygrad.pkl.chunk02of03",
-                "sha256": "67bab55db11fcf33c84071cbe3d661174a94489413f735324d9372cc8f2d87b9"
-              },
-              {
-                "file_name": "driving_kd_tinygrad.pkl.chunk03of03",
-                "sha256": "1924c8c0d6288767dcf13aa1f1e388406bbef4c6ec9434a55d6332001bcdbc65"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_policy_kd_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-114/driving_policy_kd_metadata.pkl",
-              "sha256": "ebbf3a9ebf811fbb4fdf88c91ac9642ce8324a74f70624c65e7ca28b0fa02db3"
             }
           }
         }
@@ -791,37 +624,6 @@
               "sha256": "cfa876ccc22d81512bbecba2a91e430828c853feada4599cda8f3fb5d1ba3e9c"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_lcd_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-115/driving_lcd_tinygrad.pkl",
-              "sha256": "9482c8035888f7884532b14d0e6ea08f2e7f85eb6e0fef507f446ed44326ca04"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_lcd_tinygrad.pkl.chunk01of03",
-                "sha256": "bc95ac53584f6ab0b86a6fb7cb52f7392319319376e8fd0e547de5797e7e9cb6"
-              },
-              {
-                "file_name": "driving_lcd_tinygrad.pkl.chunk02of03",
-                "sha256": "468fea4b1c36b0dfd58397aef2d3cd77b71c5b140b97bfcf35ff609a80fe7f7d"
-              },
-              {
-                "file_name": "driving_lcd_tinygrad.pkl.chunk03of03",
-                "sha256": "f2659e0dddc9eaee8552cfc3f7b3f379dca92be824225b73c142ce3f5cc1da0b"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_policy_lcd_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-114/driving_policy_lcd_metadata.pkl",
-              "sha256": "65a97081f7aedcebf3a2e083d316631863253d44ab854c8c0938300845c05ef2"
-            }
-          }
         }
       ]
     },
@@ -866,37 +668,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-114/driving_vision_vfof_metadata.pkl",
               "sha256": "cfa876ccc22d81512bbecba2a91e430828c853feada4599cda8f3fb5d1ba3e9c"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_vfof_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-115/driving_vfof_tinygrad.pkl",
-              "sha256": "dba320a74339f92766fac9141a4175047d03e1dbf41c02813a1523e51567e6e7"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_vfof_tinygrad.pkl.chunk01of03",
-                "sha256": "0ef82c97333754d84ad215daae268e88dd122f38b33f5dac62a5e6835b82198f"
-              },
-              {
-                "file_name": "driving_vfof_tinygrad.pkl.chunk02of03",
-                "sha256": "b1ffb418019e666f3466d0f56386e2337f6c8d217d0d6b68b1b201f76ccc3b7f"
-              },
-              {
-                "file_name": "driving_vfof_tinygrad.pkl.chunk03of03",
-                "sha256": "a3454089afbcce9ca51c4e798f121f397fc266547a6d8f38d0bcc9e9ddddbb40"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_policy_vfof_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-114/driving_policy_vfof_metadata.pkl",
-              "sha256": "fd3a516bb2ac572c53b0d60693898b020e7df77f255028bf1ee1dca7c1bf73dc"
             }
           }
         }
@@ -949,41 +720,6 @@
               "sha256": "55cef49b910f22163f95dab47525ebaaddc9e1cd51f2d8a82f781fdfd9a3d69f"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_tr13_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Tomb%20Raider%2013%20%28June%2027%2C%202025%29-115/driving_tr13_tinygrad.pkl",
-              "sha256": "409ac61d0d0ede382a4661cca6e45f408b0566cf2580d75742b064cf6d87daf2"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_tr13_tinygrad.pkl.chunk01of04",
-                "sha256": "ce3a03e23bb86168acd9c10fc2d744b84a27d194cdd613f595386d05ee1521ad"
-              },
-              {
-                "file_name": "driving_tr13_tinygrad.pkl.chunk02of04",
-                "sha256": "8add32f456ae93f9a5323a12b6bb0623161d444f2f05f0cc5391059edd50d359"
-              },
-              {
-                "file_name": "driving_tr13_tinygrad.pkl.chunk03of04",
-                "sha256": "1322bcf1e2d0b23af689486665e15e395e4e0e1450279935e3bcf85ceab55323"
-              },
-              {
-                "file_name": "driving_tr13_tinygrad.pkl.chunk04of04",
-                "sha256": "597809ccef6e7d5b0e1df7f82ce60320e3d4ae566131d50e2aa73cb977fb103f"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_tr13_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Tomb%20Raider%2013%20%28June%2027%2C%202025%29-114/driving_vision_tr13_metadata.pkl",
-              "sha256": "4ac79339651fe5d1e1cfe4c9ff51402d87ab37746bfad41cc3f714cef4d845e4"
-            }
-          }
         }
       ]
     },
@@ -1032,41 +768,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Aggressive%20TR%20%28June%2028%2C%202025%29-114/driving_policy_atr_metadata.pkl",
               "sha256": "67ecdf1c8c34b986fcb45a2297397a26447972c9d22e593e0ae3df155c3e12a5"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_atr_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Aggressive%20TR%20%28June%2028%2C%202025%29-115/driving_atr_tinygrad.pkl",
-              "sha256": "36999f17c5a3333148b1c181e2eea21413edbf35050b31475809f4b0d3e14138"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_atr_tinygrad.pkl.chunk01of04",
-                "sha256": "495f35171088c64af3a38871258a3d2f7b3933851fde53ec7e704780916af35e"
-              },
-              {
-                "file_name": "driving_atr_tinygrad.pkl.chunk02of04",
-                "sha256": "9933570a0d16a262538895d97e674bd3eb8c36f7acaac64a0e2a0fce8bb14971"
-              },
-              {
-                "file_name": "driving_atr_tinygrad.pkl.chunk03of04",
-                "sha256": "b9c49e8ccbe885d980bbc623f46852571cf351fa6df1f5ee166b83a538a4186b"
-              },
-              {
-                "file_name": "driving_atr_tinygrad.pkl.chunk04of04",
-                "sha256": "90e0c67f799d7003e57cc74add8055391df61c018fe0985bf23581fc7206d3be"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_atr_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Aggressive%20TR%20%28June%2028%2C%202025%29-114/driving_vision_atr_metadata.pkl",
-              "sha256": "4ac79339651fe5d1e1cfe4c9ff51402d87ab37746bfad41cc3f714cef4d845e4"
             }
           }
         }
@@ -1119,41 +820,6 @@
               "sha256": "899712e7e2e6da9a34e10c1af8dc92b2c035473198e5c1ff78620a1d03f250e9"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_tr14_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Tomb%20Raider%2014%20%28June%2030%2C%202025%29-115/driving_tr14_tinygrad.pkl",
-              "sha256": "1228477086bf9129dd5b4083bd982073cb724a70d54e55064b794a69a7bd866d"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_tr14_tinygrad.pkl.chunk01of04",
-                "sha256": "fd52e74aaadc5bc44b4a97efdea5428bde95c421330b3d6b5db2314034971d2c"
-              },
-              {
-                "file_name": "driving_tr14_tinygrad.pkl.chunk02of04",
-                "sha256": "8cbc07d9658729f05a8134e87fea4d66ec3050edd0e4da70d54fcb6019028598"
-              },
-              {
-                "file_name": "driving_tr14_tinygrad.pkl.chunk03of04",
-                "sha256": "10bdd57d5d7511e92cfe9170a42836dd3933e0389aef4e91d6867df1edd0efd3"
-              },
-              {
-                "file_name": "driving_tr14_tinygrad.pkl.chunk04of04",
-                "sha256": "6718e0eae989497d563ed27482b8b8cc3a8b4b9648b6d63ad2f571173e5b9552"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_tr14_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Tomb%20Raider%2014%20%28June%2030%2C%202025%29-114/driving_vision_tr14_metadata.pkl",
-              "sha256": "4ac79339651fe5d1e1cfe4c9ff51402d87ab37746bfad41cc3f714cef4d845e4"
-            }
-          }
         }
       ]
     },
@@ -1202,41 +868,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-114/driving_policy_spd_metadata.pkl",
               "sha256": "9368c20af0f1ef130c4465af1f988036814f45e024bc5447a3f552ab108b485d"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_spd_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-115/driving_spd_tinygrad.pkl",
-              "sha256": "e09e389d76a89e4a618a23a6fb92c1288224764b71b6d6a85189e31b3b012ca5"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_spd_tinygrad.pkl.chunk01of04",
-                "sha256": "e80bfbe6e1a1136311fb46477db93566fbd7970917b64c9b9436b9316edc5bd7"
-              },
-              {
-                "file_name": "driving_spd_tinygrad.pkl.chunk02of04",
-                "sha256": "0a92836d73cfdadf5e8a34dbcdd831c49590f2d37e4e0724b04511ae015b2f1d"
-              },
-              {
-                "file_name": "driving_spd_tinygrad.pkl.chunk03of04",
-                "sha256": "b7a78b5b12991b2a2fa47450f62c1d2462213bf1276e812aeab03a4914fc46d0"
-              },
-              {
-                "file_name": "driving_spd_tinygrad.pkl.chunk04of04",
-                "sha256": "2890b9b277612e1cfed4f45d966e5b12486414344364f14b47e25a1b49dffd0e"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_spd_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-114/driving_vision_spd_metadata.pkl",
-              "sha256": "046025a8a34d2eb9be88d7961f46038e10d19c96a57bbd9ae430f82deddee8ff"
             }
           }
         }
@@ -1289,41 +920,6 @@
               "sha256": "a06d2431e0534df80266493f590bdba283d75dacc4ec1e25513eaca3b6108dc8"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_dtrv5_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Down%20to%20Ride%20v5%20%28July%2008%2C%202025%29-115/driving_dtrv5_tinygrad.pkl",
-              "sha256": "398bb09cabc254cf7fd22beff1d0f97323930123908e6e2f45eb71978beb9b2a"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_dtrv5_tinygrad.pkl.chunk01of04",
-                "sha256": "11c61db4a8b751332968b5193869abc71814c894f9e7359aa89705b15305d406"
-              },
-              {
-                "file_name": "driving_dtrv5_tinygrad.pkl.chunk02of04",
-                "sha256": "9ce89251b4de12dd449526e23611e79ac6bc7e76cf468505e6602da215148d97"
-              },
-              {
-                "file_name": "driving_dtrv5_tinygrad.pkl.chunk03of04",
-                "sha256": "ae28dacc6c14017d471fac1435d2278d7e94dea7787458b1feaa8d9a8870617d"
-              },
-              {
-                "file_name": "driving_dtrv5_tinygrad.pkl.chunk04of04",
-                "sha256": "ef150d68267eefb75fed7bdff81ccc496a3cc39edac4f780711e63206bce9d63"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_dtrv5_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Down%20to%20Ride%20v5%20%28July%2008%2C%202025%29-114/driving_vision_dtrv5_metadata.pkl",
-              "sha256": "4ac79339651fe5d1e1cfe4c9ff51402d87ab37746bfad41cc3f714cef4d845e4"
-            }
-          }
         }
       ]
     },
@@ -1372,41 +968,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Tomb%20Raider%2015%20%28July%2011%2C%202025%29-114/driving_policy_tr15_metadata.pkl",
               "sha256": "284578787a583f02c091968633a2a6d04597133fa52c1651648fcdfd9f187096"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_tr15_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Tomb%20Raider%2015%20%28July%2011%2C%202025%29-115/driving_tr15_tinygrad.pkl",
-              "sha256": "de366364552d3972b17f7a530fea615aaff414a7485ee5244e0b235c835b393c"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_tr15_tinygrad.pkl.chunk01of04",
-                "sha256": "d8c21827f6e42d6f49a8435091378cc4fca0cab844a09157a234bd26ffddfd88"
-              },
-              {
-                "file_name": "driving_tr15_tinygrad.pkl.chunk02of04",
-                "sha256": "4c50ef6cb92de635c1a76c0f8e3edf71cb25525239b39862acfeb2045cfb4b7e"
-              },
-              {
-                "file_name": "driving_tr15_tinygrad.pkl.chunk03of04",
-                "sha256": "3e2b5267122356cf4a773d3dfcc963c682b6ef635700776a167e1c8000815466"
-              },
-              {
-                "file_name": "driving_tr15_tinygrad.pkl.chunk04of04",
-                "sha256": "82f66408ee9cce7a40fb9aaa3b681f1f1805aca1392e6fc214ec1edf9f04812f"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_tr15_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Tomb%20Raider%2015%20%28July%2011%2C%202025%29-114/driving_vision_tr15_metadata.pkl",
-              "sha256": "4ac79339651fe5d1e1cfe4c9ff51402d87ab37746bfad41cc3f714cef4d845e4"
             }
           }
         }
@@ -1459,41 +1020,6 @@
               "sha256": "2e2cd1c0d0d29bda12ecefadabd16a9478939090e02caa6b8cdee9aff6b3cc71"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_ltr14_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Le%20Tomb%20Raider%2014%20%28July%2014%2C%202025%29-115/driving_ltr14_tinygrad.pkl",
-              "sha256": "a7bebe181dfdb58f00fc6374722709338fedacd2a94e4be2bc27fb67bb85f1dc"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_ltr14_tinygrad.pkl.chunk01of04",
-                "sha256": "3a3546d8e1935fb928fb43baa6b1f8fec439483d5d0bbfaa2f6ba491008a9aee"
-              },
-              {
-                "file_name": "driving_ltr14_tinygrad.pkl.chunk02of04",
-                "sha256": "65e1369fb88eef719d67c7c4a8769cfd3b6d76ac893002d54bd70246be76cc86"
-              },
-              {
-                "file_name": "driving_ltr14_tinygrad.pkl.chunk03of04",
-                "sha256": "b9b62edc6d9a3030f1057aa8f9dfcbf244d9fb5af8d594f91669ed4a07a8665f"
-              },
-              {
-                "file_name": "driving_ltr14_tinygrad.pkl.chunk04of04",
-                "sha256": "31ece01336a7a156cd7cfc78ea15a36b02d6ea33b907bbb3ac5944880eac3f29"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_ltr14_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Le%20Tomb%20Raider%2014%20%28July%2014%2C%202025%29-114/driving_vision_ltr14_metadata.pkl",
-              "sha256": "cd99e14e46b5dfa60a2b539d74371052ecb4cb5a9907a5b22a8e12b179b1f539"
-            }
-          }
         }
       ]
     },
@@ -1542,41 +1068,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Tomb%20Raider%2016%20%28July%2021%2C%202025%29-114/driving_policy_tr16_metadata.pkl",
               "sha256": "b887afb5a424012b315f29f66a550e3f01a336a1536c211eb843b7dcf5c55b25"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_tr16_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Tomb%20Raider%2016%20%28July%2021%2C%202025%29-115/driving_tr16_tinygrad.pkl",
-              "sha256": "cd1ebf231517c4f505a664bd8fcd2c5f3e387aa6d55b08edc064cafcad7fb459"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_tr16_tinygrad.pkl.chunk01of04",
-                "sha256": "591abe462d152803434da19d6bec3c3c1767959dcc2fb3fd01e7f3050c979863"
-              },
-              {
-                "file_name": "driving_tr16_tinygrad.pkl.chunk02of04",
-                "sha256": "7312e6289fee632acc32bd0d0047fc55e81bd9025ab2bcd94dddf293ba64a235"
-              },
-              {
-                "file_name": "driving_tr16_tinygrad.pkl.chunk03of04",
-                "sha256": "87f155c16f308e70b031b3df7f59b1594d28c1e58e1a2066b0bb085c3a4ff54b"
-              },
-              {
-                "file_name": "driving_tr16_tinygrad.pkl.chunk04of04",
-                "sha256": "b46fa666ce52e90662e030f3f81766c6bd00466bb0f7593b65d06e0b08c0a26f"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_tr16_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Tomb%20Raider%2016%20%28July%2021%2C%202025%29-114/driving_vision_tr16_metadata.pkl",
-              "sha256": "cd99e14e46b5dfa60a2b539d74371052ecb4cb5a9907a5b22a8e12b179b1f539"
             }
           }
         }
@@ -1629,41 +1120,6 @@
               "sha256": "08bf5d9a05096d0271065089a4ec2cf66d02dcc584b74a25d7c371b24d99aa6d"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_sl2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Space%20Lab%202%20%28July%2026%2C%202025%29-115/driving_sl2_tinygrad.pkl",
-              "sha256": "4c09077ab451d342d9e49a62f4417e851d715f0b817a777663757eb8a20eb25c"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_sl2_tinygrad.pkl.chunk01of04",
-                "sha256": "0792114447a4f516ba0bd9ecc062dfc3e1348349fa7c8913da225a89a913e78d"
-              },
-              {
-                "file_name": "driving_sl2_tinygrad.pkl.chunk02of04",
-                "sha256": "5eca9ceb1cf370af275c6614d209b0ef5696c7cec847268ca4de881fce218552"
-              },
-              {
-                "file_name": "driving_sl2_tinygrad.pkl.chunk03of04",
-                "sha256": "8cd2f8e5c4605b200c5d72d2fcfc98c0091af595203f21b31660f9a3de98d5d8"
-              },
-              {
-                "file_name": "driving_sl2_tinygrad.pkl.chunk04of04",
-                "sha256": "2d42828a0b742850c0fd4f3f1cf40519592ae201e4d816984b6e315f56576d22"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_policy_sl2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Space%20Lab%202%20%28July%2026%2C%202025%29-114/driving_policy_sl2_metadata.pkl",
-              "sha256": "47c81d746937e1103d968965d14a1e369893f841b613c88ffc31f605bffe2678"
-            }
-          }
         }
       ]
     },
@@ -1712,41 +1168,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Space%20Lab%203%20%28August%2008%2C%202025%29-114/driving_vision_sl3_metadata.pkl",
               "sha256": "08bf5d9a05096d0271065089a4ec2cf66d02dcc584b74a25d7c371b24d99aa6d"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_sl3_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Space%20Lab%203%20%28August%2008%2C%202025%29-115/driving_sl3_tinygrad.pkl",
-              "sha256": "e37b1202e8a897a80265cd03337a2783a1f6ade0259ee8c18fe77f3ba665cd94"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_sl3_tinygrad.pkl.chunk01of04",
-                "sha256": "0fbbe980cb173ee620a157092e76134434bac164996e5adf511eacfd489f9d3e"
-              },
-              {
-                "file_name": "driving_sl3_tinygrad.pkl.chunk02of04",
-                "sha256": "7eb178d7dd9cbf3eb7e47648db6ca6de28a99a63db4b10a653feecbe8ae4aeeb"
-              },
-              {
-                "file_name": "driving_sl3_tinygrad.pkl.chunk03of04",
-                "sha256": "dcb28fa4b0f09c6925eecb8ed7523d1c1c0203c5c1caf34ac9610fd21fd6ad96"
-              },
-              {
-                "file_name": "driving_sl3_tinygrad.pkl.chunk04of04",
-                "sha256": "a4bf5a9ffd46794fb352defaea1de6ab77c504e302053ff80c6ec98ceb222711"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_policy_sl3_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Space%20Lab%203%20%28August%2008%2C%202025%29-114/driving_policy_sl3_metadata.pkl",
-              "sha256": "2ca2b53a138a1ca92ca6611144bf1a12f1a201145e672cc4d0731e47f360d3a9"
             }
           }
         }
@@ -1799,41 +1220,6 @@
               "sha256": "96eb774cf8def2ae2d2b729ef055881af52d9a232a1ebecc9d1b8228bf3da219"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_dtrv6_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Down%20to%20Ride%20v6%20%28August%2012%2C%202025%29-115/driving_dtrv6_tinygrad.pkl",
-              "sha256": "36ec26ec0ab325db95163bdcbb41b610af6cf0b1a24c2a82b678373eca7be6fe"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_dtrv6_tinygrad.pkl.chunk01of04",
-                "sha256": "c4fdae908fe67e379f4658814d1b10df4e3c9281dd8ddbf5f410e3c45a38338f"
-              },
-              {
-                "file_name": "driving_dtrv6_tinygrad.pkl.chunk02of04",
-                "sha256": "44b026c8ffd14cf1f16582d78eb5ded8f0500823cd669b3c8a1e2b6e7acc4da9"
-              },
-              {
-                "file_name": "driving_dtrv6_tinygrad.pkl.chunk03of04",
-                "sha256": "cf08555c74547b2a5819d9544368c3ac808cd79dd41b24616982e1f805a0117a"
-              },
-              {
-                "file_name": "driving_dtrv6_tinygrad.pkl.chunk04of04",
-                "sha256": "5b9aa703dd08a71f00806d254647e1d21b36298fd697c088ed5a77338be834b1"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_dtrv6_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Down%20to%20Ride%20v6%20%28August%2012%2C%202025%29-114/driving_vision_dtrv6_metadata.pkl",
-              "sha256": "08bf5d9a05096d0271065089a4ec2cf66d02dcc584b74a25d7c371b24d99aa6d"
-            }
-          }
         }
       ]
     },
@@ -1884,41 +1270,6 @@
               "sha256": "3d5ba92e3ed1fac6d16abaefbedec943758bde9e67ce2722814772680d2c3ea0"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_uvdtrm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-115/driving_uvdtrm_tinygrad.pkl",
-              "sha256": "ed63663844dc46f40afca71d53ce8d1654f02b2742dd637109aaa8d7cd3bacca"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_uvdtrm_tinygrad.pkl.chunk01of04",
-                "sha256": "d2f818198421b3adafa70f1d6ec7321427566a75b094bc43c81483fbe9a6254c"
-              },
-              {
-                "file_name": "driving_uvdtrm_tinygrad.pkl.chunk02of04",
-                "sha256": "3f389f425c13c10b28e95d75559e3413b584fd632873b68292cffd10cd7d1f15"
-              },
-              {
-                "file_name": "driving_uvdtrm_tinygrad.pkl.chunk03of04",
-                "sha256": "5baa02b3ed2ddaed28c04ffb6e9e720329f61196780c2c9cd5177b9109edd2d6"
-              },
-              {
-                "file_name": "driving_uvdtrm_tinygrad.pkl.chunk04of04",
-                "sha256": "0920123a2d58c7879fc22ec750907704102404eb31b51d05a0cd0456728623cb"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_uvdtrm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-114/driving_vision_uvdtrm_metadata.pkl",
-              "sha256": "5b95bc9029861fe640d55b383f633b3645e596a6cbbd9e2fcbea5ce6059a1fa8"
-            }
-          }
         }
       ]
     },
@@ -1951,23 +1302,6 @@
               "sha256": "08bf5d9a05096d0271065089a4ec2cf66d02dcc584b74a25d7c371b24d99aa6d"
             }
           }
-        },
-        {
-          "type": "policy",
-          "artifact": {
-            "file_name": "driving_fp_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Falling%20Phoenix%20%28August%2014%2C%202025%29-114/driving_fp_tinygrad.pkl",
-              "sha256": "3628d26a469fe3b701fd18f41c66ac9f27c317c9deb137407ea0f1bd02480b83"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_policy_fp_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Falling%20Phoenix%20%28August%2014%2C%202025%29-114/driving_policy_fp_metadata.pkl",
-              "sha256": "86bc49524d842d4a958d968f66cffa353f99dc905f2af827166851962d85668e"
-            }
-          }
         }
       ]
     },
@@ -1998,23 +1332,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Kumars%20Vibe%20%28August%2016%2C%202025%29-114/driving_policy_kv_metadata.pkl",
               "sha256": "9294e90ea796c9b7dfe86fe8035498989c91121f1535ba64121c483c65a153ae"
-            }
-          }
-        },
-        {
-          "type": "vision",
-          "artifact": {
-            "file_name": "driving_kv_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Kumars%20Vibe%20%28August%2016%2C%202025%29-114/driving_kv_tinygrad.pkl",
-              "sha256": "3de1f8699f22747b3b999ab245e3ca516be2311b633bf777aaf01816cff42dd8"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_vision_kv_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Kumars%20Vibe%20%28August%2016%2C%202025%29-114/driving_vision_kv_metadata.pkl",
-              "sha256": "08bf5d9a05096d0271065089a4ec2cf66d02dcc584b74a25d7c371b24d99aa6d"
             }
           }
         }
@@ -2067,41 +1384,6 @@
               "sha256": "8e6707775e2aec3570f282a04a87a6124c1e9e02ac822b23e5c8e4463b03f1f8"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_spm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-115/driving_spm_tinygrad.pkl",
-              "sha256": "2bd7bf685b0e924a5a61ae34bd1e0263adf1ca55bfaecff27801dc29bc6bafb3"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_spm_tinygrad.pkl.chunk01of04",
-                "sha256": "aed8eea63f6e299280592004bdcf6fd0e8f67c778e8335727a724bd94ac34106"
-              },
-              {
-                "file_name": "driving_spm_tinygrad.pkl.chunk02of04",
-                "sha256": "36a837db2ef535f9e8441183ea22fee4a02eb361b79c8d900d20fac389ccc0e7"
-              },
-              {
-                "file_name": "driving_spm_tinygrad.pkl.chunk03of04",
-                "sha256": "bf7730bb0107900c5624db2c3d4a8492b00329ed2f597ec6b7ab183c32fe4143"
-              },
-              {
-                "file_name": "driving_spm_tinygrad.pkl.chunk04of04",
-                "sha256": "1192c1e8be5e38fe41253252611193bbc2cdcf1fc48b8ac9935714e754885f7f"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_spm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-114/driving_vision_spm_metadata.pkl",
-              "sha256": "12e97872de2f39aacb1172ffbda9c4aba840854080d4849d96ac5b1b7eb43295"
-            }
-          }
         }
       ]
     },
@@ -2150,41 +1432,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-114/driving_policy_gmv3_metadata.pkl",
               "sha256": "d26318ecc10141586147cc64390f0b2676a53fbec0b07dd094d02a8ae74af589"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_gmv3_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-115/driving_gmv3_tinygrad.pkl",
-              "sha256": "c7ebc189f27a54791d40ed90d9bb7a3cfa2b7523f2a21e92bbca7339eec9ace1"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_gmv3_tinygrad.pkl.chunk01of04",
-                "sha256": "892188c214b88503ef8fd45ad8f36241f3b8cfc55ac407145139f0f3d32dfa31"
-              },
-              {
-                "file_name": "driving_gmv3_tinygrad.pkl.chunk02of04",
-                "sha256": "8fb30940bda857423647175c61f983e41873a4d56103492b1b63c563db41e1c3"
-              },
-              {
-                "file_name": "driving_gmv3_tinygrad.pkl.chunk03of04",
-                "sha256": "49ca20f686f0c7d6e6de75fc690db4c747eb21274fb71190313c467f68b950dc"
-              },
-              {
-                "file_name": "driving_gmv3_tinygrad.pkl.chunk04of04",
-                "sha256": "5c5c3f2aa3e5161e4f4937b5fde7f1caea62eec2305ec2824f1874272a960a55"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_gmv3_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-114/driving_vision_gmv3_metadata.pkl",
-              "sha256": "12e97872de2f39aacb1172ffbda9c4aba840854080d4849d96ac5b1b7eb43295"
             }
           }
         }
@@ -2237,41 +1484,6 @@
               "sha256": "67bd32fd22ddb6de84fcafded4211141abf518e31b6d3a7fd24839ef5f3b6490"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_fm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Firehose%20Model%20%28August%2031%2C%202025%29-115/driving_fm_tinygrad.pkl",
-              "sha256": "d2ca31b76940ba8b6e717e01b5364dac959d35e17281f58fb076c4ad2e811deb"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_fm_tinygrad.pkl.chunk01of04",
-                "sha256": "fb67bb186c8964149179ff198612c9a0c2fa3af5cc43dd4aa289b27b8aa36ba4"
-              },
-              {
-                "file_name": "driving_fm_tinygrad.pkl.chunk02of04",
-                "sha256": "14c04e10d06efbc5cd31efa83a65dcca189185e288f58972b1c10e69e51c93d9"
-              },
-              {
-                "file_name": "driving_fm_tinygrad.pkl.chunk03of04",
-                "sha256": "30b530b4ed449605ac5630308db416092cd850db4a211899a0d5e3b1768e2340"
-              },
-              {
-                "file_name": "driving_fm_tinygrad.pkl.chunk04of04",
-                "sha256": "ea20d80f7670acff93d75824c4a93e66ccff6c63dd629c820ece07226ba66dce"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_fm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Firehose%20Model%20%28August%2031%2C%202025%29-114/driving_vision_fm_metadata.pkl",
-              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
-            }
-          }
         }
       ]
     },
@@ -2316,37 +1528,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-114/driving_policy_fbw_metadata.pkl",
               "sha256": "6d2e6bb4b9cba023f38d2e5ff9dbec5302a0463907f05f601569a1dc5e46094f"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_fbw_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-115/driving_fbw_tinygrad.pkl",
-              "sha256": "5a52083a171f25138dfbb0cf3acccbf7162bb50f4d9437ad0c30e03d9a7eb19e"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_fbw_tinygrad.pkl.chunk01of03",
-                "sha256": "76e03cc7581ab876097496a848d206be9d873faee0534aba8d4e9d4f6ae5dca5"
-              },
-              {
-                "file_name": "driving_fbw_tinygrad.pkl.chunk02of03",
-                "sha256": "6a913b4e3013a63b80eb97da6ea7e21ad57cf273335c189364a6ec15cf38d9a6"
-              },
-              {
-                "file_name": "driving_fbw_tinygrad.pkl.chunk03of03",
-                "sha256": "c5b03b340571811b880916db95a36009c3344ac839819e00a6628724a24e20a8"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_fbw_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-114/driving_vision_fbw_metadata.pkl",
-              "sha256": "17679e8f8374e47b84d580f92a56052a29cc889c97915fbb429852a7474bde6c"
             }
           }
         }
@@ -2399,41 +1580,6 @@
               "sha256": "281d0ad7fe5d3ad1391498ebb4915ca77e38a3d41144f92a117f4d8a4b6ee3b2"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_nm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Nevada%20Model%20%28September%2007%2C%202025%29-115/driving_nm_tinygrad.pkl",
-              "sha256": "0173ecd544770debea1c2e0dc8414488eaa4c1ef5f83479ee94f40d3230dc408"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_nm_tinygrad.pkl.chunk01of04",
-                "sha256": "e548b64a4989967562fcb6fd03c7968d225f5188ec37c1b9b264917f450096d3"
-              },
-              {
-                "file_name": "driving_nm_tinygrad.pkl.chunk02of04",
-                "sha256": "2249ab2c51f1668e7fc7c5108ec290012777a486a30b47ba0f1713ff220fb2b9"
-              },
-              {
-                "file_name": "driving_nm_tinygrad.pkl.chunk03of04",
-                "sha256": "1e5f74178cbcc0fdc15affae88db9a863128678ae9c2e37882b692433abe6104"
-              },
-              {
-                "file_name": "driving_nm_tinygrad.pkl.chunk04of04",
-                "sha256": "260b4586f02f629fe854a318299c0517bcb7509e9da162603cbc8aca7024feed"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_nm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Nevada%20Model%20%28September%2007%2C%202025%29-114/driving_vision_nm_metadata.pkl",
-              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
-            }
-          }
         }
       ]
     },
@@ -2482,41 +1628,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-gWM%20v5%20%28September%2009%2C%202025%29-114/driving_policy_gwmv5_metadata.pkl",
               "sha256": "70f1e31801cfb40d7192d5ea5f2f7209cd5a309e9b06cdf408223d402144343c"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_gwmv5_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-gWM%20v5%20%28September%2009%2C%202025%29-115/driving_gwmv5_tinygrad.pkl",
-              "sha256": "4e8f333fc4ed0dd79c167392ebdd7baa5a021e1c66c855ca4bdc8a76d30e9cbe"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_gwmv5_tinygrad.pkl.chunk01of04",
-                "sha256": "6d647891494a899889a5f830cda243dad94d86e1a8d5bd3709c07a22a70b1443"
-              },
-              {
-                "file_name": "driving_gwmv5_tinygrad.pkl.chunk02of04",
-                "sha256": "daac353b7de321df80a155636267667566058b4e01a248e8ec728db74d0a54f3"
-              },
-              {
-                "file_name": "driving_gwmv5_tinygrad.pkl.chunk03of04",
-                "sha256": "b7f7ccda17ac996b6cc29a87ef4f6c2385b2b769db48a814606c0c822002e09f"
-              },
-              {
-                "file_name": "driving_gwmv5_tinygrad.pkl.chunk04of04",
-                "sha256": "bb1c28a27eabeeb97f2ce5b5c0fc45b144fd7ff3e06a936287de756478cc574a"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_gwmv5_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-gWM%20v5%20%28September%2009%2C%202025%29-114/driving_vision_gwmv5_metadata.pkl",
-              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
         }
@@ -2569,41 +1680,6 @@
               "sha256": "6d275bb87069b79f3ef48abc4f1d2bbcafa79627c2752bfb483c44c6dc6c00a8"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_gwmv6_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-gWM%20v6%20%28September%2020%2C%202025%29-115/driving_gwmv6_tinygrad.pkl",
-              "sha256": "2d26eefd8911377d9df8efcefba976244e38834c6a5d16d86c3a0c8621550287"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_gwmv6_tinygrad.pkl.chunk01of04",
-                "sha256": "0cdbee49b46a73ef484a9b8530dfc0199998904ead7676aa2853d07002076dba"
-              },
-              {
-                "file_name": "driving_gwmv6_tinygrad.pkl.chunk02of04",
-                "sha256": "5ab7d782201d69595b7e099d8f818e0f465a0882e7acf15947f21ff17ee7d736"
-              },
-              {
-                "file_name": "driving_gwmv6_tinygrad.pkl.chunk03of04",
-                "sha256": "f79f286a5d356c6613e0ff65139b72aa7acae90e75ef823b8657ec6e01643837"
-              },
-              {
-                "file_name": "driving_gwmv6_tinygrad.pkl.chunk04of04",
-                "sha256": "71bd608c59e6d12ffbcae0f33bb9a2716440a8156370040c232b862e031c4670"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_gwmv6_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-gWM%20v6%20%28September%2020%2C%202025%29-114/driving_vision_gwmv6_metadata.pkl",
-              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
-            }
-          }
         }
       ]
     },
@@ -2652,41 +1728,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-gWM%20v8%20%28September%2028%2C%202025%29-114/driving_policy_gwmv8_metadata.pkl",
               "sha256": "7c857f528e35f4f4e66398b8d0fba61fdfaaf82ee242496d4fcd0db88165452a"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_gwmv8_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-gWM%20v8%20%28September%2028%2C%202025%29-115/driving_gwmv8_tinygrad.pkl",
-              "sha256": "dfaf58b0e5fa6a6ff1a3d82795b8cb09935bfbcbcb175f31e4883d74ce621ce8"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_gwmv8_tinygrad.pkl.chunk01of04",
-                "sha256": "a8c9e5f2694dbc98d251a3923a04ac227c0e2236ad66ba769ac12b1d9856a2c7"
-              },
-              {
-                "file_name": "driving_gwmv8_tinygrad.pkl.chunk02of04",
-                "sha256": "eb98ce1456d2faa8a31584b9b2552a4b75139b39bab33cd1e03b1706f69b74f0"
-              },
-              {
-                "file_name": "driving_gwmv8_tinygrad.pkl.chunk03of04",
-                "sha256": "3b29aab5bd4762d755361e4faf11eab29b2c672680a59882053f77f175d7b965"
-              },
-              {
-                "file_name": "driving_gwmv8_tinygrad.pkl.chunk04of04",
-                "sha256": "03e1f73d407fd514ec4a273a643c0e0bd284d7135a948ff38beabb67c3a2832f"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_gwmv8_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-gWM%20v8%20%28September%2028%2C%202025%29-114/driving_vision_gwmv8_metadata.pkl",
-              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
         }
@@ -2739,41 +1780,6 @@
               "sha256": "324e3e1f83b0fe7158f75083e3aa9b630d0bf03f1a14b261e1cbc14dbcedc805"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_tcpm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20%28October%2003%2C%202025%29-115/driving_tcpm_tinygrad.pkl",
-              "sha256": "4f3011d0f9ddb8fa8c468852d061cd41e0bcddd656ceff9a54b8121a630a3923"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_tcpm_tinygrad.pkl.chunk01of04",
-                "sha256": "626f7e29fbd0e263a213fec5ec5874de2b12b97229ea1e824ce62e76b3a5ab05"
-              },
-              {
-                "file_name": "driving_tcpm_tinygrad.pkl.chunk02of04",
-                "sha256": "9a6ee98eeb89e9587d825018303159354ceb249a2fba8151351ab7b8076d866e"
-              },
-              {
-                "file_name": "driving_tcpm_tinygrad.pkl.chunk03of04",
-                "sha256": "4298b71f0a66a23d2bfc0fb05f89d1aacde53d244aea2a2c9f771239de5a5521"
-              },
-              {
-                "file_name": "driving_tcpm_tinygrad.pkl.chunk04of04",
-                "sha256": "cc6d07bac19714f97d30e89fc26bd68e9f65cac33f06aa395159fa81c4e8df4a"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_tcpm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20%28October%2003%2C%202025%29-114/driving_vision_tcpm_metadata.pkl",
-              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
-            }
-          }
         }
       ]
     },
@@ -2822,41 +1828,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-North%20Nevada%20Model%20%28October%2007%2C%202025%29-114/driving_policy_nnm_metadata.pkl",
               "sha256": "b6da000578015087cec30491365f2eff0759d8581664bd44b1a3dbdbe1d4b2da"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_nnm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-North%20Nevada%20Model%20%28October%2007%2C%202025%29-115/driving_nnm_tinygrad.pkl",
-              "sha256": "1ff17e06d66be1bcab67832ceb64df1f030433cdb8902996db75eeea0c6b71ce"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_nnm_tinygrad.pkl.chunk01of04",
-                "sha256": "6ad644c66435a92bcc4d92a66dadc01e983fddb6df77ba76671a4497124cbea9"
-              },
-              {
-                "file_name": "driving_nnm_tinygrad.pkl.chunk02of04",
-                "sha256": "9c4fe512b80846fd49ff79e3dbdf88059223189d6932fd5627aa6ff7cb0e1335"
-              },
-              {
-                "file_name": "driving_nnm_tinygrad.pkl.chunk03of04",
-                "sha256": "9913113993521b871dd2548a6ca655526f51b4f46c0c86d20bc460926829e85d"
-              },
-              {
-                "file_name": "driving_nnm_tinygrad.pkl.chunk04of04",
-                "sha256": "c7369bff7032569e245d91fb0284db22aa4bb8d4cf7383414f7dd8f35b0b3fa2"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_nnm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-North%20Nevada%20Model%20%28October%2007%2C%202025%29-114/driving_vision_nnm_metadata.pkl",
-              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
         }
@@ -2909,41 +1880,6 @@
               "sha256": "aed596d1ea2024bfd320a8b73c2ae06cf876b9383103c40a0686dda5aa4f5947"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_nnmv2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-North%20Nevada%20Model%20V2%20%28October%2008%2C%202025%29-115/driving_nnmv2_tinygrad.pkl",
-              "sha256": "f32577a90172c182bdebfcfb90ebd753971f1dd7fcca409455a7b685dd753548"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_nnmv2_tinygrad.pkl.chunk01of04",
-                "sha256": "ca45ff9941cedccd045954b290067a9d3c308f1b2cd7f1708094b2f6bad70adb"
-              },
-              {
-                "file_name": "driving_nnmv2_tinygrad.pkl.chunk02of04",
-                "sha256": "88f4d82cfc75b25be5606d93c833c9417fed112e1106a0c6ed2266f368fec7d8"
-              },
-              {
-                "file_name": "driving_nnmv2_tinygrad.pkl.chunk03of04",
-                "sha256": "a2d8d6fd51c0814f36395a8e62e4208bb32acf713b974779dd7bc693af31dd75"
-              },
-              {
-                "file_name": "driving_nnmv2_tinygrad.pkl.chunk04of04",
-                "sha256": "6e394ac8395424c795ad6c495a269e0f7a27031f1a301cc9ace7b2b2f423d0b1"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_nnmv2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-North%20Nevada%20Model%20V2%20%28October%2008%2C%202025%29-114/driving_vision_nnmv2_metadata.pkl",
-              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
-            }
-          }
         }
       ]
     },
@@ -2992,41 +1928,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-114/driving_vision_nid_metadata.pkl",
               "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_nid_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-115/driving_nid_tinygrad.pkl",
-              "sha256": "e6be903b803cd1f407d9856b5b236c402e450b85e81ebfbb9bb4bac2066ecb73"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_nid_tinygrad.pkl.chunk01of04",
-                "sha256": "34623fc3b9d0e3f4e0daecb339df6505dcddd83f8bd3f7b0865bdfb8678adb96"
-              },
-              {
-                "file_name": "driving_nid_tinygrad.pkl.chunk02of04",
-                "sha256": "6a31adf6b3412baeb6efc5fcbcf43ce29645fbb47733925bb70bae8242e406ab"
-              },
-              {
-                "file_name": "driving_nid_tinygrad.pkl.chunk03of04",
-                "sha256": "f182feadebb6b08518c529bb86ff7bc5ce67e3ad17f4c2f5e8559c8dca752193"
-              },
-              {
-                "file_name": "driving_nid_tinygrad.pkl.chunk04of04",
-                "sha256": "6b4ef376bb811879b888d71241bf0477854b9d4b9e642ebb78df0ccd537da5a8"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_policy_nid_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-114/driving_policy_nid_metadata.pkl",
-              "sha256": "14bebf8e4c68d0a8c7a8c6876edcf31ace8e58a762573de4aeee430ae41777cf"
             }
           }
         }
@@ -3079,41 +1980,6 @@
               "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_tcpmv2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-115/driving_tcpmv2_tinygrad.pkl",
-              "sha256": "e195f82afb25a7088a7090a3a7e946b042414dce61e12d9acb1202d599f85f31"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_tcpmv2_tinygrad.pkl.chunk01of04",
-                "sha256": "659aef98a3a733baeb6e6b3feca0348926457b1683b2b633e2834274642ad216"
-              },
-              {
-                "file_name": "driving_tcpmv2_tinygrad.pkl.chunk02of04",
-                "sha256": "b1d3e84280d2528e461d3d858ba517fd39fc4d96ecfd90e581d3851b684eb066"
-              },
-              {
-                "file_name": "driving_tcpmv2_tinygrad.pkl.chunk03of04",
-                "sha256": "59313128dc60c9a976592b8f9a1c90d9d632df4f26b67e037330caf2d06339a9"
-              },
-              {
-                "file_name": "driving_tcpmv2_tinygrad.pkl.chunk04of04",
-                "sha256": "6a52e42d3e7b21bb0757ba1dd5a95d7835d6a0f36fbee064deb33479e5b53e41"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_policy_tcpmv2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-114/driving_policy_tcpmv2_metadata.pkl",
-              "sha256": "324e3e1f83b0fe7158f75083e3aa9b630d0bf03f1a14b261e1cbc14dbcedc805"
-            }
-          }
         }
       ]
     },
@@ -3144,23 +2010,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20v3%20%28October%2010%2C%202025%29-114/driving_policy_tcpmv3_metadata.pkl",
               "sha256": "97fd579505c1308ff8091f141a93d2471e7366e04054137db7d83ffca9b9503f"
-            }
-          }
-        },
-        {
-          "type": "vision",
-          "artifact": {
-            "file_name": "driving_tcpmv3_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20v3%20%28October%2010%2C%202025%29-114/driving_tcpmv3_tinygrad.pkl",
-              "sha256": "81b8b04896de649a3da382e5959b531534f150fa0c7580ecaa59e7afe4ec9c74"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_vision_tcpmv3_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20v3%20%28October%2010%2C%202025%29-114/driving_vision_tcpmv3_metadata.pkl",
-              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
         }
@@ -3213,41 +2062,6 @@
               "sha256": "fe1250c3149ed6c832927751007f868c86b17c87ab95ae0dcacd5aa81f026d5a"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_gwmv9_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-GWM%20V9%20%28October%2021%2C%202025%29-115/driving_gwmv9_tinygrad.pkl",
-              "sha256": "0baf4dcf8f83df5abf5e0ff8dd4c6531f9bf5144c7c295a364be4084f0a4ea9f"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_gwmv9_tinygrad.pkl.chunk01of04",
-                "sha256": "7ae7412def0a3494f95b6570d29848737d5ba2f1fd1b5cfca0636f89458159ae"
-              },
-              {
-                "file_name": "driving_gwmv9_tinygrad.pkl.chunk02of04",
-                "sha256": "abcc01a28c41eb5a381840438e0eabf7b07f6bac1a7f8aeca54675778511f665"
-              },
-              {
-                "file_name": "driving_gwmv9_tinygrad.pkl.chunk03of04",
-                "sha256": "83aba4cee5cc0d06a15d74d79f00c9ed9fd01ebbbae745c0fecf5034904892e4"
-              },
-              {
-                "file_name": "driving_gwmv9_tinygrad.pkl.chunk04of04",
-                "sha256": "3aa1e0ed1a4c8e8e456ed06355d093bf73f963fea5f4aa8b455a4bca34021ba7"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_gwmv9_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-GWM%20V9%20%28October%2021%2C%202025%29-114/driving_vision_gwmv9_metadata.pkl",
-              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
-            }
-          }
         }
       ]
     },
@@ -3296,41 +2110,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Cool%20GWM%20%20%28October%2024%2C%202025%29-114/driving_policy_cgwm_metadata.pkl",
               "sha256": "501b5f23ff302a7dbb510a1c01466391975705288697cb077166cb548b1b39ec"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_cgwm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Cool%20GWM%20%20%28October%2024%2C%202025%29-115/driving_cgwm_tinygrad.pkl",
-              "sha256": "e4d74a4fad7bf7a811a2b8fb77787e60766d085eaafb4ee95c744dc3735c3dc1"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_cgwm_tinygrad.pkl.chunk01of04",
-                "sha256": "cbbbb252e4cb1e0c7e17c125fe246c8c85aeabdd6e25e30ab6c273f81ea1cc4e"
-              },
-              {
-                "file_name": "driving_cgwm_tinygrad.pkl.chunk02of04",
-                "sha256": "bcde558221b5876d4b6fafac98bf4453583724802e85d512c2156187a15e2a1c"
-              },
-              {
-                "file_name": "driving_cgwm_tinygrad.pkl.chunk03of04",
-                "sha256": "2b8fd608450a245b16b4ab2e4902e5c45baf2f22106a693c8e2e0bd978d903a4"
-              },
-              {
-                "file_name": "driving_cgwm_tinygrad.pkl.chunk04of04",
-                "sha256": "ccd35d63a5b5fac558460367f5c0d8a68be5d4b154b0904c34a0fe134c7d3418"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_cgwm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Cool%20GWM%20%20%28October%2024%2C%202025%29-114/driving_vision_cgwm_metadata.pkl",
-              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
         }
@@ -3383,41 +2162,6 @@
               "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_ndm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Neurips%20Driving%20Model%20%28November%2012%2C%202025%29-115/driving_ndm_tinygrad.pkl",
-              "sha256": "020fcc042228faa8c7f8c938d32f13c17965cb7656c647ae55e35bf6cf8dced7"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_ndm_tinygrad.pkl.chunk01of04",
-                "sha256": "c7a792bc4738c3886e29cddd3c18d8c63f4acea1fbbdb838d236cafdc8a2db81"
-              },
-              {
-                "file_name": "driving_ndm_tinygrad.pkl.chunk02of04",
-                "sha256": "0f5cff1b73161a064b52e9744d889529701c57cfa76c0ea7bfee9fae59bfe2ce"
-              },
-              {
-                "file_name": "driving_ndm_tinygrad.pkl.chunk03of04",
-                "sha256": "56e84ca5cce7f879b50ca752237ad3def94493c2d800ba04b4fbb0debdf767ba"
-              },
-              {
-                "file_name": "driving_ndm_tinygrad.pkl.chunk04of04",
-                "sha256": "3af3a862a3194ea8a9069af72a63e9e96b983a27532b7761404690f5577da46d"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_policy_ndm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Neurips%20Driving%20Model%20%28November%2012%2C%202025%29-114/driving_policy_ndm_metadata.pkl",
-              "sha256": "97fd579505c1308ff8091f141a93d2471e7366e04054137db7d83ffca9b9503f"
-            }
-          }
         }
       ]
     },
@@ -3466,41 +2210,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-114/driving_vision_ndmv2_metadata.pkl",
               "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_ndmv2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-115/driving_ndmv2_tinygrad.pkl",
-              "sha256": "af828646936235d03de13d632968cfd383af68303d1eff46478ad49d1d07f2ce"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_ndmv2_tinygrad.pkl.chunk01of04",
-                "sha256": "e8a38ecb89611e8d988fdebfd20574e05f9778af4055ba0d366485b29e0d1198"
-              },
-              {
-                "file_name": "driving_ndmv2_tinygrad.pkl.chunk02of04",
-                "sha256": "e08ec3d9376235f71214f35745dd7591b75b951723236d671b82b925e074afe2"
-              },
-              {
-                "file_name": "driving_ndmv2_tinygrad.pkl.chunk03of04",
-                "sha256": "905c7ce0fceadb5c2e52752da21668c72669588867a1021fc218c956102120ea"
-              },
-              {
-                "file_name": "driving_ndmv2_tinygrad.pkl.chunk04of04",
-                "sha256": "0aeff07760376a7b7463f834f5c9c754681691250d08c92323074c38ccfc31cb"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_policy_ndmv2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-114/driving_policy_ndmv2_metadata.pkl",
-              "sha256": "97fd579505c1308ff8091f141a93d2471e7366e04054137db7d83ffca9b9503f"
             }
           }
         }
@@ -3553,41 +2262,6 @@
               "sha256": "b98063969a89db08e719cf9bf4443441f40353b5b9d7d43f5a9ccca770e2cdc3"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_pm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Planplus%20Model%20%28November%2028%2C%202025%29-115/driving_pm_tinygrad.pkl",
-              "sha256": "c87a0d0aed03fbc146590080ad950a94d0daefae4292015269c0d6fc5e45a390"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_pm_tinygrad.pkl.chunk01of04",
-                "sha256": "f7f22597acfd0d185c2d0d8fb14902076f5fc3f9882b977d37525966dd83e96c"
-              },
-              {
-                "file_name": "driving_pm_tinygrad.pkl.chunk02of04",
-                "sha256": "3de457d605f699113df8cc5354070bb2d1eedb4aea754595ecb851c6d24a7735"
-              },
-              {
-                "file_name": "driving_pm_tinygrad.pkl.chunk03of04",
-                "sha256": "9ab64c9b6878fab5b98e0af6f8d7f6d34db2b7f6a9f4a95223cab2211bb043f3"
-              },
-              {
-                "file_name": "driving_pm_tinygrad.pkl.chunk04of04",
-                "sha256": "3807b00c4a09833de957aaff95d851fb0bee44c0b3a1676adebe1cea0ee8fd7b"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_pm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Planplus%20Model%20%28November%2028%2C%202025%29-114/driving_vision_pm_metadata.pkl",
-              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
-            }
-          }
         }
       ]
     },
@@ -3636,41 +2310,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Dark%20Souls%20Model%20%28December%2003%2C%202025%29-114/driving_policy_dsm_metadata.pkl",
               "sha256": "3dea30b0275ebe66f361b76254264f6add80634b4ad7819e4406ff1f57bc29d9"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_dsm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Dark%20Souls%20Model%20%28December%2003%2C%202025%29-115/driving_dsm_tinygrad.pkl",
-              "sha256": "82fda2904a2b71e135e66aa05cdd3c3b62f7677553c92d5f525210b944430325"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_dsm_tinygrad.pkl.chunk01of04",
-                "sha256": "5a7c538521b9427592bb3e1292463deef3dd88cfa6e3dff3f4ad1f2873b19d8c"
-              },
-              {
-                "file_name": "driving_dsm_tinygrad.pkl.chunk02of04",
-                "sha256": "e8223f88359477203d5460ae9daa4a0205c3367ec6e575c846270dd91bf53402"
-              },
-              {
-                "file_name": "driving_dsm_tinygrad.pkl.chunk03of04",
-                "sha256": "957e34bf243a40f996111a3ccfa45c2a893062d509a8ff7273c19f5cfd02ab23"
-              },
-              {
-                "file_name": "driving_dsm_tinygrad.pkl.chunk04of04",
-                "sha256": "f87d11bf81f7877ded7bc2e9a55a8cc97b21d19cbb5380637df3dfe18d2b7b43"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_dsm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Dark%20Souls%20Model%20%28December%2003%2C%202025%29-114/driving_vision_dsm_metadata.pkl",
-              "sha256": "58cba021537117dfb87b479356fd526c4bb54b46aa316e364f585129a191f5b2"
             }
           }
         }
@@ -3723,41 +2362,6 @@
               "sha256": "b98063969a89db08e719cf9bf4443441f40353b5b9d7d43f5a9ccca770e2cdc3"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_planplus_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Planplus%20v2%20%28December%2011%2C%202025%29-115/driving_planplus_tinygrad.pkl",
-              "sha256": "f169639921430e978b9690dbe52d5f5157a16d92984d9f367f3dec52a71e9331"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_planplus_tinygrad.pkl.chunk01of04",
-                "sha256": "7e07d73d6d3b788299194815f149195b590afbd4aabbac8c7dc457ee785ef98e"
-              },
-              {
-                "file_name": "driving_planplus_tinygrad.pkl.chunk02of04",
-                "sha256": "5edad02e9127f8e1021809ecf4637e73b0392756de4ea4e0e9f33101a2c2d7ae"
-              },
-              {
-                "file_name": "driving_planplus_tinygrad.pkl.chunk03of04",
-                "sha256": "79bba215d7d90b43c81d8270bc8ac487e82e5a7829998eed4d128bed583541f3"
-              },
-              {
-                "file_name": "driving_planplus_tinygrad.pkl.chunk04of04",
-                "sha256": "71995ab3097b7719fdc6c765b61d8295fc8979a9ace5c993c7cc1433acbb8728"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_planplus_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Planplus%20v2%20%28December%2011%2C%202025%29-114/driving_vision_planplus_metadata.pkl",
-              "sha256": "ec842483cbd798b9f97f6a36a686e46d4f995eb9fa6f83455bb02e9210a02d69"
-            }
-          }
         }
       ]
     },
@@ -3808,41 +2412,6 @@
               "sha256": "c7d95406d66e129859cffec59f179fd5bc1eca6941211b11f589bfe424dc9cf1"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_dsmv2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Dark%20Souls%20Model%20v2%20%28December%2011%2C%202025%29-115/driving_dsmv2_tinygrad.pkl",
-              "sha256": "ff7d636ec1581640004661e0ee42644c869d0c63763a2bcd38fe33900fa330c7"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_dsmv2_tinygrad.pkl.chunk01of04",
-                "sha256": "80efae326bc16c7e88904792e1f8407b74da9b612230c2877640afa5e0128497"
-              },
-              {
-                "file_name": "driving_dsmv2_tinygrad.pkl.chunk02of04",
-                "sha256": "36a19b1a99b44efbe4ca865088674c02219c027dac05034200ab8fd023cf84da"
-              },
-              {
-                "file_name": "driving_dsmv2_tinygrad.pkl.chunk03of04",
-                "sha256": "07a6f64277c133bef85ed220ddfe3516dcd9f8986538da94ccae5b05187a2d5a"
-              },
-              {
-                "file_name": "driving_dsmv2_tinygrad.pkl.chunk04of04",
-                "sha256": "99caa7dc40b28cca5a65f67aa5dd3e749e4f354c643cfdd37520d45e2e052fa6"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_dsmv2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Dark%20Souls%20Model%20v2%20%28December%2011%2C%202025%29-114/driving_vision_dsmv2_metadata.pkl",
-              "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
-            }
-          }
         }
       ]
     },
@@ -3873,23 +2442,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-114/driving_policy_mm_metadata.pkl",
               "sha256": "f300f1ce0206710bd842ac7f3dba7f82a5fb5d9ee397d7e4ca7a93d2ab5c1161"
-            }
-          }
-        },
-        {
-          "type": "vision",
-          "artifact": {
-            "file_name": "driving_mm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-114/driving_mm_tinygrad.pkl",
-              "sha256": "5439eb7e9245c2216a864901be31a04acdf1391267e78aa07ca8892403f42058"
-            }
-          },
-          "metadata": {
-            "file_name": "driving_vision_mm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-114/driving_vision_mm_metadata.pkl",
-              "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
             }
           }
         }
@@ -3942,41 +2494,6 @@
               "sha256": "9225018f7c5ef3625ce4588bbb194f3060508f4e55ef23199cd101142c6577cf"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_wmiv9_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-WMI%20V9%20%28January%2007%2C%202026%29-115/driving_wmiv9_tinygrad.pkl",
-              "sha256": "5ac5d9307291a0201843bb7a923854182612a27f53e3654088a8c2ae48c99adb"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_wmiv9_tinygrad.pkl.chunk01of04",
-                "sha256": "19f6bc0ed12ef7f6f68103e45e673de3a3b187273cd7b62b6db4e969251a2a67"
-              },
-              {
-                "file_name": "driving_wmiv9_tinygrad.pkl.chunk02of04",
-                "sha256": "f8aaa464191360f7cbad43e5bcbf228c8d6670cab09cc1eca032a39626f2c8c2"
-              },
-              {
-                "file_name": "driving_wmiv9_tinygrad.pkl.chunk03of04",
-                "sha256": "a0e3276312df48498dd716a1f603d0a74cf93cccf23e1888e255b0a9877e182c"
-              },
-              {
-                "file_name": "driving_wmiv9_tinygrad.pkl.chunk04of04",
-                "sha256": "299d4954005837be408eef672a2c00e3d71a5df270d02fae0cc450ee17b6002a"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_wmiv9_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-WMI%20V9%20%28January%2007%2C%202026%29-114/driving_vision_wmiv9_metadata.pkl",
-              "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
-            }
-          }
         }
       ]
     },
@@ -4025,41 +2542,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-SC%20Model%20%28January%2008%2C%202026%29-114/driving_policy_scm_metadata.pkl",
               "sha256": "ad3c6eac0e82aebf9473e4b54c225b8f8f46cc1b3cade20742589b2b8e9e0eba"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_scm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-SC%20Model%20%28January%2008%2C%202026%29-115/driving_scm_tinygrad.pkl",
-              "sha256": "a6631876079809d18fa995396b5d3a714fdcd8ef9076263b146aa6b12d6679f4"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_scm_tinygrad.pkl.chunk01of04",
-                "sha256": "822083f19e6e29925ed09b3fc5b4e28c1cf66a4c66248a6ad90cabefcf2fb8d9"
-              },
-              {
-                "file_name": "driving_scm_tinygrad.pkl.chunk02of04",
-                "sha256": "d18b89455c4d10b1e68d83db358e97282d08b00440b22ab1153956c4d555f330"
-              },
-              {
-                "file_name": "driving_scm_tinygrad.pkl.chunk03of04",
-                "sha256": "2b2e96472745bd70c9d605841cf81978fbb54e89a6262e3798a0d2215379a0b3"
-              },
-              {
-                "file_name": "driving_scm_tinygrad.pkl.chunk04of04",
-                "sha256": "f1d8dbd2b42b229f6f87242d1dd285ec46bbb7ab859b4b8343a64d32db475206"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_scm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-SC%20Model%20%28January%2008%2C%202026%29-114/driving_vision_scm_metadata.pkl",
-              "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
             }
           }
         }
@@ -4112,41 +2594,6 @@
               "sha256": "15c8c1ad9073424ee1101b1f7170421140ed308ebaa7c917001130fb1760420b"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_wmiv12_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-WMI%20V12%20%28January%2013%2C%202026%29-115/driving_wmiv12_tinygrad.pkl",
-              "sha256": "d843d614fe544fde97a1d50ef98e17a94f962d8d62344f71d95522067becf083"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_wmiv12_tinygrad.pkl.chunk01of04",
-                "sha256": "d5e43e1ee203660e290fb4656df4c369895815bae7b9f71063a86f01dfa5a80a"
-              },
-              {
-                "file_name": "driving_wmiv12_tinygrad.pkl.chunk02of04",
-                "sha256": "115d274a16c4708f5a2df228a6e0b95a8713159f2e7b677a0ad16b6171e82358"
-              },
-              {
-                "file_name": "driving_wmiv12_tinygrad.pkl.chunk03of04",
-                "sha256": "6f322fddfe5809c9ebac7ccfe1ca831a75b265b50f91ffd13b7d7c0e01637a35"
-              },
-              {
-                "file_name": "driving_wmiv12_tinygrad.pkl.chunk04of04",
-                "sha256": "861ef1d4f7ad9580b2cf6ed9bbccb1e50fbb4c90cc69c95e0490b3ba727e0b9b"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_wmiv12_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-WMI%20V12%20%28January%2013%2C%202026%29-114/driving_vision_wmiv12_metadata.pkl",
-              "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
-            }
-          }
         }
       ]
     },
@@ -4195,41 +2642,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-CD210%20Model%20%28January%2031%2C%202026%29-114/driving_policy_c210m_metadata.pkl",
               "sha256": "15c8c1ad9073424ee1101b1f7170421140ed308ebaa7c917001130fb1760420b"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_c210m_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-CD210%20Model%20%28January%2031%2C%202026%29-115/driving_c210m_tinygrad.pkl",
-              "sha256": "7c573f7da1c56dc16fb773151d28ea12916ed0f16c347ee8c5338583c43de05c"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_c210m_tinygrad.pkl.chunk01of04",
-                "sha256": "a77ef1be61c63caab65f926c187ccbfe9d9e6d4cecf4eb829f6000dda1a92957"
-              },
-              {
-                "file_name": "driving_c210m_tinygrad.pkl.chunk02of04",
-                "sha256": "0663aad4b94f02536eff97b3f65b536bff59cc84bd533b6ad254eb4e5d340a8a"
-              },
-              {
-                "file_name": "driving_c210m_tinygrad.pkl.chunk03of04",
-                "sha256": "878c7181528cc031501716e8ae43a3eb3c45cbd2f7c96e94233870018d6ee54f"
-              },
-              {
-                "file_name": "driving_c210m_tinygrad.pkl.chunk04of04",
-                "sha256": "95883fb532513ef4b367237bf4fe6a4030504b69b4e4a5901e97585fc05616dc"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_c210m_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-CD210%20Model%20%28January%2031%2C%202026%29-114/driving_vision_c210m_metadata.pkl",
-              "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
             }
           }
         }
@@ -4282,76 +2694,6 @@
               "sha256": "7262de6bfe13cfa79ebd7c194553f8f8016453f4876a8a70ab4f2cceae4c51a4"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-off%20policy%20model%20%28February%2004%2C%202026%29-115/driving_opm_tinygrad.pkl",
-              "sha256": "c1a6cafb04dd8953ee4cc3d5e5214d8a2ebeb6808cc01cc92a292376a2087f62"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk01of04",
-                "sha256": "b335f13cb23bed5e465925505b383aaccae7634d5f079c3ee00f96af6e0aa60e"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk02of04",
-                "sha256": "ba812bace52cccc717ca6d9fa472924cda0a6efc6bc2737df61093b11c0ccdf0"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk03of04",
-                "sha256": "8db3a85763d19c996a66aadc25db8ea110ffde2f13f7d78d97fb9097451fe28a"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk04of04",
-                "sha256": "feb68e9e81bdc9e358096bd41505463782ff101b9dd82dd88fbb34af27db05f6"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_opm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-off%20policy%20model%20%28February%2004%2C%202026%29-114/driving_vision_opm_metadata.pkl",
-              "sha256": "69dc464b34315140883042a85d7abc0d3bcf4e452e7c85c6b004248670090deb"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-off%20policy%20model%20%28February%2004%2C%202026%29-115/driving_opm_tinygrad.pkl",
-              "sha256": "c1a6cafb04dd8953ee4cc3d5e5214d8a2ebeb6808cc01cc92a292376a2087f62"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk01of04",
-                "sha256": "b335f13cb23bed5e465925505b383aaccae7634d5f079c3ee00f96af6e0aa60e"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk02of04",
-                "sha256": "ba812bace52cccc717ca6d9fa472924cda0a6efc6bc2737df61093b11c0ccdf0"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk03of04",
-                "sha256": "8db3a85763d19c996a66aadc25db8ea110ffde2f13f7d78d97fb9097451fe28a"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk04of04",
-                "sha256": "feb68e9e81bdc9e358096bd41505463782ff101b9dd82dd88fbb34af27db05f6"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_off_policy_opm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-off%20policy%20model%20%28February%2004%2C%202026%29-114/driving_off_policy_opm_metadata.pkl",
-              "sha256": "3db8ece563b18e162d3105d460d66bd1e81179b406f434a2ed35702b15b8e8eb"
-            }
-          }
         }
       ]
     },
@@ -4396,68 +2738,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-policy%20Model%20v2%20%28February%2020%2C%202026%29-114/driving_policy_omv2_metadata.pkl",
               "sha256": "84a8c809f97d005c3ae8d791302fdf8bb66db8262075acd3e0f394f78dfe094b"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_omv2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-policy%20Model%20v2%20%28February%2020%2C%202026%29-115/driving_omv2_tinygrad.pkl",
-              "sha256": "3f06ee01537add0bfa7e517299eb0c0543aa25521af19f20e9cccd20446fda88"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_omv2_tinygrad.pkl.chunk01of03",
-                "sha256": "d5a09a2f9073dbedd9c7ea534d21275491ad8df7b6d4fc18d0476b9cba934433"
-              },
-              {
-                "file_name": "driving_omv2_tinygrad.pkl.chunk02of03",
-                "sha256": "a6d1a8f9f3c022986797370972a551524a213b61c92ad6d879f3c719d0d65b09"
-              },
-              {
-                "file_name": "driving_omv2_tinygrad.pkl.chunk03of03",
-                "sha256": "f2d6f05ecec97b7846805faf362b8e841b41cf94836b12cd174743757340643c"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_omv2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-policy%20Model%20v2%20%28February%2020%2C%202026%29-114/driving_vision_omv2_metadata.pkl",
-              "sha256": "60805b82b912e6fe5ab6426ae1b8c4dbeacf14a1aa7958d3a876839bce2096f8"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_omv2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-policy%20Model%20v2%20%28February%2020%2C%202026%29-115/driving_omv2_tinygrad.pkl",
-              "sha256": "3f06ee01537add0bfa7e517299eb0c0543aa25521af19f20e9cccd20446fda88"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_omv2_tinygrad.pkl.chunk01of03",
-                "sha256": "d5a09a2f9073dbedd9c7ea534d21275491ad8df7b6d4fc18d0476b9cba934433"
-              },
-              {
-                "file_name": "driving_omv2_tinygrad.pkl.chunk02of03",
-                "sha256": "a6d1a8f9f3c022986797370972a551524a213b61c92ad6d879f3c719d0d65b09"
-              },
-              {
-                "file_name": "driving_omv2_tinygrad.pkl.chunk03of03",
-                "sha256": "f2d6f05ecec97b7846805faf362b8e841b41cf94836b12cd174743757340643c"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_off_policy_omv2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-policy%20Model%20v2%20%28February%2020%2C%202026%29-114/driving_off_policy_omv2_metadata.pkl",
-              "sha256": "538c8b41e0089f9c7e0964fdaf31efa4d2776c06ea31c8bfaf7bd650a27d9899"
             }
           }
         }
@@ -4506,68 +2786,6 @@
               "sha256": "da3db670e0510db1f27546362f578ff17f69e6b5643b4642699b02764fcadd5f"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opmv3_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off%20Policy%20Model%20v3%20%28February%2026%2C%202026%29-115/driving_opmv3_tinygrad.pkl",
-              "sha256": "9ef7047507f7700b3000b15103c6bdaa13db3997b634d0f56af8ad00725a22fa"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opmv3_tinygrad.pkl.chunk01of03",
-                "sha256": "5fe577f354b4bc5865b2b025769ec17c9873028cf65edace1947a3f233e8c321"
-              },
-              {
-                "file_name": "driving_opmv3_tinygrad.pkl.chunk02of03",
-                "sha256": "a4fa7442142e6280d9e70bac8d8a47b9589da8fdaa1f882151b7b523f09a2151"
-              },
-              {
-                "file_name": "driving_opmv3_tinygrad.pkl.chunk03of03",
-                "sha256": "486f18fc398d14efc7c9e3108aa36b4a317fce8850d2de8478eae0d42d5261fc"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_opmv3_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off%20Policy%20Model%20v3%20%28February%2026%2C%202026%29-114/driving_vision_opmv3_metadata.pkl",
-              "sha256": "eca4f7e0f711c4b4cf10b90fd729692cabbfec17db589f1c0b151a15ded80065"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opmv3_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off%20Policy%20Model%20v3%20%28February%2026%2C%202026%29-115/driving_opmv3_tinygrad.pkl",
-              "sha256": "9ef7047507f7700b3000b15103c6bdaa13db3997b634d0f56af8ad00725a22fa"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opmv3_tinygrad.pkl.chunk01of03",
-                "sha256": "5fe577f354b4bc5865b2b025769ec17c9873028cf65edace1947a3f233e8c321"
-              },
-              {
-                "file_name": "driving_opmv3_tinygrad.pkl.chunk02of03",
-                "sha256": "a4fa7442142e6280d9e70bac8d8a47b9589da8fdaa1f882151b7b523f09a2151"
-              },
-              {
-                "file_name": "driving_opmv3_tinygrad.pkl.chunk03of03",
-                "sha256": "486f18fc398d14efc7c9e3108aa36b4a317fce8850d2de8478eae0d42d5261fc"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_off_policy_opmv3_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off%20Policy%20Model%20v3%20%28February%2026%2C%202026%29-114/driving_off_policy_opmv3_metadata.pkl",
-              "sha256": "c0114ad7765847ec54dd504fc6657f93035473fc673ce695f94d5adeb7ce67e4"
-            }
-          }
         }
       ]
     },
@@ -4614,68 +2832,6 @@
               "sha256": "aa058063988752437f7279f008d43aebdb2c0f5169165b494331156ba01c17b5"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_omv4_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-Policy%20Model%20V4%20%28February%2027%2C%202026%29-115/driving_omv4_tinygrad.pkl",
-              "sha256": "e0d7e41f4f5ee94b3d4a673a2701e7a613cfee40fc18e475a1ac21b8645ccfdd"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_omv4_tinygrad.pkl.chunk01of03",
-                "sha256": "5607af5d014d439628da906e3eb832bdae5009ae25cab1dd8d788f329211f83e"
-              },
-              {
-                "file_name": "driving_omv4_tinygrad.pkl.chunk02of03",
-                "sha256": "0bd67601a6634ddfee8ce615bfe020d6a8bd33ad38c04f1d442f62fc36703cb7"
-              },
-              {
-                "file_name": "driving_omv4_tinygrad.pkl.chunk03of03",
-                "sha256": "d3b2d316d8d9607fd4b9be77c2ff718edf958120837533db9ee5d7fb7dbcb0fd"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_omv4_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-Policy%20Model%20V4%20%28February%2027%2C%202026%29-114/driving_vision_omv4_metadata.pkl",
-              "sha256": "eca4f7e0f711c4b4cf10b90fd729692cabbfec17db589f1c0b151a15ded80065"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_omv4_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-Policy%20Model%20V4%20%28February%2027%2C%202026%29-115/driving_omv4_tinygrad.pkl",
-              "sha256": "e0d7e41f4f5ee94b3d4a673a2701e7a613cfee40fc18e475a1ac21b8645ccfdd"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_omv4_tinygrad.pkl.chunk01of03",
-                "sha256": "5607af5d014d439628da906e3eb832bdae5009ae25cab1dd8d788f329211f83e"
-              },
-              {
-                "file_name": "driving_omv4_tinygrad.pkl.chunk02of03",
-                "sha256": "0bd67601a6634ddfee8ce615bfe020d6a8bd33ad38c04f1d442f62fc36703cb7"
-              },
-              {
-                "file_name": "driving_omv4_tinygrad.pkl.chunk03of03",
-                "sha256": "d3b2d316d8d9607fd4b9be77c2ff718edf958120837533db9ee5d7fb7dbcb0fd"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_off_policy_omv4_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-Policy%20Model%20V4%20%28February%2027%2C%202026%29-114/driving_off_policy_omv4_metadata.pkl",
-              "sha256": "c0114ad7765847ec54dd504fc6657f93035473fc673ce695f94d5adeb7ce67e4"
-            }
-          }
         }
       ]
     },
@@ -4720,68 +2876,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-Policy%20Model%20v5%20%28March%2014%2C%202026%29-114/driving_policy_omv5_metadata.pkl",
               "sha256": "1099a88ccb734cdaaf00f1e951f38147b41a036901967c4118c5a538107cc75f"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_omv5_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-Policy%20Model%20v5%20%28March%2014%2C%202026%29-115/driving_omv5_tinygrad.pkl",
-              "sha256": "6816df7cd1b17bc1208270ceb0496ec42fcb3aad8fe23f8587b6931bcf9cd7b5"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_omv5_tinygrad.pkl.chunk01of03",
-                "sha256": "33be411dd69273cba602ff12398e7a115551958aa1eefdc8536227f93a42ddd0"
-              },
-              {
-                "file_name": "driving_omv5_tinygrad.pkl.chunk02of03",
-                "sha256": "62468cfeb82aa4fa373c818a260d0b1cb680d9221a6ee09c268fd5b6d40d6070"
-              },
-              {
-                "file_name": "driving_omv5_tinygrad.pkl.chunk03of03",
-                "sha256": "fce528e996c3e1f3c8e70b823ed29a19179380452246ff076ed588533ed3ee56"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_omv5_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-Policy%20Model%20v5%20%28March%2014%2C%202026%29-114/driving_vision_omv5_metadata.pkl",
-              "sha256": "eca4f7e0f711c4b4cf10b90fd729692cabbfec17db589f1c0b151a15ded80065"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_omv5_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-Policy%20Model%20v5%20%28March%2014%2C%202026%29-115/driving_omv5_tinygrad.pkl",
-              "sha256": "6816df7cd1b17bc1208270ceb0496ec42fcb3aad8fe23f8587b6931bcf9cd7b5"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_omv5_tinygrad.pkl.chunk01of03",
-                "sha256": "33be411dd69273cba602ff12398e7a115551958aa1eefdc8536227f93a42ddd0"
-              },
-              {
-                "file_name": "driving_omv5_tinygrad.pkl.chunk02of03",
-                "sha256": "62468cfeb82aa4fa373c818a260d0b1cb680d9221a6ee09c268fd5b6d40d6070"
-              },
-              {
-                "file_name": "driving_omv5_tinygrad.pkl.chunk03of03",
-                "sha256": "fce528e996c3e1f3c8e70b823ed29a19179380452246ff076ed588533ed3ee56"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_off_policy_omv5_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-Policy%20Model%20v5%20%28March%2014%2C%202026%29-114/driving_off_policy_omv5_metadata.pkl",
-              "sha256": "c0114ad7765847ec54dd504fc6657f93035473fc673ce695f94d5adeb7ce67e4"
             }
           }
         }
@@ -4834,41 +2928,6 @@
               "sha256": "f1fbba740aca73ae092578cc82787f91350031e5eaaf1552d94d4c468342a865"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_pm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Planplus%20Model%20%28November%2028%2C%202025%29-115/driving_pm_tinygrad.pkl",
-              "sha256": "95bb909087451b01a445a284859136e324ca39c903c5e17c55e535d097580639"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_pm_tinygrad.pkl.chunk01of04",
-                "sha256": "f7f22597acfd0d185c2d0d8fb14902076f5fc3f9882b977d37525966dd83e96c"
-              },
-              {
-                "file_name": "driving_pm_tinygrad.pkl.chunk02of04",
-                "sha256": "3de457d605f699113df8cc5354070bb2d1eedb4aea754595ecb851c6d24a7735"
-              },
-              {
-                "file_name": "driving_pm_tinygrad.pkl.chunk03of04",
-                "sha256": "9ab64c9b6878fab5b98e0af6f8d7f6d34db2b7f6a9f4a95223cab2211bb043f3"
-              },
-              {
-                "file_name": "driving_pm_tinygrad.pkl.chunk04of04",
-                "sha256": "3807b00c4a09833de957aaff95d851fb0bee44c0b3a1676adebe1cea0ee8fd7b"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_pm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Pop%20Model%20%28March%2020%2C%202026%29-114/driving_vision_pm_metadata.pkl",
-              "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
-            }
-          }
         }
       ]
     },
@@ -4917,41 +2976,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Pop%20Model%20v2%20%28March%2024%2C%202026%29-114/driving_policy_pmv2_metadata.pkl",
               "sha256": "5ce4fa01c7edde9e27e3a9ed6ac0ca24e5de0adc384e66a9fb73e13488e60630"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_pmv2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Pop%20Model%20v2%20%28March%2024%2C%202026%29-115/driving_pmv2_tinygrad.pkl",
-              "sha256": "1b0f579bce52b68d96c112829aaa3490686c0ed0c381cfb443cc3577e51b3c3e"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_pmv2_tinygrad.pkl.chunk01of04",
-                "sha256": "29dbf1b2194042d72febaa566b131888153507a059ade783228da6b8b9e3329a"
-              },
-              {
-                "file_name": "driving_pmv2_tinygrad.pkl.chunk02of04",
-                "sha256": "88a8c6738def8873879366a519de6d50136de384880abd9781a301078c892859"
-              },
-              {
-                "file_name": "driving_pmv2_tinygrad.pkl.chunk03of04",
-                "sha256": "b42d073dd733059624fc38171c72fd1435214912dda5e2827561683e87483ef0"
-              },
-              {
-                "file_name": "driving_pmv2_tinygrad.pkl.chunk04of04",
-                "sha256": "3fb153d083c4eabb16edc57def2ecb3926164b1a3446a32cab5e505d878b3b83"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_pmv2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Pop%20Model%20v2%20%28March%2024%2C%202026%29-114/driving_vision_pmv2_metadata.pkl",
-              "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1"
             }
           }
         }
@@ -5004,76 +3028,6 @@
               "sha256": "ecb422172086e0ba0aeadb20461bc31c41e64af29f7c982ae1b135eec3a7e97a"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-off%20policy%20model%20%28February%2004%2C%202026%29-115/driving_opm_tinygrad.pkl",
-              "sha256": "fd72eacdd0d22b7c5743c1bb1a7ec4a50c2ecbdc29e343dcad0f2058122aadc6"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk01of04",
-                "sha256": "b335f13cb23bed5e465925505b383aaccae7634d5f079c3ee00f96af6e0aa60e"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk02of04",
-                "sha256": "ba812bace52cccc717ca6d9fa472924cda0a6efc6bc2737df61093b11c0ccdf0"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk03of04",
-                "sha256": "8db3a85763d19c996a66aadc25db8ea110ffde2f13f7d78d97fb9097451fe28a"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk04of04",
-                "sha256": "feb68e9e81bdc9e358096bd41505463782ff101b9dd82dd88fbb34af27db05f6"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_opm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%20%28April%2001%2C%202026%29-114/driving_vision_opm_metadata.pkl",
-              "sha256": "eca4f7e0f711c4b4cf10b90fd729692cabbfec17db589f1c0b151a15ded80065"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opm_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-off%20policy%20model%20%28February%2004%2C%202026%29-115/driving_opm_tinygrad.pkl",
-              "sha256": "fd72eacdd0d22b7c5743c1bb1a7ec4a50c2ecbdc29e343dcad0f2058122aadc6"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk01of04",
-                "sha256": "b335f13cb23bed5e465925505b383aaccae7634d5f079c3ee00f96af6e0aa60e"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk02of04",
-                "sha256": "ba812bace52cccc717ca6d9fa472924cda0a6efc6bc2737df61093b11c0ccdf0"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk03of04",
-                "sha256": "8db3a85763d19c996a66aadc25db8ea110ffde2f13f7d78d97fb9097451fe28a"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk04of04",
-                "sha256": "feb68e9e81bdc9e358096bd41505463782ff101b9dd82dd88fbb34af27db05f6"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_off_policy_opm_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%20%28April%2001%2C%202026%29-114/driving_off_policy_opm_metadata.pkl",
-              "sha256": "c0114ad7765847ec54dd504fc6657f93035473fc673ce695f94d5adeb7ce67e4"
-            }
-          }
         }
       ]
     },
@@ -5118,68 +3072,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%207%20%28April%2003%2C%202026%29-114/driving_on_policy_opm7_metadata.pkl",
               "sha256": "7a2bf20f01f95e101e8000a62b3d2786ab8a2aa20e9f334b763be0dbd34b9ea9"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opm7_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%207%20%28April%2003%2C%202026%29-115/driving_opm7_tinygrad.pkl",
-              "sha256": "1f97b5b6eb0b4cbaf3d4a8d3ff469d82a7ad63b403719a0efd33059176ae49ac"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opm7_tinygrad.pkl.chunk01of03",
-                "sha256": "f953c16499feb423367f15f0adf155cb0d43eb35ac84ae90eefc8c3457294a59"
-              },
-              {
-                "file_name": "driving_opm7_tinygrad.pkl.chunk02of03",
-                "sha256": "3125a37f19e81c775a150df9356a2af9eea193a3408216aa9248e8258ed03593"
-              },
-              {
-                "file_name": "driving_opm7_tinygrad.pkl.chunk03of03",
-                "sha256": "d77bb22787c356d936bf4b45876fc5a0010f3baf3cc48c44b9f72a8f8a311b9b"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_opm7_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%207%20%28April%2003%2C%202026%29-114/driving_vision_opm7_metadata.pkl",
-              "sha256": "eca4f7e0f711c4b4cf10b90fd729692cabbfec17db589f1c0b151a15ded80065"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opm7_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%207%20%28April%2003%2C%202026%29-115/driving_opm7_tinygrad.pkl",
-              "sha256": "1f97b5b6eb0b4cbaf3d4a8d3ff469d82a7ad63b403719a0efd33059176ae49ac"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opm7_tinygrad.pkl.chunk01of03",
-                "sha256": "f953c16499feb423367f15f0adf155cb0d43eb35ac84ae90eefc8c3457294a59"
-              },
-              {
-                "file_name": "driving_opm7_tinygrad.pkl.chunk02of03",
-                "sha256": "3125a37f19e81c775a150df9356a2af9eea193a3408216aa9248e8258ed03593"
-              },
-              {
-                "file_name": "driving_opm7_tinygrad.pkl.chunk03of03",
-                "sha256": "d77bb22787c356d936bf4b45876fc5a0010f3baf3cc48c44b9f72a8f8a311b9b"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_off_policy_opm7_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%207%20%28April%2003%2C%202026%29-114/driving_off_policy_opm7_metadata.pkl",
-              "sha256": "c0114ad7765847ec54dd504fc6657f93035473fc673ce695f94d5adeb7ce67e4"
             }
           }
         }
@@ -5228,68 +3120,6 @@
               "sha256": "8c937ba786175548a88fa5b16a0955e6d9de83e7e39bcfbe30745b886d0cbb78"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opm8_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%208%20%28April%2007%2C%202026%29-115/driving_opm8_tinygrad.pkl",
-              "sha256": "6d2dd831ab15254c0d7055487e3ebac6d7c80963f14424bfe93d3448d86cd04d"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opm8_tinygrad.pkl.chunk01of03",
-                "sha256": "ace80e827cdf651ee5065d24afe923a656bbdce1f59ee260e55c662f1105633a"
-              },
-              {
-                "file_name": "driving_opm8_tinygrad.pkl.chunk02of03",
-                "sha256": "ca3c9418c158ae858f8c7dc94590b2ed2d7304c3f5e626bc76632045152623e2"
-              },
-              {
-                "file_name": "driving_opm8_tinygrad.pkl.chunk03of03",
-                "sha256": "6bdd24d275a66f4d2202d62d48bd321e349a8a2b4196a0ca19f2144e24ef07f0"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_opm8_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%208%20%28April%2007%2C%202026%29-114/driving_vision_opm8_metadata.pkl",
-              "sha256": "1df948942217cc4ce30fd90d079146205a62d2f8c04b2fa8bd8bdd1949869d5a"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opm8_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%208%20%28April%2007%2C%202026%29-115/driving_opm8_tinygrad.pkl",
-              "sha256": "6d2dd831ab15254c0d7055487e3ebac6d7c80963f14424bfe93d3448d86cd04d"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opm8_tinygrad.pkl.chunk01of03",
-                "sha256": "ace80e827cdf651ee5065d24afe923a656bbdce1f59ee260e55c662f1105633a"
-              },
-              {
-                "file_name": "driving_opm8_tinygrad.pkl.chunk02of03",
-                "sha256": "ca3c9418c158ae858f8c7dc94590b2ed2d7304c3f5e626bc76632045152623e2"
-              },
-              {
-                "file_name": "driving_opm8_tinygrad.pkl.chunk03of03",
-                "sha256": "6bdd24d275a66f4d2202d62d48bd321e349a8a2b4196a0ca19f2144e24ef07f0"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_off_policy_opm8_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%208%20%28April%2007%2C%202026%29-114/driving_off_policy_opm8_metadata.pkl",
-              "sha256": "5143b4905f188ad1b20a2dc57b054a2762a4afdb2ef2093c427f9052782f9b41"
-            }
-          }
         }
       ]
     },
@@ -5334,68 +3164,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-114/driving_on_policy_opmv10_metadata.pkl",
               "sha256": "7dbe5d30641d259d7a195c1cf0c9827f3f80f10b953e156a735bf257dfb4986e"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opmv10_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-115/driving_opmv10_tinygrad.pkl",
-              "sha256": "ab4e6b8018deeadc8adcc98bf9d210a82ce57578f4c8f938345b86bfa0349eda"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opmv10_tinygrad.pkl.chunk01of03",
-                "sha256": "eafca1482814a84719ee4ff3a5fb353d585cec50b65f5a0835e677902cb87084"
-              },
-              {
-                "file_name": "driving_opmv10_tinygrad.pkl.chunk02of03",
-                "sha256": "830780cdf8af314645f343bd23deafd7835962b545925222d30ff58a39d77d14"
-              },
-              {
-                "file_name": "driving_opmv10_tinygrad.pkl.chunk03of03",
-                "sha256": "e88d3aef0aba520922d453a71382394e582688e01b1da5b6c136f487ed6bf704"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_opmv10_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-114/driving_vision_opmv10_metadata.pkl",
-              "sha256": "66b59bd6d7515901a8f3acc3eabcb351ed867e9b4f05a4ffbb2939d76653e6ca"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opmv10_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-115/driving_opmv10_tinygrad.pkl",
-              "sha256": "ab4e6b8018deeadc8adcc98bf9d210a82ce57578f4c8f938345b86bfa0349eda"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opmv10_tinygrad.pkl.chunk01of03",
-                "sha256": "eafca1482814a84719ee4ff3a5fb353d585cec50b65f5a0835e677902cb87084"
-              },
-              {
-                "file_name": "driving_opmv10_tinygrad.pkl.chunk02of03",
-                "sha256": "830780cdf8af314645f343bd23deafd7835962b545925222d30ff58a39d77d14"
-              },
-              {
-                "file_name": "driving_opmv10_tinygrad.pkl.chunk03of03",
-                "sha256": "e88d3aef0aba520922d453a71382394e582688e01b1da5b6c136f487ed6bf704"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_off_policy_opmv10_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-114/driving_off_policy_opmv10_metadata.pkl",
-              "sha256": "c200166ac1aa76f000a121c48d3aebce806267f394b793ed9d48753ca6d2ea43"
             }
           }
         }
@@ -5444,68 +3212,6 @@
               "sha256": "27860864f23a25c1645c369676584234ed552d6f5151acfd687e79a13e6fbcae"
             }
           }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opm10v2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%2010%20v2%20%28April%2018%2C%202026%29-115/driving_opm10v2_tinygrad.pkl",
-              "sha256": "f0d359e317c11f25991f6ec0963c7b3c8af5fd8a1141026cc508a73d865d0d9d"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opm10v2_tinygrad.pkl.chunk01of03",
-                "sha256": "31f6aa6a78a6d2ee4fb1cd6f7370fb7242ea17d3608719c537fe6b02ceb4cd74"
-              },
-              {
-                "file_name": "driving_opm10v2_tinygrad.pkl.chunk02of03",
-                "sha256": "a6af117520c93a83a7dc6a9292bdc5cf37433359143285a402f5feca733498f7"
-              },
-              {
-                "file_name": "driving_opm10v2_tinygrad.pkl.chunk03of03",
-                "sha256": "64ce97db7f0b5a4c1e193f55a6dbc82b3c69298cec23d27764c276de4b140c39"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_opm10v2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%2010%20v2%20%28April%2018%2C%202026%29-114/driving_vision_opm10v2_metadata.pkl",
-              "sha256": "66b59bd6d7515901a8f3acc3eabcb351ed867e9b4f05a4ffbb2939d76653e6ca"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opm10v2_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%2010%20v2%20%28April%2018%2C%202026%29-115/driving_opm10v2_tinygrad.pkl",
-              "sha256": "f0d359e317c11f25991f6ec0963c7b3c8af5fd8a1141026cc508a73d865d0d9d"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opm10v2_tinygrad.pkl.chunk01of03",
-                "sha256": "31f6aa6a78a6d2ee4fb1cd6f7370fb7242ea17d3608719c537fe6b02ceb4cd74"
-              },
-              {
-                "file_name": "driving_opm10v2_tinygrad.pkl.chunk02of03",
-                "sha256": "a6af117520c93a83a7dc6a9292bdc5cf37433359143285a402f5feca733498f7"
-              },
-              {
-                "file_name": "driving_opm10v2_tinygrad.pkl.chunk03of03",
-                "sha256": "64ce97db7f0b5a4c1e193f55a6dbc82b3c69298cec23d27764c276de4b140c39"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_off_policy_opm10v2_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%2010%20v2%20%28April%2018%2C%202026%29-114/driving_off_policy_opm10v2_metadata.pkl",
-              "sha256": "c200166ac1aa76f000a121c48d3aebce806267f394b793ed9d48753ca6d2ea43"
-            }
-          }
         }
       ]
     },
@@ -5550,68 +3256,6 @@
             "download_uri": {
               "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%2010%20V3%20%28April%2019%2C%202026%29-114/driving_on_policy_opm10v3_metadata.pkl",
               "sha256": "7bf053caa7d7cb0fc910477c8b02817c84b58bf81b9d44ac1d0b7920b1654ecf"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opm10v3_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%2010%20V3%20%28April%2019%2C%202026%29-115/driving_opm10v3_tinygrad.pkl",
-              "sha256": "1cb9c6865d5b66a5a784c5fe311518d9d90547343749d864fab926bff7ce8a4a"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opm10v3_tinygrad.pkl.chunk01of03",
-                "sha256": "cc34f3ff0cb6ed5fcf463021a1536faf32ba7034058498ceafa2a80928ffc3e3"
-              },
-              {
-                "file_name": "driving_opm10v3_tinygrad.pkl.chunk02of03",
-                "sha256": "cb0afee5588b73db42b52e758b7758313cdb2442be0241c2a95f381eb4547f27"
-              },
-              {
-                "file_name": "driving_opm10v3_tinygrad.pkl.chunk03of03",
-                "sha256": "eba49acdaf352ec4d8c623e03548a500093f0725bdabe777e26a7d2a8426f3a9"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_vision_opm10v3_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%2010%20V3%20%28April%2019%2C%202026%29-114/driving_vision_opm10v3_metadata.pkl",
-              "sha256": "11f962ef8a27564b749a7d33bc226c1d21be8b791cbe4e6e6ef2ed5b1eb813f0"
-            }
-          }
-        },
-        {
-          "type": "chunked",
-          "artifact": {
-            "file_name": "driving_opm10v3_tinygrad.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%2010%20V3%20%28April%2019%2C%202026%29-115/driving_opm10v3_tinygrad.pkl",
-              "sha256": "1cb9c6865d5b66a5a784c5fe311518d9d90547343749d864fab926bff7ce8a4a"
-            },
-            "chunks": [
-              {
-                "file_name": "driving_opm10v3_tinygrad.pkl.chunk01of03",
-                "sha256": "cc34f3ff0cb6ed5fcf463021a1536faf32ba7034058498ceafa2a80928ffc3e3"
-              },
-              {
-                "file_name": "driving_opm10v3_tinygrad.pkl.chunk02of03",
-                "sha256": "cb0afee5588b73db42b52e758b7758313cdb2442be0241c2a95f381eb4547f27"
-              },
-              {
-                "file_name": "driving_opm10v3_tinygrad.pkl.chunk03of03",
-                "sha256": "eba49acdaf352ec4d8c623e03548a500093f0725bdabe777e26a7d2a8426f3a9"
-              }
-            ]
-          },
-          "metadata": {
-            "file_name": "driving_off_policy_opm10v3_metadata.pkl",
-            "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%2010%20V3%20%28April%2019%2C%202026%29-114/driving_off_policy_opm10v3_metadata.pkl",
-              "sha256": "080bf2e78c04502312b1e5c060d7ed0e1e8b91c5ba8f75e7215a601f83a2b4e9"
             }
           }
         }
