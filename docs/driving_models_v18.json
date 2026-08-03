@@ -2828,7 +2828,7 @@
       "minimum_selector_version": "16",
       "generation": "12",
       "build_time": "2026-08-03T00:23:37Z",
-      "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
@@ -2875,7 +2875,7 @@
       "minimum_selector_version": "16",
       "generation": "12",
       "build_time": "2026-08-03T17:24:04Z",
-      "overrides": { "folder": "2026 Deep RL Models", "lat": ".0", "long": ".3" },
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
@@ -2922,7 +2922,7 @@
       "minimum_selector_version": "16",
       "generation": "12",
       "build_time": "2026-08-03T00:41:07Z",
-      "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
@@ -2969,7 +2969,7 @@
       "minimum_selector_version": "16",
       "generation": "12",
       "build_time": "2026-08-03T00:55:44Z",
-      "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
