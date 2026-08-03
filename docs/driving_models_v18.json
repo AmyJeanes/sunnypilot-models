@@ -2067,7 +2067,7 @@
     },
     {
       "short_name": "MM",
-      "display_name": "Macrostiff Model (January 01, 2026)",
+      "display_name": "Macrostiff (January 01, 2026)",
       "is_20hz": true,
       "ref": "d70b13931793bc0e4d8efd36128dd66f227a3f81",
       "environment": "development",
@@ -2075,7 +2075,7 @@
       "index": 50,
       "minimum_selector_version": "16",
       "generation": "12",
-      "build_time": "2026-06-01T15:19:53Z",
+      "build_time": "2026-08-03T17:55:40Z",
       "overrides": { "folder": "2026 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
