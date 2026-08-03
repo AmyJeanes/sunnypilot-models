@@ -2829,13 +2829,60 @@
       ]
     },
     {
+      "short_name": "MRLV2",
+      "display_name": "Michael RL V2 (July 18, 2026)",
+      "is_20hz": true,
+      "ref": "37b38bf738edfb1daa6875255f581e5fc9b0a258",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 69,
+      "minimum_selector_version": "16",
+      "generation": "12",
+      "build_time": "2026-08-03T17:24:04Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_mrlv2_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Michael%20RL%20V2%20%28July%2018%2C%202026%29-202/driving_mrlv2_tinygrad.pkl",
+              "sha256": "d49b933e8a5fe5896284a466b457f6da6743ebd206c3d5967460e6b4f3bda46e"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_mrlv2_tinygrad.pkl.chunk01of05",
+                "sha256": "e2d940296f036aa1b7b963b67cf6619d9259aa3852c7ced7e42d841dd4464cd5"
+              },
+              {
+                "file_name": "driving_mrlv2_tinygrad.pkl.chunk02of05",
+                "sha256": "2451b53fe29ebb565d639b62ad49a792011e52ed998e2dc3a967e5e2c8b0b4a7"
+              },
+              {
+                "file_name": "driving_mrlv2_tinygrad.pkl.chunk03of05",
+                "sha256": "0ea750b0db270f78ec6e89eb66ae1e2a97b0150887be2fb09aaaaeb0ea5e9a54"
+              },
+              {
+                "file_name": "driving_mrlv2_tinygrad.pkl.chunk04of05",
+                "sha256": "211570fb4a560fe02094da1e39c9abd5962fdf03f40af06b71f09532a5df27a4"
+              },
+              {
+                "file_name": "driving_mrlv2_tinygrad.pkl.chunk05of05",
+                "sha256": "31b93a961b101eb13936d214972c7fd3e0acbe64fd4d896dd200f014bc3a9171"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "short_name": "RLM",
       "display_name": "Rebel Legion Model (July 22, 2026)",
       "is_20hz": true,
       "ref": "2895346746634d7eec0ee749f946c87039948a25",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 69,
+      "index": 70,
       "minimum_selector_version": "16",
       "generation": "12",
       "build_time": "2026-08-03T00:41:07Z",
@@ -2882,7 +2929,7 @@
       "ref": "93f5aa469a72b7621aef7da7901c100e0113e4d9",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 70,
+      "index": 71,
       "minimum_selector_version": "16",
       "generation": "12",
       "build_time": "2026-08-03T00:55:44Z",
