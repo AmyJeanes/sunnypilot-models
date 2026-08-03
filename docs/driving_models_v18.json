@@ -80,7 +80,7 @@
       "build_time": "2026-07-29T00:42:51Z"
     },
     {
-      "short_name": "CHLR",
+      "short_name": "RH",
       "display_name": "Recertified Herbalist (March 01, 2024)",
       "is_20hz": false,
       "ref": "063623602c9a3cefe70d2c661b40ef7a15f73d43",
@@ -248,7 +248,7 @@
       "build_time": "2026-07-28T19:01:21Z"
     },
     {
-      "short_name": "NDV3",
+      "short_name": "ND",
       "display_name": "Notre Dame (July 01, 2024)",
       "is_20hz": false,
       "ref": "e0c89a36da8e6a06ab85c4e74c44f70dd910e1fe",
@@ -330,7 +330,7 @@
       ]
     },
     {
-      "short_name": "SP-VIKANDER",
+      "short_name": "SPVM",
       "display_name": "SP Vikander Model (May 03, 2025)",
       "is_20hz": true,
       "ref": "d134fdd7d51ba84848866c0265e37508c38f9366",
@@ -498,7 +498,7 @@
       ]
     },
     {
-      "short_name": "LD",
+      "short_name": "LCD",
       "display_name": "Liquid Crystal Driving (June 21, 2025)",
       "is_20hz": true,
       "ref": "b55af0de7fecdb4af073c01b77b04b8306a4e92d",
@@ -619,7 +619,7 @@
       ]
     },
     {
-      "short_name": "AT",
+      "short_name": "ATR",
       "display_name": "Aggressive TR (June 28, 2025)",
       "is_20hz": true,
       "ref": "d54a5888cf6165b30e4bdda514ab9057473cd7f8",
@@ -1482,7 +1482,7 @@
       ]
     },
     {
-      "short_name": "TCP",
+      "short_name": "TCPM",
       "display_name": "The Cool Peoples Model (October 03, 2025)",
       "is_20hz": true,
       "ref": "5306f07d05a4f84a632ce908ec5ce34993e73693",
@@ -1710,13 +1710,31 @@
       "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
       "models": [
         {
-          "type": "policy",
+          "type": "chunked",
           "artifact": {
             "file_name": "driving_tcpmv3_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20v3%20%28October%2010%2C%202025%29-114/driving_tcpmv3_tinygrad.pkl",
-              "sha256": "81b8b04896de649a3da382e5959b531534f150fa0c7580ecaa59e7afe4ec9c74"
-            }
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20v3%20%28October%2010%2C%202025%29-205/driving_tcpmv3_tinygrad.pkl",
+              "sha256": "3842cdfaed5a0461169e335f25c759d5537e1782f57d59bc41ee353d161aa26d"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_tcpmv3_tinygrad.pkl.chunk01of04",
+                "sha256": "41d2fa62408a55d24971f10e7f502f01a33e8beff63ba780fa12795fa3ae3d02"
+              },
+              {
+                "file_name": "driving_tcpmv3_tinygrad.pkl.chunk02of04",
+                "sha256": "8380c83634ac46b4ab7915b80755fa34528e0ef06031653c611ac1c4fffa4f29"
+              },
+              {
+                "file_name": "driving_tcpmv3_tinygrad.pkl.chunk03of04",
+                "sha256": "a620f0aec1e26836f27466230e8b5124a9e852fd89a8d8753153fc859d09ee97"
+              },
+              {
+                "file_name": "driving_tcpmv3_tinygrad.pkl.chunk04of04",
+                "sha256": "001981ffe6e3d6dc60894f09d6f5fec74500162bcaedb409397b3edae1ccaeb7"
+              }
+            ]
           }
         }
       ]
@@ -1980,7 +1998,7 @@
       ]
     },
     {
-      "short_name": "PLANPLUSV2",
+      "short_name": "PLANPLUS",
       "display_name": "Planplus v2 (December 11, 2025)",
       "is_20hz": true,
       "ref": "50c78a9dd670a305ca898b96245cadbc2ecdc1a6",
@@ -2066,7 +2084,7 @@
       ]
     },
     {
-      "short_name": "MM",
+      "short_name": "MACROSTI",
       "display_name": "Macrostiff (January 01, 2026)",
       "is_20hz": true,
       "ref": "d70b13931793bc0e4d8efd36128dd66f227a3f81",
@@ -2079,13 +2097,31 @@
       "overrides": { "folder": "2026 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
-          "type": "policy",
+          "type": "chunked",
           "artifact": {
-            "file_name": "driving_mm_tinygrad.pkl",
+            "file_name": "driving_macrosti_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Macrostiff%20Model%20%28January%2001%2C%202026%29-114/driving_mm_tinygrad.pkl",
-              "sha256": "5439eb7e9245c2216a864901be31a04acdf1391267e78aa07ca8892403f42058"
-            }
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Macrostiff%20%28January%2001%2C%202026%29-203/driving_macrosti_tinygrad.pkl",
+              "sha256": "33f73161db469ddd304e833c8a7408280feb19ee3b943fdbb281d0ec298c08c3"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_macrosti_tinygrad.pkl.chunk01of04",
+                "sha256": "5311743c422555e2c477bf2b1f12218642dc153c534ad8a92798ae85547ac064"
+              },
+              {
+                "file_name": "driving_macrosti_tinygrad.pkl.chunk02of04",
+                "sha256": "66d7a2791cc65c2b7896649c0f79cef019d8992f22f376981190719e4143bedf"
+              },
+              {
+                "file_name": "driving_macrosti_tinygrad.pkl.chunk03of04",
+                "sha256": "5e0999121493793d5678276e7295b0d0816dc47c92e8bc7c4e7f1e003eddd167"
+              },
+              {
+                "file_name": "driving_macrosti_tinygrad.pkl.chunk04of04",
+                "sha256": "7acaf7cedb7a675ba6d93367d37e46905bbe3d03bc09ebac22243c7d48fcdbdb"
+              }
+            ]
           }
         }
       ]
@@ -2306,7 +2342,7 @@
       ]
     },
     {
-      "short_name": "OPM V2",
+      "short_name": "OMV2",
       "display_name": "Off-policy Model v2 (February 20, 2026)",
       "is_20hz": true,
       "ref": "ae34a24c59d85df7efad5fde2b760fb6d0b9dd6e",
@@ -2462,7 +2498,7 @@
       ]
     },
     {
-      "short_name": "POP",
+      "short_name": "PM",
       "display_name": "Pop Model (March 20, 2026)",
       "is_20hz": true,
       "ref": "6f71783a8a8faa07ddaeef5bbb6809b4f4f44a15",
@@ -2548,7 +2584,7 @@
       ]
     },
     {
-      "short_name": "OP MODEL",
+      "short_name": "OPM",
       "display_name": "OP Model (April 01, 2026)",
       "is_20hz": true,
       "ref": "cb327933002bc1a00bf60a3c20af2eb7a5f653e5",

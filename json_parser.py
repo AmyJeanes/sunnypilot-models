@@ -21,12 +21,12 @@ def update_bundle_models(bundle, meta_models, folder, recompiled_dir):
     m for m in meta_models
     if "big" not in m["artifact"]["file_name"].lower()
   ]
-  for model in bundle.get("models", []):
-    meta_model = next((m for m in filtered_meta_models if m["type"] == model["type"]), None)
-    if not meta_model:
-      continue
-    model["artifact"] = meta_model["artifact"]
-    model["artifact"]["download_uri"]["url"] = make_model_url(recompiled_dir, folder, meta_model["artifact"]["file_name"])
+  updated_models = []
+  for meta_model in filtered_meta_models:
+    meta_copy = json.loads(json.dumps(meta_model))
+    meta_copy["artifact"]["download_uri"]["url"] = make_model_url(recompiled_dir, folder, meta_model["artifact"]["file_name"])
+    updated_models.append(meta_copy)
+  bundle["models"] = updated_models
 
 def collapse_overrides(json_text):
   def replacer(m):
@@ -43,6 +43,7 @@ def get_generation_and_selector(short_name, bundles):
   if candidates:
     latest = max(candidates, key=lambda b: b.get("index", 0))
     return latest["generation"], latest["minimum_selector_version"]
+  return "-1", "-1"
 
 def extract_date_from_display_name(display_name):
   date = re.search(r'\(([^)]+)\)', display_name)
@@ -79,8 +80,6 @@ def main():
   if args.tinygrad_ref is not None:
     driving_models_json["tinygrad_ref"] = args.tinygrad_ref
 
-  ref_to_bundle = {bundle["ref"]: bundle for bundle in driving_models_json["bundles"]}
-
   for meta_path in find_metadata_files(args.recompiled_dir):
     with open(meta_path, "r", encoding="utf-8") as f:
       data = json.load(f)
@@ -88,43 +87,52 @@ def main():
     ref = meta["ref"]
     folder = os.path.basename(os.path.dirname(meta_path))
     short_name = meta.get("short_name", folder).upper()
+    display_name = meta.get("display_name", short_name)
 
-    if ref not in ref_to_bundle:
-      print(f"Adding new bundle for ref: {ref}")
+    bundle = None
+    for b in driving_models_json["bundles"]:
+      if b.get("ref") == ref:
+        bundle = b
+        break
+
+    if not bundle:
+      for b in driving_models_json["bundles"]:
+        if b.get("short_name").upper() == short_name:
+          bundle = b
+          print(f"Updating bundle {short_name} with new ref: {bundle.get('ref')} -> {ref}")
+          bundle["ref"] = ref
+          break
+
+    if not bundle:
+      print(f"Adding new bundle for: {short_name} [ref: {ref}]")
       folder_key = args.model_folder or f"{short_name.split()[0].upper()} Models"
       index = max([bundle.get("index", 0) for bundle in driving_models_json["bundles"] if isinstance(bundle.get("index", 0), int)], default=0) + 1
       fallback_generation, fallback_version = get_generation_and_selector(short_name, driving_models_json["bundles"])
       generation = args.generation if args.generation is not None else fallback_generation
       version = args.version if args.version is not None else fallback_version
 
-      filtered_models = [
-        m for m in meta["models"]
-        if "big" not in m["artifact"]["file_name"].lower()
-      ]
-      new_bundle = {
+      bundle = {
         "short_name": short_name,
-        "display_name": meta.get("display_name", short_name),
+        "display_name": display_name,
         "is_20hz": meta.get("is_20hz", False),
         "ref": ref,
-        "environment": "development",
-        "runner": "tinygrad",
+        "environment": meta.get("environment", "development"),
+        "runner": meta.get("runner", "tinygrad"),
         "index": index,
-        "minimum_selector_version": version,
-        "generation": generation,
+        "minimum_selector_version": meta.get("minimum_selector_version", version),
+        "generation": meta.get("generation", generation),
         "build_time": meta.get("build_time"),
-        "overrides": {"folder": folder_key, "lat": args.lat, "long": args.long},
-        "models": filtered_models
+        "overrides": meta.get("overrides") or {"folder": folder_key, "lat": args.lat, "long": args.long},
+        "models": []
       }
-      driving_models_json["bundles"].append(new_bundle)
-      ref_to_bundle[ref] = new_bundle
+      driving_models_json["bundles"].append(bundle)
 
-    bundle = ref_to_bundle[ref]
-    bundle["short_name"] = bundle["short_name"].upper()
-    update_bundle_models(bundle, meta["models"], folder, recompiled_dir_name)
-    bundle["display_name"] = meta.get("display_name", bundle["display_name"])
+    bundle["ref"] = ref
+    bundle["short_name"] = short_name
+    bundle["display_name"] = display_name
     bundle["is_20hz"] = meta.get("is_20hz", bundle["is_20hz"])
     bundle["build_time"] = meta.get("build_time", bundle.get("build_time"))
-    print(f"Updated bundle for ref: {ref}")
+    update_bundle_models(bundle, meta["models"], folder, recompiled_dir_name)
 
   if args.set_min_version is not None:
     for bundle in driving_models_json["bundles"]:
