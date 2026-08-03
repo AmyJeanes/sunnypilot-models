@@ -39,14 +39,10 @@ def collapse_overrides(json_text):
   )
 
 def get_generation_and_selector(short_name, bundles):
-  prefix = re.match(r"([A-Za-z]+)", short_name)
-  prefix = prefix.group(1) if prefix else short_name
-  candidates = [b for b in bundles if b["short_name"].startswith(prefix) and "generation" in b and "minimum_selector_version" in b]
+  candidates = [b for b in bundles if "generation" in b and "minimum_selector_version" in b]
   if candidates:
     latest = max(candidates, key=lambda b: b.get("index", 0))
     return latest["generation"], latest["minimum_selector_version"]
-  # Fallback
-  return "12", "16"
 
 def extract_date_from_display_name(display_name):
   date = re.search(r'\(([^)]+)\)', display_name)
