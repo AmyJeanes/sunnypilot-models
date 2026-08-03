@@ -46,7 +46,7 @@ def get_generation_and_selector(short_name, bundles):
     latest = max(candidates, key=lambda b: b.get("index", 0))
     return latest["generation"], latest["minimum_selector_version"]
   # Fallback
-  return "12", "15"
+  return "12", "16"
 
 def extract_date_from_display_name(display_name):
   date = re.search(r'\(([^)]+)\)', display_name)
