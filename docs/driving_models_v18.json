@@ -2968,7 +2968,7 @@
       "index": 71,
       "minimum_selector_version": "16",
       "generation": "12",
-      "build_time": "2026-08-03T00:55:44Z",
+      "build_time": "2026-08-05T01:54:03Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2976,29 +2976,29 @@
           "artifact": {
             "file_name": "driving_rhm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Rebellious%20Hope%20Model%20%28July%2027%2C%202026%29-201/driving_rhm_tinygrad.pkl",
-              "sha256": "77416d3e82abcb25814dbb9e2db0f3312b5077b61eda326d37f12e097cb53e40"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Rebellious%20Hope%20Model%20%28July%2027%2C%202026%29-207/driving_rhm_tinygrad.pkl",
+              "sha256": "0833e7dcbf5033afcdc141f7c4d6ef7046add38c11299083ceccb66632f65e6a"
             },
             "chunks": [
               {
                 "file_name": "driving_rhm_tinygrad.pkl.chunk01of05",
-                "sha256": "3c8bad05eb12d50e6dea7c8a00102c63c03b0e2e317509f33f535d390ef91b44"
+                "sha256": "034d06153604088278474cc37a0104ae6dcd9498cc9d9cf0c7c2ae6924a192ce"
               },
               {
                 "file_name": "driving_rhm_tinygrad.pkl.chunk02of05",
-                "sha256": "eda53f6df6999d609a46c55cc555e4eba4b28681ae67d877202973cc92ffb1ff"
+                "sha256": "53b740578b56b38c8ad1be32dcc8d84ad6d57a8887168d6c6639d94c3c0158f3"
               },
               {
                 "file_name": "driving_rhm_tinygrad.pkl.chunk03of05",
-                "sha256": "e75372eb55b193aa02aa2ce46a49393e3eee90b36e0d0c7e8e7359a9a6eaf246"
+                "sha256": "b95e3651e5286e1d90c45a1de7734ec197883726eaa015eacf95f94d04b9027e"
               },
               {
                 "file_name": "driving_rhm_tinygrad.pkl.chunk04of05",
-                "sha256": "55f20ab7f9b4f34a1084d683dbd89d4fb57df324932cd38bdc2612a150346529"
+                "sha256": "5fa9b7bc2e1b9a1ec8f095098894623a698cea29889911fcf05eaa108a3ec912"
               },
               {
                 "file_name": "driving_rhm_tinygrad.pkl.chunk05of05",
-                "sha256": "078c5735c44011970918a7708beacbedc085808b0753df7a118d7fc92a0c7f83"
+                "sha256": "5d6c41e7aa3f35b0e689c530ee148e9a0e930972d97047e35710023b5d219dea"
               }
             ]
           }
