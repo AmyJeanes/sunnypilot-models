@@ -3016,7 +3016,7 @@
       "minimum_selector_version": "16",
       "generation": "12",
       "build_time": "2026-08-06T03:41:50Z",
-      "overrides": { "folder": "2026 Deep World Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
