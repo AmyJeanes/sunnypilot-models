@@ -39,10 +39,14 @@ def collapse_overrides(json_text):
   )
 
 def get_generation_and_selector(short_name, bundles):
-  candidates = [b for b in bundles if "generation" in b and "minimum_selector_version" in b]
+  candidates = [
+    b for b in bundles
+    if b.get("generation") not in (None, "-1", -1)
+    and b.get("minimum_selector_version") not in (None, "-1", -1)
+  ]
   if candidates:
-    latest = max(candidates, key=lambda b: b.get("index", 0))
-    return latest["generation"], latest["minimum_selector_version"]
+    latest_bundle = max(candidates, key=lambda bundle_item: bundle_item.get("index", 0))
+    return str(latest_bundle["generation"]), str(latest_bundle["minimum_selector_version"])
   return "12", "16"
 
 def extract_date_from_display_name(display_name):
@@ -119,8 +123,8 @@ def main():
         "environment": meta.get("environment", "development"),
         "runner": meta.get("runner", "tinygrad"),
         "index": index,
-        "minimum_selector_version": meta.get("minimum_selector_version", version),
-        "generation": meta.get("generation", generation),
+        "minimum_selector_version": version,
+        "generation": generation,
         "build_time": meta.get("build_time"),
         "overrides": meta.get("overrides") or {"folder": folder_key, "lat": args.lat, "long": args.long},
         "models": []
