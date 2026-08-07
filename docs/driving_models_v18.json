@@ -2966,8 +2966,8 @@
       "environment": "development",
       "runner": "tinygrad",
       "index": 71,
-      "minimum_selector_version": "-1",
-      "generation": "-1",
+      "minimum_selector_version": "16",
+      "generation": "12",
       "build_time": "2026-08-07T15:16:21Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
