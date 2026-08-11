@@ -2676,7 +2676,7 @@
       "index": 63,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-07-29T04:13:47Z",
+      "build_time": "2026-08-11T14:41:34Z",
       "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
       "models": [
         {
@@ -2684,21 +2684,25 @@
           "artifact": {
             "file_name": "driving_opm7_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-OP%20Model%207%20%28April%2003%2C%202026%29-115/driving_opm7_tinygrad.pkl",
-              "sha256": "bb2d78c91db9bad2c22a7b66e8a7d411bea92f4f47a90d47cd200ae2f0e16835"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-OP%20Model%207%20%28April%2003%2C%202026%29-116/driving_opm7_tinygrad.pkl",
+              "sha256": "96f27a58173ca31854074518145210cc74ca57bed2341aa73045e6fc15401bdf"
             },
             "chunks": [
               {
-                "file_name": "driving_opm7_tinygrad.pkl.chunk01of03",
-                "sha256": "f953c16499feb423367f15f0adf155cb0d43eb35ac84ae90eefc8c3457294a59"
+                "file_name": "driving_opm7_tinygrad.pkl.chunk01of04",
+                "sha256": "2af9db701d06be8bef0d38a92b0304bee0a71e2060683df7723a27ae5cbf00fe"
               },
               {
-                "file_name": "driving_opm7_tinygrad.pkl.chunk02of03",
-                "sha256": "3125a37f19e81c775a150df9356a2af9eea193a3408216aa9248e8258ed03593"
+                "file_name": "driving_opm7_tinygrad.pkl.chunk02of04",
+                "sha256": "785ce39832482611457bf95f3988a634de3ca6c344146ba2eaa8cc42c21d5ec7"
               },
               {
-                "file_name": "driving_opm7_tinygrad.pkl.chunk03of03",
-                "sha256": "d77bb22787c356d936bf4b45876fc5a0010f3baf3cc48c44b9f72a8f8a311b9b"
+                "file_name": "driving_opm7_tinygrad.pkl.chunk03of04",
+                "sha256": "15d9b91e83bf9b4beca73a52d64eabee7e54807702cddbd1f0af7cf4c7a79cef"
+              },
+              {
+                "file_name": "driving_opm7_tinygrad.pkl.chunk04of04",
+                "sha256": "3d056f242e54e73bb10eb74b7bec2122be9e01eabcf8c58a0f008691241cef10"
               }
             ]
           }
