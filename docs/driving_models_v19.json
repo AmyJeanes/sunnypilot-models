@@ -398,7 +398,7 @@
       "index": 9,
       "minimum_selector_version": "17",
       "generation": "11",
-      "build_time": "2026-07-29T02:16:54Z",
+      "build_time": "2026-08-11T03:47:49Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -406,25 +406,25 @@
           "artifact": {
             "file_name": "driving_tr7_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-115/driving_tr7_tinygrad.pkl",
-              "sha256": "436404500af263b49447fe0c979ae1947f48e363e2bbbbb53646f3972e907295"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-116/driving_tr7_tinygrad.pkl",
+              "sha256": "cb9a8b38789480b98efdae7990d1a1bebf36e2c7c8c461095d619c7f804bf79f"
             },
             "chunks": [
               {
                 "file_name": "driving_tr7_tinygrad.pkl.chunk01of04",
-                "sha256": "03c4000e00247ccb2dfe674338b27a7f0b04056158635d91bf898e15215954d2"
+                "sha256": "d1a30f9d4736a0ba6d3de312550e3967a91e9d0353088727e631c119e930f93c"
               },
               {
                 "file_name": "driving_tr7_tinygrad.pkl.chunk02of04",
-                "sha256": "2f747a8df23bc5b0aae600f602e06a30748d3ef265e0cab14bc45fe569924deb"
+                "sha256": "a237c7b80478d0bf4e3a125bf4d546692db999204c16b51df8ff046916b12522"
               },
               {
                 "file_name": "driving_tr7_tinygrad.pkl.chunk03of04",
-                "sha256": "2dff531c6515c05c9c9e105c1a614284b19717c1b30ecf1a869f6cb9f49b1a98"
+                "sha256": "75d56a15b5927663ad1b24b8ac1336e8b33fba12dc872fff7895254467d8ebb7"
               },
               {
                 "file_name": "driving_tr7_tinygrad.pkl.chunk04of04",
-                "sha256": "9846a2f368909646e6d1547f952040477349cf563385e5b78a3e0ef366e7b9d6"
+                "sha256": "6655559876f3d5a29ea04ce193479752580da9d7fb0e8dc8f4d965921bc4d3e0"
               }
             ]
           }
