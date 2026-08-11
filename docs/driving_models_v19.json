@@ -276,31 +276,31 @@
           "artifact": {
             "file_name": "driving_nd_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Notre%20Dame%20%28July%2001%2C%202024%29-115/driving_nd_tinygrad.pkl",
-              "sha256": "f8ea970a12283d7cb14410cc642f34e3d2ec87f1fe78945ab33fe20b8b89550a"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Notre%20Dame%20%28July%2001%2C%202024%29-116/driving_nd_tinygrad.pkl",
+              "sha256": "90fa7b2111a57f31a7aecc492cdaebfa2db4095b3057c4bcaf7c8f1f33a49ea3"
             },
             "chunks": [
               {
                 "file_name": "driving_nd_tinygrad.pkl.chunk01of04",
-                "sha256": "d9a68e9b3e20194834bb93475148d80bfb4d479af654c9d898b76795396853f6"
+                "sha256": "0681870781926a1d9bbae12832d4591ebb2c621a08356602c24fd52b41f72c76"
               },
               {
                 "file_name": "driving_nd_tinygrad.pkl.chunk02of04",
-                "sha256": "da479035d6c3206d275b5359fc5558dfa35e86a720c4c7dfff2b9899bbbf7092"
+                "sha256": "2063217a3392640dae20d45bca63d10c5e90628792260660b7d940b94fd3d9fb"
               },
               {
                 "file_name": "driving_nd_tinygrad.pkl.chunk03of04",
-                "sha256": "3254032b37136a2ef1322e6ed0b02ef3cc336afe1e75d697fcf0371c1744382e"
+                "sha256": "a23bf502cb551409d15e92e54b0dbbf7ecb2ac2edcc28499f0b0b20001ca5658"
               },
               {
                 "file_name": "driving_nd_tinygrad.pkl.chunk04of04",
-                "sha256": "3beb0171055e48f43032a230469d4f4aedada9be054cab8ff989ea71a568ac50"
+                "sha256": "6dcca7bdbce052e567c7ca47049e5a360e4475f3df903d8932bfef97b15a67b9"
               }
             ]
           }
         }
       ],
-      "build_time": "2026-07-28T18:15:14Z"
+      "build_time": "2026-08-11T03:59:52Z"
     },
     {
       "short_name": "FOF",
