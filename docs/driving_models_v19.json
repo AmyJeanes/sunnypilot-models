@@ -527,7 +527,7 @@
       "index": 12,
       "minimum_selector_version": "17",
       "generation": "10",
-      "build_time": "2026-07-28T19:48:28Z",
+      "build_time": "2026-08-11T14:16:11Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -535,21 +535,25 @@
           "artifact": {
             "file_name": "driving_lcd_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-115/driving_lcd_tinygrad.pkl",
-              "sha256": "d435729ea628e44ded5ea4ca282f3b28ec05a1740b0b12546c632afa194602d7"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-116/driving_lcd_tinygrad.pkl",
+              "sha256": "5062a84a4641f4e80d7155bef2ce8d4f440d2f516505439876ad2651eb79c7fa"
             },
             "chunks": [
               {
-                "file_name": "driving_lcd_tinygrad.pkl.chunk01of03",
-                "sha256": "bc95ac53584f6ab0b86a6fb7cb52f7392319319376e8fd0e547de5797e7e9cb6"
+                "file_name": "driving_lcd_tinygrad.pkl.chunk01of04",
+                "sha256": "0159d6fbda1471a470806ff470d6713c4b46db8031f535b0621d4a9048bb3c95"
               },
               {
-                "file_name": "driving_lcd_tinygrad.pkl.chunk02of03",
-                "sha256": "468fea4b1c36b0dfd58397aef2d3cd77b71c5b140b97bfcf35ff609a80fe7f7d"
+                "file_name": "driving_lcd_tinygrad.pkl.chunk02of04",
+                "sha256": "1a1b8ffc46f47fcd7a9f4aac3410c439a4c7a0b612b50b5ba2238604ab8ea2e2"
               },
               {
-                "file_name": "driving_lcd_tinygrad.pkl.chunk03of03",
-                "sha256": "f2659e0dddc9eaee8552cfc3f7b3f379dca92be824225b73c142ce3f5cc1da0b"
+                "file_name": "driving_lcd_tinygrad.pkl.chunk03of04",
+                "sha256": "b09797976653da39c08148b2561b62165a25bc14afa3ee4cf3d1d49dd3722523"
+              },
+              {
+                "file_name": "driving_lcd_tinygrad.pkl.chunk04of04",
+                "sha256": "eccf4c3dc1cd0f7293382b1e0a4aaeee1dc6ad741ae92100b52d1ca01fb92fc3"
               }
             ]
           }
