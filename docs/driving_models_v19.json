@@ -570,7 +570,7 @@
       "index": 13,
       "minimum_selector_version": "17",
       "generation": "10",
-      "build_time": "2026-07-29T03:04:28Z",
+      "build_time": "2026-08-11T14:29:11Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
@@ -578,21 +578,25 @@
           "artifact": {
             "file_name": "driving_vfof_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-115/driving_vfof_tinygrad.pkl",
-              "sha256": "3bb71afed3ede259b3c5163debaad9e1a5129f82acb2ff8fa19123615ed88eaa"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-116/driving_vfof_tinygrad.pkl",
+              "sha256": "ab145ee77e4dd2e4d004794de386b234d9ae90211c628123b76e96e04f8cdcba"
             },
             "chunks": [
               {
-                "file_name": "driving_vfof_tinygrad.pkl.chunk01of03",
-                "sha256": "0ef82c97333754d84ad215daae268e88dd122f38b33f5dac62a5e6835b82198f"
+                "file_name": "driving_vfof_tinygrad.pkl.chunk01of04",
+                "sha256": "8f27508bd9f73c0e07ad96fd67475abb487fe23aca33012c589e240887473133"
               },
               {
-                "file_name": "driving_vfof_tinygrad.pkl.chunk02of03",
-                "sha256": "b1ffb418019e666f3466d0f56386e2337f6c8d217d0d6b68b1b201f76ccc3b7f"
+                "file_name": "driving_vfof_tinygrad.pkl.chunk02of04",
+                "sha256": "5dad3157b7f2dc9302f027e28210993f12b93a08010168b1dd1da861db791e9a"
               },
               {
-                "file_name": "driving_vfof_tinygrad.pkl.chunk03of03",
-                "sha256": "a3454089afbcce9ca51c4e798f121f397fc266547a6d8f38d0bcc9e9ddddbb40"
+                "file_name": "driving_vfof_tinygrad.pkl.chunk03of04",
+                "sha256": "561a369ec5a758d530b810fe84b9a1a8819301aaa6d4e6114f1a7ec8b0e8296f"
+              },
+              {
+                "file_name": "driving_vfof_tinygrad.pkl.chunk04of04",
+                "sha256": "a35830ca03a9fdadd9b85eb14548d071fa48415171aab57d7ec15036e10e93e1"
               }
             ]
           }
