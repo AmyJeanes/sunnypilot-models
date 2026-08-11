@@ -3044,7 +3044,7 @@
       "index": 71,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-08-07T15:16:21Z",
+      "build_time": "2026-08-11T13:36:07Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -3052,29 +3052,33 @@
           "artifact": {
             "file_name": "driving_gyhum_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled18/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-211/driving_gyhum_tinygrad.pkl",
-              "sha256": "f00b3539bb9a0cd5d078b04744aa25a4da98a1c54fe5387bb3a9929ea57d4a2f"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-116/driving_gyhum_tinygrad.pkl",
+              "sha256": "4235b3c9097c6668033d09419ad2be9e8902befc7eed7c5dfe3e7c63854a4837"
             },
             "chunks": [
               {
-                "file_name": "driving_gyhum_tinygrad.pkl.chunk01of05",
-                "sha256": "b6ca8d9830decb1870aee5962bdd13fec3351a2a6633bf0d0db8e67cc6fd789e"
+                "file_name": "driving_gyhum_tinygrad.pkl.chunk01of06",
+                "sha256": "a0faf4fa5959f4112f5d860710df7041d1847fdcd7be29224ace7ceb537b95ce"
               },
               {
-                "file_name": "driving_gyhum_tinygrad.pkl.chunk02of05",
-                "sha256": "beb9e5c243d2364ac99696f21749b7e71dfa0363c04cd7410887a9425ae28cf9"
+                "file_name": "driving_gyhum_tinygrad.pkl.chunk02of06",
+                "sha256": "64b5886097a65943e7fa42387c538f6cb63074c4e0f4bcd0b0cd2f5bbd440580"
               },
               {
-                "file_name": "driving_gyhum_tinygrad.pkl.chunk03of05",
-                "sha256": "15758be9c47b164b49b8f5c274c44b78f7c5fe96d93df2c9864b4a415d43cd7f"
+                "file_name": "driving_gyhum_tinygrad.pkl.chunk03of06",
+                "sha256": "c628c6ef1294cb1d4a9d07a3faf8f004322499e647b2498013f268e5774080c6"
               },
               {
-                "file_name": "driving_gyhum_tinygrad.pkl.chunk04of05",
-                "sha256": "2b736a0de85b1d856fa05f2e97c5d2cba86a50e4dad3d1ca1adb5c25bb94a918"
+                "file_name": "driving_gyhum_tinygrad.pkl.chunk04of06",
+                "sha256": "8f296f250ec21ae963fd7d88ceca276358e151036e3969c75922dc51fce2b406"
               },
               {
-                "file_name": "driving_gyhum_tinygrad.pkl.chunk05of05",
-                "sha256": "db4e49e6655c935d2b5b640e216476ea33f890b28b359589c7f3007ab5748a47"
+                "file_name": "driving_gyhum_tinygrad.pkl.chunk05of06",
+                "sha256": "a57483b7e098dc0e88f83ced2654180c023affc87f66d1b2cc14ead0d24a1424"
+              },
+              {
+                "file_name": "driving_gyhum_tinygrad.pkl.chunk06of06",
+                "sha256": "b2f694cfa6d7fe26e347784100bd4a9086756b2fb9cab66e54287b3b57de39fb"
               }
             ]
           }
