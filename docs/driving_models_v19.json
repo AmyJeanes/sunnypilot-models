@@ -2086,7 +2086,7 @@
       "index": 49,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-07-29T02:40:16Z",
+      "build_time": "2026-08-11T02:35:50Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -2094,25 +2094,25 @@
           "artifact": {
             "file_name": "driving_dsmv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Dark%20Souls%20Model%20v2%20%28December%2011%2C%202025%29-115/driving_dsmv2_tinygrad.pkl",
-              "sha256": "c97190c6feb8e0335ec285763ef5a5587d7eb8826e33021e41cf248fc962691a"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Dark%20Souls%20Model%20v2%20%28December%2011%2C%202025%29-116/driving_dsmv2_tinygrad.pkl",
+              "sha256": "bfd9f4962b27cd173817bb7bd7883fba7dc84f238daf6cda386c031a12538b28"
             },
             "chunks": [
               {
                 "file_name": "driving_dsmv2_tinygrad.pkl.chunk01of04",
-                "sha256": "80efae326bc16c7e88904792e1f8407b74da9b612230c2877640afa5e0128497"
+                "sha256": "f3ff43459161f642e79402fa1ea86cc1cfa4f58fe47c1b8a12a6b7980240c293"
               },
               {
                 "file_name": "driving_dsmv2_tinygrad.pkl.chunk02of04",
-                "sha256": "36a19b1a99b44efbe4ca865088674c02219c027dac05034200ab8fd023cf84da"
+                "sha256": "7f3b4d37330a01d8f1f024d39c8a09f29048f2695127891e4d2ad7a6e315e42a"
               },
               {
                 "file_name": "driving_dsmv2_tinygrad.pkl.chunk03of04",
-                "sha256": "07a6f64277c133bef85ed220ddfe3516dcd9f8986538da94ccae5b05187a2d5a"
+                "sha256": "8ae0bf6d322af15d0ab9010ee97953fe8eca592c39ef8757644a03972b5a8932"
               },
               {
                 "file_name": "driving_dsmv2_tinygrad.pkl.chunk04of04",
-                "sha256": "99caa7dc40b28cca5a65f67aa5dd3e749e4f354c643cfdd37520d45e2e052fa6"
+                "sha256": "07e5b43fb4892fda5678367e2c205bd45b467d4be5d382d0d5624f4b3358362c"
               }
             ]
           }
