@@ -1086,7 +1086,7 @@
       "index": 25,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-07-29T00:31:13Z",
+      "build_time": "2026-08-11T04:47:48Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1094,25 +1094,25 @@
           "artifact": {
             "file_name": "driving_uvdtrm_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-115/driving_uvdtrm_tinygrad.pkl",
-              "sha256": "01906d357128b99a98415136a93d29086235f784061b034b5bc142ecda108253"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-116/driving_uvdtrm_tinygrad.pkl",
+              "sha256": "a4bef3c5079588b2466826f2d75012956a2870a0600a484f0411656e27cc300f"
             },
             "chunks": [
               {
                 "file_name": "driving_uvdtrm_tinygrad.pkl.chunk01of04",
-                "sha256": "d2f818198421b3adafa70f1d6ec7321427566a75b094bc43c81483fbe9a6254c"
+                "sha256": "58ff233c6e469c554199d8e97d1d9cb2f8526415a3656bbeb62db142332a8200"
               },
               {
                 "file_name": "driving_uvdtrm_tinygrad.pkl.chunk02of04",
-                "sha256": "3f389f425c13c10b28e95d75559e3413b584fd632873b68292cffd10cd7d1f15"
+                "sha256": "a7ea12b44eba05fbb7119e8870a3509608fdb002c75a018e4d72936ecb73fcc0"
               },
               {
                 "file_name": "driving_uvdtrm_tinygrad.pkl.chunk03of04",
-                "sha256": "5baa02b3ed2ddaed28c04ffb6e9e720329f61196780c2c9cd5177b9109edd2d6"
+                "sha256": "76f24d5c0926dff9e0e0bab2c711b29db90901d9b1ac4559a21f42f5b7143b8f"
               },
               {
                 "file_name": "driving_uvdtrm_tinygrad.pkl.chunk04of04",
-                "sha256": "0920123a2d58c7879fc22ec750907704102404eb31b51d05a0cd0456728623cb"
+                "sha256": "e87ef11259be7178aeddbb6c3e94522a29d50d7ac0609c1f63ca1b41f3a328ac"
               }
             ]
           }
