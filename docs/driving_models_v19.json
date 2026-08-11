@@ -1906,7 +1906,7 @@
       "index": 45,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-07-28T22:22:35Z",
+      "build_time": "2026-08-11T04:23:30Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1914,25 +1914,25 @@
           "artifact": {
             "file_name": "driving_ndmv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-115/driving_ndmv2_tinygrad.pkl",
-              "sha256": "ace82481fe8df883a8614b73d2cbb95b871c038ea4de3cf29ba841c10a11a641"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-116/driving_ndmv2_tinygrad.pkl",
+              "sha256": "e772fdf1cf7fffd8621202836fdb98bffbbff5a335e4bfce4f9758118d9c2d60"
             },
             "chunks": [
               {
                 "file_name": "driving_ndmv2_tinygrad.pkl.chunk01of04",
-                "sha256": "e8a38ecb89611e8d988fdebfd20574e05f9778af4055ba0d366485b29e0d1198"
+                "sha256": "95f5abf6b9420c8c93b3f2d4cc034b1bdd8d00690ae20f6a49c2ffc6d088a7d2"
               },
               {
                 "file_name": "driving_ndmv2_tinygrad.pkl.chunk02of04",
-                "sha256": "e08ec3d9376235f71214f35745dd7591b75b951723236d671b82b925e074afe2"
+                "sha256": "1b5738997d4c631494a93befe6d53ab3f1174dbb13955cc24b7e5cd816b688fd"
               },
               {
                 "file_name": "driving_ndmv2_tinygrad.pkl.chunk03of04",
-                "sha256": "905c7ce0fceadb5c2e52752da21668c72669588867a1021fc218c956102120ea"
+                "sha256": "e1cc81f4eaaaface36e3076fe9ec38dec2e66097445af1f85fe17f9752774c64"
               },
               {
                 "file_name": "driving_ndmv2_tinygrad.pkl.chunk04of04",
-                "sha256": "0aeff07760376a7b7463f834f5c9c754681691250d08c92323074c38ccfc31cb"
+                "sha256": "dc1ba95999048a7cd5f61ed0966fff4c12d152e5f36f3bff6345c08f10b97cda"
               }
             ]
           }
