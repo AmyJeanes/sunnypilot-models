@@ -190,31 +190,31 @@
           "artifact": {
             "file_name": "driving_wd40_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-WD40%20%28April%2009%2C%202024%29-115/driving_wd40_tinygrad.pkl",
-              "sha256": "2990d65d3e264e3f34070d48ac7ce1c35bb0aa038282d80394fa21963e0b7301"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-WD40%20%28April%2009%2C%202024%29-116/driving_wd40_tinygrad.pkl",
+              "sha256": "544ebf8302d13ab72a23883aa0a5eb35e381b5bd176830db02ca325892aa50af"
             },
             "chunks": [
               {
                 "file_name": "driving_wd40_tinygrad.pkl.chunk01of04",
-                "sha256": "8da322df3346d3aefc665530cabc10e277ac5e26ef6a887949c3c8b533ce26ae"
+                "sha256": "3ad25406b12bcab171be0311ad63b8abc9ff53410cae22d365026bcbaf1419e7"
               },
               {
                 "file_name": "driving_wd40_tinygrad.pkl.chunk02of04",
-                "sha256": "1f80f08cbc5c3eced8f93dd5be7dcaa2f97c65b02f7abf692398cb3909f1b8eb"
+                "sha256": "10afd2ec54ed7543c3ad284f7e18468ad7f804a2d739bf8411a89e4cd10d8c21"
               },
               {
                 "file_name": "driving_wd40_tinygrad.pkl.chunk03of04",
-                "sha256": "6072033c731a43bc0dbae0425beea24abcd626f4f45de5c47b17e9d6de547a89"
+                "sha256": "b51e947e526400afa6aef28fb5da8277734b5183ed271bb5952e404f39664a66"
               },
               {
                 "file_name": "driving_wd40_tinygrad.pkl.chunk04of04",
-                "sha256": "16e87c6fa7d4204f424a1c1b596e0566ff6701a0f2063b16264ac563f7cad909"
+                "sha256": "04f24dae09c069cd758bbc9fdb9308e3067c0ef2ba50e283726ab579bff9cfeb"
               }
             ]
           }
         }
       ],
-      "build_time": "2026-07-28T21:01:33Z"
+      "build_time": "2026-08-11T04:59:46Z"
     },
     {
       "short_name": "NDV2",
