@@ -1648,7 +1648,7 @@
       "index": 39,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-07-28T17:50:54Z",
+      "build_time": "2026-08-11T09:42:12Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1656,25 +1656,25 @@
           "artifact": {
             "file_name": "driving_nid_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-115/driving_nid_tinygrad.pkl",
-              "sha256": "ddaf746851e93f99e5331d1d92ef6dc29856fab0f78baa2bda03a73e6af7f6bf"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-116/driving_nid_tinygrad.pkl",
+              "sha256": "95bd6abb3cf134c0bacea50ccb2ccecd6b7d6fa519f9d0800264fbe1e6916408"
             },
             "chunks": [
               {
                 "file_name": "driving_nid_tinygrad.pkl.chunk01of04",
-                "sha256": "34623fc3b9d0e3f4e0daecb339df6505dcddd83f8bd3f7b0865bdfb8678adb96"
+                "sha256": "d06c405a65b836bb58578c12f542cbf349bc8749539eacfd4e1fba47411a6137"
               },
               {
                 "file_name": "driving_nid_tinygrad.pkl.chunk02of04",
-                "sha256": "6a31adf6b3412baeb6efc5fcbcf43ce29645fbb47733925bb70bae8242e406ab"
+                "sha256": "73c050502ffe30501bec455b08439da6b84fbbb966de578cd474c8fbf20136f8"
               },
               {
                 "file_name": "driving_nid_tinygrad.pkl.chunk03of04",
-                "sha256": "f182feadebb6b08518c529bb86ff7bc5ce67e3ad17f4c2f5e8559c8dca752193"
+                "sha256": "6951a42987926889b3b11a50684ed856ff2d32d8aa5cc86965f3c2b466ca102b"
               },
               {
                 "file_name": "driving_nid_tinygrad.pkl.chunk04of04",
-                "sha256": "6b4ef376bb811879b888d71241bf0477854b9d4b9e642ebb78df0ccd537da5a8"
+                "sha256": "dc2604c1a49aaa5812fb5132cd9667ddbedaef4def5e3886cd6bf0d6400a76b0"
               }
             ]
           }
