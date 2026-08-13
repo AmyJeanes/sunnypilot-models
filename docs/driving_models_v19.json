@@ -1691,7 +1691,7 @@
       "index": 40,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-07-28T23:09:12Z",
+      "build_time": "2026-08-12T01:45:39Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -1699,25 +1699,25 @@
           "artifact": {
             "file_name": "driving_tcpmv2_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-115/driving_tcpmv2_tinygrad.pkl",
-              "sha256": "6cc0d02fa17368a72b723cab456f4d6b5babcff2cfa4e4ae12073f0ca15ef393"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-116/driving_tcpmv2_tinygrad.pkl",
+              "sha256": "a0de8f3e87f94b92063af8d27bdeb11f0430fd66b8748f2195505c0a073841a6"
             },
             "chunks": [
               {
                 "file_name": "driving_tcpmv2_tinygrad.pkl.chunk01of04",
-                "sha256": "659aef98a3a733baeb6e6b3feca0348926457b1683b2b633e2834274642ad216"
+                "sha256": "cbe64856ebd85a79c6c0e77a1213239fb1e9c2607031e248cf0d2322fe348fa1"
               },
               {
                 "file_name": "driving_tcpmv2_tinygrad.pkl.chunk02of04",
-                "sha256": "b1d3e84280d2528e461d3d858ba517fd39fc4d96ecfd90e581d3851b684eb066"
+                "sha256": "8f8611dbb12783dccc3a02ffc400c6d26c26a9171f7ce538c4a612142ff6733a"
               },
               {
                 "file_name": "driving_tcpmv2_tinygrad.pkl.chunk03of04",
-                "sha256": "59313128dc60c9a976592b8f9a1c90d9d632df4f26b67e037330caf2d06339a9"
+                "sha256": "83c5efd7ca9f23bac048e7e976bcad8d36e4cb923cccae5f8b905176f8264fb4"
               },
               {
                 "file_name": "driving_tcpmv2_tinygrad.pkl.chunk04of04",
-                "sha256": "6a52e42d3e7b21bb0757ba1dd5a95d7835d6a0f36fbee064deb33479e5b53e41"
+                "sha256": "63c9be367c3975076eac2af50c2e3e4dbf5aff51fa4209643659994656cdf4ab"
               }
             ]
           }
