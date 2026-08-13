@@ -2469,7 +2469,7 @@
       "index": 58,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-07-28T18:38:44Z",
+      "build_time": "2026-08-12T01:33:48Z",
       "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
       "models": [
         {
@@ -2477,21 +2477,21 @@
           "artifact": {
             "file_name": "driving_omv4_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai8/-/raw/main/models/recompiled18/model-Off-Policy%20Model%20V4%20%28February%2027%2C%202026%29-115/driving_omv4_tinygrad.pkl",
-              "sha256": "be4b9380d0d044ae7045c2b08b294ad2ea1b0422145fc0d1f796702ba27de8da"
+              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Off-Policy%20Model%20V4%20%28February%2027%2C%202026%29-116/driving_omv4_tinygrad.pkl",
+              "sha256": "f3d35e379de64280881fc76031704cf904ae014474fbef8133c7358b02c939c2"
             },
             "chunks": [
               {
                 "file_name": "driving_omv4_tinygrad.pkl.chunk01of03",
-                "sha256": "5607af5d014d439628da906e3eb832bdae5009ae25cab1dd8d788f329211f83e"
+                "sha256": "f4d400c2890d4177aba814f43db83beb8be914f1ed20684088f650d5310be4a2"
               },
               {
                 "file_name": "driving_omv4_tinygrad.pkl.chunk02of03",
-                "sha256": "0bd67601a6634ddfee8ce615bfe020d6a8bd33ad38c04f1d442f62fc36703cb7"
+                "sha256": "84d1e41e9951399e7401a9818b3dc79d2bdad2942b1a829e92862b45018fa6cd"
               },
               {
                 "file_name": "driving_omv4_tinygrad.pkl.chunk03of03",
-                "sha256": "d3b2d316d8d9607fd4b9be77c2ff718edf958120837533db9ee5d7fb7dbcb0fd"
+                "sha256": "47205620bdaf52bbb8b567021e2b3bb258c7583e20d36da16909d9bf4e2267f5"
               }
             ]
           }
