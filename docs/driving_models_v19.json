@@ -3186,6 +3186,57 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "PW",
+      "display_name": "pls work (August 11, 2026)",
+      "is_20hz": true,
+      "ref": "35703097905a122c9f3ddf0d12889b4873d7e2a2",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 74,
+      "minimum_selector_version": "17",
+      "generation": "12",
+      "build_time": "2026-08-13T19:52:42Z",
+      "overrides": { "folder": "PW Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_pw_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled19/model-pls%20work%20%28August%2011%2C%202026%29-226/driving_pw_tinygrad.pkl",
+              "sha256": "2b2613ec75841668b0e45101f2ef4ae44669daf9dbfcf2e508fa527af1a7881c"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_pw_tinygrad.pkl.chunk01of06",
+                "sha256": "f9731a73f446d3e571584e973fb91a4403d173cf6db8367723715173157eb04f"
+              },
+              {
+                "file_name": "driving_pw_tinygrad.pkl.chunk02of06",
+                "sha256": "9c009747c8bf5eaee28b1e795c5c0b3bef23ab849030910afd215c567303b473"
+              },
+              {
+                "file_name": "driving_pw_tinygrad.pkl.chunk03of06",
+                "sha256": "84e59abe430dfb5bbcd1de5739783f72b63f265c2a0871cf199775ff94d1ebec"
+              },
+              {
+                "file_name": "driving_pw_tinygrad.pkl.chunk04of06",
+                "sha256": "52b85a3b73a79d3f02a166721486ed5b17faafecd37f2042750c6ef06592b7df"
+              },
+              {
+                "file_name": "driving_pw_tinygrad.pkl.chunk05of06",
+                "sha256": "cf42a816bf1690ee25a703a46a9fa83e7557ea9540572609cae2040aec5b66b1"
+              },
+              {
+                "file_name": "driving_pw_tinygrad.pkl.chunk06of06",
+                "sha256": "b202cda832fea44cb489ac8df263817246c66c8a19105b9b2f0f68ea65910e4d"
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }
