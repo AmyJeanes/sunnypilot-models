@@ -3306,6 +3306,49 @@
           }
         }
       ]
+    },
+    {
+      "short_name": "FP",
+      "display_name": "Falling Phoenix (August 14, 2026)",
+      "is_20hz": true,
+      "ref": "eff0854aad2a8908a6522382c78af96ce3810668",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 76,
+      "minimum_selector_version": "17",
+      "generation": "12",
+      "build_time": "2026-08-14T16:22:23Z",
+      "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled19/model-Falling%20Phoenix%20%28August%2014%2C%202026%29-233/driving_falling_phoenix_august_14_2026_tinygrad.pkl",
+              "sha256": "98a14361a5f0fb239c47f32e10dd3827aaf443f0e1b0c6d41a0abf1d3b2ce5d2"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk01of04",
+                "sha256": "87b64c8f93302769323fbd98db94f64b524ff65b0690fc718e9794d3e1997386"
+              },
+              {
+                "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk02of04",
+                "sha256": "d445b3944db920254c1cdfb0bcb356aec68eb42df5e61c8420771fef1e961680"
+              },
+              {
+                "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk03of04",
+                "sha256": "a839ca6e52fdb97b0c0437245b33fa830ae4deabf911bbbbcc48e24b8ecbc278"
+              },
+              {
+                "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk04of04",
+                "sha256": "0ca3003340eb72aa37932164f077970ee3d0ce24d9a3d83516446f5c1c677616"
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }
