@@ -3189,13 +3189,52 @@
       ]
     },
     {
+      "short_name": "TS",
+      "display_name": "Test split  (August 11, 2026)",
+      "is_20hz": true,
+      "ref": "7fb03ca474f03e95e59ec0c8a6c5fba831bd5fd1",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 73,
+      "minimum_selector_version": "17",
+      "generation": "12",
+      "build_time": "2026-08-14T21:50:51Z",
+      "overrides": { "folder": "test", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_test_split_august_11_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled19/model-Test%20split%20%20%28August%2011%2C%202026%29-234/driving_test_split_august_11_2026_tinygrad.pkl",
+              "sha256": "1bea1649c9fd44300629c7a42755685a3628a253bcd50e3f5475f8713d9c1864"
+            },
+            "chunks": [
+              {
+                "file_name": "driving_test_split_august_11_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "19c5f9f2f5ab152b5edafe66f6a3fda254b7e892acc85a69286ff8b5dca0160e"
+              },
+              {
+                "file_name": "driving_test_split_august_11_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "c3fe52d6d38ff4d34a499c5803a00d3f213fa9bdacbf768644685032d3e37e35"
+              },
+              {
+                "file_name": "driving_test_split_august_11_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "c46cd3ccc5f9baa2602f0c2f5ec0d668ce63eafb5d6cde5b2a979345c36a95c0"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "short_name": "TSFM",
       "display_name": "Terrible Super Fantastic Model (August 12, 2026)",
       "is_20hz": true,
       "ref": "4d911346cde4e0d2978a625f31679808284cc19d",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 73,
+      "index": 74,
       "minimum_selector_version": "17",
       "generation": "12",
       "build_time": "2026-08-13T22:54:10Z",
@@ -3246,7 +3285,7 @@
       "ref": "a992d64eb604af3effb5b6ce948da52507ae9de9",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 74,
+      "index": 75,
       "minimum_selector_version": "17",
       "generation": "12",
       "build_time": "2026-08-14T16:13:17Z",
@@ -3289,7 +3328,7 @@
       "ref": "eff0854aad2a8908a6522382c78af96ce3810668",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 75,
+      "index": 76,
       "minimum_selector_version": "17",
       "generation": "12",
       "build_time": "2026-08-14T16:22:23Z",
