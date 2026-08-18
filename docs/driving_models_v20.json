@@ -102,33 +102,25 @@
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_rh_tinygrad.pkl",
+            "file_name": "driving_recertified_herbalist_march_01_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-116/driving_rh_tinygrad.pkl",
-              "sha256": "49aa459949f34d88d3536d68ec24bc1a31a41ca6bde1a0f2f816805c659e3c97"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled20/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-253/driving_recertified_herbalist_march_01_2024_tinygrad.pkl",
+              "sha256": "3704896816c78e6732aabcf9c469a4b5cb9b2e85be3d59b16287cf31a1bd0dff"
             },
             "chunks": [
               {
-                "file_name": "driving_rh_tinygrad.pkl.chunk01of04",
-                "sha256": "9decf822822279f8e9c29aca33889bf9200ee2b0890b3bdac2f5962c47aebfe6"
+                "file_name": "driving_recertified_herbalist_march_01_2024_tinygrad.pkl.chunk01of02",
+                "sha256": "8b084f797f9745e5e3eef13e6063f0ba2997584eba568fd61d858f609090a06a"
               },
               {
-                "file_name": "driving_rh_tinygrad.pkl.chunk02of04",
-                "sha256": "28ef8a84b9560930497d7ab8f101b7a15defefecaeea721367046ff853ddd902"
-              },
-              {
-                "file_name": "driving_rh_tinygrad.pkl.chunk03of04",
-                "sha256": "42439691f9712687377212f9fb72070d0549d620e8362bed8e3299f5f1e11501"
-              },
-              {
-                "file_name": "driving_rh_tinygrad.pkl.chunk04of04",
-                "sha256": "f4431ae9d086a9b29513f36dafd87438491b9e00857c323406e896c20935e716"
+                "file_name": "driving_recertified_herbalist_march_01_2024_tinygrad.pkl.chunk02of02",
+                "sha256": "2b6340b865669ab2a7fb37c4e471b49c945578a921bd6ab113956949e29a1f49"
               }
             ]
           }
         }
       ],
-      "build_time": "2026-08-11T04:35:45Z"
+      "build_time": "2026-08-18T23:09:32Z"
     },
     {
       "short_name": "DA",
