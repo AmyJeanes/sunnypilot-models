@@ -231,33 +231,25 @@
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_ndv2_tinygrad.pkl",
+            "file_name": "driving_north_dakota_v2_april_29_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-North%20Dakota%20v2%20%28April%2029%2C%202024%29-116/driving_ndv2_tinygrad.pkl",
-              "sha256": "a7e46c9ff313d3d529c63edca1ab1bcbe277a1ac3b1f9c4595d90c56a742281e"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled20/model-North%20Dakota%20v2%20%28April%2029%2C%202024%29-250/driving_north_dakota_v2_april_29_2024_tinygrad.pkl",
+              "sha256": "33825758883ce1e84386d1ff2fdcd0b28fa6f2c064558720187314a999e7a8d9"
             },
             "chunks": [
               {
-                "file_name": "driving_ndv2_tinygrad.pkl.chunk01of04",
-                "sha256": "c7396a116dcf916a48e61236a788a593e09312fbada58186066e0657590c628a"
+                "file_name": "driving_north_dakota_v2_april_29_2024_tinygrad.pkl.chunk01of02",
+                "sha256": "d24c67bd3968b069bd792df84350e338c54213a6f712e920bd47f847caf656a6"
               },
               {
-                "file_name": "driving_ndv2_tinygrad.pkl.chunk02of04",
-                "sha256": "5e82e2c18af18e1bd0483ed3f852f560cd931bf7738e22a448ffd1371e1d07f9"
-              },
-              {
-                "file_name": "driving_ndv2_tinygrad.pkl.chunk03of04",
-                "sha256": "ded69213120b3f2e8a4c63eafe18125087c9f4c41c20434a063c313ed67f33e4"
-              },
-              {
-                "file_name": "driving_ndv2_tinygrad.pkl.chunk04of04",
-                "sha256": "394684dc2c1ad67946a244ddda4d79634cc51acec4a0ac171516733b391fea67"
+                "file_name": "driving_north_dakota_v2_april_29_2024_tinygrad.pkl.chunk02of02",
+                "sha256": "89bb99efe553415db0bd53a56726534c4c17600bf5ae2b5265c70e60ea7af58c"
               }
             ]
           }
         }
       ],
-      "build_time": "2026-08-11T09:30:02Z"
+      "build_time": "2026-08-18T22:44:57Z"
     },
     {
       "short_name": "ND",
