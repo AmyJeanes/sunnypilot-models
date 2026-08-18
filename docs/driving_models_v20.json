@@ -3190,7 +3190,7 @@
     },
     {
       "short_name": "TSFM",
-      "display_name": "Terrible Super Fantastic Model (August 12, 2026)",
+      "display_name": "Terrible Super Fantastic Model  (August 12, 2026)",
       "is_20hz": true,
       "ref": "4d911346cde4e0d2978a625f31679808284cc19d",
       "environment": "development",
@@ -3198,7 +3198,7 @@
       "index": 73,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-08-13T22:54:10Z",
+      "build_time": "2026-08-18T21:21:57Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -3206,33 +3206,21 @@
           "artifact": {
             "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled19/model-Terrible%20Super%20Fantastic%20Model%20%28August%2012%2C%202026%29-231/driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl",
-              "sha256": "6d020818067fc8c3d2794e6247ed377c7299522b5e06f67e3618eaca55a9764b"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled20/model-Terrible%20Super%20Fantastic%20Model%20%20%28August%2012%2C%202026%29-240/driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl",
+              "sha256": "58b8460852941276ce3e5326019a28a2ecff3be475db51fa283e865f0e2b63a4"
             },
             "chunks": [
               {
-                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk01of06",
-                "sha256": "8c01c67c751333107e34d497d9468e1a696ab7a950369f60b00e222b31a0fc86"
+                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "dc8ce2fea7e8c70a76f023d785bff8503b6f15bad9b7d0ae1bf1f86910580f50"
               },
               {
-                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk02of06",
-                "sha256": "fcfda968036f75af3af4607393821ad6828a59a0857f9a3cff8e541ddafab6e0"
+                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "9007ce0ff54289b319c6e022aa07a24ed2dadc16edcc31fe6bdd897687281759"
               },
               {
-                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk03of06",
-                "sha256": "c34dee669867879de5c04453c5cf20efc0a7691b9ce232d19e8ea75845f59b21"
-              },
-              {
-                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk04of06",
-                "sha256": "d8d18c92b9ace94d14332cc9e274ac6ee4e71a5808934e547e410ef438ca325a"
-              },
-              {
-                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk05of06",
-                "sha256": "f0fb282532e225d608da738532248a892f4d480cae3df1b5b0c3857af5783144"
-              },
-              {
-                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk06of06",
-                "sha256": "c6308f85efea0a65794f3f437dba59396eeeacbdbc16a2856a31005c1a328b03"
+                "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "1c076cedebb3f1dd3766b02955a9b995d50ceda97ee1793d9e777b12cbe6551f"
               }
             ]
           }
