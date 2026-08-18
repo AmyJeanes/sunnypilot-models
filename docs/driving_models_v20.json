@@ -4,40 +4,32 @@
     {
       "short_name": "LAV2",
       "display_name": "LAv2 (January 24, 2024)",
-      "is_20hz": true,
+      "is_20hz": false,
       "ref": "f9d5fc7dd9b763356a1201d96c6953ed4562226e",
       "environment": "development",
       "runner": "tinygrad",
       "index": 0,
       "minimum_selector_version": "17",
       "generation": "4",
-      "build_time": "2026-08-11T08:53:18Z",
+      "build_time": "2026-08-18T23:30:43Z",
       "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_lav2_tinygrad.pkl",
+            "file_name": "driving_lav2_january_24_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-LAv2%20%28January%2024%2C%202024%29-116/driving_lav2_tinygrad.pkl",
-              "sha256": "8c1bac99bf428445f6f6cfe1ef1cd71e4cfa3736bc50af9d655c3b306b042003"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled20/model-LAv2%20%28January%2024%2C%202024%29-255/driving_lav2_january_24_2024_tinygrad.pkl",
+              "sha256": "708579371544df7d01a7a6c8dcf7a97680181243bb5bdc0877acc56562636c4d"
             },
             "chunks": [
               {
-                "file_name": "driving_lav2_tinygrad.pkl.chunk01of04",
-                "sha256": "8e949f051986b579c7bcacfd0ac3dcd900c20e52ebbd964e3df6a1ae4dc45498"
+                "file_name": "driving_lav2_january_24_2024_tinygrad.pkl.chunk01of02",
+                "sha256": "aee5993fb849ad1dd5e3a874888f3233d82c59e99d50270851da7b0f85b05726"
               },
               {
-                "file_name": "driving_lav2_tinygrad.pkl.chunk02of04",
-                "sha256": "282acf3f915207e7e0d494707c6c0e2ca8a000062654d9b5db974f52408b8f2c"
-              },
-              {
-                "file_name": "driving_lav2_tinygrad.pkl.chunk03of04",
-                "sha256": "639b2a6fa5e9742791d4b0e78b6a82bf2db5381cf946fc22a8939136a0c336f8"
-              },
-              {
-                "file_name": "driving_lav2_tinygrad.pkl.chunk04of04",
-                "sha256": "8300c2f30fe17a0d85c5390c727ec7e8de39c97fcc3582161a3fa935e6d6e02a"
+                "file_name": "driving_lav2_january_24_2024_tinygrad.pkl.chunk02of02",
+                "sha256": "64e2136a8c976ae458fe4e93afe8de2bfceb336321d35331455dfd2ddb3e6d74"
               }
             ]
           }
