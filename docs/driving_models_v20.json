@@ -145,33 +145,25 @@
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_da_tinygrad.pkl",
+            "file_name": "driving_duck_amigo_march_18_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Duck%20Amigo%20%28March%2018%2C%202024%29-116/driving_da_tinygrad.pkl",
-              "sha256": "7d4edeb85825bb810e7150d66176ccfe093eb504c7b9cc8a5c6183e6d088782d"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled20/model-Duck%20Amigo%20%28March%2018%2C%202024%29-252/driving_duck_amigo_march_18_2024_tinygrad.pkl",
+              "sha256": "c4851bcaa3e7f9c013ff3ca0dd4abeaf6e18579c9202d1670b93c504a569f94f"
             },
             "chunks": [
               {
-                "file_name": "driving_da_tinygrad.pkl.chunk01of04",
-                "sha256": "c894078ffbefe4c2f4cdd604ae9c82f7fea08a54579c817cdc7c3f19a8fc9360"
+                "file_name": "driving_duck_amigo_march_18_2024_tinygrad.pkl.chunk01of02",
+                "sha256": "d42a24b91016a62055c20c77945310d136e4f90ac13d8b482d603ac4273cc83e"
               },
               {
-                "file_name": "driving_da_tinygrad.pkl.chunk02of04",
-                "sha256": "536a1332364e854031ce125eb0c11c69583ab2ad8402fe8d378e89ebb09e0a71"
-              },
-              {
-                "file_name": "driving_da_tinygrad.pkl.chunk03of04",
-                "sha256": "e70745e78c68dc57991790789bf1fc4ae24f92c8852fbb268531396ff2a3d388"
-              },
-              {
-                "file_name": "driving_da_tinygrad.pkl.chunk04of04",
-                "sha256": "9c2e6c4beca4c5fea2953630f1fc443711489cf9c475316514b9a48b1d3ea26e"
+                "file_name": "driving_duck_amigo_march_18_2024_tinygrad.pkl.chunk02of02",
+                "sha256": "36124c668f3eb7c91120c9643308ef9bf82e260833e400cff027cfe94670d44f"
               }
             ]
           }
         }
       ],
-      "build_time": "2026-08-11T11:58:03Z"
+      "build_time": "2026-08-18T23:01:18Z"
     },
     {
       "short_name": "WD40",
