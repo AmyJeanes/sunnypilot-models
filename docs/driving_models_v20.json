@@ -59,33 +59,25 @@
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_chv2_tinygrad.pkl",
+            "file_name": "driving_certified_herbalist_v2_february_19_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Certified%20Herbalist%20v2%20%28February%2019%2C%202024%29-116/driving_chv2_tinygrad.pkl",
-              "sha256": "ad124410af740c51ee9bc183e7c4d58d1eeaf72a3a7a413cca1c414db69ae286"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled20/model-Certified%20Herbalist%20v2%20%28February%2019%2C%202024%29-254/driving_certified_herbalist_v2_february_19_2024_tinygrad.pkl",
+              "sha256": "f67fffa58a7f35b81ebc0f1f27888d23580eea939fc63fbf65247b67ed23c3e1"
             },
             "chunks": [
               {
-                "file_name": "driving_chv2_tinygrad.pkl.chunk01of04",
-                "sha256": "14ef86209c2024798866c23590961254c5648c2a754efec59cfbc0b896764d26"
+                "file_name": "driving_certified_herbalist_v2_february_19_2024_tinygrad.pkl.chunk01of02",
+                "sha256": "8a44c58b7ded30a7ff955b2488e4dd310df76b4f1d6058153d98970a385a8db8"
               },
               {
-                "file_name": "driving_chv2_tinygrad.pkl.chunk02of04",
-                "sha256": "fa8cb9974394d4a809ea2c385017368864d7cd0ca6331b158481fbdb1a2c9847"
-              },
-              {
-                "file_name": "driving_chv2_tinygrad.pkl.chunk03of04",
-                "sha256": "270680c568b775d1ce5e74913a0364aa4f97bf1f7c15e8de096a8d435d67f97e"
-              },
-              {
-                "file_name": "driving_chv2_tinygrad.pkl.chunk04of04",
-                "sha256": "52106d92315352d105c4455fc6d19d8fe0577d033562630d2495b5155f7f40f6"
+                "file_name": "driving_certified_herbalist_v2_february_19_2024_tinygrad.pkl.chunk02of02",
+                "sha256": "1e0f5f653a46fc7767b348d9b6c06746691896fe0c419da7c44a6616f8c91bbf"
               }
             ]
           }
         }
       ],
-      "build_time": "2026-08-11T02:11:02Z"
+      "build_time": "2026-08-18T23:22:32Z"
     },
     {
       "short_name": "RH",
