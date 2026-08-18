@@ -261,7 +261,7 @@
     },
     {
       "short_name": "ND",
-      "display_name": "Notre Dame (July 01, 2024)",
+      "display_name": "Notre Dame  (July 01, 2024)",
       "is_20hz": false,
       "ref": "e0c89a36da8e6a06ab85c4e74c44f70dd910e1fe",
       "environment": "development",
@@ -274,33 +274,25 @@
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_nd_tinygrad.pkl",
+            "file_name": "driving_notre_dame_july_01_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Notre%20Dame%20%28July%2001%2C%202024%29-116/driving_nd_tinygrad.pkl",
-              "sha256": "90fa7b2111a57f31a7aecc492cdaebfa2db4095b3057c4bcaf7c8f1f33a49ea3"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled20/model-Notre%20Dame%20%20%28July%2001%2C%202024%29-248/driving_notre_dame_july_01_2024_tinygrad.pkl",
+              "sha256": "d2fd0dfba1e86c03720b8d4cbabc2bd883a2675f2394ca500358c77181a0c35c"
             },
             "chunks": [
               {
-                "file_name": "driving_nd_tinygrad.pkl.chunk01of04",
-                "sha256": "0681870781926a1d9bbae12832d4591ebb2c621a08356602c24fd52b41f72c76"
+                "file_name": "driving_notre_dame_july_01_2024_tinygrad.pkl.chunk01of02",
+                "sha256": "385bf57dfe044d11d666897818ad6b2db09bd49e91ff9b6e1c78cb5e418c2aa0"
               },
               {
-                "file_name": "driving_nd_tinygrad.pkl.chunk02of04",
-                "sha256": "2063217a3392640dae20d45bca63d10c5e90628792260660b7d940b94fd3d9fb"
-              },
-              {
-                "file_name": "driving_nd_tinygrad.pkl.chunk03of04",
-                "sha256": "a23bf502cb551409d15e92e54b0dbbf7ecb2ac2edcc28499f0b0b20001ca5658"
-              },
-              {
-                "file_name": "driving_nd_tinygrad.pkl.chunk04of04",
-                "sha256": "6dcca7bdbce052e567c7ca47049e5a360e4475f3df903d8932bfef97b15a67b9"
+                "file_name": "driving_notre_dame_july_01_2024_tinygrad.pkl.chunk02of02",
+                "sha256": "33e2a3665573c88ebb09e3235466b7ee6a01cb68df84002663dd9ad4411eb0fe"
               }
             ]
           }
         }
       ],
-      "build_time": "2026-08-11T03:59:52Z"
+      "build_time": "2026-08-18T22:36:50Z"
     },
     {
       "short_name": "FOF",
