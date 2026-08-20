@@ -181,8 +181,8 @@
       ]
     },
     {
-      "short_name": "TTM",
-      "display_name": "TT Model (August 18, 2026)",
+      "short_name": "TT",
+      "display_name": "Tee Time (August 18, 2026)",
       "is_20hz": true,
       "ref": "ff27d6220e2869ede7ee3c83e7893ec06cb75551",
       "environment": "development",
@@ -190,168 +190,168 @@
       "index": 1,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-08-20T14:18:09Z",
+      "build_time": "2026-08-20T21:42:35Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl",
+            "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled21/model-TT%20Model%20%28August%2018%2C%202026%29-263/driving_tt_model_august_18_2026_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled21/model-Tee%20Time%20%28August%2018%2C%202026%29-267/driving_tee_time_august_18_2026_tinygrad.pkl",
               "sha256": "0b1b6aff26bfc25dcd6502ecbe757891c2b98d8c676aa54f1818ab496f4b0174"
             },
             "chunks": [
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk01of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk01of38",
                 "sha256": "9c3d4b8085f31af2154574c10f32b578e977488a171664d4515d846f6c560db5"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk02of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk02of38",
                 "sha256": "ec03484e840b405cfc12df83752f7c205b218e40db5e36c80293210af8bc6151"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk03of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk03of38",
                 "sha256": "fe845585d981cba0f8b072be4c3c029d9159d56390c0eeac14041a3db0dbefea"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk04of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk04of38",
                 "sha256": "da1fb899c3efd4fe1b59215f3d941e43e6ed65c583054ee401e9c2bedd59c3da"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk05of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk05of38",
                 "sha256": "db82d71bec1d18d059d391a33490a0ea47ed30d77a541e20338bf34f0e8d2c61"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk06of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk06of38",
                 "sha256": "4e22f5101a62b81d3c6423d700d9b61d66be8db16aff74fa2c0bb68b2b4dcc12"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk07of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk07of38",
                 "sha256": "93bcffbf6b7df6ac964bc4a1fc3fef63338092c17ea567c4870df014e2dc597b"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk08of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk08of38",
                 "sha256": "cc426975d4211267cba0ae688700c77fdc47d63e9dc98daf27d356ddc72ddcbb"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk09of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk09of38",
                 "sha256": "a8446c12c563a28f74f7c0581ed43e8362f7ff2860eec62c1b618e8db81deb83"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk10of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk10of38",
                 "sha256": "136ebbb727b1b01ee5d2004e63fbd8a0f2b37344b3060285bbfa5b5deda9ecf7"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk11of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk11of38",
                 "sha256": "7bf808e1e7b106192fe888dc2b2462337ac75857476f405c6e7050f82b1995cc"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk12of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk12of38",
                 "sha256": "268b54d2c149d8e619b0992727f1fb01ff466307633b19ba5ce3a59d4e600753"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk13of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk13of38",
                 "sha256": "317fd6422d8ca617c9cd8c8d2ae12e275baa285199e9782e491bf61f98f94951"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk14of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk14of38",
                 "sha256": "26daa29979ad3c9338c95cebcc81242e1d48341bd1c8e4eed4c8bcd06671a2d6"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk15of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk15of38",
                 "sha256": "f85ffd163448378fcca18f29e3b5222a8d33fd01500c141350fa02f43e29a5ea"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk16of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk16of38",
                 "sha256": "09a35925a7939cf0b56c4a63fe030cdb57ea98cac88dd6df60857dca8992f0bf"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk17of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk17of38",
                 "sha256": "1776d2f96d879241ed816e25ee56993cf03150b3f9891f5d5a83267311f3591c"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk18of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk18of38",
                 "sha256": "61868639959b65fbe08838070d70a72c1aad298b627e61b9654ea68eefd7750a"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk19of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk19of38",
                 "sha256": "e4330080341e25fa4453824866c4f015231d2fd41c9c19d5ce779b3d331f0569"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk20of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk20of38",
                 "sha256": "86b84b8c18f79a3da132229dc0b6f79b0595a2b3a363ac23434ade19951067a8"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk21of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk21of38",
                 "sha256": "c2a1ded8d494a22bac72c145e6cf20282ed4168a3ba54da35fcd0ff789a4173b"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk22of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk22of38",
                 "sha256": "73c31f44080941e3e83cc21af5208b682204cc6c3ed4657225509c9830d2eeec"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk23of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk23of38",
                 "sha256": "a14724e27434e0091e04116dd73187f48939afac223fc1606cba4f93b087a391"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk24of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk24of38",
                 "sha256": "d362be9151a26d94c1ee5189621540afade380aea23ef910ba08ed0932dc5730"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk25of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk25of38",
                 "sha256": "5d8a432a42b5e9a6080258e66fcc97f107ea725bde5bb0540bdb2ffab4becddc"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk26of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk26of38",
                 "sha256": "73a552861fc62f34f69281f832e4b49d148c197242d84722de493d9b59b977ec"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk27of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk27of38",
                 "sha256": "801e7442614a45049756c542408db07cc737789bb5e2e11dd91f04e97d26685e"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk28of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk28of38",
                 "sha256": "9bcbe7506d7cc3eaaab8f8c29f5f4b99421b5b99ac012d93e176da8fc586a80f"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk29of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk29of38",
                 "sha256": "81d2725096c9d9fee478c6d68b1bd9b37c4aba4259f57eef39956e2f4266fe79"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk30of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk30of38",
                 "sha256": "d515e427c28fb0b50181c390af292c5028ebbb628a71b0644ff1332034ae072a"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk31of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk31of38",
                 "sha256": "62a3740cd196b3032935d3b17c5078c29e01ec70e3c3d10adca989158502f0ba"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk32of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk32of38",
                 "sha256": "1ca6358255cccd0d87f06321a25ee0f7d60d87ce964dce4fc18bab3fd8a067f4"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk33of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk33of38",
                 "sha256": "bdf55f29396690afbfe47c772a81340eefad61f458cd67ff90c5bf3699bd4e79"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk34of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk34of38",
                 "sha256": "3f98a4381fe8e7dbf22e8aa375851e6b43e357f179af442f6b1c9e1e628375e4"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk35of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk35of38",
                 "sha256": "8e04b2421575969675735843ebb1c8c0fc0a91b34c4c8da4bed4499690501ed6"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk36of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk36of38",
                 "sha256": "849e783d70a565240e0db45493a0497d875360b7b5641bfd4d369046e2ad604a"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk37of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk37of38",
                 "sha256": "c44343d5e7804996dad60d783398436d70689a31367aa337d68735693e7bead1"
               },
               {
-                "file_name": "driving_tt_model_august_18_2026_tinygrad.pkl.chunk38of38",
+                "file_name": "driving_tee_time_august_18_2026_tinygrad.pkl.chunk38of38",
                 "sha256": "98bae871a66d7e50cdc6d784f2eb44640ba6ddc55bf021c668d13afb2b09b634"
               }
             ]
