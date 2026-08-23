@@ -2843,7 +2843,7 @@
     },
     {
       "short_name": "OPM16D",
-      "display_name": "OP Model 16 Deep (June 03, 2026)",
+      "display_name": "OP Model 16 Deep (June 03, 2026) (June 03, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "f02d134f40f5e7be22b182af21b438915a47600e",
@@ -2852,29 +2852,29 @@
       "index": 66,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-08-18T22:15:48Z",
+      "build_time": "2026-08-23T20:42:44Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
+            "file_name": "driving_op_model_16_deep_june_03_2026_june_03_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled20/model-OP%20Model%2016%20Deep%20%28June%2003%2C%202026%29-247/driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
-              "sha256": "37646b71ca0d32f18d2cffbe2d30a7e52bb1ff21b94f23fd5f7935ac6291ff41"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled22/model-OP%20Model%2016%20Deep%20%28June%2003%2C%202026%29%20%28June%2003%2C%202026%29-370/driving_op_model_16_deep_june_03_2026_june_03_2026_tinygrad.pkl",
+              "sha256": "3da22811b5c605a372754fe5e35ff7cde106a936a89710ca1fe7f66cae45629a"
             },
             "chunks": [
               {
-                "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "2cffbae95b3a7a5cc0598ad04c0a2b3843154f4d2a1b80251baccce42d482ac3"
+                "file_name": "driving_op_model_16_deep_june_03_2026_june_03_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "a029a8602fcfc433b73a154f25ebd15f2475f889278fa22e6a9ea9992be187f6"
               },
               {
-                "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "70246c8531c9a25e7fe3934ceccf788ebb5020433253fb9d5940b4c5f8369d07"
+                "file_name": "driving_op_model_16_deep_june_03_2026_june_03_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "b99f61230b2844fb5e817f2c1255a316436f12ec2a44691766857553c54226ed"
               },
               {
-                "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "1f3d789fc9ae5e18c0d12195e8ecbfb4a83ce60a03c1ad33dc919efbb07efd66"
+                "file_name": "driving_op_model_16_deep_june_03_2026_june_03_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "7bc6e9869acd5c18fa38f563cc0ae179452ccb86a8b674faca09d53d95af977c"
               }
             ]
           }
