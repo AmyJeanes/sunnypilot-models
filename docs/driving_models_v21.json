@@ -163,23 +163,23 @@
           "artifact": {
             "file_name": "driving_wd40_april_09_2024_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled20/model-WD40%20%28April%2009%2C%202024%29-251/driving_wd40_april_09_2024_tinygrad.pkl",
-              "sha256": "801d4ed70e57cc66f34af2fd2eb54751c6021e40b20811d5cac24f798daf7ad8"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled22/model-WD40%20%28April%2009%2C%202024%29-401/driving_wd40_april_09_2024_tinygrad.pkl",
+              "sha256": "87ccc1523a673ecd569f488cdc8cea6cbef8201c34996a6089d13d8f6b05b0c9"
             },
             "chunks": [
               {
                 "file_name": "driving_wd40_april_09_2024_tinygrad.pkl.chunk01of02",
-                "sha256": "7bfb15662eedc125d02a64b73916fae16f30dd659a86ff58dbff574adcdae7c4"
+                "sha256": "fa983c45276f634077ec79d02ae84bbf835f1e42415aa0bd8925861e0d503803"
               },
               {
                 "file_name": "driving_wd40_april_09_2024_tinygrad.pkl.chunk02of02",
-                "sha256": "7e9dfe48e57cf00643d16f81bad00a82c23604ef2865387c099f95b499c044e3"
+                "sha256": "1175b19bac152e74060b1805aa396f857c859c2416cf07f5083269f7f3801661"
               }
             ]
           }
         }
       ],
-      "build_time": "2026-08-18T22:53:04Z"
+      "build_time": "2026-08-23T22:07:45Z"
     },
     {
       "short_name": "NDV2",
