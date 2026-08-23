@@ -93,6 +93,15 @@ def main():
     short_name = meta.get("short_name", folder).upper()
     display_name = meta.get("display_name", short_name)
 
+    is_big_model = meta.get("is_big")
+    if is_big_model is None:
+        # Fallback for older metadata files without is_big field
+        is_big_model = any("big" in m.get("artifact", {}).get("file_name", "").lower() for m in meta.get("models", []))
+    
+    is_big_json = "usbgpu" in args.json_path.lower()
+    if is_big_model != is_big_json:
+        continue
+
     bundle = None
     for b in driving_models_json["bundles"]:
       if b.get("ref") == ref:
