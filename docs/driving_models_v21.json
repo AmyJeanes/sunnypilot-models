@@ -3163,7 +3163,7 @@
     },
     {
       "short_name": "KV",
-      "display_name": "Kumars Vibe  (August 14, 2026)",
+      "display_name": "Kumars Vibe  (August 14, 2026) (August 14, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "a992d64eb604af3effb5b6ce948da52507ae9de9",
@@ -3172,33 +3172,25 @@
       "index": 74,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-08-14T16:13:17Z",
+      "build_time": "2026-08-23T21:38:51Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl",
+            "file_name": "driving_kumars_vibe_august_14_2026_august_14_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled19/model-Kumars%20Vibe%20%20%28August%2014%2C%202026%29-232/driving_kumars_vibe_august_14_2026_tinygrad.pkl",
-              "sha256": "d112763b58910ab34a4ff19eaa18f8dbee80c04595512d13e06d19405ff98c2b"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled22/model-Kumars%20Vibe%20%20%28August%2014%2C%202026%29%20%28August%2014%2C%202026%29-378/driving_kumars_vibe_august_14_2026_august_14_2026_tinygrad.pkl",
+              "sha256": "dbe556b085b13ccd9a265c84f167a7d36e9002c4304d2a15e2ad85abe702ef95"
             },
             "chunks": [
               {
-                "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl.chunk01of04",
-                "sha256": "c11f82770d75aa2884bea467b7d83eaaf243e8d91199593bee1325011dd75ffe"
+                "file_name": "driving_kumars_vibe_august_14_2026_august_14_2026_tinygrad.pkl.chunk01of02",
+                "sha256": "1fca421cd250e557ede133ff2b5106bd51b439c3bf3a0f27711299f2fc576a08"
               },
               {
-                "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl.chunk02of04",
-                "sha256": "8fc419af86180eac3f5372a479d9bb91a490d0ada0bc85f65642977760097ade"
-              },
-              {
-                "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl.chunk03of04",
-                "sha256": "5a83c12eb4362b16ffb9a41a25cb1de43bd351eb0bb805fda7e1f9f8af73e9b0"
-              },
-              {
-                "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl.chunk04of04",
-                "sha256": "dfca7cd2f703842681dc1188399e04a2aa036f38857874c3a2d4d12309c5e9a2"
+                "file_name": "driving_kumars_vibe_august_14_2026_august_14_2026_tinygrad.pkl.chunk02of02",
+                "sha256": "fc85e75d93f9e2d556425b7a0f7f70335dfc90e7f904f916042db717504ffcfe"
               }
             ]
           }
