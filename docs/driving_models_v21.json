@@ -2843,7 +2843,7 @@
     },
     {
       "short_name": "OPM16D",
-      "display_name": "OP Model 16 Deep (June 03, 2026) (June 03, 2026)",
+      "display_name": "OP Model 16 Deep (June 03, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "f02d134f40f5e7be22b182af21b438915a47600e",
@@ -2883,7 +2883,7 @@
     },
     {
       "short_name": "MRLV2",
-      "display_name": "Michael RL V2 (July 18, 2026) (July 18, 2026)",
+      "display_name": "Michael RL V2 (July 18, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "37b38bf738edfb1daa6875255f581e5fc9b0a258",
@@ -2923,7 +2923,7 @@
     },
     {
       "short_name": "RLM",
-      "display_name": "Rebel Legion Model (July 22, 2026) (July 22, 2026)",
+      "display_name": "Rebel Legion Model (July 22, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "2895346746634d7eec0ee749f946c87039948a25",
@@ -2963,7 +2963,7 @@
     },
     {
       "short_name": "GYHUM",
-      "display_name": "Get Your Hopes Up Model (July 25, 2026) (July 25, 2026)",
+      "display_name": "Get Your Hopes Up Model (July 25, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "574735edc6e1aafdc2a69395f9a32e7f5cc4b62b",
@@ -3003,7 +3003,7 @@
     },
     {
       "short_name": "RHM",
-      "display_name": "Rebellious Hope Model (July 27, 2026) (July 27, 2026)",
+      "display_name": "Rebellious Hope Model (July 27, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "93f5aa469a72b7621aef7da7901c100e0113e4d9",
@@ -3043,7 +3043,7 @@
     },
     {
       "short_name": "RDFM",
-      "display_name": "RDF Model (August 05, 2026) (August 05, 2026)",
+      "display_name": "RDF Model (August 05, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "a95e2c25cae5fbf1afba7628bfb7acc4af59e0cc",
@@ -3083,7 +3083,7 @@
     },
     {
       "short_name": "RDFMV2",
-      "display_name": "RDF Model V2 (August 11, 2026) (August 11, 2026)",
+      "display_name": "RDF Model V2 (August 11, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "35703097905a122c9f3ddf0d12889b4873d7e2a2",
@@ -3123,7 +3123,7 @@
     },
     {
       "short_name": "TSFM",
-      "display_name": "Terrible Super Fantastic Model  (August 12, 2026) (August 12, 2026)",
+      "display_name": "Terrible Super Fantastic Model (August 12, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "4d911346cde4e0d2978a625f31679808284cc19d",
@@ -3163,7 +3163,7 @@
     },
     {
       "short_name": "KV",
-      "display_name": "Kumars Vibe  (August 14, 2026) (August 14, 2026)",
+      "display_name": "Kumars Vibe (August 14, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "a992d64eb604af3effb5b6ce948da52507ae9de9",
@@ -3199,7 +3199,7 @@
     },
     {
       "short_name": "FP",
-      "display_name": "Falling Phoenix (August 14, 2026) (August 14, 2026)",
+      "display_name": "Falling Phoenix (August 14, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "eff0854aad2a8908a6522382c78af96ce3810668",
@@ -3235,7 +3235,7 @@
     },
     {
       "short_name": "TSFDOM",
-      "display_name": "Terrible Super Fantastic Do Over Model (August 15, 2026) (August 15, 2026)",
+      "display_name": "Terrible Super Fantastic Do Over Model (August 15, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "0394d7284cfc229f772ee4fa73ff724ba8245110",
