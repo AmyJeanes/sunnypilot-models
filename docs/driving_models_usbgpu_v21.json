@@ -360,8 +360,8 @@
       ]
     },
     {
-      "short_name": "TTTTFBRL",
-      "display_name": "TTTTFBRLM (August 18, 2026)",
+      "short_name": "TTTTFBLR",
+      "display_name": "TTTTFBLRM (August 18, 2026)",
       "is_20hz": true,
       "ref": "1d12f404b54dc8c5cadb73669ae27399ba35ba43",
       "environment": "development",
@@ -369,168 +369,168 @@
       "index": 2,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-08-20T21:24:36Z",
+      "build_time": "2026-08-23T04:58:07Z",
       "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl",
+            "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled21/model-TTTTFBRLM%20%28August%2018%2C%202026%29-266/driving_ttttfbrlm_august_18_2026_tinygrad.pkl",
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled22/model-TTTTFBLRM%20%28August%2018%2C%202026%29-270/driving_ttttfblrm_august_18_2026_tinygrad.pkl",
               "sha256": "3a90857e4799a0f910fa4f27ac9abf26e5af16b59df3f5f7a37ecec47c92549a"
             },
             "chunks": [
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk01of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk01of38",
                 "sha256": "e49cf7b767abe7bd4d7835e150569a4a782eb7ee79bcbe2c73bece094b8ce215"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk02of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk02of38",
                 "sha256": "0f42fd332bd901eca40b23359ad4cce72fe33014a15ae9a460e80330de76a66e"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk03of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk03of38",
                 "sha256": "640a74b2cd55b0eae1feb6e285bba1e588a80bcea46516155e8a8844da9f523a"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk04of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk04of38",
                 "sha256": "a6b13fc877a2420ec2829852ad7b8486b85d3b4bb6a0727b39b72b7caa242b8e"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk05of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk05of38",
                 "sha256": "6c6d24d99ac82770e386f9c5b5d4e0e52c29b08ce9df757d35d334757dc9dfb1"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk06of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk06of38",
                 "sha256": "bd2accab7cbe6eddfe609d65b01f370ac2d401747313e874868300708c327c24"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk07of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk07of38",
                 "sha256": "cdc04fda75d3291e9c4ca7d6fdcf0c6da7e760a81f479c357b7d6c30a2c366c5"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk08of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk08of38",
                 "sha256": "6d04b9c706831763f0b22386e3dc5d3ebdbc4b06e3bbfa90767ce866a43a5171"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk09of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk09of38",
                 "sha256": "db0a06eb40b18e9aaba77c7d4db87b8c1b7eb240f4357276d4ccf6ad5546035d"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk10of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk10of38",
                 "sha256": "44e12f76df8d2364341450590ac744b37168e83566ad33673d7824f37277f2d7"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk11of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk11of38",
                 "sha256": "5df0556d1cdd4dc00ea67896a3bb46f6e61acf2f0ddd685d185337efd6db68b3"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk12of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk12of38",
                 "sha256": "d5af91a889948c7ae2e243d1d8cc9fa2a0424cd7e7e6e6ef7309ae36e86f4bef"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk13of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk13of38",
                 "sha256": "885a9368c224bb706ae110ffd56fbdda000a2d22f1d012624ce1f4ee47e2db6c"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk14of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk14of38",
                 "sha256": "3003eb45ef19b2109e82df4f77c0d09aab7d02de3cee06cb21dbb639710c5406"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk15of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk15of38",
                 "sha256": "a34ba8519076449613fd045ba5a26fc80d02e794a44575490073aeec6c437351"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk16of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk16of38",
                 "sha256": "a05daeed634368e9c5fccc7012158bc09346a3d6d7ec5fab48bbeb985890e559"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk17of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk17of38",
                 "sha256": "efb6faf98d186b61e9d913c7484882607506838a459400db260f0b14826fcf1b"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk18of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk18of38",
                 "sha256": "d683a46c1b3e4ca21db41f85ad8bee0671d0fdf9936b1d650eded8bdaea16aab"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk19of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk19of38",
                 "sha256": "b34f4c98a4f2feddc4fb3855a7f9f288889d1f21430cc8f813e878e82171e786"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk20of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk20of38",
                 "sha256": "5b7eae1a7ce48d5645503cdb256ae4c31a6173c0345b49a31e22260ca0b2d8f0"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk21of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk21of38",
                 "sha256": "5aa7384c4c1879329045d7b976beae994052b574dad2b44eb12c4f761b54ae56"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk22of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk22of38",
                 "sha256": "e330b93a9749b691c555772443e745c94ed969b1a9c8b73e00eed5b89abcb6c4"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk23of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk23of38",
                 "sha256": "37199f49b8edf3b6b020b1de99f672316ca19fc9229b8901a7759d05693715c8"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk24of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk24of38",
                 "sha256": "e38a6c86f5f1d2f9ff1a65687c247e3543b543adf6a9067d3d8d57113eab9501"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk25of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk25of38",
                 "sha256": "b54aa8d17a94a472a4740af4752ba036facb9202955ffa9d9bbd62349719cdd0"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk26of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk26of38",
                 "sha256": "f50f09923d37e17fd02cf79d1723009672e6769a7a3f83323094f43c03e37860"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk27of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk27of38",
                 "sha256": "670f9a195442423194e8c2d030fcaced8a6702d95ebc6dcac6d95b79671f2120"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk28of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk28of38",
                 "sha256": "5f7c46318cc171423b3146ccc7769aa8965ff9f29f8ec072edfa0f20f9cc9f18"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk29of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk29of38",
                 "sha256": "718153609fb5de07bb4191e74eb30e8e5fc0d88c97a3910eb85aced3c517705f"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk30of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk30of38",
                 "sha256": "1910e2fe6406de7193b0afc22f414e02a341931d2c3bc92561842a6b698e4e1d"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk31of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk31of38",
                 "sha256": "8c3116d4eb42fec187917aa1dc478826c7e610e9a2b9805992430668be93fc40"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk32of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk32of38",
                 "sha256": "c09e5125ef6d39aab246c0a12cb6750ab43ccd9e1dea3c21858a23ee57c0c6c2"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk33of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk33of38",
                 "sha256": "9d942b47b58353c2b0a00d28e76868ec45b38eaa0a4896b874fe47d2091aa276"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk34of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk34of38",
                 "sha256": "dd8afdb2f78d5ed0e76b84982b0c98e459d7b2c28969916ee514768299713ef7"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk35of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk35of38",
                 "sha256": "13522083684b8542aab42dbbb8ea2669557d1b1dea07b06b996c42dff68058e9"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk36of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk36of38",
                 "sha256": "1d0cdd3ae8648fc0400623fbf9ac8c6f3c2863a8fbaa9dc33ee228d9f8e06c7b"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk37of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk37of38",
                 "sha256": "7b950e500646402d714c9039d4bc87470cfbac3b99ffbb7372a0eb97ca49137e"
               },
               {
-                "file_name": "driving_ttttfbrlm_august_18_2026_tinygrad.pkl.chunk38of38",
+                "file_name": "driving_ttttfblrm_august_18_2026_tinygrad.pkl.chunk38of38",
                 "sha256": "6f04a883a4145d56cdd5460a918d7edf2534b405e2f3fed5e0a53956afb3635a"
               }
             ]
