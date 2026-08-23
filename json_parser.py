@@ -95,12 +95,10 @@ def main():
 
     is_big_model = meta.get("is_big")
     if is_big_model is None:
-        # Fallback for older metadata files without is_big field
-        is_big_model = any("big" in m.get("artifact", {}).get("file_name", "").lower() for m in meta.get("models", []))
-    
+      is_big_model = any("big" in m.get("artifact", {}).get("file_name", "").lower() for m in meta.get("models", []))
     is_big_json = "usbgpu" in args.json_path.lower()
     if is_big_model != is_big_json:
-        continue
+      continue
 
     bundle = None
     for b in driving_models_json["bundles"]:

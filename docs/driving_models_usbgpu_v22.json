@@ -178,7 +178,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": true
     },
     {
       "short_name": "TT",
@@ -357,7 +358,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": true
     },
     {
       "short_name": "TTTTFBRL",
@@ -536,7 +538,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": true
     },
     {
       "short_name": "BM",
@@ -715,7 +718,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": true
     },
     {
       "short_name": "IDM",
@@ -894,7 +898,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": true
     }
   ]
 }

@@ -34,7 +34,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "CHV2",
@@ -69,7 +70,8 @@
           }
         }
       ],
-      "build_time": "2026-08-18T23:22:32Z"
+      "build_time": "2026-08-18T23:22:32Z",
+      "is_big": false
     },
     {
       "short_name": "RH",
@@ -104,7 +106,8 @@
           }
         }
       ],
-      "build_time": "2026-08-18T23:09:32Z"
+      "build_time": "2026-08-18T23:09:32Z",
+      "is_big": false
     },
     {
       "short_name": "DA",
@@ -139,7 +142,8 @@
           }
         }
       ],
-      "build_time": "2026-08-18T23:01:18Z"
+      "build_time": "2026-08-18T23:01:18Z",
+      "is_big": false
     },
     {
       "short_name": "WD40",
@@ -174,7 +178,8 @@
           }
         }
       ],
-      "build_time": "2026-08-18T22:53:04Z"
+      "build_time": "2026-08-18T22:53:04Z",
+      "is_big": false
     },
     {
       "short_name": "NDV2",
@@ -209,7 +214,8 @@
           }
         }
       ],
-      "build_time": "2026-08-18T22:44:57Z"
+      "build_time": "2026-08-18T22:44:57Z",
+      "is_big": false
     },
     {
       "short_name": "ND",
@@ -244,7 +250,8 @@
           }
         }
       ],
-      "build_time": "2026-08-18T22:36:50Z"
+      "build_time": "2026-08-18T22:36:50Z",
+      "is_big": false
     },
     {
       "short_name": "FOF",
@@ -287,7 +294,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "SPVM",
@@ -330,7 +338,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "TR7",
@@ -373,7 +382,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "SGO",
@@ -416,7 +426,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "KD",
@@ -459,7 +470,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "LCD",
@@ -502,7 +514,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "VFOF",
@@ -545,7 +558,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "TR13",
@@ -588,7 +602,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "ATR",
@@ -631,7 +646,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "TR14",
@@ -674,7 +690,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "SPD",
@@ -717,7 +734,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "DTRV5",
@@ -760,7 +778,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "TR15",
@@ -803,7 +822,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "LTR14",
@@ -846,7 +866,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "TR16",
@@ -889,7 +910,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "SL2",
@@ -932,7 +954,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "SL3",
@@ -975,7 +998,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "DTRV6",
@@ -1018,7 +1042,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "UVDTRM",
@@ -1061,7 +1086,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "SPM",
@@ -1104,7 +1130,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "GMV3",
@@ -1147,7 +1174,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "FM",
@@ -1190,7 +1218,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "FBW",
@@ -1229,7 +1258,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "NM",
@@ -1272,7 +1302,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "GWMV5",
@@ -1315,7 +1346,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "GWMV6",
@@ -1358,7 +1390,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "GWMV8",
@@ -1401,7 +1434,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "TCPM",
@@ -1444,7 +1478,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "NNM",
@@ -1487,7 +1522,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "NNMV2",
@@ -1530,7 +1566,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "NID",
@@ -1573,7 +1610,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "TCPMV2",
@@ -1616,7 +1654,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "TCPMV3",
@@ -1659,7 +1698,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "GWMV9",
@@ -1702,7 +1742,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "CGWM",
@@ -1745,7 +1786,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "NDM",
@@ -1788,7 +1830,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "NDMV2",
@@ -1831,7 +1874,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "PM",
@@ -1878,7 +1922,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "DSM",
@@ -1921,7 +1966,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "PLANPLUS",
@@ -1968,7 +2014,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "DSMV2",
@@ -2011,7 +2058,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "MACROSTI",
@@ -2054,7 +2102,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "WMIV9",
@@ -2097,7 +2146,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "SCM",
@@ -2140,7 +2190,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "WMIV12",
@@ -2183,7 +2234,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "C210M",
@@ -2226,7 +2278,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "OPM",
@@ -2269,7 +2322,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "OMV2",
@@ -2312,7 +2366,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "OPMV3",
@@ -2351,7 +2406,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "OMV4",
@@ -2390,7 +2446,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "OMV5",
@@ -2429,7 +2486,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "PM",
@@ -2472,7 +2530,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "PMV2",
@@ -2515,7 +2574,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "OPM",
@@ -2558,7 +2618,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "OPM7",
@@ -2601,7 +2662,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "OPM8",
@@ -2644,7 +2706,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "OPMV10",
@@ -2687,7 +2750,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "OPM10V2",
@@ -2730,7 +2794,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "OPM10V3",
@@ -2773,7 +2838,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "OPM16D",
@@ -2812,7 +2878,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "MRLV2",
@@ -2851,7 +2918,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "RLM",
@@ -2890,7 +2958,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "GYHUM",
@@ -2929,7 +2998,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "RHM",
@@ -2968,7 +3038,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "RDFM",
@@ -3007,7 +3078,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "RDFMV2",
@@ -3046,7 +3118,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "TSFM",
@@ -3085,7 +3158,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "KV",
@@ -3128,7 +3202,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "FP",
@@ -3171,7 +3246,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     },
     {
       "short_name": "TSFDOM",
@@ -3210,7 +3286,8 @@
             ]
           }
         }
-      ]
+      ],
+      "is_big": false
     }
   ]
 }
