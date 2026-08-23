@@ -16,10 +16,10 @@ def make_model_url(recompiled_dir, folder, file_name):
   safe_file = urllib.parse.quote(file_name)
   return f"{base}{safe_folder}/{safe_file}"
 
-def update_bundle_models(bundle, meta_models, folder, recompiled_dir):
+def update_bundle_models(bundle, meta_models, folder, recompiled_dir, allow_big_models=False):
   filtered_meta_models = [
     m for m in meta_models
-    if "big" not in m["artifact"]["file_name"].lower()
+    if allow_big_models or "big" not in m["artifact"]["file_name"].lower()
   ]
   updated_models = []
   for meta_model in filtered_meta_models:
@@ -136,7 +136,8 @@ def main():
     bundle["display_name"] = display_name
     bundle["is_20hz"] = meta.get("is_20hz", bundle["is_20hz"])
     bundle["build_time"] = meta.get("build_time", bundle.get("build_time"))
-    update_bundle_models(bundle, meta["models"], folder, recompiled_dir_name)
+    allow_big_models = "usbgpu" in args.json_path.lower()
+    update_bundle_models(bundle, meta["models"], folder, recompiled_dir_name, allow_big_models=allow_big_models)
 
   if args.set_min_version is not None:
     for bundle in driving_models_json["bundles"]:
