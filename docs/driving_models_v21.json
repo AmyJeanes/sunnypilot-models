@@ -3207,7 +3207,7 @@
     },
     {
       "short_name": "FP",
-      "display_name": "Falling Phoenix (August 14, 2026)",
+      "display_name": "Falling Phoenix (August 14, 2026) (August 14, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "eff0854aad2a8908a6522382c78af96ce3810668",
@@ -3216,33 +3216,25 @@
       "index": 75,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-08-14T16:22:23Z",
+      "build_time": "2026-08-23T21:36:18Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl",
+            "file_name": "driving_falling_phoenix_august_14_2026_august_14_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled19/model-Falling%20Phoenix%20%28August%2014%2C%202026%29-233/driving_falling_phoenix_august_14_2026_tinygrad.pkl",
-              "sha256": "98a14361a5f0fb239c47f32e10dd3827aaf443f0e1b0c6d41a0abf1d3b2ce5d2"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled22/model-Falling%20Phoenix%20%28August%2014%2C%202026%29%20%28August%2014%2C%202026%29-379/driving_falling_phoenix_august_14_2026_august_14_2026_tinygrad.pkl",
+              "sha256": "4537b4de6dbc37a6604d6fdc8c1ad3895eb630bf22b1bc020d4715fd9c4d3698"
             },
             "chunks": [
               {
-                "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk01of04",
-                "sha256": "87b64c8f93302769323fbd98db94f64b524ff65b0690fc718e9794d3e1997386"
+                "file_name": "driving_falling_phoenix_august_14_2026_august_14_2026_tinygrad.pkl.chunk01of02",
+                "sha256": "ddd7c803e6c9a77d77d78d44e4cb420bb2d454221227ba18afb7cc7a100b226a"
               },
               {
-                "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk02of04",
-                "sha256": "d445b3944db920254c1cdfb0bcb356aec68eb42df5e61c8420771fef1e961680"
-              },
-              {
-                "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk03of04",
-                "sha256": "a839ca6e52fdb97b0c0437245b33fa830ae4deabf911bbbbcc48e24b8ecbc278"
-              },
-              {
-                "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk04of04",
-                "sha256": "0ca3003340eb72aa37932164f077970ee3d0ce24d9a3d83516446f5c1c677616"
+                "file_name": "driving_falling_phoenix_august_14_2026_august_14_2026_tinygrad.pkl.chunk02of02",
+                "sha256": "2579babd7ac1cde5f525c227bb6bd5a0ae88b04cafd82b119c3197a8dbfb8b1d"
               }
             ]
           }
