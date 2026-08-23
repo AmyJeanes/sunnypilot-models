@@ -3003,7 +3003,7 @@
     },
     {
       "short_name": "RHM",
-      "display_name": "Rebellious Hope Model (July 27, 2026)",
+      "display_name": "Rebellious Hope Model (July 27, 2026) (July 27, 2026)",
       "is_20hz": true,
       "is_big": false,
       "ref": "93f5aa469a72b7621aef7da7901c100e0113e4d9",
@@ -3012,29 +3012,29 @@
       "index": 70,
       "minimum_selector_version": "17",
       "generation": "12",
-      "build_time": "2026-08-18T21:58:25Z",
+      "build_time": "2026-08-23T21:14:23Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
+            "file_name": "driving_rebellious_hope_model_july_27_2026_july_27_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled20/model-Rebellious%20Hope%20Model%20%28July%2027%2C%202026%29-243/driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
-              "sha256": "acc6a50b729951790a565f7431ff5818be23c9f0ff5a86bc815bd5f0d2754ff7"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled22/model-Rebellious%20Hope%20Model%20%28July%2027%2C%202026%29%20%28July%2027%2C%202026%29-374/driving_rebellious_hope_model_july_27_2026_july_27_2026_tinygrad.pkl",
+              "sha256": "97428d98ad6d10e19b2daba8c877e02121a79697f3ca6efa94b4890fe1e24faa"
             },
             "chunks": [
               {
-                "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl.chunk01of03",
-                "sha256": "4d1e4b74bacf9d44c6178918ecd0f610c5f195e75d4e8534ee36ed2d2cbd91d2"
+                "file_name": "driving_rebellious_hope_model_july_27_2026_july_27_2026_tinygrad.pkl.chunk01of03",
+                "sha256": "2ec58b41f4be74dc8ec0d283da3dede3bc767ce7540fe546796105632fb71ad4"
               },
               {
-                "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl.chunk02of03",
-                "sha256": "a6579bead38f815014bf7ee52281f9b57cbf211cb98a6a11b5c60ede7c25928c"
+                "file_name": "driving_rebellious_hope_model_july_27_2026_july_27_2026_tinygrad.pkl.chunk02of03",
+                "sha256": "a683a8ed9106ecca3e576f2dbf258e75bf26625edc61d46fae085a06f7847a91"
               },
               {
-                "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl.chunk03of03",
-                "sha256": "2a43346f7d9f2732ff03f9b4b5ca8794dc7b52304b8d4da8e6ee3487271d274a"
+                "file_name": "driving_rebellious_hope_model_july_27_2026_july_27_2026_tinygrad.pkl.chunk03of03",
+                "sha256": "5347e9972daff2460f84bf06a812229e50cb4090f010bee487824361ef25c05e"
               }
             ]
           }
