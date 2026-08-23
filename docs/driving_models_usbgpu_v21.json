@@ -5,6 +5,7 @@
       "short_name": "LM",
       "display_name": "Lebowski Model (July 01, 2026)",
       "is_20hz": true,
+      "is_big": true,
       "ref": "fa0c6876d3cf070e91e25e5353ceadc68a5b3285",
       "environment": "development",
       "runner": "tinygrad",
@@ -178,13 +179,13 @@
             ]
           }
         }
-      ],
-      "is_big": true
+      ]
     },
     {
       "short_name": "TT",
       "display_name": "Tee Time (August 18, 2026)",
       "is_20hz": true,
+      "is_big": true,
       "ref": "ff27d6220e2869ede7ee3c83e7893ec06cb75551",
       "environment": "development",
       "runner": "tinygrad",
@@ -358,13 +359,13 @@
             ]
           }
         }
-      ],
-      "is_big": true
+      ]
     },
     {
       "short_name": "TTTTFBLR",
       "display_name": "TTTTFBLRM (August 18, 2026)",
       "is_20hz": true,
+      "is_big": true,
       "ref": "1d12f404b54dc8c5cadb73669ae27399ba35ba43",
       "environment": "development",
       "runner": "tinygrad",
@@ -538,13 +539,13 @@
             ]
           }
         }
-      ],
-      "is_big": true
+      ]
     },
     {
       "short_name": "IDM",
       "display_name": "I Desire Model (August 21, 2026)",
       "is_20hz": true,
+      "is_big": true,
       "ref": "6691f163a4ed8a9c4e2ca95efc29c04478ec0250",
       "environment": "development",
       "runner": "tinygrad",
@@ -718,8 +719,7 @@
             ]
           }
         }
-      ],
-      "is_big": true
+      ]
     }
   ]
 }

@@ -126,6 +126,7 @@ def main():
         "short_name": short_name,
         "display_name": display_name,
         "is_20hz": meta.get("is_20hz", False),
+        "is_big": is_big_model,
         "ref": ref,
         "environment": meta.get("environment", "development"),
         "runner": meta.get("runner", "tinygrad"),
@@ -142,6 +143,7 @@ def main():
     bundle["short_name"] = short_name
     bundle["display_name"] = display_name
     bundle["is_20hz"] = meta.get("is_20hz", bundle["is_20hz"])
+    bundle["is_big"] = is_big_model
     bundle["build_time"] = meta.get("build_time", bundle.get("build_time"))
     allow_big_models = "usbgpu" in args.json_path.lower()
     update_bundle_models(bundle, meta["models"], folder, recompiled_dir_name, allow_big_models=allow_big_models)
