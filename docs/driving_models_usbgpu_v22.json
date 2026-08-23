@@ -3,7 +3,7 @@
   "bundles": [
     {
       "short_name": "LM",
-      "display_name": "Lebowski Model (July 01, 2026) (July 01, 2026)",
+      "display_name": "Lebowski Model (July 01, 2026)",
       "is_20hz": true,
       "is_big": true,
       "ref": "fa0c6876d3cf070e91e25e5353ceadc68a5b3285",
