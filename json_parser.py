@@ -96,7 +96,7 @@ def main():
     is_big_model = meta.get("is_big")
     if is_big_model is None:
       is_big_model = any("big" in m.get("artifact", {}).get("file_name", "").lower() for m in meta.get("models", []))
-    is_big_json = "usbgpu" in args.json_path.lower()
+    is_big_json = "chestnut" in args.json_path.lower()
     if is_big_model != is_big_json:
       continue
 
@@ -145,7 +145,7 @@ def main():
     bundle["is_20hz"] = meta.get("is_20hz", bundle["is_20hz"])
     bundle["is_big"] = is_big_model
     bundle["build_time"] = meta.get("build_time", bundle.get("build_time"))
-    allow_big_models = "usbgpu" in args.json_path.lower()
+    allow_big_models = "chestnut" in args.json_path.lower()
     update_bundle_models(bundle, meta["models"], folder, recompiled_dir_name, allow_big_models=allow_big_models)
 
   if args.set_min_version is not None:
