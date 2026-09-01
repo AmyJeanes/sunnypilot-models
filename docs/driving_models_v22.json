@@ -308,33 +308,25 @@
       "index": 8,
       "minimum_selector_version": "19",
       "generation": "11",
-      "build_time": "2026-08-11T08:43:35Z",
+      "build_time": "2026-09-01T05:06:38Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".2", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_spvm_tinygrad.pkl",
+            "file_name": "driving_sp_vikander_model_may_03_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-SP%20Vikander%20Model%20%28May%2003%2C%202025%29-116/driving_spvm_tinygrad.pkl",
-              "sha256": "eba82b0d6a3801030eae52dcd4e1321bec23d36b03d058c48212db944aa5fbcd"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-SP%20Vikander%20Model%20%28May%2003%2C%202025%29-117/driving_sp_vikander_model_may_03_2025_tinygrad.pkl",
+              "sha256": "0e10579b4607c8293f82c40cdcb618bd6da3bbfe50675bf6e6d6cb74fc7c3c51"
             },
             "chunks": [
               {
-                "file_name": "driving_spvm_tinygrad.pkl.chunk01of04",
-                "sha256": "f355c36733a5cd374eb6c09d27f2760cdb71fe5d1770635b440fe13116834c2c"
+                "file_name": "driving_sp_vikander_model_may_03_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "2f9d44f8cc9f24762894e55d111d8a82e6ba25c03278105aa6386aa980e37192"
               },
               {
-                "file_name": "driving_spvm_tinygrad.pkl.chunk02of04",
-                "sha256": "c6315968b3496bf829da32333690094b5ed799823437e9c811601444d0e6021b"
-              },
-              {
-                "file_name": "driving_spvm_tinygrad.pkl.chunk03of04",
-                "sha256": "57d91f68ff121eb2f8a0e81ce8a5efbf4ad102b48d1ab358567b359979ec0bfd"
-              },
-              {
-                "file_name": "driving_spvm_tinygrad.pkl.chunk04of04",
-                "sha256": "4843635e3d5406063987accf6e51399ff335f436fc9dfc863217e28a4fdf9cdd"
+                "file_name": "driving_sp_vikander_model_may_03_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "da109c0067ed80e414308863e5a4482f40150bd7e10f9ee4af3e6b5da5caa400"
               }
             ]
           }
