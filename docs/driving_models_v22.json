@@ -552,33 +552,25 @@
       "index": 15,
       "minimum_selector_version": "19",
       "generation": "11",
-      "build_time": "2026-08-12T02:10:41Z",
+      "build_time": "2026-09-01T06:53:30Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_atr_tinygrad.pkl",
+            "file_name": "driving_aggressive_tr_june_28_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Aggressive%20TR%20%28June%2028%2C%202025%29-116/driving_atr_tinygrad.pkl",
-              "sha256": "c96211828113863fdb532559b58268676d9359f4b4dc19fce7567bb2c38a12b2"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Aggressive%20TR%20%28June%2028%2C%202025%29-117/driving_aggressive_tr_june_28_2025_tinygrad.pkl",
+              "sha256": "be18f1afb7c32226aebd14b13a00c5194ba4955c326a92de244902a0ea65da1e"
             },
             "chunks": [
               {
-                "file_name": "driving_atr_tinygrad.pkl.chunk01of04",
-                "sha256": "a5cd251972290101b0b7843e3cb639a69752f2efc17890d30d70995074d06c0a"
+                "file_name": "driving_aggressive_tr_june_28_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "7b4087c383f0b191deab2c5ebfed8ed84b443fd70938840f9ed0db0cface5545"
               },
               {
-                "file_name": "driving_atr_tinygrad.pkl.chunk02of04",
-                "sha256": "db35c2665b89ce28c2c7eb7cb1f0f819c79f6fc8d37cd6c3d0cb04c484ef3e6d"
-              },
-              {
-                "file_name": "driving_atr_tinygrad.pkl.chunk03of04",
-                "sha256": "b74c0c0ea908f4870137314325fb41cbd9dd04dd7f9786753c4aef67f823f661"
-              },
-              {
-                "file_name": "driving_atr_tinygrad.pkl.chunk04of04",
-                "sha256": "a4009bcb110225ac3cc4e78b4e0a70a05cd5195a26d16a053eef8de5705fa8bd"
+                "file_name": "driving_aggressive_tr_june_28_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "8cb67d8bc4ebf0acb68ec5888f3946017a59ea8bfadf08f58b9a757e69cccc29"
               }
             ]
           }
