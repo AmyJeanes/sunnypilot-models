@@ -480,33 +480,25 @@
       "index": 13,
       "minimum_selector_version": "19",
       "generation": "10",
-      "build_time": "2026-08-11T14:29:11Z",
+      "build_time": "2026-09-01T06:42:51Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_vfof_tinygrad.pkl",
+            "file_name": "driving_vegetarian_filet_o_fish_june_21_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-116/driving_vfof_tinygrad.pkl",
-              "sha256": "ab145ee77e4dd2e4d004794de386b234d9ae90211c628123b76e96e04f8cdcba"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-117/driving_vegetarian_filet_o_fish_june_21_2025_tinygrad.pkl",
+              "sha256": "d4234b64a0eb1405323b23705360f9cf6918f0f7f918a54c9430f22c85941ccd"
             },
             "chunks": [
               {
-                "file_name": "driving_vfof_tinygrad.pkl.chunk01of04",
-                "sha256": "8f27508bd9f73c0e07ad96fd67475abb487fe23aca33012c589e240887473133"
+                "file_name": "driving_vegetarian_filet_o_fish_june_21_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "07dbc87cf1b73e4849c5e82f580a6c3b3269a675c0569076ea08b9ec25df3145"
               },
               {
-                "file_name": "driving_vfof_tinygrad.pkl.chunk02of04",
-                "sha256": "5dad3157b7f2dc9302f027e28210993f12b93a08010168b1dd1da861db791e9a"
-              },
-              {
-                "file_name": "driving_vfof_tinygrad.pkl.chunk03of04",
-                "sha256": "561a369ec5a758d530b810fe84b9a1a8819301aaa6d4e6114f1a7ec8b0e8296f"
-              },
-              {
-                "file_name": "driving_vfof_tinygrad.pkl.chunk04of04",
-                "sha256": "a35830ca03a9fdadd9b85eb14548d071fa48415171aab57d7ec15036e10e93e1"
+                "file_name": "driving_vegetarian_filet_o_fish_june_21_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "e6720f894344e613757ca5f473cf61782a1e4119fc460b1a14fda944e94de5f3"
               }
             ]
           }
