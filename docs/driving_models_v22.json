@@ -1028,33 +1028,25 @@
       "index": 26,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-11T04:11:36Z",
+      "build_time": "2026-09-01T05:59:12Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_spm_tinygrad.pkl",
+            "file_name": "driving_steam_powered_model_august_16_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-116/driving_spm_tinygrad.pkl",
-              "sha256": "2f115fc0611fb34f21561ae60067ba54f4440aed236c1d61547058e144e137f2"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-117/driving_steam_powered_model_august_16_2025_tinygrad.pkl",
+              "sha256": "4b858a0c8cd8e4ef193d195e5773ebb4ef91c399e288d934539c033709ba95fc"
             },
             "chunks": [
               {
-                "file_name": "driving_spm_tinygrad.pkl.chunk01of04",
-                "sha256": "ddc2dbce5122a831f1b1ac5c10ce481ba775213571c01124641feef365ebef78"
+                "file_name": "driving_steam_powered_model_august_16_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "564748e8f8c97d74c82c8c3fc8f9914361a96294502c6e835be30f8ace487465"
               },
               {
-                "file_name": "driving_spm_tinygrad.pkl.chunk02of04",
-                "sha256": "c5dfeb99baec18e810d4c847767b9670a26d18323e1d663d4cd42b37a6f5aef4"
-              },
-              {
-                "file_name": "driving_spm_tinygrad.pkl.chunk03of04",
-                "sha256": "0c0558f70a0e72f2d9189d12eaafc596ed67301ed9d250a9af79db4fd3514929"
-              },
-              {
-                "file_name": "driving_spm_tinygrad.pkl.chunk04of04",
-                "sha256": "87047bc14c1898c83177b9e4cf918d6da373a8d4065957aac54b39aa7d36efef"
+                "file_name": "driving_steam_powered_model_august_16_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "a4438ec5d8cd1224a1765bbb36a35b6e95eddddd42e98834ab7aba5081694083"
               }
             ]
           }
