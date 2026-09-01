@@ -2072,29 +2072,25 @@
       "index": 55,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-11T01:58:53Z",
+      "build_time": "2026-09-01T06:37:45Z",
       "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_opmv3_tinygrad.pkl",
+            "file_name": "driving_off_policy_model_v3_february_26_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Off%20Policy%20Model%20v3%20%28February%2026%2C%202026%29-116/driving_opmv3_tinygrad.pkl",
-              "sha256": "80287f5fedbd6634aef0551e5b49b5a9658a76bfe72f875129521ae52862e49a"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Off%20Policy%20Model%20v3%20%28February%2026%2C%202026%29-117/driving_off_policy_model_v3_february_26_2026_tinygrad.pkl",
+              "sha256": "d2939061ba5e62084837a96ca0eefce1102cac97cc4f8db4f9aca8874dec3088"
             },
             "chunks": [
               {
-                "file_name": "driving_opmv3_tinygrad.pkl.chunk01of03",
-                "sha256": "3418d6c3d1b2f81e9db1b41a18b5f45e4a0d384ea9a15b91149fc0ba09d53786"
+                "file_name": "driving_off_policy_model_v3_february_26_2026_tinygrad.pkl.chunk01of02",
+                "sha256": "1b05c6cd9ef1cb7d1c24c84c73de17f524dd88885ce94b93b31b815f9768ca1c"
               },
               {
-                "file_name": "driving_opmv3_tinygrad.pkl.chunk02of03",
-                "sha256": "9c65240b5f96baeddb4489224760c8687f25d3ab0bc3a73a3c1bb3f721be974c"
-              },
-              {
-                "file_name": "driving_opmv3_tinygrad.pkl.chunk03of03",
-                "sha256": "6efe3a8eda3c0dac0826af4065a111d3f47f25431c0c639f8fdf00495f0eabba"
+                "file_name": "driving_off_policy_model_v3_february_26_2026_tinygrad.pkl.chunk02of02",
+                "sha256": "c386eb004ad5dcee750298f24f2808f46777c164af269b76e825a067fbc6b47e"
               }
             ]
           }
