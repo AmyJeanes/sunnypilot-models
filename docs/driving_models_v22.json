@@ -664,33 +664,25 @@
       "index": 17,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-11T07:26:22Z",
+      "build_time": "2026-09-01T06:15:09Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_spd_tinygrad.pkl",
+            "file_name": "driving_simple_plan_driving_july_07_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-116/driving_spd_tinygrad.pkl",
-              "sha256": "864628b202e0dd5fd7e26b3fd17d49a7f9bac654ed1df87a3c9c492664e4fbf6"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-117/driving_simple_plan_driving_july_07_2025_tinygrad.pkl",
+              "sha256": "cb41a623a21b18d55dfa77e5b4a48641ece1648ee58bad6e002eced75bb777ef"
             },
             "chunks": [
               {
-                "file_name": "driving_spd_tinygrad.pkl.chunk01of04",
-                "sha256": "b860d29b030b3d2d51aa133932eb2100a389b2593d94d77c46ab3d2fe880ed3a"
+                "file_name": "driving_simple_plan_driving_july_07_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "acc1442d42340f48c737430715b73f3aab5c7d12241068b672d9cabb6e0af4be"
               },
               {
-                "file_name": "driving_spd_tinygrad.pkl.chunk02of04",
-                "sha256": "33fcef738df5a4459ef714ab7fe8cd85c9b8713e9ffddd4022693de3769368de"
-              },
-              {
-                "file_name": "driving_spd_tinygrad.pkl.chunk03of04",
-                "sha256": "107c970e78eccf0ef4902583e02df599bfb2d146b7a3182bd5672778b1a897b6"
-              },
-              {
-                "file_name": "driving_spd_tinygrad.pkl.chunk04of04",
-                "sha256": "1295b9698e382c60a886d7227c6ac15744becab87760cde7479b974cf7cb6fa5"
+                "file_name": "driving_simple_plan_driving_july_07_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "dee1a966005ee79b75d7e44f5b50b9ede20a65010e74672de5eba418b9be8fe8"
               }
             ]
           }
