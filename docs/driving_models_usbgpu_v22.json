@@ -1273,7 +1273,7 @@
       "minimum_selector_version": "18",
       "generation": "12",
       "build_time": "2026-08-27T03:12:45Z",
-      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
