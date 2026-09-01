@@ -380,33 +380,25 @@
       "index": 10,
       "minimum_selector_version": "19",
       "generation": "11",
-      "build_time": "2026-08-11T03:11:43Z",
+      "build_time": "2026-09-01T05:43:49Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_sgo_tinygrad.pkl",
+            "file_name": "driving_secret_good_openpilot_may_16_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-116/driving_sgo_tinygrad.pkl",
-              "sha256": "227f591aeced2c296310f9e2ea9240281b8795f11fe92093a2ee94fde81d9ec0"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-117/driving_secret_good_openpilot_may_16_2025_tinygrad.pkl",
+              "sha256": "96136035025972a2de269545a1d5de937a126f531de1c837a743a2779836d948"
             },
             "chunks": [
               {
-                "file_name": "driving_sgo_tinygrad.pkl.chunk01of04",
-                "sha256": "441d1701e4445024f704ec488fc454d994e0eec0162fc0f14fec5f47253f3efd"
+                "file_name": "driving_secret_good_openpilot_may_16_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "13cff7a4d238252627bb0fe8010cb0dab5064c1ffbe2277db42d9912a7e21d5e"
               },
               {
-                "file_name": "driving_sgo_tinygrad.pkl.chunk02of04",
-                "sha256": "10a0530f2e13ca38a23b655e0c40435fabd794f871f9f247ce02fcb9346b4b23"
-              },
-              {
-                "file_name": "driving_sgo_tinygrad.pkl.chunk03of04",
-                "sha256": "f9c18289f84a473f68e66b7b3c75fafc21c18a6e1f4ea5ecf274251926306b50"
-              },
-              {
-                "file_name": "driving_sgo_tinygrad.pkl.chunk04of04",
-                "sha256": "195a2c9eee1f8aaae12f83f0ef7ce1fd829228109a33020b393e354e2f4f2563"
+                "file_name": "driving_secret_good_openpilot_may_16_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "fa6105cacf2c67ebfb7411caee7dd30f12da2da9fde72d5ee8d79d82c5593bf3"
               }
             ]
           }
