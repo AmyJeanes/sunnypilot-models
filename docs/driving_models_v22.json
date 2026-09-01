@@ -1184,29 +1184,25 @@
       "index": 29,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-11T14:53:30Z",
+      "build_time": "2026-09-01T05:27:59Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_fbw_tinygrad.pkl",
+            "file_name": "driving_fly_by_wire_september_04_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-116/driving_fbw_tinygrad.pkl",
-              "sha256": "4717724c80c4d64a8e93401c2e36fa593696a733bf57be0bdd0056a12eef8708"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-117/driving_fly_by_wire_september_04_2025_tinygrad.pkl",
+              "sha256": "cbe90a7e5994dca39b0f224e5e2c8a06a78ba4822e17ddfd7778e7298d85aa3f"
             },
             "chunks": [
               {
-                "file_name": "driving_fbw_tinygrad.pkl.chunk01of03",
-                "sha256": "a9e41c51b8220bdf3e8f337ca5870457b6227442b7d05f2198e91028c78d2806"
+                "file_name": "driving_fly_by_wire_september_04_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "cc2ddeedf4ebb51ed1ed097e88731f4e5819e2e7f1e0e9c280011b6f3e4f77ed"
               },
               {
-                "file_name": "driving_fbw_tinygrad.pkl.chunk02of03",
-                "sha256": "0c7b1e9eeedbeece3d5d33739187598d002e69321410568606905e239a2114fa"
-              },
-              {
-                "file_name": "driving_fbw_tinygrad.pkl.chunk03of03",
-                "sha256": "77c0e51e18d93ee6ebde67b52b4539391eace8d6c094a2d9946d5b5b16bf4a1e"
+                "file_name": "driving_fly_by_wire_september_04_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "fb6478c6061cbbd3dad55c2c82c2a81c541651558bb5430feb89efc9df3eb861"
               }
             ]
           }
