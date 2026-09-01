@@ -2716,25 +2716,25 @@
       "index": 74,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-23T21:38:51Z",
+      "build_time": "2026-09-01T07:32:17Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_kumars_vibe_august_14_2026_august_14_2026_tinygrad.pkl",
+            "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled22/model-Kumars%20Vibe%20%20%28August%2014%2C%202026%29%20%28August%2014%2C%202026%29-378/driving_kumars_vibe_august_14_2026_august_14_2026_tinygrad.pkl",
-              "sha256": "dbe556b085b13ccd9a265c84f167a7d36e9002c4304d2a15e2ad85abe702ef95"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Kumars%20Vibe%20%28August%2014%2C%202026%29-117/driving_kumars_vibe_august_14_2026_tinygrad.pkl",
+              "sha256": "8b4f8e1368e71371c2e6f096394b028d205a2d959923395c7d40a5a910ed0a0e"
             },
             "chunks": [
               {
-                "file_name": "driving_kumars_vibe_august_14_2026_august_14_2026_tinygrad.pkl.chunk01of02",
-                "sha256": "1fca421cd250e557ede133ff2b5106bd51b439c3bf3a0f27711299f2fc576a08"
+                "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl.chunk01of02",
+                "sha256": "c3cd94debc0814a76135583d107f89c4a182f0862bd73409f77c22c3d59e3e2f"
               },
               {
-                "file_name": "driving_kumars_vibe_august_14_2026_august_14_2026_tinygrad.pkl.chunk02of02",
-                "sha256": "fc85e75d93f9e2d556425b7a0f7f70335dfc90e7f904f916042db717504ffcfe"
+                "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl.chunk02of02",
+                "sha256": "af7da0b7302673ca31d4b9ccc6415329a7bef4d26a1a0b443b63a85c45ce20f4"
               }
             ]
           }
