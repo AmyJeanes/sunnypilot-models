@@ -2004,33 +2004,25 @@
       "index": 50,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-11T02:47:40Z",
+      "build_time": "2026-09-01T05:55:09Z",
       "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_scm_tinygrad.pkl",
+            "file_name": "driving_sc_model_january_08_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-SC%20Model%20%28January%2008%2C%202026%29-116/driving_scm_tinygrad.pkl",
-              "sha256": "e479b3bcdc550a40348fdb2f206f5b31ba85ae147c23c2faf2359a148cb020fb"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-SC%20Model%20%28January%2008%2C%202026%29-117/driving_sc_model_january_08_2026_tinygrad.pkl",
+              "sha256": "b67f3c69a82346a8bbc8018a14fe0924fe0da926f99edc8c4c4472f7a07de77c"
             },
             "chunks": [
               {
-                "file_name": "driving_scm_tinygrad.pkl.chunk01of04",
-                "sha256": "4598a28aeecdbb689bd9ecbbc435f1326e2c5584ef5d7aba9dab516632451658"
+                "file_name": "driving_sc_model_january_08_2026_tinygrad.pkl.chunk01of02",
+                "sha256": "4145e5b76b45b2468e9d9f7ebdf7b2c6e7a48d35e0dd4ffe99a7341cc31a817a"
               },
               {
-                "file_name": "driving_scm_tinygrad.pkl.chunk02of04",
-                "sha256": "2001d2e5b0773073664413475463b62f3004e12147726f60c27af6d789a3ab39"
-              },
-              {
-                "file_name": "driving_scm_tinygrad.pkl.chunk03of04",
-                "sha256": "58495448ae811623833046fab3f93bd69ddbbae9edc599ea89a265e251a359f8"
-              },
-              {
-                "file_name": "driving_scm_tinygrad.pkl.chunk04of04",
-                "sha256": "0fcbad7054765687668022dc6383400e47a2e0045178faf23a07c38413e7ac95"
+                "file_name": "driving_sc_model_january_08_2026_tinygrad.pkl.chunk02of02",
+                "sha256": "ce502c23a9dc9dc782527cf84c84586a1773634cc3bbdec8b94b9a92efabdfcf"
               }
             ]
           }
