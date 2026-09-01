@@ -1888,33 +1888,25 @@
       "index": 51,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-11T12:10:08Z",
+      "build_time": "2026-09-01T06:48:08Z",
       "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_wmiv12_tinygrad.pkl",
+            "file_name": "driving_wmi_v12_january_13_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-WMI%20V12%20%28January%2013%2C%202026%29-116/driving_wmiv12_tinygrad.pkl",
-              "sha256": "2cb7f1b15b8d6e2101cd673191adf95ec9b80afe7a0fd374cc176f39342171f7"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-WMI%20V12%20%28January%2013%2C%202026%29-117/driving_wmi_v12_january_13_2026_tinygrad.pkl",
+              "sha256": "64fbc3fe5457e66c92b458f26f424db32fce6c44acdcd4ba35a7b3d2e9a0012f"
             },
             "chunks": [
               {
-                "file_name": "driving_wmiv12_tinygrad.pkl.chunk01of04",
-                "sha256": "d23f16bfb038e1c488fb07c48418e40d34834a2e15732e03fe0f27c979ebc33c"
+                "file_name": "driving_wmi_v12_january_13_2026_tinygrad.pkl.chunk01of02",
+                "sha256": "c1773e063e952f328b0eb51a920fcb4ec1293773edcf5c07a297bfcb6e635b5f"
               },
               {
-                "file_name": "driving_wmiv12_tinygrad.pkl.chunk02of04",
-                "sha256": "7b56cb5168ab39e63165189ac50faf3ded225dd3c4477f5a2d6e4013b9a95baa"
-              },
-              {
-                "file_name": "driving_wmiv12_tinygrad.pkl.chunk03of04",
-                "sha256": "2e11124c6cb400c3dbaa3b13102b8d0b7bdce2c4810ed1e13af41eedf4229b15"
-              },
-              {
-                "file_name": "driving_wmiv12_tinygrad.pkl.chunk04of04",
-                "sha256": "5dd3adce9e36dd62c40fc05f52ee7d565e89246af6894495533fefb22d534d3c"
+                "file_name": "driving_wmi_v12_january_13_2026_tinygrad.pkl.chunk02of02",
+                "sha256": "20df354758576de41b492a70c5ded67b70195da540cd1902b733e720c4757d8d"
               }
             ]
           }
