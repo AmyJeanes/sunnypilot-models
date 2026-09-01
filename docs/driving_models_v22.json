@@ -736,33 +736,25 @@
       "index": 19,
       "minimum_selector_version": "19",
       "generation": "11",
-      "build_time": "2026-08-11T01:34:30Z",
+      "build_time": "2026-09-01T06:16:00Z",
       "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_tr15_tinygrad.pkl",
+            "file_name": "driving_tomb_raider_15_july_11_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Tomb%20Raider%2015%20%28July%2011%2C%202025%29-116/driving_tr15_tinygrad.pkl",
-              "sha256": "c89d2e906177257b98da85e21ddb7fdfa54db649f79b504eb5636d48a90f1461"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Tomb%20Raider%2015%20%28July%2011%2C%202025%29-117/driving_tomb_raider_15_july_11_2025_tinygrad.pkl",
+              "sha256": "8016210c267ba8532fa009c31338049085172aa6e18b9629943a36095cfa8aae"
             },
             "chunks": [
               {
-                "file_name": "driving_tr15_tinygrad.pkl.chunk01of04",
-                "sha256": "98afc6b3528f073b9437c507806e736ec4de1e6bb617c4df2e872d494a808958"
+                "file_name": "driving_tomb_raider_15_july_11_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "57b40176d260ad1c0c89f142160cd337de67ba712eaa812686be0c6a33777dd9"
               },
               {
-                "file_name": "driving_tr15_tinygrad.pkl.chunk02of04",
-                "sha256": "560b90f811443122bcbc497101f2e0a603b61be8977412f5200fb4954195966e"
-              },
-              {
-                "file_name": "driving_tr15_tinygrad.pkl.chunk03of04",
-                "sha256": "df9a83e4ef25a125bc30f80b25b63bdd3c685b7e6136c97f68ac79e7c4ad1072"
-              },
-              {
-                "file_name": "driving_tr15_tinygrad.pkl.chunk04of04",
-                "sha256": "1a425140e77626807323cb2846538dd682484d78b3b31819cf59a9f22a2d9338"
+                "file_name": "driving_tomb_raider_15_july_11_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "7091ac5bed26990915219054293b41fbb2322d9f39bb8713758609d706b955cf"
               }
             ]
           }
