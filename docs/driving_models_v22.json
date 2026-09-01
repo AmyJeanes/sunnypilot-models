@@ -2008,33 +2008,25 @@
       "index": 53,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-11T10:45:55Z",
+      "build_time": "2026-09-01T06:33:05Z",
       "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_opm_tinygrad.pkl",
+            "file_name": "driving_off_policy_model_february_04_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-off%20policy%20model%20%28February%2004%2C%202026%29-116/driving_opm_tinygrad.pkl",
-              "sha256": "f5e8c7938c5b49615ca69a63db8ca1562fab3021fdd33f640bef7f8df9572b35"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-off%20policy%20model%20%28February%2004%2C%202026%29-117/driving_off_policy_model_february_04_2026_tinygrad.pkl",
+              "sha256": "f7dc362df053c02540934c6b3f807ba6559ade5daa3b9a1f398f3c4f65f1b201"
             },
             "chunks": [
               {
-                "file_name": "driving_opm_tinygrad.pkl.chunk01of04",
-                "sha256": "47dbbe1e4d441918a2f35e7a558b4c58f0e6211d7b284adbcbdeb4bed92fb977"
+                "file_name": "driving_off_policy_model_february_04_2026_tinygrad.pkl.chunk01of02",
+                "sha256": "007031d7693727346821e3a583bb6ce8aca4a653ef7c438a936970a3c6a4df94"
               },
               {
-                "file_name": "driving_opm_tinygrad.pkl.chunk02of04",
-                "sha256": "0037030d71e59d9079bdfc569ae8aa74b6d934844369be7c46e22a80d450655c"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk03of04",
-                "sha256": "b66a06b02ac12c4fd9f57293105279b0e9020b1f703af132f9e743a928acb506"
-              },
-              {
-                "file_name": "driving_opm_tinygrad.pkl.chunk04of04",
-                "sha256": "5abe5582cbde24430989ff461fb5b90d2f9a718b55222ec17d9c107b41532444"
+                "file_name": "driving_off_policy_model_february_04_2026_tinygrad.pkl.chunk02of02",
+                "sha256": "3dd9c8c9b17f9951ad401282536261592ede923359833aced1af7dc47d2705c4"
               }
             ]
           }
