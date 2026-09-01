@@ -820,33 +820,25 @@
       "index": 22,
       "minimum_selector_version": "19",
       "generation": "11",
-      "build_time": "2026-08-11T05:11:56Z",
+      "build_time": "2026-09-01T06:38:58Z",
       "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_sl2_tinygrad.pkl",
+            "file_name": "driving_space_lab_2_july_26_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Space%20Lab%202%20%28July%2026%2C%202025%29-116/driving_sl2_tinygrad.pkl",
-              "sha256": "2049d24886eb51aa9096514c19e0b8793e4975fedc6cb05dfffcaa2d0b572dd8"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Space%20Lab%202%20%28July%2026%2C%202025%29-117/driving_space_lab_2_july_26_2025_tinygrad.pkl",
+              "sha256": "bf3f218e28124410571bc2492d28b55e3684a4ac1c51c70fb09f463c159a5fa5"
             },
             "chunks": [
               {
-                "file_name": "driving_sl2_tinygrad.pkl.chunk01of04",
-                "sha256": "21134910b65068977f20ca15f39d0cf879fb3efc338c99e2770bd9cbf8bdf04d"
+                "file_name": "driving_space_lab_2_july_26_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "05d9453bc25d79ab87172ab279d6d2755a79e9e532acb468b53ce2e3829d42ee"
               },
               {
-                "file_name": "driving_sl2_tinygrad.pkl.chunk02of04",
-                "sha256": "39f8bf02e97f0761be48c23718cf43b9a1fd97f0e2c3a8dbdf5381d087fc0d54"
-              },
-              {
-                "file_name": "driving_sl2_tinygrad.pkl.chunk03of04",
-                "sha256": "e4146f28d7ac95ad1f08769aa66b9e835e383e74f8dde6600c3e94e86eab833c"
-              },
-              {
-                "file_name": "driving_sl2_tinygrad.pkl.chunk04of04",
-                "sha256": "ed79246583bee22ecd392946603d5e299976543204db89260e69b402a06b13bb"
+                "file_name": "driving_space_lab_2_july_26_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "ddff56fc500f487e94bdf5a56e806cf759db100bfeb903986fea14f370137cd7"
               }
             ]
           }
