@@ -2208,29 +2208,25 @@
       "index": 56,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-12T01:33:48Z",
+      "build_time": "2026-09-01T06:10:43Z",
       "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_omv4_tinygrad.pkl",
+            "file_name": "driving_off_policy_model_v4_february_27_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Off-Policy%20Model%20V4%20%28February%2027%2C%202026%29-116/driving_omv4_tinygrad.pkl",
-              "sha256": "f3d35e379de64280881fc76031704cf904ae014474fbef8133c7358b02c939c2"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Off-Policy%20Model%20V4%20%28February%2027%2C%202026%29-117/driving_off_policy_model_v4_february_27_2026_tinygrad.pkl",
+              "sha256": "23100382bf0ab5aadf52470c20fb8830351e2529cb8ee68621c19c2c97df1065"
             },
             "chunks": [
               {
-                "file_name": "driving_omv4_tinygrad.pkl.chunk01of03",
-                "sha256": "f4d400c2890d4177aba814f43db83beb8be914f1ed20684088f650d5310be4a2"
+                "file_name": "driving_off_policy_model_v4_february_27_2026_tinygrad.pkl.chunk01of02",
+                "sha256": "7ff0fd11844321344bf32af276824165e3436103f4461ef808ceacc2ab8c6d63"
               },
               {
-                "file_name": "driving_omv4_tinygrad.pkl.chunk02of03",
-                "sha256": "84d1e41e9951399e7401a9818b3dc79d2bdad2942b1a829e92862b45018fa6cd"
-              },
-              {
-                "file_name": "driving_omv4_tinygrad.pkl.chunk03of03",
-                "sha256": "47205620bdaf52bbb8b567021e2b3bb258c7583e20d36da16909d9bf4e2267f5"
+                "file_name": "driving_off_policy_model_v4_february_27_2026_tinygrad.pkl.chunk02of02",
+                "sha256": "642788188b094976ba7adf29262e50ee7ffa110e4bf973f2691d5a0856dc9464"
               }
             ]
           }
