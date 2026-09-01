@@ -1540,33 +1540,25 @@
       "index": 38,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-12T01:45:39Z",
+      "build_time": "2026-09-01T05:39:33Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_tcpmv2_tinygrad.pkl",
+            "file_name": "driving_the_cool_peoples_model_v2_october_09_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-116/driving_tcpmv2_tinygrad.pkl",
-              "sha256": "a0de8f3e87f94b92063af8d27bdeb11f0430fd66b8748f2195505c0a073841a6"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-117/driving_the_cool_peoples_model_v2_october_09_2025_tinygrad.pkl",
+              "sha256": "b701110e974931495f280568d937470e860a64222a5a51174040bd04c340ebc9"
             },
             "chunks": [
               {
-                "file_name": "driving_tcpmv2_tinygrad.pkl.chunk01of04",
-                "sha256": "cbe64856ebd85a79c6c0e77a1213239fb1e9c2607031e248cf0d2322fe348fa1"
+                "file_name": "driving_the_cool_peoples_model_v2_october_09_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "792504579a47e63d89b68280b437952195a3afa63814d4d6bb209f59c343f574"
               },
               {
-                "file_name": "driving_tcpmv2_tinygrad.pkl.chunk02of04",
-                "sha256": "8f8611dbb12783dccc3a02ffc400c6d26c26a9171f7ce538c4a612142ff6733a"
-              },
-              {
-                "file_name": "driving_tcpmv2_tinygrad.pkl.chunk03of04",
-                "sha256": "83c5efd7ca9f23bac048e7e976bcad8d36e4cb923cccae5f8b905176f8264fb4"
-              },
-              {
-                "file_name": "driving_tcpmv2_tinygrad.pkl.chunk04of04",
-                "sha256": "63c9be367c3975076eac2af50c2e3e4dbf5aff51fa4209643659994656cdf4ab"
+                "file_name": "driving_the_cool_peoples_model_v2_october_09_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "2fa7f22c53408fdbee094c48b39ab3f9298a92d1cf2b1e802e65d6e6d93e52f7"
               }
             ]
           }
