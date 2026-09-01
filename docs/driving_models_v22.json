@@ -992,33 +992,25 @@
       "index": 25,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-11T04:47:48Z",
+      "build_time": "2026-09-01T05:51:38Z",
       "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_uvdtrm_tinygrad.pkl",
+            "file_name": "driving_uv_dtr_model_august_13_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-116/driving_uvdtrm_tinygrad.pkl",
-              "sha256": "a4bef3c5079588b2466826f2d75012956a2870a0600a484f0411656e27cc300f"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-117/driving_uv_dtr_model_august_13_2025_tinygrad.pkl",
+              "sha256": "4660458d876dfd29f5147303b446bc5cddf3dc0bbbe0b7a39c33750847e526b7"
             },
             "chunks": [
               {
-                "file_name": "driving_uvdtrm_tinygrad.pkl.chunk01of04",
-                "sha256": "58ff233c6e469c554199d8e97d1d9cb2f8526415a3656bbeb62db142332a8200"
+                "file_name": "driving_uv_dtr_model_august_13_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "28b2ede19ab2b7587e531313d2be1506e2278f3cd6bed4e033a9e5b6e290d39d"
               },
               {
-                "file_name": "driving_uvdtrm_tinygrad.pkl.chunk02of04",
-                "sha256": "a7ea12b44eba05fbb7119e8870a3509608fdb002c75a018e4d72936ecb73fcc0"
-              },
-              {
-                "file_name": "driving_uvdtrm_tinygrad.pkl.chunk03of04",
-                "sha256": "76f24d5c0926dff9e0e0bab2c711b29db90901d9b1ac4559a21f42f5b7143b8f"
-              },
-              {
-                "file_name": "driving_uvdtrm_tinygrad.pkl.chunk04of04",
-                "sha256": "e87ef11259be7178aeddbb6c3e94522a29d50d7ac0609c1f63ca1b41f3a328ac"
+                "file_name": "driving_uv_dtr_model_august_13_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "fb8ceeb0a321ecf360a27959c2aa7441d9e5dafe5500c37f82e774f986a58bf2"
               }
             ]
           }
