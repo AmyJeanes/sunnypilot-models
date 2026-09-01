@@ -2752,25 +2752,25 @@
       "index": 75,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-23T21:36:18Z",
+      "build_time": "2026-09-01T07:29:50Z",
       "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_falling_phoenix_august_14_2026_august_14_2026_tinygrad.pkl",
+            "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled22/model-Falling%20Phoenix%20%28August%2014%2C%202026%29%20%28August%2014%2C%202026%29-379/driving_falling_phoenix_august_14_2026_august_14_2026_tinygrad.pkl",
-              "sha256": "4537b4de6dbc37a6604d6fdc8c1ad3895eb630bf22b1bc020d4715fd9c4d3698"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Falling%20Phoenix%20%28August%2014%2C%202026%29-117/driving_falling_phoenix_august_14_2026_tinygrad.pkl",
+              "sha256": "29c73c8ec35c27bd54d8ba63cb0f05a16b8be9d660bd9bbc247435d8d85cea63"
             },
             "chunks": [
               {
-                "file_name": "driving_falling_phoenix_august_14_2026_august_14_2026_tinygrad.pkl.chunk01of02",
-                "sha256": "ddd7c803e6c9a77d77d78d44e4cb420bb2d454221227ba18afb7cc7a100b226a"
+                "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk01of02",
+                "sha256": "c49baa6d4b3009495ea7dac0218cf51f184aacc9377680e572e7794efcc0697c"
               },
               {
-                "file_name": "driving_falling_phoenix_august_14_2026_august_14_2026_tinygrad.pkl.chunk02of02",
-                "sha256": "2579babd7ac1cde5f525c227bb6bd5a0ae88b04cafd82b119c3197a8dbfb8b1d"
+                "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl.chunk02of02",
+                "sha256": "8b281e510b1f1739995676654c4c365ef5779ea96c1e2aec6dd52f1280568bae"
               }
             ]
           }
