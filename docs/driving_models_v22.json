@@ -1792,33 +1792,25 @@
       "index": 47,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-11T02:35:50Z",
+      "build_time": "2026-09-01T06:26:25Z",
       "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_dsmv2_tinygrad.pkl",
+            "file_name": "driving_dark_souls_model_v2_december_11_2025_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-Dark%20Souls%20Model%20v2%20%28December%2011%2C%202025%29-116/driving_dsmv2_tinygrad.pkl",
-              "sha256": "bfd9f4962b27cd173817bb7bd7883fba7dc84f238daf6cda386c031a12538b28"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Dark%20Souls%20Model%20v2%20%28December%2011%2C%202025%29-117/driving_dark_souls_model_v2_december_11_2025_tinygrad.pkl",
+              "sha256": "d646eaf366f98e55c72f8066e2e44b295dc8fc2af646a36994ffa825e658aaf6"
             },
             "chunks": [
               {
-                "file_name": "driving_dsmv2_tinygrad.pkl.chunk01of04",
-                "sha256": "f3ff43459161f642e79402fa1ea86cc1cfa4f58fe47c1b8a12a6b7980240c293"
+                "file_name": "driving_dark_souls_model_v2_december_11_2025_tinygrad.pkl.chunk01of02",
+                "sha256": "a7912e98051fbd8727530c46cfad68349b48b0a73dc28e184832b39be7eacb40"
               },
               {
-                "file_name": "driving_dsmv2_tinygrad.pkl.chunk02of04",
-                "sha256": "7f3b4d37330a01d8f1f024d39c8a09f29048f2695127891e4d2ad7a6e315e42a"
-              },
-              {
-                "file_name": "driving_dsmv2_tinygrad.pkl.chunk03of04",
-                "sha256": "8ae0bf6d322af15d0ab9010ee97953fe8eca592c39ef8757644a03972b5a8932"
-              },
-              {
-                "file_name": "driving_dsmv2_tinygrad.pkl.chunk04of04",
-                "sha256": "07e5b43fb4892fda5678367e2c205bd45b467d4be5d382d0d5624f4b3358362c"
+                "file_name": "driving_dark_souls_model_v2_december_11_2025_tinygrad.pkl.chunk02of02",
+                "sha256": "3dba82474110b5ddb6efa553964ab2f2b93f3d45b17e19553c62b0a19900b53c"
               }
             ]
           }
