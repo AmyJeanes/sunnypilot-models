@@ -1932,33 +1932,25 @@
       "index": 52,
       "minimum_selector_version": "19",
       "generation": "12",
-      "build_time": "2026-08-11T03:23:44Z",
+      "build_time": "2026-09-01T06:47:13Z",
       "overrides": { "folder": "Release Models", "lat": ".0", "long": ".3" },
       "models": [
         {
           "type": "chunked",
           "artifact": {
-            "file_name": "driving_c210m_tinygrad.pkl",
+            "file_name": "driving_cd210_model_february_03_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://gitlab.com/sunnypilot/public/docs.sunnypilot.ai9/-/raw/main/models/recompiled19/model-CD210%20Model%20%28February%2003%2C%202026%29-116/driving_c210m_tinygrad.pkl",
-              "sha256": "57e0d53fb2d61a726d36f83bd5e637cff5c80f8228f3082233e00a1faa5860cf"
+              "url": "https://huggingface.co/datasets/sunnypilot/sunnypilot_models_v1/resolve/main/models/recompiled23/model-CD210%20Model%20%28February%2003%2C%202026%29-117/driving_cd210_model_february_03_2026_tinygrad.pkl",
+              "sha256": "da573631cea88f6b6b6bea29c650734ea1ae7f6c2bc760a330d54165c5e1b4c1"
             },
             "chunks": [
               {
-                "file_name": "driving_c210m_tinygrad.pkl.chunk01of04",
-                "sha256": "c9be1c22460c5f288a119bb951ddd9035cb4283eba8255c22f916546c109c467"
+                "file_name": "driving_cd210_model_february_03_2026_tinygrad.pkl.chunk01of02",
+                "sha256": "37f19b3f41f4721259b883ca5e3ac2479287786d5252e8835e29432e6d4c98f0"
               },
               {
-                "file_name": "driving_c210m_tinygrad.pkl.chunk02of04",
-                "sha256": "230d57fee1e6ad78d6672f535a2ec1509a61c01128b6924313b62ccb2be6ac83"
-              },
-              {
-                "file_name": "driving_c210m_tinygrad.pkl.chunk03of04",
-                "sha256": "875e69d661552dbb5046593533e551b44b9973104aed93e3351f9383585a341f"
-              },
-              {
-                "file_name": "driving_c210m_tinygrad.pkl.chunk04of04",
-                "sha256": "6160b583a355765aec43c21daee7ef5b1f40affc14df36536b81c1dff002ddf2"
+                "file_name": "driving_cd210_model_february_03_2026_tinygrad.pkl.chunk02of02",
+                "sha256": "e7039a1d9867943cec8552ec19ac1cdba4252647394cade7baad1aada774c5d7"
               }
             ]
           }
