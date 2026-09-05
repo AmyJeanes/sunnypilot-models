@@ -1,4 +1,31 @@
 {
   "tinygrad_ref": "e837e367aac9e1a66e689f4f32ce20ca9367df13",
-  "bundles": []
+  "bundles": [
+    {
+      "short_name": "BMV6",
+      "display_name": "BMRLNAP Model v6 (September 01, 2026)",
+      "is_20hz": true,
+      "is_big": true,
+      "ref": "9d683c06518c0358fb402f38468a7030700c38ac",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 0,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-05T23:57:27Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled1/model-BMRLNAP%20Model%20v6%20%28September%2001%2C%202026%29-4/driving_bmrlnap_model_v6_september_01_2026_tinygrad.pkl",
+              "sha256": "6b821b27cb834c846dcaece28d8fc908557c974498b0ffefb544fff1a2e1d1eb"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }
