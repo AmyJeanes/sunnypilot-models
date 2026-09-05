@@ -1,4 +1,31 @@
 {
   "tinygrad_ref": "e837e367aac9e1a66e689f4f32ce20ca9367df13",
-  "bundles": []
+  "bundles": [
+    {
+      "short_name": "C210M",
+      "display_name": "CD210 Model (February 03, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "5b6436a90cf6902b8aaa71c2b6f3d7164d8ae391",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 0,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-05T23:14:41Z",
+      "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_cd210_model_february_03_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled1/model-CD210%20Model%20%28February%2003%2C%202026%29-1/driving_cd210_model_february_03_2026_tinygrad.pkl",
+              "sha256": "445ff4e65d2710fb3f259c11052de1294968ae6fb44b0597e3a387e3c8799287"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }
