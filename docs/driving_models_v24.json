@@ -1,0 +1,57 @@
+{
+  "tinygrad_ref": "e837e367aac9e1a66e689f4f32ce20ca9367df13",
+  "bundles": [
+    {
+      "short_name": "C210M",
+      "display_name": "CD210 Model (February 03, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "5b6436a90cf6902b8aaa71c2b6f3d7164d8ae391",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 0,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-05T23:44:19Z",
+      "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_cd210_model_february_03_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled1/model-CD210%20Model%20%28February%2003%2C%202026%29-3/driving_cd210_model_february_03_2026_tinygrad.pkl",
+              "sha256": "a2321643e868ff4cf9e3062e8d4b0b47f1422749c951028f19326d145c305a80"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "PMV2",
+      "display_name": "Pop Model v2 (March 24, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "62bf6fb072880905a4c490f0f4f4a6b3c23346ec",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 1,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-06T01:36:07Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "chunked",
+          "artifact": {
+            "file_name": "driving_pop_model_v2_march_24_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled1/model-Pop%20Model%20v2%20%28March%2024%2C%202026%29-5/driving_pop_model_v2_march_24_2026_tinygrad.pkl",
+              "sha256": "d4d038fbd20525ab2788b34268be48521a1a02d9a8b6ff60fd2aa296d1a706b9"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
