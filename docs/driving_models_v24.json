@@ -38,7 +38,7 @@
       "index": 1,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-06T01:36:07Z",
+      "build_time": "2026-09-06T12:15:05Z",
       "overrides": { "folder": "2026 World Models", "lat": ".1", "long": ".3" },
       "models": [
         {
@@ -46,8 +46,8 @@
           "artifact": {
             "file_name": "driving_pop_model_v2_march_24_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled1/model-Pop%20Model%20v2%20%28March%2024%2C%202026%29-5/driving_pop_model_v2_march_24_2026_tinygrad.pkl",
-              "sha256": "d4d038fbd20525ab2788b34268be48521a1a02d9a8b6ff60fd2aa296d1a706b9"
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled2/model-Pop%20Model%20v2%20%28March%2024%2C%202026%29-1/driving_pop_model_v2_march_24_2026_tinygrad.pkl",
+              "sha256": "b6f1d200646c653b335eca6b4045c7c87b6e441f0f6a59278267d4b1893279ca"
             }
           }
         }
