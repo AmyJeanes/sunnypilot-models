@@ -2,6 +2,1358 @@
   "tinygrad_ref": "e837e367aac9e1a66e689f4f32ce20ca9367df13",
   "bundles": [
     {
+      "short_name": "LAV2",
+      "display_name": "LAv2 (January 24, 2024)",
+      "is_20hz": false,
+      "is_big": false,
+      "ref": "f9d5fc7dd9b763356a1201d96c6953ed4562226e",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 0,
+      "minimum_selector_version": "20",
+      "generation": "4",
+      "build_time": "2026-09-01T06:52:40Z",
+      "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_lav2_january_24_2024_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-LAv2%20%28January%2024%2C%202024%29-117/driving_lav2_january_24_2024_tinygrad.pkl",
+              "sha256": "e58e6c5b123464418a23513b435c83e1e5c71f7a012509866ce2a96bce89953a"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "CHV2",
+      "display_name": "Certified Herbalist v2 (February 19, 2024)",
+      "is_20hz": false,
+      "is_big": false,
+      "ref": "a4d53d378d4331dc7780e5e60845ea1731c48341",
+      "environment": "release",
+      "runner": "tinygrad",
+      "index": 1,
+      "minimum_selector_version": "20",
+      "generation": "3",
+      "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_certified_herbalist_v2_february_19_2024_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Certified%20Herbalist%20v2%20%28February%2019%2C%202024%29-117/driving_certified_herbalist_v2_february_19_2024_tinygrad.pkl",
+              "sha256": "1828837916ded2efaea7f1b9575e28631b3364c2f1644720bae1dba82de4aaa8"
+            }
+          }
+        }
+      ],
+      "build_time": "2026-09-01T05:39:13Z"
+    },
+    {
+      "short_name": "RH",
+      "display_name": "Recertified Herbalist (March 01, 2024)",
+      "is_20hz": false,
+      "is_big": false,
+      "ref": "063623602c9a3cefe70d2c661b40ef7a15f73d43",
+      "environment": "release",
+      "runner": "tinygrad",
+      "index": 2,
+      "minimum_selector_version": "20",
+      "generation": "3",
+      "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_recertified_herbalist_march_01_2024_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Recertified%20Herbalist%20%28March%2001%2C%202024%29-117/driving_recertified_herbalist_march_01_2024_tinygrad.pkl",
+              "sha256": "31d1f5900213a08c577526131ea32b90394280728aed7a1a657488732b72d9fd"
+            }
+          }
+        }
+      ],
+      "build_time": "2026-09-01T07:22:34Z"
+    },
+    {
+      "short_name": "DA",
+      "display_name": "Duck Amigo (March 18, 2024)",
+      "is_20hz": false,
+      "is_big": false,
+      "ref": "5f3960a3a7689903a4da5e80b7e70cf0056acad3",
+      "environment": "release",
+      "runner": "tinygrad",
+      "index": 3,
+      "minimum_selector_version": "20",
+      "generation": "3",
+      "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_duck_amigo_march_18_2024_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Duck%20Amigo%20%28March%2018%2C%202024%29-117/driving_duck_amigo_march_18_2024_tinygrad.pkl",
+              "sha256": "60510deba2bb4095f4acd404638916927a5b6a0d50cfcd80674f4734e41dc0e1"
+            }
+          }
+        }
+      ],
+      "build_time": "2026-09-01T05:17:32Z"
+    },
+    {
+      "short_name": "WD40",
+      "display_name": "WD40 (April 09, 2024)",
+      "is_20hz": false,
+      "is_big": false,
+      "ref": "9691393bde34efb8be6fccef497d6d17758c209c",
+      "environment": "release",
+      "runner": "tinygrad",
+      "index": 4,
+      "minimum_selector_version": "20",
+      "generation": "4",
+      "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_wd40_april_09_2024_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-WD40%20%28April%2009%2C%202024%29-117/driving_wd40_april_09_2024_tinygrad.pkl",
+              "sha256": "33063e0c2f0acb55daf046987a5857e2b394873acc3abe6ed0ef2be34169240b"
+            }
+          }
+        }
+      ],
+      "build_time": "2026-09-01T05:33:13Z"
+    },
+    {
+      "short_name": "NDV2",
+      "display_name": "North Dakota v2 (April 29, 2024)",
+      "is_20hz": false,
+      "is_big": false,
+      "ref": "375978d40b976bf9e82ab74f267846a56b7656a6",
+      "environment": "release",
+      "runner": "tinygrad",
+      "index": 5,
+      "minimum_selector_version": "20",
+      "generation": "4",
+      "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_north_dakota_v2_april_29_2024_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-North%20Dakota%20v2%20%28April%2029%2C%202024%29-117/driving_north_dakota_v2_april_29_2024_tinygrad.pkl",
+              "sha256": "b7b33ee10073cd0e2b305697abdcf6453bebaf0dbb4afc7cfad0c82d41673656"
+            }
+          }
+        }
+      ],
+      "build_time": "2026-09-01T06:41:55Z"
+    },
+    {
+      "short_name": "ND",
+      "display_name": "Notre Dame (July 01, 2024)",
+      "is_20hz": false,
+      "is_big": false,
+      "ref": "e0c89a36da8e6a06ab85c4e74c44f70dd910e1fe",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 6,
+      "minimum_selector_version": "20",
+      "generation": "5",
+      "overrides": { "folder": "Legacy Models", "lat": ".0", "long": ".0" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_notre_dame_july_01_2024_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Notre%20Dame%20%28July%2001%2C%202024%29-117/driving_notre_dame_july_01_2024_tinygrad.pkl",
+              "sha256": "f09a3064d234bff83126a899f72589c6f683ea887b594a328afcef4af40f59f2"
+            }
+          }
+        }
+      ],
+      "build_time": "2026-09-01T06:57:20Z"
+    },
+    {
+      "short_name": "FOF",
+      "display_name": "Filet o Fish (March 07, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "d807b5c476658dba7760d30949baa619074c4a4e",
+      "environment": "release",
+      "runner": "tinygrad",
+      "index": 7,
+      "minimum_selector_version": "20",
+      "generation": "10",
+      "build_time": "2026-09-01T05:11:41Z",
+      "overrides": { "folder": "Release Models", "lat": ".0", "long": ".0" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_filet_o_fish_march_07_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Filet%20o%20Fish%20%28March%2007%2C%202025%29-117/driving_filet_o_fish_march_07_2025_tinygrad.pkl",
+              "sha256": "1fbe9bc83759d5e14303396e92e1fe976ca51e2aded991975393d753f8ef46ea"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "SPVM",
+      "display_name": "SP Vikander Model (May 03, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "d134fdd7d51ba84848866c0265e37508c38f9366",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 8,
+      "minimum_selector_version": "20",
+      "generation": "11",
+      "build_time": "2026-09-01T05:06:38Z",
+      "overrides": { "folder": "Custom Merge Models", "lat": ".2", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_sp_vikander_model_may_03_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-SP%20Vikander%20Model%20%28May%2003%2C%202025%29-117/driving_sp_vikander_model_may_03_2025_tinygrad.pkl",
+              "sha256": "0e10579b4607c8293f82c40cdcb618bd6da3bbfe50675bf6e6d6cb74fc7c3c51"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TR7",
+      "display_name": "Tomb Raider 7 (May 07, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "0fb4aafa35896e831bd58a636a9a1bb4a1442743",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 9,
+      "minimum_selector_version": "20",
+      "generation": "11",
+      "build_time": "2026-09-01T06:16:27Z",
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_tomb_raider_7_may_07_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Tomb%20Raider%207%20%28May%2007%2C%202025%29-117/driving_tomb_raider_7_may_07_2025_tinygrad.pkl",
+              "sha256": "c8e0530d7099c96eedb611a562d8dcc98abc474776142e5ecadf52300d16264d"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "SGO",
+      "display_name": "Secret Good Openpilot (May 16, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "80a636e4952633886c65973d3323e58ec87ed320",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 10,
+      "minimum_selector_version": "20",
+      "generation": "11",
+      "build_time": "2026-09-01T05:43:49Z",
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_secret_good_openpilot_may_16_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Secret%20Good%20Openpilot%20%28May%2016%2C%202025%29-117/driving_secret_good_openpilot_may_16_2025_tinygrad.pkl",
+              "sha256": "96136035025972a2de269545a1d5de937a126f531de1c837a743a2779836d948"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "KD",
+      "display_name": "Kerrygold Driving (June 08, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "dc7a92ea630e4f6053082fc25eca83938927b91e",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 11,
+      "minimum_selector_version": "20",
+      "generation": "10",
+      "build_time": "2026-09-01T06:31:33Z",
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_kerrygold_driving_june_08_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Kerrygold%20Driving%20%28June%2008%2C%202025%29-117/driving_kerrygold_driving_june_08_2025_tinygrad.pkl",
+              "sha256": "814e8bedc46de8ac45faf918aacf880862b6f22655e1c7fc2f98680e49301a47"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "LCD",
+      "display_name": "Liquid Crystal Driving (June 21, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "b55af0de7fecdb4af073c01b77b04b8306a4e92d",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 12,
+      "minimum_selector_version": "20",
+      "generation": "10",
+      "build_time": "2026-09-01T05:17:50Z",
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_liquid_crystal_driving_june_21_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Liquid%20Crystal%20Driving%20%28June%2021%2C%202025%29-117/driving_liquid_crystal_driving_june_21_2025_tinygrad.pkl",
+              "sha256": "9920560a4e797e2590f88c4766d0824d68f37da70c241798cfd091ac2b8fa0bd"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "VFOF",
+      "display_name": "Vegetarian Filet o Fish (June 21, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "c790d3f58ad32cf15f384e6018d942b2348f0c5b",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 13,
+      "minimum_selector_version": "20",
+      "generation": "10",
+      "build_time": "2026-09-01T06:42:51Z",
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".0", "long": ".0" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_vegetarian_filet_o_fish_june_21_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Vegetarian%20Filet%20o%20Fish%20%28June%2021%2C%202025%29-117/driving_vegetarian_filet_o_fish_june_21_2025_tinygrad.pkl",
+              "sha256": "d4234b64a0eb1405323b23705360f9cf6918f0f7f918a54c9430f22c85941ccd"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TR13",
+      "display_name": "Tomb Raider 13 (June 27, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "eceeaabcebcf58716ae4a018930793d89c96777b",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 14,
+      "minimum_selector_version": "20",
+      "generation": "11",
+      "build_time": "2026-09-01T06:21:06Z",
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_tomb_raider_13_june_27_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Tomb%20Raider%2013%20%28June%2027%2C%202025%29-117/driving_tomb_raider_13_june_27_2025_tinygrad.pkl",
+              "sha256": "abe68ea4029d700b8cb030ef0f8ab2cb46ab6cd6c1a4f1d37dca8cf390da0a61"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "ATR",
+      "display_name": "Aggressive TR (June 28, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "d54a5888cf6165b30e4bdda514ab9057473cd7f8",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 15,
+      "minimum_selector_version": "20",
+      "generation": "11",
+      "build_time": "2026-09-01T06:53:30Z",
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_aggressive_tr_june_28_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Aggressive%20TR%20%28June%2028%2C%202025%29-117/driving_aggressive_tr_june_28_2025_tinygrad.pkl",
+              "sha256": "be18f1afb7c32226aebd14b13a00c5194ba4955c326a92de244902a0ea65da1e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TR14",
+      "display_name": "Tomb Raider 14 (June 30, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "194cdbcebf2d47011d2edbf39a4ae492aa1aa338",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 16,
+      "minimum_selector_version": "20",
+      "generation": "11",
+      "build_time": "2026-09-01T05:01:22Z",
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_tomb_raider_14_june_30_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Tomb%20Raider%2014%20%28June%2030%2C%202025%29-117/driving_tomb_raider_14_june_30_2025_tinygrad.pkl",
+              "sha256": "9fc11efb8220de9811dc8b20769041e548a40fbe334b33a62cacdb42197dde2c"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "SPD",
+      "display_name": "Simple Plan Driving (July 07, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "f523f104eafc49dccb447aea4f7c3f666ef5626c",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 17,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:15:09Z",
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_simple_plan_driving_july_07_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Simple%20Plan%20Driving%20%28July%2007%2C%202025%29-117/driving_simple_plan_driving_july_07_2025_tinygrad.pkl",
+              "sha256": "cb41a623a21b18d55dfa77e5b4a48641ece1648ee58bad6e002eced75bb777ef"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "DTRV5",
+      "display_name": "Down to Ride v5 (July 08, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "5b405920ec9511e146432de08171d6f93295248b",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 18,
+      "minimum_selector_version": "20",
+      "generation": "11",
+      "build_time": "2026-09-01T04:56:03Z",
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_down_to_ride_v5_july_08_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Down%20to%20Ride%20v5%20%28July%2008%2C%202025%29-117/driving_down_to_ride_v5_july_08_2025_tinygrad.pkl",
+              "sha256": "8260a868c9b6b628957df8930a71f7d35e90d83382c4127aa48216eeed8850c6"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TR15",
+      "display_name": "Tomb Raider 15 (July 11, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "ed38ca8cc998f0a2b47cde29da11b782e4551e8b",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 19,
+      "minimum_selector_version": "20",
+      "generation": "11",
+      "build_time": "2026-09-01T06:16:00Z",
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_tomb_raider_15_july_11_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Tomb%20Raider%2015%20%28July%2011%2C%202025%29-117/driving_tomb_raider_15_july_11_2025_tinygrad.pkl",
+              "sha256": "8016210c267ba8532fa009c31338049085172aa6e18b9629943a36095cfa8aae"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "LTR14",
+      "display_name": "Le Tomb Raider 14 (July 14, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "c2fa07b82c2e09964e4b6dccb3e4465a2e4ad138",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 20,
+      "minimum_selector_version": "20",
+      "generation": "11",
+      "build_time": "2026-09-01T05:17:36Z",
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_le_tomb_raider_14_july_14_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Le%20Tomb%20Raider%2014%20%28July%2014%2C%202025%29-117/driving_le_tomb_raider_14_july_14_2025_tinygrad.pkl",
+              "sha256": "3308f1b215fdbab394c57cee08c8abb90775e6c2957cd9ad7ecb05dac425e0c1"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TR16",
+      "display_name": "Tomb Raider 16 (July 21, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "e4b6a2736580dc427473bcf8a6e3b08eb352edd4",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 21,
+      "minimum_selector_version": "20",
+      "generation": "11",
+      "build_time": "2026-09-01T05:38:30Z",
+      "overrides": { "folder": "2025 Pre World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_tomb_raider_16_july_21_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Tomb%20Raider%2016%20%28July%2021%2C%202025%29-117/driving_tomb_raider_16_july_21_2025_tinygrad.pkl",
+              "sha256": "4169a12bc0fd17b09fcdd9a1d95143997c93199548e4846847237f602fafed37"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "SL2",
+      "display_name": "Space Lab 2 (July 26, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "d3a0378ae601f61307a53d1173c251ee36c56317",
+      "environment": "release",
+      "runner": "tinygrad",
+      "index": 22,
+      "minimum_selector_version": "20",
+      "generation": "11",
+      "build_time": "2026-09-01T06:38:58Z",
+      "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_space_lab_2_july_26_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Space%20Lab%202%20%28July%2026%2C%202025%29-117/driving_space_lab_2_july_26_2025_tinygrad.pkl",
+              "sha256": "bf3f218e28124410571bc2492d28b55e3684a4ac1c51c70fb09f463c159a5fa5"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "SL3",
+      "display_name": "Space Lab 3 (August 08, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "659898d553eb68c981036811e1b92f6557d4e494",
+      "environment": "master",
+      "runner": "tinygrad",
+      "index": 23,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:11:03Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_space_lab_3_august_08_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Space%20Lab%203%20%28August%2008%2C%202025%29-117/driving_space_lab_3_august_08_2025_tinygrad.pkl",
+              "sha256": "1fadf8666dbf3790f47192013fc65d5d038019e707ea0bd1639a0eb1393991d8"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "DTRV6",
+      "display_name": "Down to Ride v6 (August 12, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "a6cf39c07a67dbc346af03010093fe4788c402d0",
+      "environment": "master",
+      "runner": "tinygrad",
+      "index": 24,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:44:55Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_down_to_ride_v6_august_12_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Down%20to%20Ride%20v6%20%28August%2012%2C%202025%29-117/driving_down_to_ride_v6_august_12_2025_tinygrad.pkl",
+              "sha256": "33273db4093b8451e763b99aee2f0e4046a4beb61b51777c819497c2c79452c5"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "UVDTRM",
+      "display_name": "UV + DTR Model (August 13, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "079d0461604632719e73dc5b6a5eb9897c624da2",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 25,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:51:38Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_uv_dtr_model_august_13_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-UV%20%2B%20DTR%20Model%20%28August%2013%2C%202025%29-117/driving_uv_dtr_model_august_13_2025_tinygrad.pkl",
+              "sha256": "4660458d876dfd29f5147303b446bc5cddf3dc0bbbe0b7a39c33750847e526b7"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "SPM",
+      "display_name": "Steam Powered Model (August 16, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "f1b8f510b2c554191ca15cebe35f2c5b304cf23c",
+      "environment": "master",
+      "runner": "tinygrad",
+      "index": 26,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:59:12Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_steam_powered_model_august_16_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Steam%20Powered%20Model%20%28August%2016%2C%202025%29-117/driving_steam_powered_model_august_16_2025_tinygrad.pkl",
+              "sha256": "4b858a0c8cd8e4ef193d195e5773ebb4ef91c399e288d934539c033709ba95fc"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "GMV3",
+      "display_name": "gWM Model v3 (August 22, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "93b26a91a62b69b809162ad2bf65e36be2158dc1",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 27,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:28:24Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_gwm_model_v3_august_22_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-gWM%20Model%20v3%20%28August%2022%2C%202025%29-117/driving_gwm_model_v3_august_22_2025_tinygrad.pkl",
+              "sha256": "132ae5b7525a4a68e912b92e064a2d0c03cd8dc6ecd0eba588cd51d0f1240efc"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "FM",
+      "display_name": "Firehose Model (August 31, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "b74f5189a74446015c0cf78a4a9f0134a347ae3b",
+      "environment": "master",
+      "runner": "tinygrad",
+      "index": 28,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:54:07Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_firehose_model_august_31_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Firehose%20Model%20%28August%2031%2C%202025%29-117/driving_firehose_model_august_31_2025_tinygrad.pkl",
+              "sha256": "5403b503a1b3f5207125b495691ddbd8e0e091bd3ebb96e23c813c366a1bfa28"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "FBW",
+      "display_name": "Fly By Wire (September 04, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "c4488e3411285f6fc3d008bca885e05731fd75c2",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 29,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:27:59Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_fly_by_wire_september_04_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Fly%20By%20Wire%20%28September%2004%2C%202025%29-117/driving_fly_by_wire_september_04_2025_tinygrad.pkl",
+              "sha256": "cbe90a7e5994dca39b0f224e5e2c8a06a78ba4822e17ddfd7778e7298d85aa3f"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "NM",
+      "display_name": "Nevada Model (September 07, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "3193eac5e385aa010694a8ac192ff38ffe000193",
+      "environment": "master",
+      "runner": "tinygrad",
+      "index": 30,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:44:24Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_nevada_model_september_07_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Nevada%20Model%20%28September%2007%2C%202025%29-117/driving_nevada_model_september_07_2025_tinygrad.pkl",
+              "sha256": "e6003939c6bb6ad2b650c96cd69e00f97e8eff4f12cc539bc85ff4bfafc4e29b"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "GWMV5",
+      "display_name": "gWM v5 (September 09, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "e3ee440f7d5ac12c50db6381e292a55a69b745a7",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 31,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:45:32Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_gwm_v5_september_09_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-gWM%20v5%20%28September%2009%2C%202025%29-117/driving_gwm_v5_september_09_2025_tinygrad.pkl",
+              "sha256": "01f46a9acb2cb351fc1c6aa1a17aabfa8b4d59495ab99b2b052ee5f03a8f2c46"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "GWMV6",
+      "display_name": "gWM v6 (September 20, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "91a1cea814f76d605d5b15de9634a3c8f79df509",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 32,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:03:22Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_gwm_v6_september_20_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-gWM%20v6%20%28September%2020%2C%202025%29-117/driving_gwm_v6_september_20_2025_tinygrad.pkl",
+              "sha256": "e8f7bf8876cbaae624ca5ccc251028229810d98f7863476de5e9b34490c2515d"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "GWMV8",
+      "display_name": "gWM v8 (September 28, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "96e7b310b164b55fb73abdd505b66fb36630718e",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 33,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:36:38Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_gwm_v8_september_28_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-gWM%20v8%20%28September%2028%2C%202025%29-117/driving_gwm_v8_september_28_2025_tinygrad.pkl",
+              "sha256": "a72a68c42bac49422c02f583ad10fe4b4d441cb8dabdd419ba51175c97c2ebab"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TCPM",
+      "display_name": "The Cool Peoples Model (October 03, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "5306f07d05a4f84a632ce908ec5ce34993e73693",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 34,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:22:53Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_the_cool_peoples_model_october_03_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-The%20Cool%20Peoples%20Model%20%28October%2003%2C%202025%29-117/driving_the_cool_peoples_model_october_03_2025_tinygrad.pkl",
+              "sha256": "bd298ae52547f7788ba2923dd4c36266a76913eadd0c029913e2f87766736e8e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "NNM",
+      "display_name": "North Nevada Model (October 07, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "74d156ee827863aa02567228a4a48931e604a41c",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 35,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:00:20Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_north_nevada_model_october_07_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-North%20Nevada%20Model%20%28October%2007%2C%202025%29-117/driving_north_nevada_model_october_07_2025_tinygrad.pkl",
+              "sha256": "fb8e887201a4c753592a16b0d325a781780142eafba1bbf6f78ef37dda297a75"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "NNMV2",
+      "display_name": "North Nevada Model V2 (October 08, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "83b81b83cdf76a577946a1567f4644e1a018443c",
+      "environment": "release",
+      "runner": "tinygrad",
+      "index": 36,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:23:43Z",
+      "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_north_nevada_model_v2_october_08_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-North%20Nevada%20Model%20V2%20%28October%2008%2C%202025%29-117/driving_north_nevada_model_v2_october_08_2025_tinygrad.pkl",
+              "sha256": "84405d004ec385b77f5271ebdc5142ce11b576c625fea6fe85111b614c2d3504"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "NID",
+      "display_name": "Nuggets in Digon (October 09, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "13e79e9fad60c19e751e4f9ab0538d39f1bb54dd",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 37,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:05:31Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_nuggets_in_digon_october_09_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Nuggets%20in%20Digon%20%28October%2009%2C%202025%29-117/driving_nuggets_in_digon_october_09_2025_tinygrad.pkl",
+              "sha256": "b1133a3be7c6e9fc1128354cb520813eae445fe189eeff9c80857fdc87d7e255"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TCPMV2",
+      "display_name": "The Cool Peoples Model v2 (October 09, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "19084132cd3956413a0fdfcdc18971a55df5e0ff",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 38,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:39:33Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_the_cool_peoples_model_v2_october_09_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-The%20Cool%20Peoples%20Model%20v2%20%28October%2009%2C%202025%29-117/driving_the_cool_peoples_model_v2_october_09_2025_tinygrad.pkl",
+              "sha256": "b701110e974931495f280568d937470e860a64222a5a51174040bd04c340ebc9"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TCPMV3",
+      "display_name": "The Cool Peoples Model v3 (October 10, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "5eb912c025a2207c7d428deee74ded49e5905527",
+      "environment": "release",
+      "runner": "tinygrad",
+      "index": 39,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:21:11Z",
+      "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_the_cool_peoples_model_v3_october_10_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-The%20Cool%20Peoples%20Model%20v3%20%28October%2010%2C%202025%29-117/driving_the_cool_peoples_model_v3_october_10_2025_tinygrad.pkl",
+              "sha256": "9a3429e926278371fb02f917f2d86312fd881b71d831002a5c63ed6016a75192"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "GWMV9",
+      "display_name": "GWM V9 (October 21, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "f2413040a8560c0c17c18353a3c75124a2f09d17",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 40,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:49:01Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_gwm_v9_october_21_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-GWM%20V9%20%28October%2021%2C%202025%29-117/driving_gwm_v9_october_21_2025_tinygrad.pkl",
+              "sha256": "7b70002fd4df4231f54f7f3fed10ca8026c70876dfced0f47511b6601c87143d"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "CGWM",
+      "display_name": "Cool GWM  (October 24, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "94dd3bd9107cd413ed2418f9e6c0cf805a9ca495",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 41,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:03:36Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_cool_gwm_october_24_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Cool%20GWM%20%20%28October%2024%2C%202025%29-117/driving_cool_gwm_october_24_2025_tinygrad.pkl",
+              "sha256": "9b0c25e8bfc1bb8e70473cb9dc3be94322c83cc0dad884e003b173dfb132a945"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "NDM",
+      "display_name": "Neurips Driving Model (November 12, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "266b642180f0e9278e1db46ccf8c1a2a8dae4bb3",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 42,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:27:02Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_neurips_driving_model_november_12_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Neurips%20Driving%20Model%20%28November%2012%2C%202025%29-117/driving_neurips_driving_model_november_12_2025_tinygrad.pkl",
+              "sha256": "a761d0631719bc64b4f8ee88431ec7db1e14db0dda9b85369070bf90589a73db"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "NDMV2",
+      "display_name": "Neurips Driving Model v2 (November 12, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "c00ebef3269415d80800d10d255479e4006bf152",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 43,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:33:40Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_neurips_driving_model_v2_november_12_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Neurips%20Driving%20Model%20v2%20%28November%2012%2C%202025%29-117/driving_neurips_driving_model_v2_november_12_2025_tinygrad.pkl",
+              "sha256": "27cec99fa2952df8c42732765ec2e1cd8f1bb5359468cf6de6863100a5491b3e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "PM",
+      "display_name": "Planplus Model (November 28, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "671ac1084cedc82bca49f82bdd8c27f4d2506190",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 44,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:51:00Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_planplus_model_november_28_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Planplus%20Model%20%28November%2028%2C%202025%29-117/driving_planplus_model_november_28_2025_tinygrad.pkl",
+              "sha256": "77510d08393221a933263027eae5979edcda9cc2308e3d862d5eef75a58aad81"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "DSM",
+      "display_name": "Dark Souls Model (December 03, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "ba783b9f913de089816598aa367a30499727a0ce",
+      "environment": "master",
+      "runner": "tinygrad",
+      "index": 45,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:57:48Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_dark_souls_model_december_03_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Dark%20Souls%20Model%20%28December%2003%2C%202025%29-117/driving_dark_souls_model_december_03_2025_tinygrad.pkl",
+              "sha256": "9a98f948f159de9564cc8fff79081556cbd262b538ed8ed40540467ae7dd57bb"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "PLANPLUS",
+      "display_name": "Planplus v2 (December 11, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "50c78a9dd670a305ca898b96245cadbc2ecdc1a6",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 46,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:27:27Z",
+      "overrides": { "folder": "2025 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_planplus_v2_december_11_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Planplus%20v2%20%28December%2011%2C%202025%29-117/driving_planplus_v2_december_11_2025_tinygrad.pkl",
+              "sha256": "5b42d8cf6da07a19a29f97997e073a4e60f5768fbcee79a3e3aea4e9a06d07a7"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "DSMV2",
+      "display_name": "Dark Souls Model v2 (December 11, 2025)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "5ff0e48f90d662d8c9d5061adc63e90c198c9b81",
+      "environment": "master",
+      "runner": "tinygrad",
+      "index": 47,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:26:25Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_dark_souls_model_v2_december_11_2025_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Dark%20Souls%20Model%20v2%20%28December%2011%2C%202025%29-117/driving_dark_souls_model_v2_december_11_2025_tinygrad.pkl",
+              "sha256": "d646eaf366f98e55c72f8066e2e44b295dc8fc2af646a36994ffa825e658aaf6"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "MACROSTI",
+      "display_name": "Macrostiff (January 01, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "d70b13931793bc0e4d8efd36128dd66f227a3f81",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 48,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:05:12Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_macrostiff_january_01_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Macrostiff%20%28January%2001%2C%202026%29-117/driving_macrostiff_january_01_2026_tinygrad.pkl",
+              "sha256": "3c7b961e2eebe295c8ae7e01a19df69190e109602564d2b9fc4b792a1866404c"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "WMIV9",
+      "display_name": "WMI V9 (January 07, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "8950897d7e4d2ba2426b2b31cf29f25e87a3d4ba",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 49,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:21:43Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_wmi_v9_january_07_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-WMI%20V9%20%28January%2007%2C%202026%29-117/driving_wmi_v9_january_07_2026_tinygrad.pkl",
+              "sha256": "8626d74aa243a60c32b01d7870e9057046ea9c2af12f022b73a50c7baa3263b4"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "SCM",
+      "display_name": "SC Model (January 08, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "e4a4b4b1adf2d19fedab4d195faa382b061fa754",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 50,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:55:09Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_sc_model_january_08_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-SC%20Model%20%28January%2008%2C%202026%29-117/driving_sc_model_january_08_2026_tinygrad.pkl",
+              "sha256": "b67f3c69a82346a8bbc8018a14fe0924fe0da926f99edc8c4c4472f7a07de77c"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "WMIV12",
+      "display_name": "WMI V12 (January 13, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "7e3fd7a63c5a09c3fabe108b1b62bba3cf684878",
+      "environment": "master",
+      "runner": "tinygrad",
+      "index": 51,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:48:08Z",
+      "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_wmi_v12_january_13_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-WMI%20V12%20%28January%2013%2C%202026%29-117/driving_wmi_v12_january_13_2026_tinygrad.pkl",
+              "sha256": "64fbc3fe5457e66c92b458f26f424db32fce6c44acdcd4ba35a7b3d2e9a0012f"
+            }
+          }
+        }
+      ]
+    },
+    {
       "short_name": "C210M",
       "display_name": "CD210 Model (February 03, 2026)",
       "is_20hz": true,
@@ -9,19 +1361,175 @@
       "ref": "5b6436a90cf6902b8aaa71c2b6f3d7164d8ae391",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 0,
+      "index": 52,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-05T23:44:19Z",
-      "overrides": { "folder": "Release Models", "lat": ".1", "long": ".3" },
+      "build_time": "2026-09-01T06:47:13Z",
+      "overrides": { "folder": "Release Models", "lat": ".0", "long": ".3" },
       "models": [
         {
-          "type": "chunked",
+          "type": "driving",
           "artifact": {
             "file_name": "driving_cd210_model_february_03_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled1/model-CD210%20Model%20%28February%2003%2C%202026%29-3/driving_cd210_model_february_03_2026_tinygrad.pkl",
-              "sha256": "a2321643e868ff4cf9e3062e8d4b0b47f1422749c951028f19326d145c305a80"
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-CD210%20Model%20%28February%2003%2C%202026%29-117/driving_cd210_model_february_03_2026_tinygrad.pkl",
+              "sha256": "da573631cea88f6b6b6bea29c650734ea1ae7f6c2bc760a330d54165c5e1b4c1"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "OPM",
+      "display_name": "off policy model (February 04, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "d90758cfaecb2cf13d9098c6aade37e68d6034d2",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 53,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:33:05Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_off_policy_model_february_04_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-off%20policy%20model%20%28February%2004%2C%202026%29-117/driving_off_policy_model_february_04_2026_tinygrad.pkl",
+              "sha256": "f7dc362df053c02540934c6b3f807ba6559ade5daa3b9a1f398f3c4f65f1b201"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "OMV2",
+      "display_name": "Off-policy Model v2 (February 20, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "ae34a24c59d85df7efad5fde2b760fb6d0b9dd6e",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 54,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:23:12Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_off_policy_model_v2_february_20_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Off-policy%20Model%20v2%20%28February%2020%2C%202026%29-117/driving_off_policy_model_v2_february_20_2026_tinygrad.pkl",
+              "sha256": "6d1a058cca886b70b583585da2a3b692ab3442d3e0f09b28a37df218a7afc684"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "OPMV3",
+      "display_name": "Off Policy Model v3 (February 26, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "7e548dd765873bed301c0a19cfe10c3ca6be2bbe",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 55,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:37:45Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_off_policy_model_v3_february_26_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Off%20Policy%20Model%20v3%20%28February%2026%2C%202026%29-117/driving_off_policy_model_v3_february_26_2026_tinygrad.pkl",
+              "sha256": "d2939061ba5e62084837a96ca0eefce1102cac97cc4f8db4f9aca8874dec3088"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "OMV4",
+      "display_name": "Off-Policy Model V4 (February 27, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "25abcc49fce2f6268d8cabf759e31c626edbf584",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 56,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:10:43Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_off_policy_model_v4_february_27_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Off-Policy%20Model%20V4%20%28February%2027%2C%202026%29-117/driving_off_policy_model_v4_february_27_2026_tinygrad.pkl",
+              "sha256": "23100382bf0ab5aadf52470c20fb8830351e2529cb8ee68621c19c2c97df1065"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "OMV5",
+      "display_name": "Off-Policy Model v5 (March 14, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "b390b98c5a359c293fdc2501af79b19867fcdac4",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 57,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:09:22Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_off_policy_model_v5_march_14_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Off-Policy%20Model%20v5%20%28March%2014%2C%202026%29-117/driving_off_policy_model_v5_march_14_2026_tinygrad.pkl",
+              "sha256": "bfa7121587738209c828587e67ab6b2af7cbcccdfdd9d53fb9f4adf512d51a0f"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "PM",
+      "display_name": "Pop Model (March 20, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "6f71783a8a8faa07ddaeef5bbb6809b4f4f44a15",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 58,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:49:49Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_pop_model_march_20_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Pop%20Model%20%28March%2020%2C%202026%29-117/driving_pop_model_march_20_2026_tinygrad.pkl",
+              "sha256": "e50c0c15174f537b531cae5cd6e748c34bcc8f2d83d67b7a17b21eef241e027a"
             }
           }
         }
@@ -35,19 +1543,461 @@
       "ref": "62bf6fb072880905a4c490f0f4f4a6b3c23346ec",
       "environment": "development",
       "runner": "tinygrad",
-      "index": 1,
+      "index": 59,
       "minimum_selector_version": "20",
       "generation": "12",
-      "build_time": "2026-09-06T01:36:07Z",
-      "overrides": { "folder": "2026 World Models", "lat": ".1", "long": ".3" },
+      "build_time": "2026-09-01T06:32:16Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
       "models": [
         {
-          "type": "chunked",
+          "type": "driving",
           "artifact": {
             "file_name": "driving_pop_model_v2_march_24_2026_tinygrad.pkl",
             "download_uri": {
-              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled1/model-Pop%20Model%20v2%20%28March%2024%2C%202026%29-5/driving_pop_model_v2_march_24_2026_tinygrad.pkl",
-              "sha256": "d4d038fbd20525ab2788b34268be48521a1a02d9a8b6ff60fd2aa296d1a706b9"
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Pop%20Model%20v2%20%28March%2024%2C%202026%29-117/driving_pop_model_v2_march_24_2026_tinygrad.pkl",
+              "sha256": "6dcaddf515ec60b860d20cab5b0892cb855082e5db56e7992d27833aa485227b"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "OPM",
+      "display_name": "OP Model (April 01, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "cb327933002bc1a00bf60a3c20af2eb7a5f653e5",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 60,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T05:57:38Z",
+      "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_op_model_april_01_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-OP%20Model%20%28April%2001%2C%202026%29-117/driving_op_model_april_01_2026_tinygrad.pkl",
+              "sha256": "504242f4b8732fae2a518387341f1e559cc6b98418bbe723144dec7644a239b3"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "OPM7",
+      "display_name": "OP Model 7 (April 03, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "052692b25d63c5ddda276b5c2271383b6aff129f",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 61,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:03:02Z",
+      "overrides": { "folder": "Master Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_op_model_7_april_03_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-OP%20Model%207%20%28April%2003%2C%202026%29-117/driving_op_model_7_april_03_2026_tinygrad.pkl",
+              "sha256": "d0bce43f10462327e446f2ccd712ababbfcae4734614e8f3587b956ebebc1670"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "OPM8",
+      "display_name": "OP Model 8 (April 07, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "eae2a73e0ac600d7f0342fc4397568e0733fe6e2",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 62,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:27:01Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_op_model_8_april_07_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-OP%20Model%208%20%28April%2007%2C%202026%29-117/driving_op_model_8_april_07_2026_tinygrad.pkl",
+              "sha256": "edddd93212acc36bc897b8a1b045806455ba0868618d288492541d9255147579"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "OPMV10",
+      "display_name": "OP Model v10 (April 17, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "2671624103b9a37c53680dd9110d9a957f61d043",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 63,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T06:58:49Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_op_model_v10_april_17_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-OP%20Model%20v10%20%28April%2017%2C%202026%29-117/driving_op_model_v10_april_17_2026_tinygrad.pkl",
+              "sha256": "febb4eb4450ca7eefdeb1b225eb1c3f4a457b148fb16003c951dbe2adf554942"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "OPM10V2",
+      "display_name": "OP Model 10 v2 (April 18, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "bbde5ddb5a0ee35c98a962029355f9a95403a825",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 64,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:14:40Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_op_model_10_v2_april_18_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-OP%20Model%2010%20v2%20%28April%2018%2C%202026%29-117/driving_op_model_10_v2_april_18_2026_tinygrad.pkl",
+              "sha256": "58c7b52b3fe5949feef00356330c406f801d2b2d551cf0f856999697d00c7485"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "OPM10V3",
+      "display_name": "OP Model 10 V3 (April 19, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "7d4c295c27bc3f72727c49ec73b98e45745b588d",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 65,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:16:26Z",
+      "overrides": { "folder": "2026 World Models", "lat": ".0", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_op_model_10_v3_april_19_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-OP%20Model%2010%20V3%20%28April%2019%2C%202026%29-117/driving_op_model_10_v3_april_19_2026_tinygrad.pkl",
+              "sha256": "c0921cf716078f04759d2e3c138ff0982a3441a1fc8bd4b3382410e5588a88c0"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "OPM16D",
+      "display_name": "OP Model 16 Deep (June 03, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "f02d134f40f5e7be22b182af21b438915a47600e",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 66,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:29:04Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-OP%20Model%2016%20Deep%20%28June%2003%2C%202026%29-117/driving_op_model_16_deep_june_03_2026_tinygrad.pkl",
+              "sha256": "92e736e4f52ef0b25c4ae62e651261c3dde98a5050122699004236845256b6b9"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "MRLV2",
+      "display_name": "Michael RL V2 (July 18, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "37b38bf738edfb1daa6875255f581e5fc9b0a258",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 67,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:10:16Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Michael%20RL%20V2%20%28July%2018%2C%202026%29-117/driving_michael_rl_v2_july_18_2026_tinygrad.pkl",
+              "sha256": "5bf4733d0e9d61972ddd0f026d7a878ca8fb55306c60ad70589b9ef8423c4bfc"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "RLM",
+      "display_name": "Rebel Legion Model (July 22, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "2895346746634d7eec0ee749f946c87039948a25",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 68,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:24:24Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Rebel%20Legion%20Model%20%28July%2022%2C%202026%29-117/driving_rebel_legion_model_july_22_2026_tinygrad.pkl",
+              "sha256": "c57a78b16ab9c0c2706f2c0ee5a7da7c72165db956febabbbe93d5c05b5d4dbf"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "GYHUM",
+      "display_name": "Get Your Hopes Up Model (July 25, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "574735edc6e1aafdc2a69395f9a32e7f5cc4b62b",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 69,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:26:55Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Get%20Your%20Hopes%20Up%20Model%20%28July%2025%2C%202026%29-117/driving_get_your_hopes_up_model_july_25_2026_tinygrad.pkl",
+              "sha256": "9aa82d264ac8365efa601956e2379978663f9bc02e11e934aba496ac7f7c04ba"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "RHM",
+      "display_name": "Rebellious Hope Model (July 27, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "93f5aa469a72b7621aef7da7901c100e0113e4d9",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 70,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:20:43Z",
+      "overrides": { "folder": "Master Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Rebellious%20Hope%20Model%20%28July%2027%2C%202026%29-117/driving_rebellious_hope_model_july_27_2026_tinygrad.pkl",
+              "sha256": "3c35ba170218b1d7a33cce00bb840cde5638bc08966947a8ef95713192eb0ebc"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "RDFM",
+      "display_name": "RDF Model (August 05, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "a95e2c25cae5fbf1afba7628bfb7acc4af59e0cc",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 71,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:18:06Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_rdf_model_august_05_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-RDF%20Model%20%28August%2005%2C%202026%29-117/driving_rdf_model_august_05_2026_tinygrad.pkl",
+              "sha256": "9e7d5368ed92cd554df4a66cb23d840feabd05905ac3d434e968e91a7ce086bd"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "RDFMV2",
+      "display_name": "RDF Model V2 (August 11, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "35703097905a122c9f3ddf0d12889b4873d7e2a2",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 72,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:09:20Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-RDF%20Model%20V2%20%28August%2011%2C%202026%29-117/driving_rdf_model_v2_august_11_2026_tinygrad.pkl",
+              "sha256": "52fcf48bfb991f327a8982037eb0855d9a63437d78e9f4828d2be54df0f32567"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TSFM",
+      "display_name": "Terrible Super Fantastic Model (August 12, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "4d911346cde4e0d2978a625f31679808284cc19d",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 73,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:11:45Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Terrible%20Super%20Fantastic%20Model%20%28August%2012%2C%202026%29-117/driving_terrible_super_fantastic_model_august_12_2026_tinygrad.pkl",
+              "sha256": "bc0cebcda2adb6393eb9548cccf1e64c0554782ed0a048b80a3ffd0160d33977"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "KV",
+      "display_name": "Kumars Vibe (August 14, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "a992d64eb604af3effb5b6ce948da52507ae9de9",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 74,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:32:17Z",
+      "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_kumars_vibe_august_14_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Kumars%20Vibe%20%28August%2014%2C%202026%29-117/driving_kumars_vibe_august_14_2026_tinygrad.pkl",
+              "sha256": "8b4f8e1368e71371c2e6f096394b028d205a2d959923395c7d40a5a910ed0a0e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "FP",
+      "display_name": "Falling Phoenix (August 14, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "eff0854aad2a8908a6522382c78af96ce3810668",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 75,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:29:50Z",
+      "overrides": { "folder": "Custom Merge Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_falling_phoenix_august_14_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Falling%20Phoenix%20%28August%2014%2C%202026%29-117/driving_falling_phoenix_august_14_2026_tinygrad.pkl",
+              "sha256": "29c73c8ec35c27bd54d8ba63cb0f05a16b8be9d660bd9bbc247435d8d85cea63"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "short_name": "TSFDOM",
+      "display_name": "Terrible Super Fantastic Do Over Model (August 15, 2026)",
+      "is_20hz": true,
+      "is_big": false,
+      "ref": "0394d7284cfc229f772ee4fa73ff724ba8245110",
+      "environment": "development",
+      "runner": "tinygrad",
+      "index": 76,
+      "minimum_selector_version": "20",
+      "generation": "12",
+      "build_time": "2026-09-01T07:05:13Z",
+      "overrides": { "folder": "2026 Deep RL Models", "lat": ".1", "long": ".3" },
+      "models": [
+        {
+          "type": "driving",
+          "artifact": {
+            "file_name": "driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
+            "download_uri": {
+              "url": "https://huggingface.co/datasets/AmyJeanes/sunnypilot_models_v1/resolve/main/models/recompiled23/model-Terrible%20Super%20Fantastic%20Do%20Over%20Model%20%28August%2015%2C%202026%29-117/driving_terrible_super_fantastic_do_over_model_august_15_2026_tinygrad.pkl",
+              "sha256": "4051e6b3c42fbfd4fc1bb05a5be80b8d16d4c43121f46c85fa6f92e3af1c6843"
             }
           }
         }
